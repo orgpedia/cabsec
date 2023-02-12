@@ -2,25 +2,25 @@
 
 Posting data of Ministers of India. The data is obtained by processing posting orders from [Cabinet Secretariat's website](https://cabsec.gov.in/).
 
-To get a quick peek check out the [tenures-sample.csv](export/data/tenures-sample.csv) it contains a snapshot of the tenure information of Cabinet Secretariat officers.
+To get a quick peek check out the [tenures-sample.csv](flow/buildTenure_/output/tenures-sample.csv) it contains a snapshot of the tenure information of Cabinet Secretariat officers.
 
 The tenures information is built by processing orders found on the Cabinet Secretariat's webpage ([import/documents](import/documents)). The orders are processed to build higher level concepts of Tenure and an Org chart. To undersand the processing logic please check out the [Data Processing](#Data_Processiong) section.
 
 ## Accessing the data
 
-All the data is available in the [export/data](export/data) folder and it contains the following files
+All the data is available in the [flow/buildTenure_/output](flow/buildTenure_/output) folder and it contains the following files
 
-1. [tenures.json](export/data/tenures.json), [tenures.csv](export/data/tenures.csv): Tenure information in json and csv format
+1. [tenures.json](flow/buildTenure_/output/tenures.json), [tenures.csv](flow/buildTenure_/output/tenures.csv): Tenure information in json and csv format
 
-2. [orders.json](export/data/orders.json): Order information in json format.
+2. [orders.json](flow/buildTenure_/output/orders.json): Order information in json format.
 
-3. [officer_infos.json](export/data/officer_infos.json): Officer ID to name mapping and additional information if available.
+3. [officer_infos.json](flow/buildTenure_/output/officer_infos.json): Officer ID to name mapping and additional information if available.
 
-4. [post_infos.json](export/data/officer_infos.json): Contains hierarchis of different components making up the post `dept`, `role`, `juri`, `loca` and `stat`, which map to Department, Rank, Jurisdiction, Location and Status.
+4. [post_infos.json](flow/buildTenure_/output/officer_infos.json): Contains hierarchis of different components making up the post `dept`, `role`, `juri`, `loca` and `stat`, which map to Department, Rank, Jurisdiction, Location and Status.
 
-5. [orders/*.order.json](export/data/orders/*.order.json): Individual orders in json format.
+5. [orders/*.order.json](flow/buildTenure_/output/orders/*.order.json): Individual orders in json format.
 
-6. [schema/*.schema.json](export/data/schema/*.schema.json): Schema information for all these json files can be found in the [data/schema](export/data/schema) directory. check out the [README.md](export/data/schema) for an introduction.
+6. [schema/*.schema.json](flow/buildTenure_/output/schema/*.schema.json): Schema information for all these json files can be found in the [data/schema](flow/buildTenure_/output/schema) directory. check out the [README.md](flow/buildTenure_/output/schema) for an introduction.
 
 You can also Install the orgpedia_cabsec package, the package contains all the data created by this repository.
 
@@ -54,7 +54,7 @@ This is a data package repository - it contains documents, configuration and cod
 
 The data processing is broken down in series of Tasks, where each task processes the data created in the upstream task (links in the `input` folder) and generages new data stored in the `output` folder. The directory layout of this repository follows the ideas mentioned in this video: [Principled Data Processing by Patrick Ball](https://www.youtube.com/watch?v=ZSunU9GQdcI). There are 3 main top-level directories `import`, `flow` and `export`. A *simple* `makefile`  orchestrates the document flow across these folders, run `make help` to find out more about the commands.
 
-You can check out the template repository [template.datapackage](https://github.com/orgpedia/template.datapackage) where each directory and sub-directory is explained. To understand how the data (`/export/data`) is generated from documents (`/import/documents/`) explore the [flow](flow) directory.
+You can check out the template repository [template.datapackage](https://github.com/orgpedia/template.datapackage) where each directory and sub-directory is explained. To understand how the data (`/flow/buildTenure_/output`) is generated from documents (`/import/documents/`) explore the [flow](flow) directory.
 
 ## Deverloper Notes
 
