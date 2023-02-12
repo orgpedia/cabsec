@@ -1,0 +1,5 @@
+min_marker: 1
+edits:
+  - newWord ii pa0.wo44 pa0.wo90
+  - replaceStr pa0.wo53 <all> of
+  - clearWords pa0.wo88

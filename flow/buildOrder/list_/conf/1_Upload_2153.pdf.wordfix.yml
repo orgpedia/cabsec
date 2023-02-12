@@ -1,0 +1,11 @@
+edits:
+  - replaceStr pa0.wo50 <all> Deputy
+  - clearWord pa0.wo271
+  - clearWord pa1.wo80
+  - replaceStr pa0.wo291 <all> 'Shri K.'
+  - replaceStr pa1.wo92 <all> Bhanu
+
+  - clearWord pa1.wo100
+  - replaceStr pa1.wo7 <all> 'be cabinet'
+  - replaceStr pa0.wo240 <all> cabinet
+  - clearWords pa0.wo54 pa0.wo55

@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo102 <all> iii
+  - newWord i pa0.wo102 pa0.wo41
+  - newWord ii pa0.wo102 pa0.wo89
+  - clearWord pa0.wo77

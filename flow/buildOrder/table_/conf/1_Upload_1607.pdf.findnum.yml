@@ -1,0 +1,17 @@
+edits:
+  - newWord '           ' pa2.wo75 pa2.wo64
+  - newWord '               ' pa2.wo75 pa2.wo69
+  - newWord '           ' pa2.wo84 pa2.wo76
+
+
+  - newWord '           ' pa2.wo95 pa2.wo86
+  - newWord '           ' pa2.wo96 pa2.wo86
+
+  - newWord '           ' pa2.wo95 pa2.wo90
+  - newWord '           ' pa2.wo96 pa2.wo90
+
+  - clearWords pa2.wo159
+
+  - mergeWords pa2.wo103 pa2.wo104
+
+  - mergeWords pa2.wo125 pa2.wo126

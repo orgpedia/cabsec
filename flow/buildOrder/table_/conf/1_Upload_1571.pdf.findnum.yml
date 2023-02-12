@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa2.wo173 <all> of
+  - replaceStr pa3.wo110 <all> of
+  - clearWords pa2.wo172 pa2.wo174 pa2.wo175 pa2.wo176 pa2.wo177 pa3.wo111

@@ -1,0 +1,16 @@
+# 	MISMATCH P: 3 A: 10 E: 30 W: 261 F: 12 R:False
+
+edits:
+  - newWord 17 pa0.wo202 pa0.wo210
+  - newWord 5  pa1.wo169 pa1.wo223
+  - newWord 11 pa2.wo215 pa2.wo229
+
+  - replaceStr pa3.wo261 <all> 30
+
+  - replaceStr pa0.wo214 <all> Minister
+  - replaceStr pa0.wo216 <all> Communications
+
+  - replaceStr pa1.wo215 <all> Minister
+  - replaceStr pa1.wo228 <all> of
+  - replaceStr pa2.wo221 <all> Ministry
+  - replaceStr pa3.wo224 <all> of

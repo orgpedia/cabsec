@@ -1,0 +1,9 @@
+# 	MISMATCH P: 1 A: 5 E: 4 W: 105 F: 1 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 99 F: 1 R:False
+
+edits:
+  - replaceStr pa1.wo94 <all> 4
+  - newWord 5 pa2.wo99 pa2.wo80
+  - replaceStr pa1.wo65 <all> Minister
+
+  - replaceStr pa0.wo19 <all> '1987'

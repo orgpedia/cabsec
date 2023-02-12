@@ -1,0 +1,24 @@
+edits:
+  - replaceStr pa0.wo88 <all> Muslim
+  - replaceStr pa0.wo89 <all> Wakfs
+  - replaceStr pa0.wo122 <all> Saleem
+
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [33, 34, 35, 36]
+
+      assumes:
+        - idxs: [ 88, 89, 90]
+
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [ 119, 120, 121, 122]
+
+
+      assumes:
+        - idxs: [ 131, 132, 88, 89, 90]

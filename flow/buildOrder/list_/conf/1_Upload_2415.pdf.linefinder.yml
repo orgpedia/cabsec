@@ -1,0 +1,4 @@
+newline_height_multiple: 0.9
+scopes:
+  - paths: [ pa0, pa1 ]
+    rotation_strategy: num_markers

@@ -1,0 +1,5 @@
+# 	MISMATCH P: 0 A: 9 E: 8 W: 263 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo249 <all> viii
+  - replaceStr pa0.wo250 <all> 'shri rajnath'

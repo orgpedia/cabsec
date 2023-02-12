@@ -1,0 +1,4 @@
+edits:
+  - clearWord pa2.wo17
+  - mergeWords pa5.wo110 pa5.wo111
+  - replaceStr pa5.wo110 <all> Minister

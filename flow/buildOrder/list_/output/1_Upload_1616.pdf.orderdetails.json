@@ -1,0 +1,9 @@
+{"date": "1996-07-06", "details": [
+{"detail_idx": 0, "officer_id": "Q377870", "continues": [], "relinquishes": [["Ministry of Food Processing Industries", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q7273797", "continues": [], "relinquishes": [], "assumes": [["Ministry of Textiles", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q5276809", "continues": [], "relinquishes": [["", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Food Processing Industries", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 3, "officer_id": "Q3634905", "continues": [], "relinquishes": [], "assumes": [["Ministry of Fisheries, Animal Husbandary and Dairying", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q7426439", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q6951817", "continues": [], "relinquishes": [], "assumes": [["Ministry of Defence", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q3534034", "continues": [], "relinquishes": [], "assumes": [["Ministry of Petroleum and Natural Gas", "Minister of State"]]}
+]}

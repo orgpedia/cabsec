@@ -1,0 +1,8 @@
+{"date": "2018-05-14", "details": [
+{"detail_idx": 0, "officer_id": "Q3629480", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Corporate Affairs", "Cabinet Minister"]], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7546539", "continues": [["Ministry of Textiles", "Cabinet Minister"]], "relinquishes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7199798", "continues": [["Ministry of Railways", "Cabinet Minister"], ["Ministry of Coal", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Corporate Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q982805", "continues": [["Ministry of Youth Affairs and Sports", "Minister of State (Independent Charge)"]], "relinquishes": [["Ministry of Information and Broadcasting", "Minister of State"]], "assumes": [["Ministry of Information and Broadcasting", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q4735334", "continues": [["Ministry of Tourism", "Minister of State (Independent Charge)"]], "relinquishes": [["Ministry of Information Technology", "Minister of State"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q15456220", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]], "assumes": [["Ministry of Information Technology", "Minister of State"]]}
+]}

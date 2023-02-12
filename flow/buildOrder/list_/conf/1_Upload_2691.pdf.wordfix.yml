@@ -1,0 +1,12 @@
+edits:
+  - mergeWords pa0.wo59 pa0.wo60 pa0.wo61
+
+  - mergeWords pa0.wo71 pa0.wo72 pa0.wo73
+
+  - mergeWords pa0.wo106 pa0.wo107 pa0.wo108
+
+  - mergeWords pa0.wo235 pa0.wo236
+
+  - mergeWords pa0.wo261 pa0.wo262 pa0.wo263
+
+  - clearWords pa0.wo68 pa0.wo186

@@ -1,0 +1,6 @@
+# 	MISMATCH P: 1 A: 3 E: 2 W: 66 F: 1 R:False
+# 	MISMATCH P: 1 A: 10 E: 9 W: 182 F: -1 R:False
+
+edits:
+  - newWord 2 pa1.wo66 pa1.wo40
+  - newWord 9 pa1.wo182 pa1.wo171

@@ -1,0 +1,27 @@
+x_range: [0, 0.5]
+edits:
+  - clearWord pa0.wo29
+  - replaceStr pa0.wo38 <all> i
+  #- replaceStr pa0.w39 <all> 'Shri Chandulal'
+  - replaceStr pa0.wo58 <all> ii
+
+  - mergeWords pa0.wo59 pa0.wo60
+  - replaceStr pa0.wo59 <all> 'Shri Maganbhai'
+
+  - replaceStr pa0.wo76 <all> iii
+  - clearWord pa0.wo101
+
+
+  - replaceStr pa0.wo54 <all> Tourism
+  - mergeWords pa0.wo62 pa0.wo63
+  - replaceStr pa0.wo62 <all> relinquished
+  - replaceStr pa0.wo68 <all> Deputy
+  - replaceStr pa0.wo69 <all> Minister
+  - replaceStr pa0.wo73 <all> of
+
+  - replaceStr pa0.wo84 <all> 1902
+  - replaceStr pa0.wo94 <all> Deputy
+  - replaceStr pa0.wo95 <all> Minister
+  - replaceStr pa0.wo100 <all> Labour.
+
+  - clearWords pa0.wo75 pa0.wo77 pa0.wo78 pa0.wo79 pa0.wo80 pa0.wo81 pa0.wo82 pa0.wo83 pa0.wo84

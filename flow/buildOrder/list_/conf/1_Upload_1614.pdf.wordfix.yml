@@ -1,0 +1,5 @@
+edits:
+   - clearWords pa0.wo321 pa0.wo322
+   - replaceStr pa1.wo225 <all> Dairying
+
+   - replaceStr pa1.wo342 <all> department

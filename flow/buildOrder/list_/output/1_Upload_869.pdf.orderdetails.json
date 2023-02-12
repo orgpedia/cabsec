@@ -1,0 +1,6 @@
+{"date": "2013-05-11", "details": [
+{"detail_idx": 0, "officer_id": "Q4806165", "continues": [], "relinquishes": [["Ministry of Law and Justice", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q13099372", "continues": [], "relinquishes": [["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q1206954", "continues": [["Ministry of Communications and Information Technology", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Law and Justice", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q5006743", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", "Cabinet Minister"]]}
+]}

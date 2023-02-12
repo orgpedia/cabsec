@@ -1,0 +1,3 @@
+ignores:
+  EnglishWordsInNameError: [pa1.ta0.ro0.ce1]
+  UnmatchedTextsError: [pa2.ta0.ro2.ce2]

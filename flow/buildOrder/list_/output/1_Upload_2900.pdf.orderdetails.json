@@ -1,0 +1,6 @@
+{"date": "1963-09-21", "details": [
+{"detail_idx": 0, "officer_id": "Q1034290", "continues": [["Ministry of Agriculture", ""]], "relinquishes": [["Ministry of Railways", ""]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q317769", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [["Ministry of Planning", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q2604943", "continues": [], "relinquishes": [["Ministry of Finance", "Deputy Minister"]], "assumes": [["Ministry of Planning", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q21608071", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", ""]]}
+]}

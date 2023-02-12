@@ -1,0 +1,3 @@
+ignores:
+  OfficerMisalignedError: [ pa0.li0, pa0.li1 ]
+  UnmatchedTextsError: [ pa0.li0, pa0.li1 ]

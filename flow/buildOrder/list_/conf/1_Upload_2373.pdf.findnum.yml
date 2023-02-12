@@ -1,0 +1,28 @@
+# 	MISMATCH P: 1 A: 15 E: 14 W: 91 F: 13 R:True
+# 	MISMATCH P: 1 A: 11 E: 19 W: 245 F: 14 R:True
+# 	MISMATCH P: 1 A: 20 E: 12 W: 307 F: 6 R:True
+
+edits:
+  - clearWord pa0.wo142
+  - replaceStr pa0.wo143 <all> "V.N."
+
+  - replaceStr pa1.wo56 <all> xiv
+  - clearWord pa1.wo57
+  - replaceStr pa1.wo245 <all> xix
+  - clearWord pa1.wo246
+  - clearWord pa1.wo251
+
+  - replaceStr pa1.wo426 <all> vikr
+  - clearWord pa1.wo425
+
+  - replaceStr pa2.wo26 <all> "r.v."
+  - clearWord pa2.wo27
+
+  - newWord '           ' pa0.wo205 pa0.wo198
+  - newWord '           ' pa0.wo206 pa0.wo198
+  - newWord '           ' pa0.wo207 pa0.wo198
+
+  - newWord '    ' pa0.wo265 pa0.wo258
+
+  - replaceStr pa1.wo399 <all> xxi
+  - clearWords pa1.wo400

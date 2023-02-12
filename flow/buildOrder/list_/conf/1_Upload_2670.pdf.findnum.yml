@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo39 <all> i
+
+  - replaceStr pa0.wo55 <all> 'Supplies (Udyog'
+  - replaceStr pa0.wo68 <all> 'Industry (Ud'

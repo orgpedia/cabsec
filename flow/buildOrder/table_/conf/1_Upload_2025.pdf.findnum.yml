@@ -1,0 +1,53 @@
+edits:
+  - replaceStr pa0.wo0 <all> 1
+  - replaceStr pa0.wo2 <all> 2
+  - replaceStr pa0.wo3 <all> 3
+  - replaceStr pa0.wo4 <all> 4
+  - replaceStr pa0.wo5 <all> 5
+
+
+  - newWord 6 pa0.wo5 pa0.wo57
+  - newWord 7 pa0.wo5 pa0.wo60
+  - newWord 8 pa0.wo5 pa0.wo64
+  - newWord 9 pa0.wo6 pa0.wo67
+
+  - replaceStr pa0.wo6 <all> 10
+  - replaceStr pa0.wo8 <all> 11
+  - replaceStr pa0.wo9 <all> 12
+  - replaceStr pa0.wo10 <all> 13
+  - replaceStr pa0.wo12 <all> 14
+
+  - clearWords pa0.wo71  pa0.wo70 pa0.wo50 pa0.wo17 pa0.wo16
+
+  - replaceStr pa0.wo73 <all> Shyama
+  - replaceStr pa0.wo74 <all> Pd
+  - replaceStr pa0.wo76 <all> Mukherjee
+
+  - replaceStr pa0.wo13 <all> Shri
+  - replaceStr pa0.wo15 <all> Nehru
+  - replaceStr pa0.wo18 <all> Sardar
+
+  - replaceStr pa0.wo48 <all> Maulana
+  - replaceStr pa0.wo49 <all> Azad
+  - replaceStr pa0.wo53 <all> Mathai
+
+  - replaceStr pa0.wo54 <all> Sardar
+  - replaceStr pa0.wo62 <all> Ahmed
+  - replaceStr pa0.wo63 <all> Kidwai
+
+  - replaceStr pa0.wo65 <all> Amrit
+
+  - replaceStr pa0.wo93 <all> 'N.'
+  - mergeWords pa0.wo94 pa0.wo95
+  - replaceStr pa0.wo94 <all> 'Gopalaswami Ayyangar'
+
+  - replaceStr pa0.wo101 <all> 'Jairamdas'
+  - replaceStr pa0.wo102 <all> 'Daulatram'
+
+
+  - newWord Law pa0.wo107 pa0.wo69
+  - replaceStr pa0.wo42 <all> Education
+  - replaceStr pa0.wo31 <all> Deputy
+  - replaceStr pa0.wo33 <all> 'Prime Minister'
+  - replaceStr pa0.wo28 <all> 'External Affairs'
+  - replaceStr pa0.wo29 <all> 'Scientific Research'

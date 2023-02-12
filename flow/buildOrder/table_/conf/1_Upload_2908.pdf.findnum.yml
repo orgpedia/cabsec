@@ -1,0 +1,77 @@
+# 	MISMATCH P: 2 A: 5 E: 4 W: 54 F: 1 R:False
+# 	MISMATCH P: 2 A: 7 E: 6 W: 70 F: 2 R:False
+# 	MISMATCH P: 2 A: 8 E: 7 W: 225 F: -13 R:False
+# 	MISMATCH P: 3 A: 3 E: 8 W: 94 F: 1 R:False
+# 	MISMATCH P: 3 A: 9 E: 4 W: 107 F: -4 R:False
+# 	MISMATCH P: 3 A: 20 E: 18 W: 263 F: 1 R:False
+
+edits:
+  - newWord 4 pa2.wo54 pa2.wo46
+  - newWord 6 pa2.wo70 pa2.wo64
+  - newWord 7 pa2.wo225 pa2.wo211
+  - replaceStr pa3.wo94 <all> 8
+  - replaceStr pa3.wo226 <all> 18
+  - replaceStr pa3.wo241 <all> 19
+
+  - mergeWords pa3.wo45 pa3.wo46
+  - replaceStr pa3.wo203 <all> Deputy
+  - mergeWords pa3.wo174 pa3.wo175
+
+  - replaceStr pa3.wo73 <all> Deputy
+  - replaceStr pa3.wo256 <all> Deputy
+
+  - replaceStr pa3.wo55 <all> Shri
+  - replaceStr pa3.wo56 <all> 'B. S.'
+  - replaceStr pa3.wo57 <all> Murthy
+
+  - mergeWords pa3.wo82 pa3.wo83
+  - replaceStr pa3.wo82 <all> Shrimati
+
+  - mergeWords pa3.wo84 pa3.wo85
+  - replaceStr pa3.wo84 <all> Soundaram
+
+  - replaceStr pa3.wo109 <all> 'C. R.'
+  - replaceStr pa3.wo110 <all> 'Pattabhi'
+
+  - replaceStr pa3.wo174 <all> Deputy
+
+  - mergeWords pa3.wo216 pa3.wo217
+  - replaceStr pa3.wo216 <all> Deputy
+
+  - replaceStr pa3.wo124 <all> Maragatham
+  - replaceStr pa3.wo125 <all> Chandrashekhar
+
+  - replaceStr pa3.wo136 <all> Shri
+  - replaceStr pa3.wo137 <all> Jagannath
+  - replaceStr pa3.wo138 <all> Rao
+
+  - clearWords pa2.wo20 pa2.wo21
+
+
+  - replaceStr pa3.wo7 <all> Minister
+  - replaceStr pa3.wo10 <all> 'Ministry of'
+  - replaceStr pa3.wo11 <all> Rehabilitation
+
+  - replaceStr pa3.wo52 <all> of
+  - replaceStr pa3.wo63 <all> of
+
+  - mergeWords pa3.wo65 pa3.wo66
+  - replaceStr pa3.wo65 <all> Development
+
+  - replaceStr pa3.wo80 <all> Affairs
+  - replaceStr pa3.wo93 <all> Education
+  - replaceStr pa3.wo121 <all> Broadcasting
+
+  - mergeWords pa3.wo130 pa3.wo131
+  - replaceStr pa3.wo130 <all> Department
+
+  - replaceStr pa3.wo152 <all> in
+
+  - replaceStr pa3.wo162 <all> Deputy
+  - replaceStr pa3.wo163 <all> Minister
+  - replaceStr pa3.wo166 <all> Ministry
+
+  - mergeWords pa3.wo207 pa3.wo208
+  - replaceStr pa3.wo207 <all> Department
+
+  - replaceStr pa3.wo223 <all> Irrigation

@@ -1,0 +1,4 @@
+edits:
+  - newWord 1 pa0.wo116 pa0.wo20
+  - newWord 2 pa0.wo116 pa0.wo75
+  - replaceStr pa0.wo74 <all> Coordination

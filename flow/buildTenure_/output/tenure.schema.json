@@ -1,0 +1,110 @@
+{
+  "title": "Tenure",
+  "type": "object",
+  "properties": {
+    "tenure_id": {
+      "title": "Tenure Id",
+      "type": "string"
+    },
+    "tenure_idx": {
+      "title": "Tenure Idx",
+      "type": "integer"
+    },
+    "officer_id": {
+      "title": "Officer Id",
+      "type": "string"
+    },
+    "post_id": {
+      "title": "Post Id",
+      "type": "string"
+    },
+    "officer_start_date_idx": {
+      "title": "Officer Start Date Idx",
+      "default": -1,
+      "type": "integer"
+    },
+    "start_date": {
+      "title": "Start Date",
+      "type": "string",
+      "format": "date"
+    },
+    "end_date": {
+      "title": "End Date",
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "start_order_id": {
+      "title": "Start Order Id",
+      "type": "string"
+    },
+    "start_detail_idx": {
+      "title": "Start Detail Idx",
+      "type": "integer"
+    },
+    "end_order_id": {
+      "title": "End Order Id",
+      "default": "",
+      "type": "string"
+    },
+    "end_detail_idx": {
+      "title": "End Detail Idx",
+      "default": -1,
+      "type": "integer"
+    },
+    "role": {
+      "title": "Role",
+      "type": "string"
+    },
+    "manager_ids": {
+      "title": "Manager Ids",
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reportee_ids": {
+      "title": "Reportee Ids",
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "all_order_infos": {
+      "title": "All Order Infos",
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 2,
+        "items": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  },
+  "required": [
+    "tenure_id",
+    "tenure_idx",
+    "officer_id",
+    "post_id",
+    "start_date",
+    "end_date",
+    "start_order_id",
+    "start_detail_idx"
+  ]
+}

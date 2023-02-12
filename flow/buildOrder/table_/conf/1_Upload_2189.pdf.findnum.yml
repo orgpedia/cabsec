@@ -1,0 +1,32 @@
+# 	MISMATCH P: 2 A: 7 E: 6 W: 140 F: 1 R:False
+# 	MISMATCH P: 2 A: 10 E: 9 W: 168 F: 2 R:False
+# 	MISMATCH P: 3 A: 7 E: 6 W: 155 F: -1 R:False
+# 	MISMATCH P: 4 A: 6 E: 4 W: 89 F: 1 R:False
+# 	MISMATCH P: 6 A: 2 E: 30 W: 108 F: 26 R:False
+
+edits:
+  - newWord 6 pa2.wo140 pa2.wo131
+  - newWord 9 pa2.wo168 pa2.wo156
+
+  - replaceStr pa3.wo5 <all> 16
+
+  - newWord 6 pa3.wo155 pa3.wo138
+  - newWord 8 pa3.wo155 pa3.wo173
+
+  - replaceStr pa3.wo41 <all>  STATE
+  - mergeWords pa3.wo42 pa3.wo43
+
+  - newWord 4 pa4.wo50 pa4.wo64
+  - replaceStr pa4.wo75 <all> 5
+
+  - newWord 14 pa5.wo19 pa5.wo2
+
+  - newWord 25 pa6.wo23 pa6.wo4
+
+  - newWord 1 pa6.wo108 pa6.wo91
+  - newWord 3 pa6.wo108 pa6.wo121
+
+  - replaceStr pa6.wo95 <all> Deputy
+
+  - replaceStr pa4.wo6 <all> 'MINISTER OF'
+  - replaceStr pa4.wo7 <all> STATE

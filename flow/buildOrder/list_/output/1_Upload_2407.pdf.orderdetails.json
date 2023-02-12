@@ -1,0 +1,6 @@
+{"date": "1981-08-09", "details": [
+{"detail_idx": 0, "officer_id": "Q3520007", "continues": [["Ministry of Planning", "Cabinet Minister"], ["Ministry of Labour", "Cabinet Minister"], ["Ministry of Labour", "Cabinet Minister"]], "relinquishes": [["Ministry of Planning", "Cabinet Minister"]], "assumes": [["Ministry of Industry", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q110322034", "continues": [["Ministry of Industry", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q5607249", "continues": [["Ministry of Education", "Cabinet Minister"]], "relinquishes": [["Ministry of Education", "Cabinet Minister"]], "assumes": [["Ministry of Planning", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7493078", "continues": [["Ministry of Education", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

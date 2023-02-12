@@ -1,0 +1,18 @@
+# > Page 0 []
+# > Page 1 []
+# > Page 2 [1-0, 2-7, 3-11, 4-15, 5-19, 6-23, 7-28, 8-32, 9-37, 10-49, 1-53, 12-58, 13-62, 14-66, 15-70, 1-84, 2-89, 4-93, 5-97, 6-104, 7-108, 8-119, 9-114]
+# > Page 3 [10-2, 11-7, 12-11, 13-15, 14-19]
+
+# pa2.nu11 Expected: 2 Actual: 12 word_idx: 58
+# pa2.nu17 Expected: 3 Actual: 4 word_idx: 93
+
+edits:
+#  - replaceStr pa2.wo58 <all> <all>
+#  - newWord 3 pa2.wo93 pa2.wo93
+
+  - replaceStr pa2.wo53 <all> 11
+
+  - newWord 3 pa2.wo93 pa2.wo101
+  - replaceStr pa2.wo169 <all> Minister
+
+  - clearWords pa2.wo5 pa2.wo6

@@ -1,0 +1,14 @@
+description: This folder contains  duplicate orders - same order saved as another file. Duplicate orders are detected by looking for orders with same date, pages and num details.
+
+ignore_docs:
+  1_Upload_1541.pdf: duplicate
+  1_Upload_2024.pdf: duplicate
+  1_Upload_2043.pdf: duplicate
+  1_Upload_2087.pdf: duplicate
+  1_Upload_2126.pdf: duplicate
+  1_Upload_2794.pdf: duplicate
+  1_Upload_2810.pdf: duplicate
+  1_Upload_2872.pdf: duplicate
+  1_Upload_2873.pdf: duplicate
+  1_Upload_2880.pdf: duplicate
+  1_Upload_2921.pdf: duplicate

@@ -1,0 +1,31 @@
+edits:
+  - mergeWords pa0.wo36 pa0.wo37
+  - replaceStr pa0.wo135 <all> Railways
+
+  - mergeWords pa0.wo139 pa0.wo140
+  - replaceStr pa0.wo139 <all> relinquished
+
+  - mergeWords pa0.wo273 pa0.wo274
+
+  - mergeWords pa0.wo308 pa0.wo309
+
+  - replaceStr pa1.wo21 <all> and
+  - replaceStr pa1.wo87 <all> Health
+  - replaceStr pa1.wo178 <all> Ministry
+
+  - replaceStr pa1.wo233 <all> and
+  - replaceStr pa1.wo302 <all> and
+
+  - mergeWords pa2.wo40 pa2.wo41 pa2.wo42
+  - replaceStr pa2.wo40 <all> assumed
+
+  - replaceStr pa2.wo56 <all> Welfare
+
+  - replaceStr pa2.wo57 <all> assumed
+
+  - replaceStr pa2.wo146 <all> Ministry
+
+  - replaceStr pa2.wo197 <all> Parliamentary
+  - replaceStr pa2.wo240 <all> the
+
+  - clearWords pa2.wo284

@@ -1,0 +1,6 @@
+ignores:
+  UnmatchedTextsError: [ pa0.ta0.ro2.ce2, pa0.ta0.ro1.ce2, pa0.ta0.ro3.ce2   ]
+
+edits:
+  - mergeWords pa0.wo34 pa0.wo35 pa0.wo36
+  - mergeWords pa0.wo37 pa0.wo38

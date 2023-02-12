@@ -1,0 +1,6 @@
+{"date": "1956-08-31", "details": [
+{"detail_idx": 0, "officer_id": "Q2724411", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Heavy Industry", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q3532094", "continues": [["Ministry of Commerce and Industry", "Cabinet Minister"], ["Ministry of Iron and Steel", "Cabinet Minister"]], "relinquishes": [["Ministry of Commerce and Industry", "Cabinet Minister"], ["Ministry of Finance", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q1034290", "continues": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Consumer Industries", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q1047", "continues": [], "relinquishes": [["Ministry of Finance", ""]], "assumes": []}
+]}

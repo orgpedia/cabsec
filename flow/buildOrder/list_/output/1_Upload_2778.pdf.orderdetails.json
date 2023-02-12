@@ -1,0 +1,13 @@
+{"date": "1973-11-09", "details": [
+{"detail_idx": 0, "officer_id": "Q7285239", "continues": [["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q1234662", "continues": [], "relinquishes": [["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]], "assumes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7273372", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]], "assumes": [["Ministry of Supply", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7461322", "continues": [], "relinquishes": [["Ministry of Supply", "Minister of State"]], "assumes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q3595472", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Minister of State"]], "assumes": [["Ministry of Irrigation", "Minister of State"], ["Ministry of Power", "Minister of State"], ["Department of Atomic Energy", "Minister of State"], ["Ministry of Electronics", "Minister of State"], ["Department of Space", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q6365681", "continues": [], "relinquishes": [["Ministry of Irrigation", "Cabinet Minister"], ["Ministry of Power", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q6324166", "continues": [], "relinquishes": [["Ministry of Labour", "Cabinet Minister"]], "assumes": [["Ministry of Labour", "Cabinet Minister"]]},
+{"detail_idx": 7, "officer_id": "Q7508157", "continues": [], "relinquishes": [["Ministry of Heavy Industry", "Deputy Minister"]], "assumes": [["Ministry of Irrigation", "Deputy Minister"], ["Ministry of Power", "Deputy Minister"]]},
+{"detail_idx": 8, "officer_id": "Q24817466", "continues": [], "relinquishes": [["Ministry of Petroleum", "Deputy Minister"], ["Ministry of Chemicals and Fertilisers", "Deputy Minister"]], "assumes": [["Ministry of Heavy Industry", "Deputy Minister"]]},
+{"detail_idx": 9, "officer_id": "Q3764490", "continues": [], "relinquishes": [["Ministry of Labour", "Deputy Minister"]], "assumes": [["Ministry of Supply", "Deputy Minister"]]},
+{"detail_idx": 10, "officer_id": "Q45348459", "continues": [], "relinquishes": [["Ministry of Irrigation", "Deputy Minister"], ["Ministry of Power", "Deputy Minister"]], "assumes": [["Ministry of Labour", "Deputy Minister"]]}
+]}

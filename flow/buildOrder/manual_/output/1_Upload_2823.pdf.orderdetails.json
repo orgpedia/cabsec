@@ -1,0 +1,6 @@
+{"date": "1970-02-13", "details": [
+{"detail_idx": 0, "officer_id": "Q7130023", "continues": [["Ministry of Welfare", ""]], "relinquishes": [["Ministry of Railways", ""]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q317769", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", ""]]},
+{"detail_idx": 2, "officer_id": "Q1471625", "continues": [["Ministry of Agriculture", ""]], "relinquishes": [["Ministry of Labour", ""]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q13633433", "continues": [], "relinquishes": [], "assumes": [["Ministry of Labour", ""]]}
+]}

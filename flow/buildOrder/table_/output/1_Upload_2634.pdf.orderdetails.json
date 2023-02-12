@@ -1,0 +1,17 @@
+{"date": "1977-03-24", "details": [
+{"detail_idx": 0, "officer_id": "Q218661", "continues": [], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q319824", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q468324", "continues": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q1686500", "continues": [["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q3629904", "continues": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q3520878", "continues": [["Ministry of Law Justice and Company Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q2033836", "continues": [["Ministry of Education", "Cabinet Minister"], ["Ministry of Welfare", "Cabinet Minister"], ["Ministry of Culture", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q339715", "continues": [["Ministry of Railways", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q6893532", "continues": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Civil Supplies", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 9, "officer_id": "Q19895533", "continues": [["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q5657287", "continues": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 11, "officer_id": "Q3526595", "continues": [["Ministry of Steel and Mines", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 12, "officer_id": "Q7117487", "continues": [["Ministry of Energy", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 13, "officer_id": "Q233289", "continues": [["Ministry of External Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 14, "officer_id": "Q7296742", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"], ["Ministry of Labour", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

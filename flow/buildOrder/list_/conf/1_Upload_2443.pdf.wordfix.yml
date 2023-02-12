@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo96 <all> 1980
+  - mergeWords pa0.wo113 pa0.wo114 pa0.wo115
+  - mergeWords pa0.wo152 pa0.wo153 pa0.wo154

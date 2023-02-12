@@ -1,0 +1,44 @@
+# 	MISMATCH P: 2 A: 29 E: 27 W: 127 F: 25 R:True
+# 	MISMATCH P: 2 A: 34 E: 33 W: 246 F: 27 R:True
+ignores:
+  MarkerMisalginedError: [ pa2.nu4, pa2.nu5 ]
+
+edits:
+  - clearWords pa1.wo0 pa1.wo371
+
+  - replaceStr pa2.wo62 <all> xxvii
+  - replaceStr pa2.wo78 <all> xxviii
+  - replaceStr pa2.wo215 <all> xxxiii
+
+  - newWord "     " pa0.wo202 pa0.wo74
+  - newWord "     " pa0.wo204 pa0.wo109
+  - newWord "     " pa0.wo198 pa0.wo192
+
+  - newWord "     " pa1.wo163 pa1.wo154
+
+  - newWord "     " pa2.wo62 pa2.wo52
+  - newWord "     " pa2.wo57 pa2.wo55
+  - newWord "     " pa2.wo155 pa2.wo147
+
+  - clearWords pa2.wo127
+
+  - replaceStr pa2.wo62 <all> xxvii
+  - replaceStr pa2.wo78 <all> xxviii
+  - replaceStr pa2.wo133 <all> xxviii
+
+  - newWord "     " pa2.wo168 pa2.wo164
+  - newWord "     " pa2.wo169 pa2.wo164
+  - newWord "     " pa2.wo170 pa2.wo164
+  - newWord "     " pa2.wo171 pa2.wo164
+  - newWord "     " pa2.wo172 pa2.wo164
+
+  - newWord "     " pa2.wo202 pa2.wo198
+  - newWord "     " pa2.wo203 pa2.wo198
+  - newWord "     " pa2.wo204 pa2.wo198
+  - newWord "     " pa2.wo205 pa2.wo198
+  - newWord "     " pa2.wo206 pa2.wo198
+  - newWord "     " pa2.wo207 pa2.wo198
+  - newWord "     " pa2.wo208 pa2.wo198
+  - newWord "     " pa2.wo242 pa2.wo198
+
+  - clearWords pa3.wo0

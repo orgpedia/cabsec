@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 95 F: 1 R:False
+# 	MISMATCH P: 0 A: 6 E: 5 W: 117 F: 2 R:False
+# 	MISMATCH P: 0 A: 10 E: 9 W: 161 F: 3 R:False
+# 	MISMATCH P: 0 A: 9 E: 7 W: 75 F: 1 R:True
+# 	MISMATCH P: 1 A: 6 E: 5 W: 188 F: -7 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 100 F: 1 R:False
+
+edits:
+
+  - replaceStr pa0.wo65 <all> Ministry
+  - newWord vii pa0.wo70 pa0.wo66
+  - replaceStr pa0.wo70 <all> viii
+  - newWord 3 pa0.wo95 pa0.wo87
+  - newWord 5 pa0.wo117 pa0.wo111
+  - newWord 9 pa0.wo161 pa0.wo154
+
+  - newWord 5 pa1.wo188 pa1.wo161
+
+  - newWord 5 pa2.wo100 pa2.wo79

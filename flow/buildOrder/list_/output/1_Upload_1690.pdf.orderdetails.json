@@ -1,0 +1,22 @@
+{"date": "2001-09-01", "details": [
+{"detail_idx": 0, "officer_id": "Q4751468", "continues": [], "relinquishes": [["Ministry of Tourism", "Cabinet Minister"], ["Ministry of Culture", "Cabinet Minister"]], "assumes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7917878", "continues": [], "relinquishes": [], "assumes": [["Ministry of Shipping", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7660441", "continues": [], "relinquishes": [["Ministry of Coal", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Civil Aviation", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 3, "officer_id": "Q5924734", "continues": [], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "assumes": [["Ministry of Tourism", "Cabinet Minister"], ["Ministry of Statistics and Programme Implementation", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q3629480", "continues": [["Ministry of Law Justice and Company Affairs", "Cabinet Minister"]], "relinquishes": [["Ministry of Shipping", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7426931", "continues": [], "relinquishes": [["Ministry of Labour", "Cabinet Minister"]], "assumes": [["Ministry of Social Justice and Empowerment", "Cabinet Minister"]]},
+{"detail_idx": 6, "officer_id": "Q7238271", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"], ["Ministry of Information Technology", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Communications", "Cabinet Minister"]]},
+{"detail_idx": 7, "officer_id": "Q3595482", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rural Development", "Cabinet Minister"]]},
+{"detail_idx": 8, "officer_id": "Q6036905", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": [["Ministry of Coal", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 9, "officer_id": "Q3518399", "continues": [], "relinquishes": [["Ministry of Disinvestment", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q7489368", "continues": [], "relinquishes": [["Ministry of Civil Aviation", "Cabinet Minister"]], "assumes": [["Ministry of Labour", "Cabinet Minister"]]},
+{"detail_idx": 11, "officer_id": "Q2739159", "continues": [], "relinquishes": [["Ministry of Social Justice and Empowerment", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Culture", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 12, "officer_id": "Q5069439", "continues": [], "relinquishes": [["Ministry of Civil Aviation", "Minister of State"]], "assumes": [["Ministry of Food Processing Industries", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 13, "officer_id": "Q2997305", "continues": [["Department of Atomic Energy", "Minister of State"], ["Department of Space", "Minister of State"]], "relinquishes": [["Ministry of Micro Small and Medium Enterprises", "Minister of State (Independent Charge)"], ["Ministry of Rural Development", "Minister of State"]], "assumes": [["Ministry of Micro Small and Medium Enterprises", "Minister of State (Independent Charge)"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q7929142", "continues": [], "relinquishes": [], "assumes": [["Prime Ministers Office", "Minister of State"], ["Ministry of Planning", "Minister of State"]]},
+{"detail_idx": 15, "officer_id": "Q4768018", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rural Development", "Minister of State"]]},
+{"detail_idx": 16, "officer_id": "Q3630922", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Minister of State"], ["Ministry of Mines", "Minister of State"]]},
+{"detail_idx": 17, "officer_id": "Q3634892", "continues": [], "relinquishes": [], "assumes": [["Ministry of Commerce and Industry", "Minister of State"]]},
+{"detail_idx": 18, "officer_id": "Q5276384", "continues": [["Ministry of Railways", "Minister of State"]], "relinquishes": [["Ministry of Commerce and Industry", "Minister of State"]], "assumes": []},
+{"detail_idx": 19, "officer_id": "Q7336609", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State"]], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]}
+]}

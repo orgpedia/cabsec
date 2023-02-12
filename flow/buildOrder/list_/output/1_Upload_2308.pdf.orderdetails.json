@@ -1,0 +1,5 @@
+{"date": "1987-01-25", "details": [
+{"detail_idx": 0, "officer_id": "Q4593", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": [["Ministry of Finance", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q315338", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"]], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q60793096", "continues": [["Ministry of Petroleum and Natural Gas", "Minister of State (Independent Charge)"], ["Ministry of Finance", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

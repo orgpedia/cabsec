@@ -1,0 +1,9 @@
+# 	MISMATCH P: 2 A: 12 E: 10 W: 128 F: 1 R:False
+
+edits:
+  - replaceStr pa2.wo113 <all> 10
+  - replaceStr pa2.wo117 <all> 11
+
+
+  - clearWords pa2.wo148 pa2.wo149 pa2.wo150 pa2.wo151 pa2.wo152 pa2.wo153 pa2.wo154 pa2.wo155 pa2.wo156
+  - clearWords pa2.wo157 pa2.wo158 pa2.wo159 pa2.wo160 pa2.wo161

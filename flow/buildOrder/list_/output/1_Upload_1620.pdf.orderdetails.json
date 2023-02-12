@@ -1,0 +1,7 @@
+{"date": "1997-02-21", "details": [
+{"detail_idx": 0, "officer_id": "Q377870", "continues": [], "relinquishes": [["Ministry of New and Renewable Energy", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6123428", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of New and Renewable Energy", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 2, "officer_id": "Q7400033", "continues": [], "relinquishes": [], "assumes": [["Ministry of Environment and Forests", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q15709479", "continues": [["Ministry of Power", "Minister of State"]], "relinquishes": [["Ministry of New and Renewable Energy", "Minister of State"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q6712982", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"]]}
+]}

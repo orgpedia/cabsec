@@ -1,0 +1,5 @@
+ignores:
+  OfficerMisalignedError: [ pa0.li0, pa0.li1 ]
+  PostMismatchError: [ pa0.or.de0 ]
+  UnmatchedTextsError: [ pa0.li0, pa0.li1 ]
+  PostEmptyError: [ pa0.or.de1 ]

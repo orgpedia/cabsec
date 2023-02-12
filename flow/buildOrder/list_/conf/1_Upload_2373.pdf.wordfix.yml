@@ -1,0 +1,80 @@
+edits:
+  - replaceStr pa0.wo18 <all> January
+  - replaceStr pa0.wo81 <all> 'state (Independent'
+  - mergeWords pa0.wo169 pa0.wo170
+  - replaceStr pa0.wo169 <all> 'State (Independent'
+  - replaceStr pa0.wo193 <all> 'charge)'
+
+  - clearWord pa0.wo335
+
+  - mergeWords pa1.wo24 pa1.wo25  pa1.wo26
+  - replaceStr pa1.wo24 <all> Department
+
+  - mergeWords pa1.wo28 pa1.wo29 pa1.wo30
+  - replaceStr pa1.wo28 <all> Parliamentary
+
+  - mergeWords pa1.wo45 pa1.wo46 pa1.wo47 pa1.wo48
+  - replaceStr pa1.wo45 <all> Department
+  - replaceStr pa1.wo49 <all> of
+
+  - mergeWords pa1.wo50 pa1.wo51 pa1.wo52 pa1.wo53
+
+
+  - mergeWords pa1.wo95 pa1.wo96
+
+  - mergeWords pa1.wo102 pa1.wo103 pa1.wo104 pa1.wo105
+  - replaceStr pa1.wo102 <all> Department
+
+  - replaceStr pa1.wo118 <all> Department
+
+  - mergeWords pa1.wo124 pa1.wo125
+
+  - mergeWords pa1.wo135 pa1.wo136 pa1.wo137 pa1.wo138
+  - replaceStr pa1.wo135 <all> Department
+
+  - mergeWords pa1.wo204 pa1.wo205 pa1.wo206 pa1.wo144 pa1.wo145 pa1.wo146
+  - replaceStr pa1.wo204 <all> Department
+
+  - mergeWords pa1.wo155 pa1.wo156
+  - mergeWords pa1.wo158 pa1.wo159
+
+  - mergeWords pa1.wo174 pa1.wo175 pa1.wo176
+  - replaceStr pa1.wo174 <all> Rehabilitation
+
+  - mergeWords pa1.wo261 pa1.wo262
+  - replaceStr pa1.wo261 <all> '(Independent'
+
+  - mergeWords pa1.wo268 pa1.wo269 pa1.wo270
+  - mergeWords pa1.wo283 pa1.wo284 pa1.wo285 pa1.wo286 pa1.wo287
+  - replaceStr pa1.wo283 <all> Department
+
+  - replaceStr pa1.wo289 <all> Science
+
+  - mergeWords pa1.wo291 pa1.wo292 pa1.wo293
+  - replaceStr pa1.wo291 <all> Technology
+
+  - mergeWords pa1.wo294 pa1.wo295 pa1.wo296
+  - replaceStr pa1.wo304 <all> Development
+
+
+  - replaceStr pa1.wo318 <all> Deputy
+
+  - mergeWords pa1.wo340 pa1.wo341 pa1.wo342
+
+
+  - mergeWords pa1.wo354 pa1.wo355 pa1.wo356 pa1.wo357 pa1.wo358
+  - replaceStr pa1.wo354 <all> Department
+
+  - mergeWords pa1.wo360 pa1.wo361
+  - replaceStr pa1.wo360 <all> Parliamentary
+
+  - mergeWords pa1.wo367 pa1.wo368
+  - replaceStr pa1.wo367 <all> relinquished
+
+  - replaceStr pa1.wo397 <all> of
+
+  - replaceStr pa1.wo408 <all> relinquished
+  - replaceStr pa1.wo422 <all> and
+
+  - mergeWords pa1.wo441 pa1.wo442 pa1.wo443
+  - replaceStr pa1.wo441 <all> Energy

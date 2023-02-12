@@ -1,0 +1,12 @@
+# 	MISMATCH P: 2 A: 5 E: 4 W: 88 F: 2 R:False
+
+edits:
+  - newWord 1 pa2.wo33 pa2.wo17
+  - replaceStr pa2.wo65 <all> 4
+  - replaceStr pa1.wo129 <all> B
+
+  - replaceStr pa0.wo26 <all> 1984
+
+  - replaceStr pa1.wo15 <all> Prime
+
+  - newWord '                                             ' pa2.wo64 pa2.wo31

@@ -1,0 +1,8 @@
+# 	MISMATCH P: 2 A: 9 E: 8 W: 157 F: 1 R:False
+
+edits:
+  - newWord 8 pa2.wo157 pa2.wo147
+  - clearWord pa3.wo4
+
+  - mergeWords pa5.wo108 pa5.wo109
+  - replaceStr pa5.wo108 <all> DEPUTY

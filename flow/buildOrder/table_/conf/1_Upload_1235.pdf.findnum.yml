@@ -1,0 +1,3 @@
+include_zero: True
+edits:
+  - newAdjWord 0 pa0.wo8 left

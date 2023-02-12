@@ -1,0 +1,22 @@
+# 	MISMATCH P: 0 A: 7 E: 8 W: 198 F: 1 R:True
+# 	MISMATCH P: 0 A: 9 E: 8 W: 215 F: 0 R:True
+# 	MISMATCH P: 1 A: 14 E: 13 W: 99 F: 12 R:True
+# 	MISMATCH P: 1 A: 20 E: 19 W: 329 F: 13 R:True
+# 	MISMATCH P: 1 A: 21 E: 23 W: 404 F: 14 R:True
+# 	MISMATCH P: 2 A: 24 E: 23 W: 23 F: 22 R:True
+# 	MISMATCH P: 2 A: 29 E: 28 W: 129 F: 23 R:True
+
+ignores:
+  MarkerMisalginedError: [ pa2.nu0 ]
+
+edits:
+  - replaceStr pa0.wo149 <all> v
+  - replaceStr pa0.wo198 <all> viii
+  - replaceStr pa1.wo57 <all> xiii
+  - replaceStr pa1.wo165 <all> xv
+  - replaceStr pa1.wo404 <all> xxiii
+  - clearWord pa1.wo366
+  - clearWord pa1.wo424
+  - replaceStr pa2.wo3 <all> xxiii
+  - replaceStr pa2.wo44 <all> xxv
+  - clearWord pa2.wo140

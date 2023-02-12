@@ -1,0 +1,25 @@
+# 	MISMATCH P: 2 A: 11 E: 10 W: 42 F: 8 R:False
+# 	MISMATCH P: 2 A: 2 E: 15 W: 134 F: 9 R:False
+# 	MISMATCH P: 2 A: 5 E: 4 W: 179 F: -4 R:False
+
+edits:
+  - newWord 10 pa2.wo42 pa2.wo30
+
+  - newWord '      ' pa1.wo8 pa1.wo6
+  - newWord '&' pa1.wo11 pa1.wo10
+
+  - newWord 1 pa2.wo42 pa2.wo124
+  - newWord 4 pa2.wo42 pa2.wo167
+
+  - replaceStr pa1.wo91 <all> Bhagey
+  - replaceStr pa1.wo92 <all> Gobardhan
+
+  - replaceStr pa2.wo127 <all> Deputy
+  - replaceStr pa2.wo143 <all> of
+  - replaceStr pa2.wo142 <all> Ministry
+
+  - newWord Deputy pa2.wo187 pa2.wo183
+
+  - newWord Shri pa0.wo184 pa0.wo178
+  - newWord Murasoli pa0.wo185 pa0.wo178
+  - newWord Maran pa0.wo187 pa0.wo178

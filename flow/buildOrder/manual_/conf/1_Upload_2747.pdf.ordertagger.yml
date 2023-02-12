@@ -1,0 +1,20 @@
+order:
+  order_date: 8 Aug 1974
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [46, 47, 48, 49, 50]
+
+      assumes:
+        - idxs: [ 113, 114, 116]
+
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [ 147, 148, 149]
+
+
+      assumes:
+        - idxs: [ 159, 160, 113, 114, 116]

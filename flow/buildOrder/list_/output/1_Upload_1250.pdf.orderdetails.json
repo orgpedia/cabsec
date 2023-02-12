@@ -1,0 +1,5 @@
+{"date": "2017-07-18", "details": [
+{"detail_idx": 0, "officer_id": "Q3764667", "continues": [], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"], ["Ministry of Information and Broadcasting", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6965799", "continues": [["Ministry of Rural Development", "Cabinet Minister"], ["Ministry of Panchayati Raj", "Cabinet Minister"], ["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7546539", "continues": [["Ministry of Textiles", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]]}
+]}

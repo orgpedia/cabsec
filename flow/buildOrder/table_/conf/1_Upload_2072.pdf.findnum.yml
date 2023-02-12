@@ -1,0 +1,15 @@
+# 	MISMATCH P: 0 A: 2 E: 3 W: 46 F: 1 R:True
+# 	MISMATCH P: 0 A: 4 E: 3 W: 53 F: 0 R:True
+# 	MISMATCH P: 1 A: 2 E: 34 W: 156 F: 22 R:False
+# 	MISMATCH P: 3 A: 31 E: 30 W: 50 F: 28 R:False
+
+edits:
+ - replaceStr pa0.wo46 <all> iii
+ - newWord 1 pa1.wo156 pa1.wo140
+
+ - clearWord pa1.wo217
+ - replaceStr pa1.wo218 <all> 5
+
+ - clearWord pa3.wo34
+
+ - replaceStr pa2.wo133 <all> 'Affairs.'

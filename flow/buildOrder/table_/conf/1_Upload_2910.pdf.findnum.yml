@@ -1,0 +1,43 @@
+# 	MISMATCH P: 2 A: 5 E: 4 W: 51 F: 1 R:False
+# 	MISMATCH P: 2 A: 9 E: 8 W: 80 F: 2 R:False
+# 	MISMATCH P: 2 A: 2 E: 17 W: 172 F: 3 R:False
+# 	MISMATCH P: 2 A: 6 E: 4 W: 200 F: -12 R:False
+# 	MISMATCH P: 2 A: 9 E: 8 W: 236 F: -10 R:False
+# 	MISMATCH P: 2 A: 15 E: 16 W: 323 F: -9 R:False
+# 	MISMATCH P: 3 A: 12 E: 11 W: 158 F: 10 R:False
+# 	MISMATCH P: 3 A: 16 E: 13 W: 191 F: 11 R:False
+# 	MISMATCH P: 3 A: 16 E: 17 W: 208 F: 14 R:False
+
+edits:
+  - newWord 4 pa2.wo51 pa2.wo43
+  - newWord 8 pa2.wo80 pa2.wo77
+
+  - newWord 1 pa2.wo172 pa2.wo159
+  - replaceStr pa2.wo184 <all> 4
+  - newWord 5 pa2.wo172 pa2.wo191
+  - newWord 8 pa2.wo172 pa2.wo223
+  - replaceStr pa2.wo323 <all> 16
+
+
+  - newWord 1 pa3.wo70 pa3.wo1
+  - replaceStr pa3.wo16 <all> 2
+  - newWord 3 pa3.wo70 pa3.wo31
+  - replaceStr pa3.wo45 <all> 4
+  - newWord 5 pa3.wo70 pa3.wo56
+  - replaceStr pa3.wo70 <all> 6
+  - newWord 7 pa3.wo70 pa3.wo87
+  - newWord 8 pa3.wo70 pa3.wo100
+  - newWord 9 pa3.wo70 pa3.wo114
+  - newWord 11 pa3.wo70 pa3.wo147
+  - newWord 13 pa3.wo70 pa3.wo171
+  - newWord 14 pa3.wo70 pa3.wo182
+  - replaceStr pa3.wo191 <all> 15
+  - newWord 18 pa3.wo70 pa3.wo233
+  - newWord 19 pa3.wo70 pa3.wo251
+  - newWord 20 pa3.wo70 pa3.wo264
+
+  - newWord 'Shri D. R. ' pa3.wo87 pa3.wo100
+  - newWord 'Dr.  D. S. ' pa3.wo87 pa3.wo171
+  - newWord 'Shri Dinesh Singh' pa3.wo87 pa3.wo182
+  - newWord 'B. C. Bhagavati' pa3.wo194 pa3.wo210
+  - newWord 'Shri Ratanlal Kishorilal' pa3.wo194 pa3.wo251

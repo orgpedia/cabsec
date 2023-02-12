@@ -1,0 +1,14 @@
+# 	MISMATCH P: 1 A: 9 E: 8 W: 86 F: 1 R:False
+# 	MISMATCH P: 2 A: 9 E: 8 W: 157 F: 1 R:False
+# 	MISMATCH P: 4 A: 3 E: 8 W: 21 F: 7 R:False
+# 	MISMATCH P: 4 A: 9 E: 4 W: 33 F: 2 R:False
+
+edits:
+  - replaceStr pa1.wo79 <all> 8
+  - newWord 8 pa2.wo157 pa2.wo140
+  - replaceStr pa4.wo21 <all> 8
+
+  - replaceStr  pa0.wo32   <all> ary
+  - mergeWords pa0.wo31  pa0.wo32
+
+  - replaceStr pa3.wo211 <all> Deputy

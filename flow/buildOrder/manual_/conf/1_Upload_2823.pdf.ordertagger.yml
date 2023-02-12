@@ -1,0 +1,41 @@
+edits:
+  - replaceStr pa0.wo91 <all> Sanjivayya
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [36, 37, 38]
+
+      continues:
+        - idxs: [ 39, 40, 42, 43, 44]
+
+      relinquishes:
+        - idxs: [ 51, 52, 53]
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [55, 56, 57, 58 ]
+
+      assumes:
+        - idxs: [ 63, 64, 65 ]
+
+    - detail_idx: 2
+      page_idx: 0
+      officer:
+        idxs: [68, 69, 70]
+
+      continues:
+        - idxs: [ 71, 72, 73, 74, 75 ]
+
+      relinquishes:
+        - idxs: [ 82, 83, 84, 85, 86, 87 ]
+
+    - detail_idx: 3
+      page_idx: 0
+      officer:
+        idxs: [ 89, 90, 91 ]
+
+      assumes:
+        - idxs: [ 96, 97, 98, 99, 100 ]

@@ -1,0 +1,10 @@
+{"date": "1984-02-08", "details": [
+{"detail_idx": 0, "officer_id": "Q6323911", "continues": [], "relinquishes": [["Ministry of Commerce", "Minister of State"]], "assumes": [["Ministry of Home Affairs", "Minister of State"]]},
+{"detail_idx": 1, "officer_id": "Q17466379", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Minister of State"]], "assumes": [["Ministry of Commerce", "Minister of State"], ["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q108507760", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q58292", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q4790546", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": [["Ministry of Energy", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q3595131", "continues": [], "relinquishes": [["Ministry of Law Justice and Company Affairs", "Deputy Minister"]], "assumes": [["Ministry of Information and Broadcasting", "Deputy Minister"]]},
+{"detail_idx": 6, "officer_id": "Q6744193", "continues": [["Ministry of Parliamentary Affairs", "Deputy Minister"], ["Ministry of Information and Broadcasting", "Deputy Minister"]], "relinquishes": [["Ministry of Information and Broadcasting", "Deputy Minister"]], "assumes": [["Ministry of Youth Affairs and Sports", "Deputy Minister"], ["Ministry of Works and Housing", "Deputy Minister"]]},
+{"detail_idx": 7, "officer_id": "Q3345004", "continues": [], "relinquishes": [["Ministry of Civil Aviation and Tourism", "Deputy Minister"]], "assumes": [["Ministry of Youth Affairs and Sports", "Deputy Minister"]]}
+]}

@@ -1,0 +1,13 @@
+edits:
+  - newWord 1 pa0.wo96 pa0.wo46
+  - newWord 2 pa0.wo96 pa0.wo49
+  - newWord 3 pa0.wo96 pa0.wo63
+  - newWord 4 pa0.wo96 pa0.wo74
+  - replaceStr pa0.wo96 <all> 5
+  - newWord 6 pa0.wo96 pa0.wo120
+  - newWord 7 pa0.wo96 pa0.wo148
+  - newWord 8 pa0.wo96 pa0.wo173
+  - newWord 9 pa0.wo96 pa0.wo206
+  - replaceStr pa0.wo242 <all> 10
+  - newWord 11 pa0.wo96 pa0.wo288
+  - replaceStr pa0.wo313 <all> 12

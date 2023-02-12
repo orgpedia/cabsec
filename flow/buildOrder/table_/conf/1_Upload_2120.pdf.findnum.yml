@@ -1,0 +1,23 @@
+# 	MISMATCH P: 0 A: 12 E: 11 W: 189 F: 1 R:False
+# 	MISMATCH P: 1 A: 4 E: 3 W: 122 F: -2 R:False
+
+edits:
+  - replaceStr pa0.wo169 <all> 11
+  - replaceStr pa0.wo202 <all> 13
+
+  - newWord 3 pa1.wo65 pa1.wo78
+  - replaceStr pa1.wo110 <all> 4
+
+  - replaceStr pa1.wo111 <all> Shri
+
+  - replaceStr pa1.wo112 <all> 5
+  - clearWord pa1.wo122
+  - newWord 6 pa1.wo65 pa1.wo126
+  - replaceStr pa1.wo144 <all> 7
+  - replaceStr pa1.wo166 <all> 8
+
+  - newWord 4 pa2.wo47 pa2.wo69
+
+  # table_finder
+  - clearWords pa0.wo173 pa0.wo174
+  - clearWords pa1.wo97 pa1.wo98 pa1.wo99

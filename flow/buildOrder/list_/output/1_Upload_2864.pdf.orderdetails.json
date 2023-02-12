@@ -1,0 +1,5 @@
+{"date": "1967-09-05", "details": [
+{"detail_idx": 0, "officer_id": "Q4807564", "continues": [], "relinquishes": [["Ministry of Planning", "Cabinet Minister"], ["Ministry of Petroleum", "Cabinet Minister"], ["Ministry of Chemicals and Fertilisers", "Cabinet Minister"], ["Ministry of Welfare", "Cabinet Minister"]], "assumes": [["Ministry of Petroleum", "Cabinet Minister"], ["Ministry of Chemicals and Fertilisers", "Cabinet Minister"], ["Ministry of Welfare", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q6433963", "continues": [], "relinquishes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"], ["Ministry of Planning", "Minister of State"], ["Ministry of Welfare", "Minister of State"]], "assumes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"], ["Ministry of Welfare", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q1149", "continues": [], "relinquishes": [], "assumes": [["Ministry of Planning", "Cabinet Minister"]]}
+]}

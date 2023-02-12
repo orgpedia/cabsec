@@ -1,0 +1,6 @@
+edits:
+  - mergeWords pa2.wo224 pa2.wo225
+  - replaceStr pa2.wo224 <all> Ministry
+
+ignores:
+  UnmatchedTextsError: [ pa1.ta0.ro0.ce2, pa1.ta0.ro2.ce2, pa1.ta0.ro7.ce2, pa1.ta0.ro11.ce2, pa2.ta0.ro7.ce2,  pa2.ta0.ro9.ce2, pa3.ta0.ro3.ce2 ]

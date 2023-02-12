@@ -1,0 +1,4 @@
+# 	MISMATCH P: 0 A: 3 E: 2 W: 103 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo64 <all> ii

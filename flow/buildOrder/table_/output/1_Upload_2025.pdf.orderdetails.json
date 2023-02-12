@@ -1,0 +1,16 @@
+{"date": "1950-01-26", "details": [
+{"detail_idx": 0, "officer_id": "Q1047", "continues": [["Ministry of External Affairs", "Prime Minister"], ["Ministry of Scientific Research", "Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q9455", "continues": [["Ministry of Home Affairs", "Deputy Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q196617", "continues": [["Ministry of Education", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q6247132", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q4850423", "continues": [["Ministry of Defence", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q1471625", "continues": [["Ministry of Labour", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q7282619", "continues": [["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q431601", "continues": [["Ministry of Health", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q231690", "continues": [["Ministry of Law and Justice", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 9, "officer_id": "Q3344992", "continues": [["Ministry of Industry", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q6965275", "continues": [["Ministry of Works Mines & Power", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 11, "officer_id": "Q16932773", "continues": [["Ministry of Commerce", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 12, "officer_id": "Q6036811", "continues": [["Ministry of Transport", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 13, "officer_id": "Q6124202", "continues": [["Ministry of Agriculture", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

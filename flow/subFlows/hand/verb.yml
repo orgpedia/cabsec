@@ -1,0 +1,12 @@
+name: verb
+description: Verbs used
+orgCode: cabsec
+verbs:
+  - name: assumes
+    alias: [assumed, 'shall also be', 'appointed', 'designated', 'shall also hold', 'will hold charge of', 'will exercise overall supervision over', 'shall hold temporarily the charge', 'redesignated', 'shall hold temporarily the additional charge of', 'taken charge of']
+
+  - name: relinquishes
+    alias: [relinquished, relinquish, resignation, 'ceased to', 'relieved']
+
+  - name: continues
+    alias: [ continue to hold, retains, 'existing charge', 'in addition to the present charge' ]

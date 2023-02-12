@@ -1,0 +1,4 @@
+newline_height_multiple: 0.9
+rotation_config:
+  rotation_strategy: num_markers
+  rotation_page_idxs: [ 0, 1]

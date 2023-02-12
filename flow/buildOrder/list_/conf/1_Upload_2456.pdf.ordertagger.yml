@@ -1,0 +1,12 @@
+mode: overwrite_detail
+order:
+  order_date: 3 Aug 1979
+  details:
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 100, 101, 102]
+
+      assumes:
+        - idxs: [110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125]

@@ -1,0 +1,5 @@
+edits:
+  - mergeWords pa0.wo201 pa0.wo203
+
+  - replaceStr pa0.wo201 <all> Petroleum
+  - replaceStr pa1.wo79 <all> Tourism

@@ -1,0 +1,5 @@
+{"date": "1999-08-06", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q122304", "continues": [], "relinquishes": [["Ministry of Railways", "Cabinet Minister"], ["Ministry of Road Transport and Highways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q3518489", "continues": [["Ministry of External Affairs", "Cabinet Minister"], ["Ministry of Electronics", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Road Transport and Highways", "Cabinet Minister"]]}
+]}

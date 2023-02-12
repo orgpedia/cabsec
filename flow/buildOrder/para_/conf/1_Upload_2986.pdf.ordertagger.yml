@@ -1,0 +1,11 @@
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 28, 29, 30]
+
+      relinquishes:
+        - idxs: [ 31, 32, 33]

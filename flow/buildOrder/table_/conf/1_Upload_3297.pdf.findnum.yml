@@ -1,0 +1,4 @@
+include_zero: True
+
+edits:
+  - newWord 0 pa0.wo45 pa1.wo146

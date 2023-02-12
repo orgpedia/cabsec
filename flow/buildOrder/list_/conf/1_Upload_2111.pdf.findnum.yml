@@ -1,0 +1,14 @@
+# 	MISMATCH P: 0 A: 11 E: 2 W: 57 F: 1 R:False
+# 	MISMATCH P: 0 A: 2 E: 12 W: 138 F: 10 R:False
+
+edits:
+  - replaceStr pa0.wo35 <all> i
+  - replaceStr pa0.wo57 <all> ii
+  - replaceStr pa0.wo77 <all> iii
+  - replaceStr pa0.wo101 <all> iv
+  - clearWord pa0.wo138
+  - clearWord pa0.wo178
+  - replaceStr pa0.wo137 <all> Welfare.
+  - replaceStr pa0.wo112 <all> Finance
+
+  - replaceStr pa0.wo17 <all> January

@@ -1,0 +1,9 @@
+# 	MISMATCH P: 0 A: 20 E: 2 W: 76 F: 1 R:False
+# 	MISMATCH P: 0 A: 7 E: 21 W: 78 F: 19 R:False
+min_marker: 1
+
+edits:
+  - replaceStr pa0.wo32 <all> i
+  - clearWord pa0.wo76
+  - clearWords pa0.wo78
+  - newWord ',' pa0.wo58 pa0.wo48

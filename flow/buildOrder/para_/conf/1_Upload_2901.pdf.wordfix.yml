@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo47 <all> of
+  - replaceStr pa0.wo48 <all> State
+  - mergeWords pa0.wo67 pa0.wo68 pa0.wo69
+  - replaceStr pa0.wo67 <all> Department

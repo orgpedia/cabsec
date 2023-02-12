@@ -1,0 +1,7 @@
+edits:
+  - mergeWords pa0.wo71 pa0.wo72
+  - replaceStr pa0.wo71 <all> Minister
+
+  - replaceStr pa0.wo96 <all> Minister
+
+  - clearWords pa0.wo48 pa0.wo49

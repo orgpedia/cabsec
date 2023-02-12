@@ -1,0 +1,3 @@
+edits:
+  - replaceStr pa0.wo57 <all> 'Culture (Shiksha'
+  - clearWords pa0.wo73 pa0.wo74 pa0.wo75

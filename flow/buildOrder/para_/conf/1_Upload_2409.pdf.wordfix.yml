@@ -1,0 +1,12 @@
+edits:
+  - mergeWords pa0.wo61 pa0.wo62
+
+  - mergeWords pa0.wo99 pa0.wo100 pa0.wo101
+
+  - mergeWords pa0.wo74 pa0.wo75 pa0.wo76 pa0.wo77 pa0.wo78
+  - mergeWords pa0.wo80 pa0.wo81 pa0.wo82
+  - replaceStr pa0.wo80 <all> Parliamentary
+
+  - mergeWords pa0.wo89 pa0.wo90 pa0.wo91
+
+  - clearWords pa0.wo94

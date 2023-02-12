@@ -1,0 +1,5 @@
+{"date": "1986-01-28", "details": [
+{"detail_idx": 0, "officer_id": "Q6355306", "continues": [], "relinquishes": [["Ministry of Food", "Minister of State (Independent Charge)"], ["Ministry of Civil Supplies", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q43377074", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7117543", "continues": [["Ministry of Commerce", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Food", "Cabinet Minister"], ["Ministry of Civil Supplies", "Cabinet Minister"]]}
+]}

@@ -1,0 +1,269 @@
+# 	MISMATCH P: 3 A: 3 E: 2 W: 38 F: 1 R:False
+# 	MISMATCH P: 3 A: 7 E: 5 W: 75 F: 2 R:False
+# 	MISMATCH P: 3 A: 10 E: 9 W: 106 F: 4 R:False
+# 	MISMATCH P: 3 A: 10 E: 12 W: 140 F: 5 R:False
+# 	MISMATCH P: 3 A: 13 E: 11 W: 148 F: 3 R:False
+# 	MISMATCH P: 3 A: 34 E: 14 W: 163 F: 5 R:False
+# 	MISMATCH P: 3 A: 16 E: 35 W: 171 F: 25 R:False
+# 	MISMATCH P: 3 A: 5 E: 4 W: 242 F: -10 R:False
+# 	MISMATCH P: 3 A: 7 E: 6 W: 259 F: -9 R:False
+
+edits:
+  - replaceStr pa0.wo14 <all> "14 January"
+  - replaceStr pa0.wo15 <all> 1980
+
+  - replaceStr pa2.wo115 <all> l
+
+  - newWord '   ' pa2.wo43 pa2.wo41
+
+  - newWord 2 pa3.wo20 pa3.wo30
+  - newWord 5 pa3.wo20 pa3.wo59
+  - newWord 6 pa3.wo20 pa3.wo67
+  - newWord 9 pa3.wo20 pa3.wo95
+
+  - newWord 4 pa3.wo20 pa3.wo213
+  - newWord 6 pa3.wo20 pa3.wo254
+
+  - replaceStr pa3.wo75 <all> 7
+  - replaceStr pa3.wo68 <all> R
+  - replaceStr pa3.wo140 <all> 12
+  - replaceStr pa3.wo163 <all> 14
+  - replaceStr pa3.wo171 <all> 15
+
+  - replaceStr pa1.wo63 <all> Justice
+  - clearWords pa1.wo174
+
+  - replaceStr pa2.wo70 <all> Minister
+
+  - replaceStr pa2.wo55 <all> Chandra
+  - replaceStr pa2.wo57 <all> Deo
+
+  - mergeWords pa2.wo100 pa2.wo101 pa2.wo102
+  - replaceStr pa2.wo100 <all> Agriculture
+
+  - mergeWords pa2.wo189 pa2.wo190
+  - replaceStr pa2.wo189 <all> Petroleum
+
+  - mergeWords pa2.wo236 pa2.wo237
+  - replaceStr pa2.wo236 <all> reconstruction
+
+  - newWord Shrimati pa3.wo30 pa3.wo20
+  - newWord Indira pa3.wo40 pa3.wo20
+  - newWord Gandhi pa3.wo41 pa3.wo20
+
+  - replaceStr pa3.wo21 <all> Prime
+  - replaceStr pa3.wo22 <all> Minister
+
+  - replaceStr pa3.wo30 <all> Rao
+  - replaceStr pa3.wo31 <all> Birendra
+  - replaceStr pa3.wo32 <all> Singh
+
+  - mergeWords pa3.wo35 pa3.wo36 pa3.wo37
+  - replaceStr pa3.wo35 <all> agriculture
+
+
+  - mergeWords pa3.wo40 pa3.wo41
+  - replaceStr pa3.wo40 <all> Shankaranand
+
+  - replaceStr pa3.wo42 <all> Minister
+  - replaceStr pa3.wo44 <all> Education
+
+  - replaceStr pa3.wo46 <all> 'Shri A.B.A.'
+  - replaceStr pa3.wo47 <all> 'Ghani Khan Chaudhary'
+
+
+  - replaceStr pa3.wo50 <all> Energy
+  - replaceStr pa3.wo52 <all> Irrigation
+
+  - mergeWords pa3.wo53 pa3.wo54
+  - replaceStr pa3.wo53 <all> Minister
+
+  - replaceStr pa3.wo56 <all> External
+  - replaceStr pa3.wo57 <all> Affairs
+
+  - replaceStr pa3.wo59 <all> Shri
+
+  - replaceStr pa3.wo61 <all> 'V.'
+  - replaceStr pa3.wo62 <all> Na
+  - replaceStr pa3.wo63 <all> rasim
+  - replaceStr pa3.wo65 <all> Rao
+
+  - replaceStr pa3.wo67 <all> Shri
+  - replaceStr pa3.wo69 <all> Venk
+  - replaceStr pa3.wo70 <all> taraman
+
+  - replaceStr pa3.wo76 <all> Shri
+  - replaceStr pa3.wo78 <all> Sathe
+
+  - replaceStr pa3.wo80 <all> of
+  - mergeWords pa3.wo81 pa3.wo82 pa3.wo83 pa3.wo84
+  - replaceStr pa3.wo81 <all> Information
+
+  - replaceStr pa3.wo85 <all> and
+  - mergeWords pa3.wo86 pa3.wo87 pa3.wo88
+  - replaceStr pa3.wo86 <all> Broadcasting
+
+  - replaceStr pa3.wo96 <all> Shi
+  - replaceStr pa3.wo98 <all> Shanker
+
+  - newWord Giani pa3.wo95 pa3.wo89
+  - newWord Zail pa3.wo96 pa3.wo89
+  - newWord Singh pa3.wo98 pa3.wo89
+
+  - replaceStr pa3.wo92 <all> Home
+  - replaceStr pa3.wo93 <all> Affairs
+
+  - replaceStr pa3.wo99 <all> Minister
+  - replaceStr pa3.wo100 <all> of
+  - replaceStr pa3.wo101 <all> 'Law, Justice'
+  - replaceStr pa3.wo102 <all> and
+  - replaceStr pa3.wo104 <all> Affairs
+
+  - replaceStr pa3.wo107 <all> Shri
+  - replaceStr pa3.wo108 <all> Kamalapa
+  - replaceStr pa3.wo109 <all> ti
+  - replaceStr pa3.wo110 <all> tripathi
+
+  - replaceStr pa3.wo116 <all> Shri
+  - replaceStr pa3.wo117 <all> 'A.P.'
+  - replaceStr pa3.wo118 <all> Shar
+
+  - replaceStr pa3.wo113 <all> Railways
+  - mergeWords pa3.wo124 pa3.wo125
+  - replaceStr pa3.wo124 <all> Transport
+  - replaceStr pa3.wo132 <all> Civil
+  - replaceStr pa3.wo133 <all> Aviation
+
+  - replaceStr pa3.wo141 <all> Shri
+  - replaceStr pa3.wo143 <all> 'B.'
+  - replaceStr pa3.wo144 <all> Pat
+  - replaceStr pa3.wo145 <all> na
+  - replaceStr pa3.wo146 <all> ik
+
+  - replaceStr pa3.wo149 <all> Shri
+  - replaceStr pa3.wo150 <all> 'P.C.'
+  - replaceStr pa3.wo151 <all> Sethi
+
+
+  - mergeWords pa3.wo127 pa3.wo128
+  - mergeWords pa3.wo134 pa3.wo135
+  - mergeWords pa3.wo153 pa3.wo154
+  - mergeWords pa3.wo158 pa3.wo159
+  - mergeWords pa3.wo201 pa3.wo202
+
+
+
+  - replaceStr pa3.wo48 <all> Minister
+  - replaceStr pa3.wo79 <all> Minister
+  - replaceStr pa3.wo90 <all> Minister
+  - replaceStr pa3.wo111 <all> Minister
+  - replaceStr pa3.wo127 <all> Minister
+  - replaceStr pa3.wo134 <all> Minister
+  - replaceStr pa3.wo153 <all> Minister
+  - replaceStr pa3.wo158 <all> Minister
+  - replaceStr pa3.wo201 <all> Minister
+  - replaceStr pa3.wo217 <all> Minister
+
+
+  - newWord Works pa3.wo161 pa3.wo136
+  - replaceStr pa3.wo137 <all> and
+  - mergeWords pa3.wo138 pa3.wo139
+  - replaceStr pa3.wo138 <all> Housing
+
+  - replaceStr pa3.wo156 <all> Parliamentary
+  - replaceStr pa3.wo157 <all> Affairs
+
+  - replaceStr pa3.wo165 <all> Bhishma
+  - replaceStr pa3.wo166 <all> Nar
+  - replaceStr pa3.wo167 <all> ain
+
+  - replaceStr pa3.wo160 <all> of
+  - mergeWords pa3.wo161 pa3.wo162
+  - replaceStr pa3.wo161 <all> Commerce
+
+  - replaceStr pa3.wo172 <all> Shri
+  - replaceStr pa3.wo173 <all> Pranab
+  - replaceStr pa3.wo174 <all> Mukherjee
+
+
+  - replaceStr pa3.wo177 <all> State
+  - replaceStr pa3.wo193 <all> State
+
+  - replaceStr pa3.wo183 <all> Shri
+  - newWord 'R.V'. pa3.wo189 pa3.wo184
+  - replaceStr pa3.wo184 <all> Swam
+  - replaceStr pa3.wo185 <all> ina
+  - replaceStr pa3.wo186 <all> than
+
+  - mergeWords pa3.wo204 pa3.wo205
+  - replaceStr pa3.wo204 <all> State
+
+  - replaceStr pa3.wo180 <all> Ministry
+  - replaceStr pa3.wo181 <all> of
+  - replaceStr pa3.wo182 <all> Agriculture
+
+  - replaceStr pa3.wo189 <all> Jagannath
+  - replaceStr pa3.wo190 <all> Pahadia
+
+  - replaceStr pa3.wo192 <all> of
+  - replaceStr pa3.wo196 <all> Ministry
+  - replaceStr pa3.wo197 <all> of
+
+
+  - replaceStr pa3.wo203 <all> of
+  - replaceStr pa3.wo210 <all> Health
+
+  - newWord Nihar  pa3.wo213 pa3.wo212
+  - newWord Ranjan pa3.wo214 pa3.wo212
+  - newWord Laskar pa3.wo186 pa3.wo212
+
+  - replaceStr pa3.wo215 <all> Venkata
+  - replaceStr pa3.wo216 <all> subbaiah
+
+  - mergeWords pa3.wo222 pa3.wo223
+  - replaceStr pa3.wo222 <all> Ministry
+  - replaceStr pa3.wo224 <all> 'of Home'
+  - replaceStr pa3.wo225 <all> Affairs
+  - clearWords pa3.wo226
+
+  - replaceStr pa3.wo227 <all> Shri
+  - replaceStr pa3.wo229 <all> dra
+  - replaceStr pa3.wo230 <all> Makwana
+
+  - replaceStr pa3.wo240 <all> Home
+  - replaceStr pa3.wo241 <all> Affairs
+
+  - mergeWords pa3.wo250 pa3.wo251
+  - replaceStr pa3.wo250 <all> Ministry
+  - replaceStr pa3.wo253 <all> Railways
+
+  - replaceStr pa3.wo255 <all> 'C.K.'
+  - replaceStr pa3.wo256 <all> Jaffer
+  - replaceStr pa3.wo257 <all> Sharif
+
+  - newWord Minister pa3.wo208 pa3.wo262
+  - newWord of pa3.wo265 pa3.wo262
+  - newWord State pa3.wo247 pa3.wo262
+  - newWord in pa3.wo248 pa3.wo262
+  - newWord the pa3.wo249 pa3.wo262
+  - newWord '      ' pa3.wo269 pa3.wo262
+
+  - replaceStr pa3.wo262 <all> Oraon
+
+  - replaceStr pa3.wo264 <all> Ministry
+  - replaceStr pa3.wo265 <all> of
+  - mergeWords pa3.wo266 pa3.wo267
+  - replaceStr pa3.wo266 <all> Tourism
+
+  - replaceStr pa3.wo268 <all> and
+  - replaceStr pa3.wo269 <all> Civil
+
+  - clearWords pa3.wo265
+
+  - mergeWords pa3.wo270 pa3.wo271 pa3.wo272 pa3.wo273
+  - replaceStr pa3.wo270 <all> Aviation
+
+  ## Page numbers are purposely different
+
+  - newWord 'CABINET' pa3.wo65 pa2.wo21
+  - newWord 'MINISTER' pa3.wo53 pa2.wo21

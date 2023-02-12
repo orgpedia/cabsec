@@ -1,0 +1,6 @@
+edits:
+  - replaceStr pa0.wo47 <all> Supplies
+  - clearWords pa0.wo237  pa0.wo238
+  - replaceStr pa0.wo271 <all> Department
+  - mergeWords pa1.wo6 pa0.wo7
+  - replaceStr pa1.wo6 <all> assumed

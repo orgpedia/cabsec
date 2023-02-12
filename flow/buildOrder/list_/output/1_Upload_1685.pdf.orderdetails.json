@@ -1,0 +1,7 @@
+{"date": "2001-07-22", "details": [
+{"detail_idx": 0, "officer_id": "Q122304", "continues": [["Ministry of Railways", "Cabinet Minister"]], "relinquishes": [["Ministry of Agriculture", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q4699805", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q2745305", "continues": [], "relinquishes": [["Ministry of Commerce and Industry", "Minister of State"]], "assumes": [["Ministry of External Affairs", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q5276384", "continues": [], "relinquishes": [["Ministry of Railways", "Minister of State"]], "assumes": [["Ministry of Commerce and Industry", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q6437529", "continues": [], "relinquishes": [["Ministry of External Affairs", "Minister of State"]], "assumes": [["Ministry of Defence", "Minister of State"]]}
+]}

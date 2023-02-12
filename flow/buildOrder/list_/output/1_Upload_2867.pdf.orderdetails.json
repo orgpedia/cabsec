@@ -1,0 +1,11 @@
+{"date": "1967-11-14", "details": [
+{"detail_idx": 0, "officer_id": "Q17388761", "continues": [["Ministry without portfolio", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Cabinet Minister"], ["Ministry of Urban Development", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7586477", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"], ["Ministry of Urban Development", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q3630093", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State"]], "assumes": [["Ministry of Defence", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q2604943", "continues": [], "relinquishes": [["Ministry of Defence", "Minister of State"]], "assumes": [["Ministry of External Affairs", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q45983738", "continues": [], "relinquishes": [["Ministry of Parliamentary Affairs", "Deputy Minister"]], "assumes": [["Ministry of Railways", "Deputy Minister"]]},
+{"detail_idx": 5, "officer_id": "Q16007372", "continues": [], "relinquishes": [["Ministry of Law and Justice", "Deputy Minister"]], "assumes": [["Ministry of Labour", "Deputy Minister"]]},
+{"detail_idx": 6, "officer_id": "Q3532549", "continues": [], "relinquishes": [["Ministry of Railways", "Deputy Minister"]], "assumes": [["Ministry of Labour", "Deputy Minister"]]},
+{"detail_idx": 7, "officer_id": "Q110322132", "continues": [], "relinquishes": [["Ministry of Parliamentary Affairs", "Deputy Minister"]], "assumes": [["Ministry of Welfare", "Deputy Minister"]]},
+{"detail_idx": 8, "officer_id": "Q4875042", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Deputy Minister"]], "assumes": [["Ministry of Health and Family Welfare", "Deputy Minister"], ["Ministry of Urban Development", "Deputy Minister"]]}
+]}

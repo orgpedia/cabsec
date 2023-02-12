@@ -1,0 +1,15 @@
+edits:
+  - replaceStr pa2.wo58 <all> 'Broadcasting(Soochena'
+  - replaceStr pa2.wo70 <all> 'Communications'
+  - mergeWords pa2.wo86 pa2.wo87
+  - replaceStr pa2.wo86 <all> 'Rehabilitation'
+  - newWord '  ' pa2.wo131 pa2.wo142
+
+  - replaceStr pa2.wo133 <all> 'Minister'
+  - replaceStr pa2.wo149 <all> 'Commerce'
+  - replaceStr pa2.wo164 <all> 'Tourism'
+  - replaceStr pa2.wo165 <all> 'and'
+  - replaceStr pa2.wo186 <all> 'Revenue'
+  - replaceStr pa3.wo21 <all> 'Energy'
+
+  - replaceStr pa0.wo23 <all> 24

@@ -1,0 +1,3 @@
+rotation_config:
+  rotation_strategy: manual
+  rotation_arg: -4.0

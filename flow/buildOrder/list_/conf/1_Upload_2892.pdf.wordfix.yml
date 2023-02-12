@@ -1,0 +1,3 @@
+edits:
+  - mergeWords pa0.wo106 pa0.wo107
+  - replaceStr pa0.wo106 <all> Minister

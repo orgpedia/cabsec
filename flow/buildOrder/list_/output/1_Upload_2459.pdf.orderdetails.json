@@ -1,0 +1,11 @@
+{"date": "1979-08-08", "details": [
+{"detail_idx": 0, "officer_id": "Q111721150", "continues": [["Ministry of Communications", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6323364", "continues": [["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q6969977", "continues": [["Ministry of Agriculture", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q17495754", "continues": [["Ministry of Agriculture", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q3595256", "continues": [["Ministry of Commerce", "Minister of State"], ["Ministry of Civil Supplies", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7427196", "continues": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q4200814", "continues": [["Ministry of Steel", "Minister of State"], ["Ministry of Mines", "Minister of State"], ["Ministry of Coal", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q6416636", "continues": [["Ministry of Steel", "Minister of State"], ["Ministry of Mines", "Minister of State"], ["Ministry of Coal", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q42486026", "continues": [["Ministry of Education", "Minister of State"], ["Ministry of Welfare", "Minister of State"], ["Ministry of Culture", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

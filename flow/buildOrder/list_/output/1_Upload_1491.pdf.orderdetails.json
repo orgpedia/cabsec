@@ -1,0 +1,6 @@
+{"date": "2007-05-15", "details": [
+{"detail_idx": 0, "officer_id": "Q3523083", "continues": [], "relinquishes": [["Ministry of Communications and Information Technology", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q201408", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Cabinet Minister"]], "assumes": [["Ministry of Communications and Information Technology", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q41914", "continues": [], "relinquishes": [], "assumes": [["Ministry of Environment and Forests", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7387828", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Minister of State"]], "assumes": [["Ministry of Environment and Forests", "Minister of State"]]}
+]}

@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa1.wo88 <all> 'K. P.'
+  - replaceStr pa1.wo89 <all> Singh
+  - replaceStr pa1.wo90 <all> Deo

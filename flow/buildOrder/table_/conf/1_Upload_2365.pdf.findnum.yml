@@ -1,0 +1,195 @@
+# 	MISMATCH P: 0 A: 6 E: 2 W: 61 F: -1 R:False
+# 	MISMATCH P: 0 A: 11 E: 10 W: 102 F: 3 R:False
+# 	MISMATCH P: 0 A: 17 E: 16 W: 171 F: 4 R:False
+# 	MISMATCH P: 1 A: 4 E: 3 W: 81 F: 1 R:False
+# 	MISMATCH P: 1 A: 8 E: 7 W: 153 F: 2 R:False
+
+edits:
+  - newWord 1 pa0.wo35 pa0.wo17
+  - newWord 2 pa0.wo35 pa0.wo28
+  - clearWord pa0.wo53
+  - newWord 10 pa0.wo35 pa0.wo94
+  - replaceStr pa0.wo164 <all> 16
+
+  - replaceStr pa1.wo42 <all> 3
+  - clearWord pa1.wo114
+
+  - replaceStr pa0.wo20 <all> Prime
+  - replaceStr pa1.wo100 <all> Dharmavir
+  - mergeWords pa1.wo116 pa1.wo117
+  - mergeWords pa1.wo188 pa1.wo189
+
+  - replaceStr pa2.wo147 <all> Shri
+  - mergeWords pa2.wo162 pa2.wo163
+
+  - replaceStr pa2.wo232 <all> kumudbhen
+
+  - mergeWords pa2.wo236 pa2.wo237
+  - replaceStr pa2.wo236 <all> Deputy
+
+  - mergeWords pa2.wo268 pa2.wo269
+
+  - replaceStr pa3.wo26 <all> Deputy
+  - replaceStr pa3.wo45 <all> Deputy
+  - replaceStr pa3.wo57 <all> Deputy
+
+  - replaceStr pa3.wo23 <all> 'M. S.'
+  - replaceStr pa3.wo24 <all> Sanjeevi
+  - replaceStr pa3.wo25 <all> Rao
+
+  - replaceStr pa3.wo9 <all> Janar
+  - replaceStr pa3.wo10 <all> dhan
+  - replaceStr pa3.wo11 <all> Poojary
+
+  - replaceStr pa0.wo12 <all> '2. 1983'
+
+  - mergeWords pa1.wo19 pa1.wo20 pa1.wo21
+
+  - replaceStr pa1.wo28 <all> State
+  - mergeWords pa1.wo40 pa1.wo41
+
+
+
+  - replaceStr pa1.wo50 <all> State
+  - mergeWords pa1.wo53 pa1.wo54
+  - replaceStr pa1.wo53 <all> Ministry
+  - mergeWords pa1.wo64 pa1.wo65
+  - clearWord pa1.wo64
+  - replaceStr pa1.wo66 <all> of
+
+  - mergeWords pa1.wo79 pa1.wo80
+  - replaceStr pa1.wo79 <all> Defence
+
+  - replaceStr pa1.wo87 <all> Minister
+  - replaceStr pa1.wo97 <all> Rehabilitation
+
+  - replaceStr pa1.wo127 <all> of
+  - mergeWords pa1.wo130 pa1.wo131 pa1.wo132
+
+  - replaceStr pa1.wo142 <all> Welfare.
+
+  - clearWords pa1.wo152 pa1.wo165
+
+  - replaceStr pa1.wo166 <all> Minister
+  - mergeWords pa1.wo175 pa1.wo176
+
+  - mergeWords pa1.wo163 pa1.wo164
+  #- splitWord pa1.wo168 'Stato'
+  - replaceStr pa1.wo168 <all> 'State (Indep'
+  - mergeWords pa1.wo168 pa1.wo169
+  - replaceStr pa1.wo170 <all> 'charge)'
+
+  - replaceStr pa1.wo215 <all> Minister
+  - replaceStr pa1.wo222 <all> of
+
+  - mergeWords pa1.wo244 pa1.wo245
+  - replaceStr pa1.wo244 <all> '(Independent'
+
+  - mergeWords pa1.wo268  pa1.wo269
+  - replaceStr pa1.wo268 <all> Dept
+  - replaceStr pa1.wo271 <all> Petroleum
+
+  - mergeWords pa1.wo282 pa1.wo283
+  - replaceStr pa1.wo282 <all> '(Independent'
+
+  - mergeWords pa1.wo284 pa1.wo285
+  - replaceStr pa1.wo284 <all> 'charge)'
+
+  - replaceStr pa1.wo292 <all> Development
+
+  - mergeWords pa1.wo304 pa1.wo305
+  - replaceStr pa1.wo304 <all> Dept
+
+  - mergeWords pa1.wo312 pa1.wo313 pa1.wo314
+  - replaceStr pa1.wo312 <all> Energy
+
+  - replaceStr pa1.wo318 <all> and
+
+  - mergeWords pa1.wo320 pa1.wo321
+  - replaceStr pa1.wo320 <all> Development
+
+  - mergeWords pa1.wo348 pa1.wo349
+  - replaceStr pa1.wo348 <all> Dept
+
+  - mergeWords pa1.wo351 pa1.wo352 pa1.wo353 pa1.wo354
+  - replaceStr pa1.wo351 <all> Parliamentary
+
+  - replaceStr pa2.wo2 <all> of
+  - replaceStr pa2.wo16 <all> Minister
+  - replaceStr pa2.wo18 <all> State
+
+  - mergeWords pa2.wo26 pa2.wo27
+  - replaceStr pa2.wo26 <all> Fertlizers
+
+
+  - replaceStr pa2.wo67 <all> State
+
+  - mergeWords pa2.wo94 pa2.wo95 pa2.wo96 pa2.wo97
+  - replaceStr pa2.wo94 <all> Department
+
+  - mergeWords pa2.wo106 pa2.wo107
+  - replaceStr pa2.wo106 <all> Energy
+
+
+
+  - replaceStr pa2.wo127 <all> of
+  - replaceStr pa2.wo132 <all> of
+  - replaceStr pa2.wo135 <all> Steel
+
+  - replaceStr pa2.wo182 <all> Deputy
+  - replaceStr pa2.wo183 <all> Minister
+
+  - mergeWords pa2.wo208 pa2.wo209
+  - replaceStr pa2.wo208 <all> of
+  - mergeWords pa2.wo210 pa2.wo211
+
+  - mergeWords pa2.wo222 pa2.wo223
+  - mergeWords pa2.wo228 pa2.wo229
+  - replaceStr pa2.wo226 <all> and
+  - replaceStr pa2.wo228 <all> Welfare
+
+  - mergeWords pa2.wo236 pa2.wo237
+  - mergeWords pa2.wo243 pa2.wo244
+  - replaceStr pa2.wo242 <all> of
+
+  - mergeWords pa2.wo246 pa2.wo247 pa2.wo248
+  - replaceStr pa2.wo246 <all> Broadcasting
+  - replaceStr pa2.wo259 <all> Department
+
+  - mergeWords pa2.wo249 pa2.wo250
+  - mergeWords pa2.wo259 pa2.wo260 pa2.wo261
+
+  - mergeWords pa2.wo268 pa2.wo269
+
+  - replaceStr pa3.wo6 <all> Finance
+
+  - newWord '           ' pa3.wo48 pa3.wo33
+  - newWord '           ' pa3.wo49 pa3.wo33
+  - newWord '           ' pa3.wo50 pa3.wo33
+  - newWord '           ' pa3.wo51 pa3.wo33
+
+  - newWord '           ' pa3.wo52 pa3.wo57
+
+  - newWord '           ' pa3.wo59 pa3.wo52
+  - newWord '           ' pa3.wo60 pa3.wo52
+  - newWord '           ' pa3.wo61 pa3.wo52
+  - newWord '           ' pa3.wo62 pa3.wo52
+
+  - mergeWords pa3.wo17 pa3.wo18
+  - replaceStr pa3.wo17 <all> Dept
+
+  - replaceStr pa3.wo32 <all> of
+
+
+  - mergeWords pa3.wo49 pa3.wo50
+  - replaceStr pa3.wo49 <all> Dept
+  - mergeWords pa3.wo52 pa3.wo53 pa3.wo54 pa3.wo55 pa3.wo56
+
+  - newWord '           ' pa3.wo46 pa3.wo33
+  - newWord '           ' pa3.wo47 pa3.wo33
+
+  - replaceStr pa3.wo52 <all> Environment
+  - replaceStr pa3.wo64 <all> and
+
+  - mergeWords pa3.wo33 pa3.wo34 pa3.wo35
+  - replaceStr pa3.wo33 <all> Commerce

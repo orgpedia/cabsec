@@ -1,0 +1,7 @@
+{"date": "1975-12-02", "details": [
+{"detail_idx": 0, "officer_id": "Q1149", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3634914", "continues": [], "relinquishes": [["Ministry without portfolio", "Cabinet Minister"]], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q17285530", "continues": [], "relinquishes": [["Ministry of Petroleum", "Cabinet Minister"], ["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": [["Ministry of Petroleum", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q6433963", "continues": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "relinquishes": [["Ministry of Supply", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q962538", "continues": [], "relinquishes": [["Ministry of Defence", "Minister of State"]], "assumes": [["Ministry of Supply", "Minister of State"]]}
+]}

@@ -1,0 +1,6 @@
+{"date": "1969-11-16", "details": [
+{"detail_idx": 0, "officer_id": "Q6124294", "continues": [], "relinquishes": [["Ministry of Labour", ""]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q1471625", "continues": [["Ministry of Agriculture", ""]], "relinquishes": [], "assumes": [["Ministry of Labour", ""]]},
+{"detail_idx": 2, "officer_id": "Q3667173", "continues": [], "relinquishes": [["Ministry of Steel and Heavy Engineering", ""]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q1034290", "continues": [["Ministry of Defence", ""]], "relinquishes": [], "assumes": [["Ministry of Steel and Heavy Engineering", ""]]}
+]}

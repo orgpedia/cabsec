@@ -1,0 +1,8 @@
+edits:
+  - replaceStr pa0.wo194 <all> '(Independent'
+  - replaceStr pa0.wo200 <all> 'Petroleum'
+  - mergeWords pa0.wo81 pa0.wo82
+  - replaceStr pa0.wo110 <all> 'Ministry of Personnel, Public Grievances and Pensions'
+  - mergeWords pa0.wo21 pa0.wo22
+  - replaceStr pa0.wo21 <all> January
+  - replaceStr pa0.wo23 <all> 1986

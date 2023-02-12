@@ -1,0 +1,23 @@
+order:
+  order_date: '20th January, 1957'
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 43, 44, 45]
+
+      assumes:
+        - idxs: [ 58, 59, 60 ]
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 76, 77, 78, 79 ]
+
+      continues:
+        - idxs: [ 83, 84 ]
+
+      assumes:
+        - idxs: [ 86, 87 ]

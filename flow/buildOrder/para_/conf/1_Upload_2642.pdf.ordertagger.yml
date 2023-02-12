@@ -1,0 +1,15 @@
+mode: overwrite_detail
+edits:
+  - replaceStr pa0.wo56 <all> Welfare
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 39, 40, 41, 42 ]
+
+      assumes:
+        - idxs: [ 47, 48, 49, 50, 51, 52, 53, 54]
+        - idxs: [ 55, 56 ]
+        - idxs: [ 58 ]

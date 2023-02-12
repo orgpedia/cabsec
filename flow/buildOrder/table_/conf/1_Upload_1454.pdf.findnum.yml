@@ -1,0 +1,9 @@
+edits:
+  - clearWord pa0.wo7
+  - clearWord pa0.wo9
+  - clearWord pa0.wo11
+
+  - replaceStr pa2.wo87 <all> v
+  - newWord '       ' pa3.wo285 pa3.wo286
+
+  - replaceStr pa2.wo259 <all> Road

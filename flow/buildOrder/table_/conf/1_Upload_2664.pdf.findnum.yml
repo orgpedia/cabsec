@@ -1,0 +1,61 @@
+# 	MISMATCH P: 2 A: 11 E: 10 W: 180 F: 1 R:False
+# 	MISMATCH P: 3 A: 14 E: 16 W: 26 F: 15 R:False
+# 	MISMATCH P: 3 A: 5 E: 3 W: 138 F: -5 R:False
+# 	MISMATCH P: 3 A: 4 E: 6 W: 163 F: -3 R:False
+# 	MISMATCH P: 4 A: 6 E: 3 W: 106 F: 1 R:False
+# 	MISMATCH P: 4 A: 6 E: 7 W: 110 F: 4 R:False
+# 	MISMATCH P: 4 A: 3 E: 8 W: 170 F: 3 R:False
+# 	MISMATCH P: 4 A: 9 E: 4 W: 214 F: -2 R:False
+# 	MISMATCH P: 6 A: 6 E: 16 W: 169 F: 8 R:False
+# 	MISMATCH P: 6 A: 17 E: 7 W: 266 F: -2 R:False
+# 	MISMATCH P: 6 A: 2 E: 18 W: 271 F: 8 R:False
+
+edits:
+  - clearWord pa2.wo171
+  - clearWords pa2.wo172
+
+  - newWord 10 pa2.wo180 pa2.wo174
+
+  - replaceStr pa3.wo1 <all> 13
+  - replaceStr pa3.wo138 <all> 3
+  - replaceStr pa3.wo141 <all> 'S.'
+  - replaceStr pa3.wo232 <all> 7
+
+  - replaceStr pa4.wo76 <all> 3
+  - newWord 4 pa4.wo106 pa4.wo82
+  - replaceStr pa4.wo106 <all> 5
+  - replaceStr pa4.wo170 <all> 8
+
+  - replaceStr pa5.wo181 <all> 4
+  - newWord 5 pa5.wo181 pa5.wo207
+  - replaceStr pa5.wo210 <all> 6
+
+  - newWord 7 pa4.wo35 pa4.wo2
+
+  - newWord 7 pa6.wo35 pa6.wo2
+  - replaceStr pa6.wo80 <all> 11
+  - replaceStr pa6.wo169 <all> 16
+  - replaceStr pa6.wo271 <all> 18
+
+  - mergeWords pa5.wo164 pa5.wo165
+  - replaceStr pa5.wo164 <all> Deputy
+  - clearWords pa6.wo276 pa6.wo277 pa6.wo278
+  - replaceStr pa3.wo139 <all> Prof.
+  - replaceStr pa5.wo183 <all> 'A.K.M.'
+  - clearWords pa5.wo185
+
+
+
+
+  - clearWords pa4.wo287 pa4.wo288 pa4.wo289 pa4.wo290
+  - replaceStr pa5.wo211 <all> Shri
+
+  - clearWords pa5.wo251 pa5.wo252 pa5.wo253 pa5.wo254
+  - replaceStr pa5.wo72 <all> Shri
+  - replaceStr pa2.wo162 <all> Shri
+
+  - clearWords pa3.wo247 pa3.wo248 pa3.wo249 pa3.wo250 pa3.wo251
+  - clearWords pa2.wo236 pa2.wo237 pa2.wo238 pa2.wo244 pa2.wo245
+  - clearWords pa2.wo246 pa2.wo247 pa2.wo252 pa2.wo253 pa2.wo254
+
+  - clearWords pa7.wo80

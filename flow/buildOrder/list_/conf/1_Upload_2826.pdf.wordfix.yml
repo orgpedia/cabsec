@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo200 <all> relinquished
+  - mergeWords pa1.wo245 pa1.wo246
+  - replaceStr pa1.wo245 <all> Industrial

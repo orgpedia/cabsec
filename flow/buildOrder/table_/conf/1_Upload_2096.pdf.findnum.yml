@@ -1,0 +1,21 @@
+# 	MISMATCH P: 0 A: 3 E: 2 W: 81 F: 1 R:False
+# 	MISMATCH P: 0 A: 7 E: 5 W: 129 F: 2 R:False
+# 	MISMATCH P: 0 A: 10 E: 9 W: 161 F: 4 R:False
+# 	MISMATCH P: 1 A: 7 E: 5 W: 206 F: -8 R:False
+# 	MISMATCH P: 2 A: 4 E: 2 W: 63 F: 1 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 99 F: 3 R:False
+
+edits:
+  - newWord 2 pa0.wo81 pa0.wo78
+  - newWord 5 pa0.wo81 pa0.wo106
+  - newWord 6 pa0.wo81 pa0.wo112
+  - newWord 9 pa0.wo81 pa0.wo157
+
+  - newWord 5 pa1.wo147 pa1.wo164
+  - newWord 6 pa1.wo147 pa1.wo191
+  - newWord 9 pa1.wo147 pa1.wo238
+
+  - newWord 2 pa2.wo4 pa2.wo17
+  - newWord 3 pa2.wo4 pa2.wo42
+  - newWord 5 pa2.wo4 pa2.wo78
+  - newWord 6 pa2.wo4 pa2.wo100

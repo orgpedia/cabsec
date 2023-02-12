@@ -1,0 +1,28 @@
+edits:
+  - replaceStr pa0.wo47 <all> Ministry
+  - replaceStr pa0.wo192 <all> 'department of'
+  - replaceStr pa0.wo197 <all> Ministry
+  - replaceStr pa0.wo198 <all> of
+
+
+  - replaceStr pa0.wo285 <all> Department
+
+  - replaceStr pa1.wo255 <all> Minister
+  - replaceStr pa1.wo345 <all> '(Independent'
+
+  - replaceStr pa2.wo116 <all> 'Department of'
+  - mergeWords pa2.wo123 pa2.wo124
+  - replaceStr pa2.wo123 <all> Parliamentary
+
+  - clearWords pa2.wo207 pa2.wo208 pa2.wo209 pa2.wo210
+
+  - replaceStr pa2.wo255 <all> 'Minister of'
+  - replaceStr pa2.wo264 <all> assumed
+
+  - replaceStr pa2.wo362 <all> Petrochemicals
+  - replaceStr pa2.wo365 <all> Ministry
+
+  - replaceStr pa2.wo440 <all> Department
+  - replaceStr pa2.wo444 <all> '&'
+  - replaceStr pa2.wo445 <all> Wild
+  - replaceStr pa2.wo446 <all> Life

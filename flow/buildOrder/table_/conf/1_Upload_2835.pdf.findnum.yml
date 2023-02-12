@@ -1,0 +1,11 @@
+# 	MISMATCH P: 1 A: 10 E: 9 W: 133 F: 1 R:False
+
+edits:
+  - newWord 9 pa1.wo133 pa1.wo118
+  - newWord '     ' pa2.wo60 pa2.wo192
+  - mergeWords pa3.wo35 pa3.wo36
+
+  - clearWords pa0.wo11 pa0.wo4
+  - replaceStr pa0.wo18 <all> '28-4-1968'
+
+  - mergeWords pa2.wo221 pa2.wo222

@@ -1,0 +1,29 @@
+edits:
+  - mergeWords pa0.wo45 pa0.wo46
+
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 39, 40, 41, 42 ]
+
+      relinquishes:
+        - idxs: [45, 46, 47, 48 ]
+
+      assumes:
+        - idxs: [ 59, 60 ]
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 50, 51, 52, 53]
+
+      relinquishes:
+        - idxs: [  59, 60 ]
+
+      assumes:
+        - idxs: [ 62, 63, 64 ]

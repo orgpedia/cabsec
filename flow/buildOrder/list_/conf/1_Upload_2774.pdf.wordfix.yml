@@ -1,0 +1,15 @@
+edits:
+  - mergeWords pa1.wo254 pa1.wo255
+  - replaceStr pa1.wo254 <all> 'Parliamentary'
+
+  - replaceStr pa2.wo177 <all> Commerce
+  - replaceStr pa2.wo178 <all> '(Vanijya'
+
+  - replaceStr pa2.wo200 <all> power
+  - replaceStr pa2.wo201 <all> '(Sinchai aur'
+
+  - replaceStr pa3.wo82 <all> rehabilitation
+  - replaceStr pa3.wo83 <all> '(Shram'
+
+  - replaceStr pa0.wo166 <all> '(Bhari'
+  - clearWords pa0.wo45

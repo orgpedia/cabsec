@@ -1,0 +1,9 @@
+{"date": "1958-04-07", "details": [
+{"detail_idx": 0, "officer_id": "Q7387957", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", "Deputy Minister"]]},
+{"detail_idx": 1, "officer_id": "Q85740164", "continues": [], "relinquishes": [], "assumes": [["Ministry of Civil Aviation", "Deputy Minister"], ["Ministry of Transport", "Deputy Minister"], ["Ministry of Communications", "Deputy Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7686261", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Deputy Minister"]]},
+{"detail_idx": 3, "officer_id": "Q21573477", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rehabilitation", "Deputy Minister"]]},
+{"detail_idx": 4, "officer_id": "Q17421384", "continues": [], "relinquishes": [], "assumes": [["Ministry of Irrigation", ""], ["Ministry of Power", ""]]},
+{"detail_idx": 5, "officer_id": "Q7387584", "continues": [], "relinquishes": [["Ministry of Irrigation", ""], ["Ministry of Power", ""]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q4900304", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", ""]]}
+]}

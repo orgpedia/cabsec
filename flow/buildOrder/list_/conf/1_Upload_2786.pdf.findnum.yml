@@ -1,0 +1,15 @@
+edits:
+  - replaceStr pa0.wo58 <all> i
+  - replaceStr pa0.wo81 <all> ii
+
+  - mergeWords pa0.wo63 pa0.wo64 pa0.wo65
+  - mergeWords pa0.wo79 pa0.wo80
+  - replaceStr pa0.wo79 <all> and
+
+  - mergeWords pa0.wo89 pa0.wo90
+  - replaceStr pa0.wo89 <all> and
+
+  - replaceStr pa0.wo73 <all> and
+  - replaceStr pa0.wo74 <all> Chemicals
+
+  - replaceStr pa0.wo36 <all> January

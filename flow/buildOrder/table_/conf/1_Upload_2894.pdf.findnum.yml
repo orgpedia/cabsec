@@ -1,0 +1,24 @@
+edits:
+
+  - replaceStr pa2.wo121 <all> MINISTERS
+  - replaceStr pa2.wo120 <all> OF
+  - replaceStr pa2.wo119 <all> STATE
+
+  - mergeWords pa2.wo149 pa2.wo150 pa2.wo151
+  - replaceStr pa2.wo162 <all> of
+
+  - mergeWords pa2.wo207 pa2.wo208
+  - replaceStr pa2.wo207 <all> Production
+
+  - mergeWords pa2.wo297 pa2.wo298 pa2.wo299
+
+  - replaceStr pa3.wo100 <all> the
+
+  - replaceStr pa3.wo182 <all> 'External Affairs'
+
+
+  - replaceStr pa3.wo235 <all> 'Mines and Heavy Engineering'
+
+  - newWord 'Ministry of Labour and Employment' pa3.wo249 pa3.wo244
+
+  - replaceStr pa3.wo252 <all> 'the Ministry of Education'

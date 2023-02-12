@@ -1,0 +1,6 @@
+edits:
+  - mergeWords pa1.wo25 pa1.wo11
+  - replaceStr pa1.wo25 <all> Parliamentary
+
+  - mergeWords pa0.wo194 pa0.wo197
+  - replaceStr pa0.wo194 <all> Technology

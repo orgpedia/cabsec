@@ -1,0 +1,6 @@
+# 	MISMATCH P: 0 A: 6 E: 5 W: 109 F: 1 R:False
+# 	MISMATCH P: 0 A: 8 E: 7 W: 125 F: 2 R:False
+
+edits:
+  - newWord 5 pa0.wo109 pa0.wo100
+  - clearWord pa0.wo116

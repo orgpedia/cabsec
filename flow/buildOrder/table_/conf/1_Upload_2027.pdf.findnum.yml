@@ -1,0 +1,26 @@
+edits:
+  - replaceStr pa0.wo18 <all> 1
+  - newWord 2 pa0.wo18 pa0.wo74
+  - newWord 3 pa0.wo18 pa0.wo24
+  - newWord 4 pa0.wo18 pa0.wo28
+  - newWord 5 pa0.wo18 pa0.wo34
+  - newWord 6 pa0.wo18 pa0.wo38
+  - newWord 8 pa0.wo22 pa0.wo46
+
+  - replaceStr pa0.wo59 <all> 10
+  - replaceStr pa0.wo67 <all> 11
+
+  - newWord 14 pa0.wo72 pa0.wo119
+
+  - clearWords pa0.wo57 pa0.wo58 pa0.wo150 pa0.wo137 pa0.wo50
+
+  - replaceStr pa0.wo100 <all> ce
+  - mergeWords pa0.wo99 pa0.wo100
+
+  - newWord '         ' pa0.wo128 pa0.wo123
+  - newWord '         ' pa0.wo138 pa0.wo123
+  - newWord '         ' pa0.wo139 pa0.wo123
+  - newWord '           ' pa0.wo140 pa0.wo136
+  - newWord '           ' pa0.wo140 pa0.wo123
+
+  - replaceStr pa0.wo117 <all> Research

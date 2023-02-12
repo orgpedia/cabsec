@@ -1,0 +1,48 @@
+# 	MISMATCH P: 3 A: 2 E: 14 W: 59 F: 12 R:False
+# 	MISMATCH P: 3 A: 6 E: 3 W: 74 F: 0 R:False
+# 	MISMATCH P: 4 A: 15 E: 14 W: 107 F: 12 R:False
+# 	MISMATCH P: 5 A: 7 E: 4 W: 110 F: 1 R:False
+# 	MISMATCH P: 5 A: 10 E: 8 W: 261 F: 4 R:False
+# 	MISMATCH P: 5 A: 2 E: 11 W: 269 F: 6 R:False
+
+edits:
+  - clearWord pa2.wo20
+  - newWord 1 pa2.wo132 pa2.wo26
+  - newWord 2 pa2.wo132 pa2.wo84
+  - newWord 3 pa2.wo132 pa2.wo97
+  - newWord 4 pa2.wo132 pa2.wo109
+  - newWord 5 pa2.wo132 pa2.wo120
+
+  - newWord 8 pa2.wo132 pa2.wo174
+  - newWord 9 pa2.wo132 pa2.wo198
+  - newWord 11 pa2.wo132 pa2.wo226
+
+
+  - newWord 1 pa3.wo74 pa3.wo48
+  - newWord 3 pa3.wo74 pa3.wo63
+  - newWord 4 pa3.wo74 pa3.wo68
+  - newWord 5 pa3.wo74 pa3.wo71
+
+  - replaceStr pa4.wo1 <all> 11
+  - newWord 14 pa4.wo99 pa4.wo104
+  - newWord Prof pa4.wo109 pa4.wo104
+
+  - clearWords pa5.wo4 pa5.wo5 pa5.wo8 pa5.wo9
+
+  - newWord 1 pa5.wo13 pa5.wo10
+  - newWord 4 pa5.wo13 pa5.wo79
+  - newWord 5 pa5.wo13 pa5.wo102
+  - newWord 6 pa5.wo13 pa5.wo107
+  - newWord 8 pa5.wo13 pa5.wo116
+  - newWord 9 pa5.wo13 pa5.wo121
+  - newWord 11 pa5.wo13 pa5.wo265
+  - replaceStr pa5.wo269 <all> 12
+
+  - newWord 15 pa6.wo36 pa6.wo32
+
+  - clearWords pa2.wo108
+
+  - newWord '     ' pa2.wo60 pa2.wo54
+  - newWord '     ' pa2.wo61 pa2.wo54
+  - newWord '     ' pa2.wo62 pa2.wo54
+  - newWord '     ' pa2.wo63 pa2.wo54

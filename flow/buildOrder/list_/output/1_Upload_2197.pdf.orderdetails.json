@@ -1,0 +1,21 @@
+{"date": "1986-05-12", "details": [
+{"detail_idx": 0, "officer_id": "Q5619936", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Cabinet Minister"], ["Ministry of Rural Development", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q6095720", "continues": [], "relinquishes": [], "assumes": [["Ministry of Tourism", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q60793096", "continues": [], "relinquishes": [], "assumes": [["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q47008649", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Minister of State"], ["Ministry of Rural Development", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q6437486", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q16902854", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q464900", "continues": [], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q7420662", "continues": [], "relinquishes": [], "assumes": [["Ministry of Tourism", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q106322481", "continues": [], "relinquishes": [], "assumes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"], ["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q16890849", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"], ["Ministry of Health and Family Welfare", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q5340599", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q4916188", "continues": [], "relinquishes": [], "assumes": [["Ministry of Personnel Public Grievances and Pensions", "Deputy Minister"]]},
+{"detail_idx": 12, "officer_id": "Q7423687", "continues": [], "relinquishes": [["Ministry of Agriculture", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 13, "officer_id": "Q7117543", "continues": [], "relinquishes": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Food", "Cabinet Minister"], ["Ministry of Civil Supplies", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"], ["Ministry of Commerce", "Cabinet Minister"]]},
+{"detail_idx": 14, "officer_id": "Q5628338", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"], ["Ministry of Tourism", "Cabinet Minister"]], "relinquishes": [["Ministry of Tourism", "Cabinet Minister"]], "assumes": [["Ministry of Food", "Cabinet Minister"], ["Ministry of Civil Supplies", "Cabinet Minister"]]},
+{"detail_idx": 15, "officer_id": "Q275146", "continues": [["Ministry of Human Resource Development", "Cabinet Minister"]], "relinquishes": [["Ministry of Home Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 16, "officer_id": "Q17318870", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": [["Ministry of Energy", "Minister of State"]]},
+{"detail_idx": 17, "officer_id": "Q3595131", "continues": [], "relinquishes": [["Ministry of Parliamentary Affairs", "Minister of State"]], "assumes": [["Ministry of Home Affairs", "Minister of State"]]},
+{"detail_idx": 18, "officer_id": "Q2604943", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": []}
+]}

@@ -1,0 +1,5 @@
+ignores:
+  UnmatchedTextsError: [pa0.li6, pa0.li9, pa1.li8, pa1.li9, pa2.li1, pa2.li2, pa2.li3, pa2.li4, pa2.li9 ]
+
+edits:
+  - replaceStr pa0.wo16 <all> January

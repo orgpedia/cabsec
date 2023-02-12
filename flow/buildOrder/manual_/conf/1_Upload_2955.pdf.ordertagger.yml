@@ -1,0 +1,25 @@
+edits:
+  - replaceStr pa1.wo52 <all> Prime
+  - mergeWords pa1.wo53 pa1.wo54
+
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 1
+      officer:
+        idxs: [10, 11, 12]
+
+      relinquishes:
+        - idxs: [19, 20, 21]
+
+      assumes:
+        - idxs: [41, 42, 43, 44, 45]
+
+
+    - detail_idx: 1
+      page_idx: 1
+      officer:
+        idxs: [ 52, 53]
+
+      continues:
+        - idxs: [59, 60, 61]

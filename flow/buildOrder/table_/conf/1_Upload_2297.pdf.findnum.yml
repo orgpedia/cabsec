@@ -1,0 +1,49 @@
+# 	MISMATCH P: 1 A: 6 E: 5 W: 100 F: 1 R:False
+# 	MISMATCH P: 1 A: 16 E: 15 W: 186 F: 2 R:False
+# 	MISMATCH P: 2 A: 4 E: 3 W: 48 F: 2 R:False
+# 	MISMATCH P: 2 A: 9 E: 5 W: 94 F: 3 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 189 F: -2 R:False
+
+edits:
+  - newWord 1 pa1.wo100 pa1.wo18
+  - newWord 5 pa1.wo100 pa1.wo94
+  - newWord 15 pa1.wo186 pa1.wo175
+
+  - newWord 3 pa2.wo48 pa2.wo35
+  - newWord 5 pa2.wo189 pa2.wo55
+  - newWord 6 pa2.wo189 pa2.wo67
+  - newWord 7 pa2.wo189 pa2.wo80
+
+  - replaceStr pa2.wo94 <all> 8
+  - newWord 5 pa2.wo189 pa2.wo186
+
+  - replaceStr pa0.wo21 <all> '29 January'
+
+  - replaceStr pa1.wo28 <all> Personnel
+  - replaceStr pa1.wo35 <all> Grievances
+  - replaceStr pa1.wo36 <all> Planning
+  - replaceStr pa1.wo39 <all> Technology
+  - replaceStr pa1.wo60 <all> Development
+  - replaceStr pa1.wo46 <all> allocated
+  - replaceStr pa1.wo52 <all> or
+
+  - replaceStr pa1.wo93 <all> Affairs
+  - replaceStr pa1.wo146 <all> Communications
+  - replaceStr pa1.wo219 <all> Information
+
+  - replaceStr pa2.wo22 <all> Gas
+  - replaceStr pa2.wo9 <all> and
+
+  - replaceStr pa2.wo30 <all> '(Independent'
+  - replaceStr pa2.wo47 <all> '(Independent'
+  - replaceStr pa2.wo60 <all> '(Independent'
+  - replaceStr pa2.wo73 <all> '(Independent'
+
+  - replaceStr pa2.wo126 <all> and
+  - replaceStr pa2.wo148 <all> Ministry
+
+  - replaceStr pa3.wo13 <all> Enterprises
+  - replaceStr pa3.wo111 <all> Development
+
+  - replaceStr pa4.wo93 <all> the
+  - replaceStr pa4.wo147 <all> Environment

@@ -1,0 +1,5 @@
+{"date": "1987-05-04", "details": [
+{"detail_idx": 0, "officer_id": "Q4647540", "continues": [], "relinquishes": [["Ministry of Programme Implementation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q4593", "continues": [], "relinquishes": [], "assumes": [["Ministry of Programme Implementation", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q16204692", "continues": [["Ministry of Planning", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Programme Implementation", "Minister of State"]]}
+]}

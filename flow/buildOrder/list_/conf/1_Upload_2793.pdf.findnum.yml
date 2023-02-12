@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo38 <all> i
+  - clearChar pa0.wo19 '_'
+
+  - clearWords pa1.wo71

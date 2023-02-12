@@ -1,0 +1,7 @@
+ignores:
+  UnmatchedTextsError: [pa0.li3]
+
+edits:
+  - mergeWords pa0.wo78 pa0.wo79
+  - mergeWords pa0.wo68 pa0.wo69
+  - replaceStr pa0.wo68 <all> temporary

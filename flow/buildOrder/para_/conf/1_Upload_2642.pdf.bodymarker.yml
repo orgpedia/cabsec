@@ -1,0 +1,7 @@
+edits:
+  - replaceStr pa0.wo40 <all> Renuka
+  - replaceStr pa0.wo42 <all> Barkataki
+  - newWord '       ' pa0.wo41 pa0.wo70
+
+  - replaceStr pa0.wo54 <all> Education
+  - replaceStr pa0.wo55 <all> Social

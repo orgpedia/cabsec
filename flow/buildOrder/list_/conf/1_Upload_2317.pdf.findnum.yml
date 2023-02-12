@@ -1,0 +1,6 @@
+# 	MISMATCH P: 0 A: 11 E: 2 W: 50 F: 1 R:False
+min_marker: 1
+
+edits:
+  - replaceStr pa0.wo38 <all> i
+  - replaceStr pa0.wo50 <all> ii

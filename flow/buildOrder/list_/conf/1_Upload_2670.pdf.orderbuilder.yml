@@ -1,0 +1,4 @@
+edits:
+  - mergeWords pa0.wo43 pa0.wo44 pa0.wo45
+  - replaceStr pa0.wo55 <all> 'supplies (Udyog'
+  - replaceStr pa0.wo68 <all> 'industry (Ud'

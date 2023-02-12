@@ -1,0 +1,15 @@
+word_labels:
+  orderDatePlace: [ pa0.wo9, pa0.wo10, pa0.wo11, pa0.wo12, pa0.wo13, pa0.wo14 ]
+  signatoryBlock:
+    - [ pa0.wo63, pa0.wo64, pa0.wo65, pa0.wo66, pa0.wo67, pa0.wo68, pa0.wo69 ]
+    - [ pa0.wo107, pa0.wo108, pa0.wo109, pa0.wo110, pa0.wo111, pa0.wo112, pa0.wo113 ]
+  copyStatement:
+    - [ pa0.wo71, pa0.wo72, pa0.wo73, pa0.wo74, pa0.wo75, pa0.wo76, pa0.wo77 ]
+    - [ pa0.wo78, pa0.wo79, pa0.wo80, pa0.wo81, pa0.wo82, pa0.wo83, pa0.wo84, pa0.wo85, pa0.wo86, pa0.wo87, pa0.wo88, pa0.wo89, pa0.wo90, pa0.wo91, pa0.wo92, pa0.wo93, pa0.wo94, pa0.wo95, pa0.wo96, pa0.wo97, pa0.wo98, pa0.wo99, pa0.wo100, pa0.wo101, pa0.wo102, pa0.wo103, pa0.wo104, pa0.wo105, pa0.wo106 ]
+  orderBody:
+    - [ pa0.wo15, pa0.wo16, pa0.wo17, pa0.wo18, pa0.wo19, pa0.wo20, pa0.wo21, pa0.wo22, pa0.wo23, pa0.wo24, pa0.wo25, pa0.wo26, pa0.wo27, pa0.wo28, pa0.wo29, pa0.wo30, pa0.wo31, pa0.wo32, pa0.wo33, pa0.wo34, pa0.wo35, pa0.wo36, pa0.wo37, pa0.wo38, pa0.wo39, pa0.wo40, pa0.wo41, pa0.wo42, pa0.wo43, pa0.wo44, pa0.wo45, pa0.wo46, pa0.wo47, pa0.wo48, pa0.wo49, pa0.wo50, pa0.wo51, pa0.wo52, pa0.wo53, pa0.wo54, pa0.wo55, pa0.wo56, pa0.wo57, pa0.wo58, pa0.wo59, pa0.wo60, pa0.wo61, pa0.wo62 ]
+  other:
+    - [ pa0.wo70 ]
+    - [ pa0.wo0 ]
+  header:
+    - [ pa0.wo1, pa0.wo2, pa0.wo3, pa0.wo4, pa0.wo5, pa0.wo6, pa0.wo7, pa0.wo8 ]

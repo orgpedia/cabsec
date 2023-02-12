@@ -1,0 +1,9 @@
+{"date": "1986-01-21", "details": [
+{"detail_idx": 0, "officer_id": "Q7117543", "continues": [], "relinquishes": [], "assumes": [["Ministry of Commerce", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q5071462", "continues": [], "relinquishes": [], "assumes": [["Ministry of Petroleum and Natural Gas", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 2, "officer_id": "Q377358", "continues": [], "relinquishes": [["Ministry of Personnel Public Grievances and Pensions", "Deputy Minister"]], "assumes": [["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q2741772", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Minister of State"]], "assumes": [["Ministry of Labour", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q3309208", "continues": [], "relinquishes": [["Ministry of Commerce", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q3764370", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q2723451", "continues": [], "relinquishes": [["Ministry of Petroleum and Natural Gas", "Minister of State (Independent Charge)"]], "assumes": []}
+]}

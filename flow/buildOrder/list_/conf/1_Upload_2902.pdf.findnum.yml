@@ -1,0 +1,12 @@
+# 	MISMATCH P: 0 A: 8 E: 7 W: 244 F: 2 R:True
+
+edits:
+  - replaceStr pa0.wo36 <all> i
+  - replaceStr pa0.wo207 <all> vii
+
+  - replaceStr pa0.wo16 <all> 21st
+  - replaceStr pa0.wo18 <all> 1963
+
+  - mergeWords pa0.wo231 pa0.wo232
+  - newWord '     ' pa0.wo191  pa0.wo183 # filler word
+  - replaceStr pa0.wo72 <all> of

@@ -1,0 +1,7 @@
+# 	MISMATCH P: 0 A: 4 E: 2 W: 104 F: 1 R:False
+
+include_zero: True
+edits:
+  - newAdjWord 0 pa0.wo8 left
+  - clearWord pa0.wo307
+  - newWord 3 pa0.wo104  pa0.wo53

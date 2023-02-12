@@ -1,0 +1,6 @@
+# 	MISMATCH P: 3 A: 12 E: 48 W: 24 F: 47 R:False
+
+include_zero: True
+edits:
+  - clearWord pa3.wo0
+  - newAdjWord 0 pa0.wo8 left

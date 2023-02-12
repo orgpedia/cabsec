@@ -1,0 +1,8 @@
+# 	MISMATCH P: 0 A: 15 E: 3 W: 219 F: 2 R:False
+min_marker: 1
+
+edits:
+  - clearWord pa0.wo219
+  - clearWord pa0.wo135
+  - clearWord pa0.wo176
+  - clearWord pa0.wo184

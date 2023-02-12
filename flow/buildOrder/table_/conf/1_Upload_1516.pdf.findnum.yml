@@ -1,0 +1,6 @@
+include_zero: True
+
+edits:
+  - newAdjWord 0 pa0.wo8 left
+  - replaceStr pa2.wo259 <all> Minister
+  - newWord of pa2.wo251 pa2.wo243

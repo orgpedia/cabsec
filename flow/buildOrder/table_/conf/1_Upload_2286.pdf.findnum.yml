@@ -1,0 +1,53 @@
+# 	MISMATCH P: 4 A: 13 E: 2 W: 16 F: 1 R:False
+
+edits:
+  - mergeWords pa2.wo120 pa2.wo121
+  - replaceStr pa3.wo15 <all> 2
+  - replaceStr pa3.wo271 <all> 11
+  - replaceStr pa4.wo11 <all> 12
+
+
+  - mergeWords pa2.wo32 pa2.wo33
+  - mergeWords pa2.wo70 pa2.wo71 pa2.wo72
+
+  - mergeWords pa2.wo115 pa2.wo116 pa2.wo117
+  - mergeWords pa2.wo279 pa2.wo280 pa2.wo281 pa2.wo282
+  - replaceStr pa2.wo279 <all> 'State(Independent'
+  - newWord ',' pa2.wo290 pa2.wo279
+
+  - splitWord pa3.wo5 e
+  - mergeWords pa3.wo3 pa3.wo4 pa3.wo5
+  - mergeWords pa3.wo6 pa3.wo7
+
+  - replaceStr pa3.wo26 <all> '(Indep'
+  - mergeWords pa3.wo27 pa3.wo28
+
+
+  - splitWord pa3.wo45 e
+  - mergeWords pa3.wo43 pa3.wo44 pa3.wo45
+  - mergeWords pa3.wo46 pa3.wo47
+
+  - mergeWords pa3.wo58 pa3.wo59
+
+  - mergeWords pa3.wo63 pa3.wo64 pa3.wo65
+  - mergeWords pa3.wo84 pa3.wo85
+  - replaceStr pa3.wo84 <all> '(Independent'
+  - replaceStr pa3.wo86 <all> 'charge)'
+  - replaceStr pa3.wo88 <all> the
+
+  - replaceStr pa3.wo102 <all> of
+  - replaceStr pa3.wo148 <all> of
+  - replaceStr pa3.wo201 <all> of
+  - replaceStr pa3.wo151 <all> the
+
+  - mergeWords pa3.wo172 pa3.wo173 pa3.wo174
+  - replaceStr pa3.wo186 <all> State
+
+  - mergeWords pa3.wo238 pa3.wo239
+  - replaceStr pa3.wo238 <all> External
+
+  - mergeWords pa3.wo274 pa3.wo275
+
+
+  - mergeWords pa4.wo6 pa4.wo7
+  - mergeWords pa4.wo71 pa4.wo72 pa4.wo73

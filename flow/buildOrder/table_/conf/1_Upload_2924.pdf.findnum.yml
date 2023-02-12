@@ -1,0 +1,8 @@
+# 	MISMATCH P: 1 A: 5 E: 4 W: 54 F: 1 R:False
+# 	MISMATCH P: 2 A: 2 E: 12 W: 223 F: -3 R:False
+# 	MISMATCH P: 2 A: 13 E: 3 W: 227 F: -13 R:False
+
+edits:
+  - newWord 4 pa1.wo54 pa1.wo51
+  - newWord 8 pa2.wo25 pa2.wo11
+  - replaceStr pa2.wo223 <all> 12

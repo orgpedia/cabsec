@@ -1,0 +1,5 @@
+{"date": "1987-04-12", "details": [
+{"detail_idx": 0, "officer_id": "Q315338", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3595472", "continues": [], "relinquishes": [["Ministry of Steel and Mines", "Cabinet Minister"]], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7916339", "continues": [["Ministry of Energy", "Cabinet Minister"], ["Ministry of Steel and Mines", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

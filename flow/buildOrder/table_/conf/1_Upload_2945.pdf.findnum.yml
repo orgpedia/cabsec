@@ -1,0 +1,41 @@
+# 	MISMATCH P: 1 A: 10 E: 9 W: 50 F: 1 R:False
+# 	MISMATCH P: 2 A: 10 E: 8 W: 77 F: 1 R:False
+# 	MISMATCH P: 2 A: 13 E: 12 W: 100 F: 3 R:False
+# 	MISMATCH P: 2 A: 18 E: 16 W: 133 F: 4 R:False
+
+edits:
+
+  - clearWord pa1.wo130
+  - clearWord pa1.wo112
+  - replaceStr pa1.wo113 <all> Vishwanath
+
+  - clearWord pa2.wo59
+  - replaceStr pa2.wo66 <all> 9
+  - replaceStr pa2.wo92 <all> 12
+  - replaceStr pa2.wo119 <all> 16
+  - replaceStr pa2.wo125 <all> 17
+  - replaceStr pa2.wo143 <all> 19
+
+  - clearWords pa1.wo8 pa1.wo13 pa1.wo19 pa1.wo24 pa1.wo32 pa1.wo33 pa1.wo38
+  - clearWords pa1.wo43 pa1.wo50 pa1.wo55 pa1.wo61 pa1.wo63 pa1.wo66 pa1.wo71 pa1.wo78
+  - clearWords pa1.wo94 pa1.wo99 pa1.wo104 pa1.wo108 pa1.wo122 pa1.wo123
+
+  - replaceStr pa2.wo20 <all> Resources
+  - replaceStr pa2.wo22 <all> Scientific
+  - replaceStr pa2.wo23 <all> Research
+
+  - replaceStr pa2.wo27 <all> 'N. Gopalaswami'
+  - replaceStr pa2.wo28 <all> Ayyangar
+
+  - replaceStr pa2.wo29 <all> Defence
+  - replaceStr pa2.wo39 <all> Home
+
+  - replaceStr pa2.wo74 <all> Valley
+  - replaceStr pa2.wo75 <all> Schemes
+  - replaceStr pa2.wo80 <all> Commerce
+  - replaceStr pa2.wo130 <all> Parliamentary
+
+  - mergeWords pa2.wo51 pa2.wo52
+  - replaceStr pa2.wo51 <all> Agriculture
+
+  - replaceStr pa2.wo1 <all> 'CABINET'

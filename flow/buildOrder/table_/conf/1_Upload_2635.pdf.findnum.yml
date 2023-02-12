@@ -1,0 +1,23 @@
+# 	MISMATCH P: 4 A: 5 E: 10 W: 16 F: 7 R:False
+# 	MISMATCH P: 4 A: 10 E: 6 W: 137 F: 2 R:False
+# 	MISMATCH P: 5 A: 25 E: 23 W: 147 F: 19 R:False
+# 	MISMATCH P: 5 A: 24 E: 26 W: 151 F: 21 R:False
+
+edits:
+  - clearWord pa4.wo16
+  - replaceStr pa5.wo147 <all> 23
+
+  - replaceStr pa3.wo122 <all> Smt
+  - replaceStr pa3.wo124 <all> Renuka
+  - replaceStr pa3.wo125 <all> Devi
+  - replaceStr pa3.wo126 <all> Barkataki
+
+  - clearWord pa3.wo64
+  - replaceStr pa3.wo63 <all> Varma
+  - clearWord pa3.wo110
+
+  - clearWords pa3.wo253 pa3.wo284 pa3.wo284 pa3.wo285 pa3.wo286 pa3.wo287 pa3.wo288
+
+  - clearWord pa4.wo143
+
+  - replaceStr pa5.wo28 <all> Jagbir

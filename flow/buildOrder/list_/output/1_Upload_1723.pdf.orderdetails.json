@@ -1,0 +1,10 @@
+{"date": "2003-09-08", "details": [
+{"detail_idx": 0, "officer_id": "Q465041", "continues": [], "relinquishes": [], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q3630187", "continues": [["Ministry of Road Transport and Highways", "Cabinet Minister"]], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q4854461", "continues": [], "relinquishes": [["Ministry of Railways", "Minister of State"]], "assumes": [["Ministry of Housing and Urban Poverty Alleviation", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 3, "officer_id": "Q7504173", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Minister of State"]], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q7117480", "continues": [], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Minister of State"]], "assumes": [["Ministry of Road Transport and Highways", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q4866214", "continues": [], "relinquishes": [["Ministry of Textiles", "Minister of State"]], "assumes": [["Ministry of Railways", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q16106772", "continues": [], "relinquishes": [], "assumes": [["Ministry of Textiles", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q7420653", "continues": [["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [["Ministry of Labour", "Minister of State"]], "assumes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]]}
+]}

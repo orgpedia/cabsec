@@ -1,0 +1,9 @@
+edits:
+  - replaceStr pa1.wo14 <all> 1
+  - replaceStr pa2.wo239 <all> 10
+  - newWord 11 pa3.wo19  pa3.wo9
+
+  - replaceStr pa2.wo45 <all> Shipping
+  - replaceStr pa2.wo46 <all> Tourism
+  - replaceStr pa2.wo134 <all> of
+  - replaceStr pa2.wo199 <all> for

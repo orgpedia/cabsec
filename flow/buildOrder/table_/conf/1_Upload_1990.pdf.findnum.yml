@@ -1,0 +1,45 @@
+# 	MISMATCH P: 1 A: 14 E: 13 W: 75 F: 11 R:False
+# 	MISMATCH P: 1 A: 17 E: 16 W: 90 F: 12 R:False
+# 	MISMATCH P: 2 A: 8 E: 6 W: 23 F: 5 R:False
+# 	MISMATCH P: 2 A: 12 E: 10 W: 44 F: 7 R:False
+# 	MISMATCH P: 2 A: 11 E: 13 W: 43 F: 9 R:False
+# 	MISMATCH P: 2 A: 16 E: 12 W: 301 F: 7 R:False
+# 	MISMATCH P: 2 A: 21 E: 17 W: 330 F: 11 R:False
+# 	MISMATCH P: 3 A: 12 E: 5 W: 64 F: 4 R:False
+# 	MISMATCH P: 3 A: 4 E: 14 W: 93 F: 11 R:False
+# 	MISMATCH P: 3 A: 11 E: 5 W: 155 F: 1 R:False
+# 	MISMATCH P: 3 A: 41 E: 12 W: 196 F: 7 R:False
+# 	MISMATCH P: 4 A: 17 E: 7 W: 34 F: 2 R:False
+# 	MISMATCH P: 4 A: 8 E: 18 W: 36 F: 12 R:False
+# 	MISMATCH P: 4 A: 11 E: 10 W: 142 F: 2 R:False
+# 	MISMATCH P: 5 A: 10 E: 5 W: 51 F: 4 R:False
+# 	MISMATCH P: 5 A: 21 E: 11 W: 280 F: 9 R:False
+# 	MISMATCH P: 5 A: 23 E: 24 W: 297 F: 19 R:False
+# 	MISMATCH P: 6 A: 11 E: 10 W: 112 F: 1 R:False
+# 	MISMATCH P: 7 A: 2 E: 16 W: 280 F: 0 R:False
+# 	MISMATCH P: 8 A: 2 E: 7 W: 80 F: 4 R:False
+# 	MISMATCH P: 8 A: 3 E: 5 W: 128 F: -1 R:False
+# 	MISMATCH P: 8 A: 6 E: 4 W: 144 F: -3 R:False
+
+edits:
+  - replaceStr pa1.wo21 <all> 1
+  - replaceStr pa1.wo36 <all> 2
+  - clearWords pa1.wo41
+  - splitWord pa1.wo51 '3.'
+
+  - replaceStr pa1.wo75 <all> 4
+  - replaceStr pa1.wo79 <all> 5
+  - replaceStr pa1.wo83 <all> 6
+  - replaceStr pa1.wo90 <all> 7
+  - replaceStr pa1.wo94 <all> 8
+  - replaceStr pa1.wo99 <all> 9
+  - replaceStr pa1.wo124 <all> 10
+  - replaceStr pa1.wo138 <all> 11
+  - replaceStr pa1.wo148 <all> 12
+  - replaceStr pa1.wo159 <all> 13
+  - replaceStr pa1.wo167 <all> 14
+
+  - replaceStr pa1.wo185 <all> 1
+  - replaceStr pa1.wo267 <all> 3
+  - replaceStr pa1.wo247 <all> 4
+  - clearWords pa1.wo262 pa1.wo274

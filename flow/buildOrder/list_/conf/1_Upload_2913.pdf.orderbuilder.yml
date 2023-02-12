@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo226 <all> Defence
+
+ignores:
+   UnmatchedTextsError: [ pa0.li6 ]

@@ -1,0 +1,7 @@
+{"date": "1998-05-23", "details": [
+{"detail_idx": 0, "officer_id": "Q7273755", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q5276809", "continues": [["Ministry of Coal", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q6345096", "continues": [["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Jammu Kashmir Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q468324", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Jammu Kashmir Affairs", "Cabinet Minister"]]}
+]}

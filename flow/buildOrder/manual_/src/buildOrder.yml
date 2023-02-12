@@ -1,0 +1,17 @@
+description: This folder(task) manually tags difficult to parse documents.
+
+pipeline:
+  - name: order_tagger
+    config:
+      conf_stub: ordertagger
+
+  - name: id_assigner_vocab
+    config:
+      conf_stub: 'id_assigner'
+      cadre_file_dict: {'goi_minister': 'conf/wiki_officerID.yml'}
+      post_id_fields: ['dept']
+      tenure_name_file: 'ministries.yml'
+
+  - name: details_differ
+    config:
+      mode: "diff"

@@ -1,0 +1,14 @@
+# 	MISMATCH P: 1 A: 8 E: 7 W: 168 F: 1 R:False
+# 	MISMATCH P: 1 A: 13 E: 12 W: 225 F: 2 R:False
+
+min_marker: 1
+edits:
+  - newWord 7 pa1.wo130 pa1.wo165
+  - replaceStr pa1.wo220 <all> 12
+
+  - replaceStr pa2.wo90 '.com' ''
+  - replaceStr pa3.wo257 <all> 18
+
+  - clearWords pa6.wo1 pa6.wo9 pa6.wo44
+  - clearWords pa3.wo237 pa5.wo57
+  - newWord '     ' pa1.wo57 pa1.wo53

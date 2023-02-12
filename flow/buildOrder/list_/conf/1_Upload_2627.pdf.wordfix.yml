@@ -1,0 +1,14 @@
+edits:
+  - replaceStr pa0.wo57 <all> Raj
+  - mergeWords pa0.wo58 pa0.wo59
+
+  - replaceStr pa0.wo68 <all> Health
+
+  - mergeWords pa0.wo71 pa0.wo72
+
+  - replaceStr pa0.wo70 <all> Family
+
+  - mergeWords pa0.wo98 pa0.wo99
+  - replaceStr pa0.wo98 <all> Welfare
+
+  - clearWords pa0.wo77 pa0.wo78

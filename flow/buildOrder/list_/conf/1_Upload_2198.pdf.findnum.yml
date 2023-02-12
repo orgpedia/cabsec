@@ -1,0 +1,11 @@
+# > Page 0 []
+# > Page 1 []
+
+#
+
+edits:
+  - replaceStr pa0.wo36 <all> i
+  - replaceStr pa0.wo48 <all> ii
+  - replaceStr pa0.wo69 <all> iii
+
+  - clearWord pa0.wo98

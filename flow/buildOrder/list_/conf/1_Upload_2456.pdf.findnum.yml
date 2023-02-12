@@ -1,0 +1,7 @@
+min_marker: 1
+
+edits:
+  - newWord 1 pa0.wo88 pa0.wo28
+  - clearWord pa0.wo68
+
+  - clearWords pa0.wo36 pa0.wo37

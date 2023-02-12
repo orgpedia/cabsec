@@ -1,0 +1,6 @@
+{"date": "1980-11-18", "details": [
+{"detail_idx": 0, "officer_id": "Q6355661", "continues": [], "relinquishes": [["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6382534", "continues": [], "relinquishes": [["Ministry of Irrigation", "Cabinet Minister"]], "assumes": [["Ministry of Railways", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q2657838", "continues": [["Ministry of Agriculture", "Cabinet Minister"], ["Ministry of Rural Development", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Irrigation", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q6744193", "continues": [["Ministry of Railways", "Deputy Minister"]], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Deputy Minister"]]}
+]}

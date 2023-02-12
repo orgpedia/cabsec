@@ -1,0 +1,13 @@
+edits:
+  - replaceStr pa0.wo59 <all> then
+  - newWord of pa0.wo96 pa0.wo78
+
+  - replaceStr pa0.wo178 <all> Minister
+
+  - replaceStr pa0.wo183 <all> Gas
+  - replaceStr pa0.wo189 <all> Department
+  - replaceStr pa0.wo311 <all> the
+
+  - replaceStr pa1.wo265 <all> Department
+
+  - replaceStr pa1.wo189 <all> Department

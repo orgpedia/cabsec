@@ -1,0 +1,9 @@
+edits:
+  - replaceStr pa0.wo111 <all> communications
+  - replaceStr pa0.wo112 <all> '(San'
+
+  - mergeWords pa0.wo231 pa0.wo232 pa0.wo233 pa0.wo234
+  - mergeWords pa0.wo252 pa0.wo253 pa0.wo254 pa0.wo255
+
+  - mergeWords pa0.wo85 pa0.wo86
+  - mergeWords pa0.wo204 pa0.wo205

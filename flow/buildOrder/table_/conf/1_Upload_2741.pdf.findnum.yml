@@ -1,0 +1,44 @@
+# 	MISMATCH P: 2 A: 3 E: 2 W: 86 F: 1 R:False
+# 	MISMATCH P: 3 A: 16 E: 15 W: 31 F: 13 R:False
+# 	MISMATCH P: 3 A: 4 E: 18 W: 102 F: 14 R:False
+# 	MISMATCH P: 3 A: 7 E: 5 W: 225 F: 0 R:False
+# 	MISMATCH P: 5 A: 3 E: 15 W: 183 F: 10 R:False
+# 	MISMATCH P: 6 A: 9 E: 8 W: 107 F: 6 R:False
+
+edits:
+  - newWord 2 pa2.wo86 pa2.wo71
+  - newWord 15 pa3.wo31 pa3.wo28
+
+  - newWord 1 pa3.wo102 pa3.wo84
+  - newWord 2 pa3.wo102 pa3.wo96
+  - newWord 3 pa3.wo102 pa3.wo99
+  - newWord 5 pa3.wo102 pa3.wo110
+  - newWord 6 pa3.wo102 pa3.wo217
+
+  - newWord 1 pa4.wo36 pa4.wo3
+  - newWord 4 pa4.wo36 pa4.wo89
+  - newWord 7 pa4.wo36 pa4.wo184
+  - newWord 8 pa4.wo36 pa4.wo210
+
+
+  - newWord 9 pa5.wo28 pa5.wo1
+  - newWord 15 pa5.wo126 pa5.wo132
+
+  - newWord 1 pa5.wo126 pa5.wo176
+  - newWord 2 pa5.wo184 pa5.wo180
+  - newWord 4 pa5.wo184 pa5.wo277
+
+
+  - newWord 5 pa6.wo4 pa6.wo1
+  - newWord 8 pa6.wo4 pa6.wo103
+
+
+  - mergeWords pa5.wo189 pa5.wo190
+  - mergeWords pa6.wo81 pa6.wo82
+
+  - clearWord pa3.wo79
+
+  - mergeWords pa6.wo76  pa6.wo77
+  - replaceStr pa6.wo76 <all> Deputy
+
+  - clearWords pa5.wo281 pa5.wo282

@@ -1,0 +1,6 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 227 F: 1 R:True
+# 	MISMATCH P: 1 A: 13 E: 11 W: 221 F: 7 R:True
+
+edits:
+  - clearChar pa0.wo179 y
+  - clearChar pa1.wo198 '"'

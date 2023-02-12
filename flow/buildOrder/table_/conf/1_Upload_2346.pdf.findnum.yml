@@ -1,0 +1,13 @@
+# 	MISMATCH P: 2 A: 4 E: 3 W: 50 F: 1 R:False
+# 	MISMATCH P: 3 A: 5 E: 25 W: 13 F: 24 R:False
+# 	MISMATCH P: 3 A: 6 E: 8 W: 65 F: 4 R:False
+# 	MISMATCH P: 3 A: 9 E: 7 W: 92 F: 2 R:False
+
+edits:
+  - replaceStr pa2.wo39 <all> 3
+  - replaceStr pa2.wo40 <all> 'Shri P.V.'
+
+  - clearWord pa3.wo0
+  - replaceStr pa3.wo65 <all> 8
+
+  - replaceStr pa3.wo15 <all> Dharamavir

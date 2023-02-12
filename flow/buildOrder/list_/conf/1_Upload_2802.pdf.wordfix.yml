@@ -1,0 +1,57 @@
+edits:
+  - mergeWords pa0.wo71 pa0.wo72 pa0.wo73
+  - replaceStr pa0.wo74 <all> assumed
+
+  - mergeWords pa0.wo96 pa0.wo124
+  - replaceStr pa0.wo127 <all> office
+  - replaceStr pa0.wo107 <all> non-ferrous
+
+  - mergeWords pa0.wo145 pa0.wo146
+  - replaceStr pa0.wo145 <all> Chemicals
+
+  - mergeWords pa0.wo154 pa0.wo155
+  - replaceStr pa0.wo154 <all> office
+
+  - mergeWords pa0.wo297 pa0.wo298 pa0.wo299
+  - replaceStr pa0.wo297 <all> Ghanashyam
+  - replaceStr pa0.wo300 <all> Bhai
+
+  - replaceStr pa0.wo206 <all> Finances
+  - replaceStr pa0.wo315 <all> Development
+
+  - replaceStr pa0.wo317 <all> Shri
+  - replaceStr pa0.wo318 <all> 'Prakashchand B.'
+
+  - mergeWords pa0.wo334 pa0.wo335 pa0.wo336
+  - replaceStr pa0.wo334 <all> Defence
+  - mergeWords pa0.wo343 pa0.wo344
+  - replaceStr pa0.wo343 <all> Minister
+
+  - replaceStr pa0.wo350 <all> Shri
+  - replaceStr pa0.wo353 <all> Shukla
+
+
+  - mergeWords pa0.wo380 pa0.wo381 pa0.wo382
+  - replaceStr pa0.wo380 <all> Defence
+
+  - replaceStr pa1.wo46 <all> Shri
+  - mergeWords pa1.wo38 pa1.wo39 pa1.wo40
+
+  - replaceStr pa1.wo63 <all> Shri
+  - replaceStr pa1.wo68 <all> office
+  - mergeWords pa1.wo70 pa1.wo71
+
+  - replaceStr pa1.wo98 <all> Shri
+  - mergeWords pa1.wo122 pa1.wo123
+
+  - replaceStr pa1.wo130 <all> Shri
+  - replaceStr pa1.wo138 <all> Deputy
+
+  - mergeWords pa1.wo185 pa1.wo186 pa1.wo187
+
+  - mergeWords pa1.wo343 pa1.wo344
+  - mergeWords pa1.wo345 pa1.wo346
+
+
+
+  - mergeWords pa0.wo148 pa0.wo149

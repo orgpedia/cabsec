@@ -1,0 +1,10 @@
+# > Page 0 [1-41, 11-67, 6-223]
+
+# pa0.nu1 Expected: 2 Actual: 11 word_idx: 67
+# pa0.nu2 Expected: 12 Actual: 6 word_idx: 223
+
+edits:
+  - replaceStr pa0.wo41 <all> i
+  - replaceStr pa0.wo67 <all> ii
+  - replaceStr pa0.wo97 <all> iii
+  - clearWord pa0.wo223

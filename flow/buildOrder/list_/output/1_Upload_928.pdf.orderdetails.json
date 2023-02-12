@@ -1,0 +1,6 @@
+{"date": "2009-06-14", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q13099372", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q4802142", "continues": [], "relinquishes": [["Ministry of Youth Affairs and Sports", "Minister of State"]], "assumes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q7238691", "continues": [], "relinquishes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]], "assumes": [["Ministry of Youth Affairs and Sports", "Minister of State"]]}
+]}

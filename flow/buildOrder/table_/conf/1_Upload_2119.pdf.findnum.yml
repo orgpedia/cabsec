@@ -1,0 +1,8 @@
+edits:
+  - replaceStr pa2.wo207 <all> INDEPENDENT
+  - clearWord pa2.wo156
+
+  - mergeWords pa3.wo234 pa3.wo235
+
+  - mergeWords pa4.wo115 pa4.wo116
+  - mergeWords pa4.wo97 pa4.wo98

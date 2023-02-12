@@ -1,0 +1,28 @@
+edits:
+  - mergeWords pa0.wo86 pa0.wo87
+  - replaceStr pa0.wo20 <all> 1962
+
+order:
+  order_date: 1 Nov 1962
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 28, 29, 30, 31]
+
+      relinquishes:
+        - idxs: [ 37, 38, 39]
+
+      assumes:
+        - idxs: [ 83, 84, 85, 86 ]
+
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 50, 51 ]
+
+      assumes:
+        - idxs: [ 57, 58, 59 ]

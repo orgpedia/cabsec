@@ -1,0 +1,14 @@
+# 	MISMATCH P: 2 A: 24 E: 22 W: 235 F: 17 R:True
+# 	MISMATCH P: 3 A: 29 E: 28 W: 90 F: 27 R:True
+
+edits:
+  - clearWord pa1.wo121
+
+  - clearWord pa2.wo206
+  - clearWord pa2.wo207
+  - clearWord pa2.wo208
+  - clearWord pa2.wo209
+  - clearWord pa2.wo211
+
+  - clearWord pa3.wo222
+  - replaceStr pa3.wo0 <all> xxvi

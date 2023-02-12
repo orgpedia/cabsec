@@ -1,0 +1,4 @@
+rotation_config:
+  rotation_strategy: manual
+  rotation_page_idxs: [ 0 ]
+  rotation_arg: -5.0

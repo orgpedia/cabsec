@@ -1,0 +1,15 @@
+edits:
+  - newWord 1 pa2.wo26 pa2.wo23
+  - newWord 5 pa3.wo11 pa3.wo20
+
+  - replaceStr pa2.wo15 <all> Prime
+  - replaceStr pa2.wo141 <all> MINISTERS
+
+
+  - replaceStr pa0.wo24 <all> January
+  - replaceStr pa0.wo25 <all> 1981
+  - clearWord pa0.wo26
+  - clearWord pa0.wo27
+  - clearWord pa0.wo28
+  - clearWord pa0.wo29
+  - clearWord pa0.wo30

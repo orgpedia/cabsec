@@ -1,0 +1,5 @@
+# 	MISMATCH P: 2 A: 4 E: 2 W: 219 F: -3 R:False
+
+edits:
+  - replaceStr pa2.wo304 <all> 2
+  - newWord 3 pa2.wo304 pa2.wo204

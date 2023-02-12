@@ -1,0 +1,51 @@
+# 	MISMATCH P: 2 A: 15 E: 14 W: 146 F: 1 R:False
+# 	MISMATCH P: 2 A: 8 E: 3 W: 213 F: -16 R:False
+# 	MISMATCH P: 2 A: 4 E: 9 W: 227 F: -11 R:False
+# 	MISMATCH P: 3 A: 12 E: 11 W: 271 F: -7 R:False
+
+edits:
+  - replaceStr pa2.wo136 <all> 14
+  - replaceStr pa2.wo213 <all> 3
+  - replaceStr pa3.wo258 <all> 11
+
+  - mergeWords pa3.wo162 pa3.wo163
+  - mergeWords pa3.wo244 pa3.wo245
+  - mergeWords pa3.wo118 pa3.wo119
+  - mergeWords pa3.wo305 pa3.wo306
+  - mergeWords pa3.wo131 pa3.wo132
+  - mergeWords pa3.wo230 pa3.wo231
+  - mergeWords pa3.wo177 pa3.wo178
+  - mergeWords pa3.wo191 pa3.wo192
+  - mergeWords pa3.wo148 pa3.wo149
+  - mergeWords pa3.wo263 pa3.wo264
+
+  - replaceStr pa3.wo219 <all> Deputy
+
+  - replaceStr pa3.wo216 1 i
+
+  - replaceStr pa2.wo169 <all> Scientific
+
+  - mergeWords pa2.wo189 pa2.wo190
+  - replaceStr pa2.wo189 <all> Housing
+
+  - replaceStr pa2.wo203 <all> of
+
+  - replaceStr pa3.wo110 <all> Agriculture
+
+  - replaceStr pa3.wo138 <all> Scientific
+  - replaceStr pa3.wo172 <all> Agriculture
+
+  - replaceStr pa3.wo153 <all> Minister
+  - replaceStr pa3.wo293 <all> Minister
+
+  - mergeWords pa3.wo208 pa3.wo209
+  - replaceStr pa3.wo208 <all> Ministry
+
+  - replaceStr pa3.wo213 <all> Communications
+
+  - replaceStr pa3.wo235 <all> Ministry
+
+  - mergeWords pa3.wo249 pa3.wo250
+  - replaceStr pa3.wo249 <all> Ministry
+
+  - mergeWords pa3.wo261 pa3.wo262

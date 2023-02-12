@@ -1,0 +1,14 @@
+# 	MISMATCH P: 1 A: 13 E: 12 W: 125 F: 1 R:False
+# 	MISMATCH P: 1 A: 13 E: 14 W: 136 F: 2 R:False
+# 	MISMATCH P: 2 A: 22 E: 12 W: 151 F: 1 R:False
+# 	MISMATCH P: 2 A: 13 E: 23 W: 163 F: 11 R:False
+
+edits:
+  - replaceStr pa1.wo125 <all> 12
+  - replaceStr pa2.wo151 <all> 12
+
+  - replaceStr pa1.wo169 <all> Minister
+  - replaceStr pa2.wo76 <all> Ministry
+  - mergeWords pa2.wo96 pa2.wo97
+  - replaceStr pa2.wo96 <all> Minister
+  - replaceStr pa2.wo45 <all> 'Department of'

@@ -1,0 +1,22 @@
+# 	MISMATCH P: 2 A: 10 E: 9 W: 121 F: 1 R:False
+
+edits:
+  - replaceStr pa2.wo104 <all> 9
+  - replaceStr pa3.wo11 <all> 1
+
+  - replaceStr pa1.wo30 n m
+  - replaceStr pa3.wo82 n m
+
+  - replaceStr pa3.wo131 <all> Deputy
+  - replaceStr pa3.wo152 <all> Deputy
+
+  - clearWords pa3.wo84
+  - newWord Mahishi pa3.wo203 pa3.wo83
+  - replaceStr pa3.wo70 <all> Shri
+  - replaceStr pa3.wo71 <all> 'S. C.'
+
+  - replaceStr pa1.wo90 <all> Petroleum
+  - replaceStr pa2.wo153 <all> Social
+  - replaceStr pa3.wo50 <all> Community
+
+  - clearWords pa3.wo203

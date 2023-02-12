@@ -1,0 +1,4 @@
+officer_at_start: False
+edits:
+  - replaceStr pa0.wo46 <all> Prime
+  - replaceStr pa0.wo47 <all> 'Minister Finance'

@@ -1,0 +1,7 @@
+{"date": "2004-05-25", "details": [
+{"detail_idx": 0, "officer_id": "Q33168", "continues": [], "relinquishes": [["Ministry of Shipping", "Cabinet Minister"]], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q3534034", "continues": [["Ministry of Road Transport and Highways", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Shipping", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q6893377", "continues": [], "relinquishes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]], "assumes": [["Ministry of Agriculture", "Minister of State"], ["Ministry of Consumer Affairs, Food and Public Distribution", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q3532452", "continues": [], "relinquishes": [["Ministry of Commerce and Industry", "Minister of State"]], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q3532463", "continues": [], "relinquishes": [["Ministry of Petroleum and Natural Gas", "Minister of State"]], "assumes": [["Ministry of Commerce and Industry", "Minister of State"]]}
+]}

@@ -1,0 +1,6 @@
+edits:
+  - mergeWords pa0.wo77 pa0.wo78
+  - replaceStr pa0.wo85 <all> '(Raksha'
+  - replaceStr pa0.wo93 <all> 'Mantri)'
+  - replaceStr pa0.wo87 <all> Raksha
+  - replaceStr pa0.wo90 <all> an

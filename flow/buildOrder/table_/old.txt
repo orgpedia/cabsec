@@ -1,0 +1,1608 @@
+>> __call__
+>> PROC
+num_marker: 1_Upload_2855.pdf
+INCLUDE ZERO: False
+Edited document: 1_Upload_2855.pdf
+> Page 0 [] *ignoring 0
+> Page 1 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+> Page 2 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17']
+> Page 3 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15']
+==1_Upload_2855.pdf.findnum 51 Errors=0
+>> __call__
+>> PROC
+Detect Rotation 1_Upload_2855.pdf
+> Page 0 marker_angle=-0.0000
+> Page 1 marker_angle=-0.9836
+> Page 2 marker_angle=-1.8734
+> Page 3 marker_angle=-2.5388
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.linefinder.log
+line_finder: 1_Upload_2855.pdf
+nhm: 1.0 angle: -0.0 coords: [0.7916:0.0666, 0.8622:0.0559, 0.8689:0.0773, 0.7983:0.0880] >>>
+nhm: 1.0 avg_height: 0.014127173904761904 coords: [0.7916:0.0666, 0.8622:0.0559, 0.8689:0.0773, 0.7983:0.0880] **
+page_lWords: 168 lWords: 168
+****************
+[0]:
+[1]: 15
+[2]:
+[3]: No.55/11/CF-67
+[4]: GOVERNMENT OF INDIA
+[5]: CABINET SECRETARIAT
+[6]: (Department of Cabinet Affairs)
+[7]:
+[8]: New Delhi, the 11th April, 1967.
+[9]:
+[10]: The undersigned is directed to circulate, for
+[11]: information, the attached list of the Members of the Cuncil
+[12]: of Ministers, as on April l1, 1967,
+[13]:
+[14]: (D.P. Chopra)
+[15]: To All Members of the Council of for Cabinet Secretary.
+[16]: Ministers.
+[17]:
+[18]: Copy with a copy of the enclosure forwarded to the
+[19]: Secretary to the Prime Minister/the Joint Secretary to the
+[20]: Prime Minister/the Private Secretary to the Prime Minister,
+[21]: for information.
+[22]:
+[23]: Copy with a copy of the enclosure forwarded to the
+[24]: Secretary to the President/the Secretary to the Vice-
+[25]: President, for information.
+[26]:
+[27]: (D.P. Chopra)
+[28]: Under Secretary to the Cabinet.
+[29]: To
+[30]:
+[31]: Copy with copy of the enclosure forwarded. to all
+[32]: Secretaries/Special a Secretaries/Additional Secretaries to,
+[33]: the Government of India/Chairman, Railway Board/Secretary,
+[34]: Election Commission, for information.
+[35]:
+[36]: Copy with a copy of the enclosure forwarded to all
+[37]: Ministries of the Government of India/Lok Sabha Secretariat/
+[38]: Rajya Sabha Seoretariat, for informationi
+[39]:
+[40]: (D.P. Chopra)
+[41]: Under Sécretary to the Cabinet.
+[42]:
+[43]: МЕНТА !
+nhm: 1.0 angle: -0.9835689162849514 coords: [0.4437:0.0666, 0.5261:0.0678, 0.5261:0.0809, 0.4437:0.0797] >>>
+nhm: 1.0 avg_height: 0.012440091940532083 coords: [0.4344:0.0728, 0.5148:0.0728, 0.5148:0.0857, 0.4344:0.0857] **
+page_lWords: 192 lWords: 192
+****************
+[0]:
+[1]: CABINET SECRETARIAT
+[2]: (Department of Cabinet Affairs)
+[3]:
+[4]: MEMBERS OF THE CABINET
+[5]:
+[6]: (As on 11-4-1967 forenoon)
+[7]:
+[8]: 1. Shrimati Indira Gandhi. Minister of Atonic Energy,
+[9]: Prine Minister
+[10]:
+[11]: 2. Shri Morarji R. Desai, Minister of Finance.
+[12]: Deputy Prime Minister
+[13]:
+[14]: 3. Shri Fakhruddin Ali Ahmed Minister of Industril
+[15]: Developnent and Company
+[16]: Affairs.
+[17]:
+[18]: 4. Shri M.C. Chagla Minister of External Affairs.
+[19]:
+[20]: 5. Shri Y.B. Chavan Minister of Hone Affairs,
+[21]:
+[22]: 6. Shri Jai Sukh Lal Hathi Minister of Labour &
+[23]: Rehabilitation.
+[24]:
+[25]: 7. Shri Jagjivan Ram Minister of Food &
+[26]: Agriculture.
+[27]:
+[28]: 8. Shri Asoka Mehta Minister öf Planning,
+[29]: Petroleum & Chemicals and
+[30]: Social Welfare.
+[31]:
+[32]: 9. Shri P. Govinda Menon Minister of Law.
+[33]:
+[34]: 10. Shri C, M. Poonacha Minister of Railways.
+[35]:
+[36]: 11. Prof. V.K.R.V. Rao Minister of Transport &
+[37]: Shipping.
+[38]:
+[39]: 12. Dr. M, Channa Reddy Minister of Stecl, Mines &
+[40]: Motals.
+[41]:
+[42]: 13. Dr. Triguna Sen Ministor of Education.
+[43]:
+[44]: 14. Shri K.K. Shah Ministor of Infornation &.
+[45]: Broadcasting.
+[46]:
+[47]: 15. Shri Dinesh Singh Ministor of Commerce.
+[48]:
+[49]: 16, Dr. Karan Singh Ministor of Tourism &
+[50]: Civil Aviation.
+[51]:
+[52]: 17 Dr. Rari Subhag Singh Ministor of Parlianentary
+[53]: Affairs and Conmunications.
+[54]:
+[55]: 18. Sardar Swaran Singh Minister of Defonce.
+[56]:
+[57]: 19. Shri Satya Narayan Sinha Minister without Portfolio.
+[58]:
+[59]: .2
+nhm: 1.0 angle: -0.9835689162849514 coords: [0.4344:0.0728, 0.5148:0.0728, 0.5148:0.0857, 0.4344:0.0857] <<<
+nhm: 1.0 angle: -1.8734046040774028 coords: [0.4521:0.0713, 0.5546:0.0725, 0.5546:0.0844, 0.4521:0.0832] >>>
+nhm: 1.0 avg_height: 0.012680250259292713 coords: [0.4350:0.0825, 0.5329:0.0813, 0.5345:0.0929, 0.4366:0.0941] **
+page_lWords: 243 lWords: 243
+****************
+[0]:
+[1]: MINISTERS OF STATE
+[2]:
+[3]: 1. Shri Bhagwat Jha Azad Minister of State in the
+[4]: Ministry of Education.
+[5]:
+[6]: 2. Shri Bali Ram Bhagat Minister of State in: the
+[7]: Ministry of Defence.
+[8]:
+[9]: 3. Dr. S. Chandrasekhar Minister of Health &
+[10]: Family Planning.
+[11]:
+[12]: 4. Shri Parimal Ghosh Minister of State in the
+[13]: Ministry of Railways.
+[14]:
+[15]: 5. Shrimati Phulrenu Guha Minister of State in the
+[16]: Department of Social Welfare.
+[17]:
+[18]: 6, Shri I.K. Gujral Minister of State in the
+[19]: Departments of Parliamen tery
+[20]:
+[21]: Affai rs and Communications
+[22]:
+[23]: 7. Shri M.s, Gurupadaswamy Minister of State in the
+[24]: Department of Atomic Energy.
+[25]:
+[26]: 8. Shri Jagannath Rao Minister of Works, Housing
+[27]: and Supply.
+[28]:
+[29]: 9 Shri Lalit Narayan Mishra Minister of State in the
+[30]: Ministry of Labour, Employmen t
+[31]: & Rehabilitation,
+[32]:
+[33]: 10. Shri Krishna Chandra Pant Ministor of State in the
+[34]: Ministry of Finance.
+[35]:
+[36]: 11. Shri K, Raghu Ramaish Minister of State in the
+[37]: Ministry of Petroleun &
+[38]:
+[39]: Chenicals and of Planning &
+[40]:
+[41]: Social Welfare.
+[42]:
+[43]: 12. Dr. K.L. Rao, Minister of Irrigation & Powor
+[44]:
+[45]: 13. Shri K. V. Raghunatha Reddy Minister of State in the
+[46]: Ministry of Industrial
+[47]:
+[48]: Development & Company Affairs
+[49]:
+[50]: 14. Shri Prakashchand B. Sethi Minister of State in the
+[51]: Ministry of Steel, Mines &
+[52]:
+[53]: Metals.
+[54]:
+[55]: 15. Shri Annasahib P. Shinde Minister of State in the
+[56]: Ministry of Food, Agriculture,
+[57]:
+[58]: Community Developnent &
+[59]:
+[60]: Cooperation.
+[61]:
+[62]: 16. Shri Vidya Charan Shukla Minister of State in the
+[63]: Ministry of Home Affairs.
+[64]:
+[65]: 17, Prof, Sher Singh Minister of State in the
+[66]: Ministry of Education.
+[67]:
+[68]: Ramesh!
+nhm: 1.0 angle: -1.8734046040774028 coords: [0.4350:0.0825, 0.5329:0.0813, 0.5345:0.0929, 0.4366:0.0941] <<<
+nhm: 1.0 angle: -2.538804847181402 coords: [0.4437:0.0868, 0.5109:0.0892, 0.5109:0.1011, 0.4437:0.0999] >>>
+nhm: 1.0 avg_height: 0.013324716196470717 coords: [0.4234:0.1014, 0.4866:0.1025, 0.4866:0.1141, 0.4234:0.1141] **
+page_lWords: 205 lWords: 205
+****************
+[0]:
+[1]: DEPUTY MINISTERS
+[2]:
+[3]: 1 Shri Bhakt Darshan Deputy Ministor in the Ministry
+[4]: of Transport & Shipping.
+[5]:
+[6]: 2 Shri Rohanlal Chaturvedi Deputy Minister in the
+[7]: Department of Parlianentary
+[8]:
+[9]: Affairs,
+[10]:
+[11]: 3. Shri DiR. Ohavan Deputy Minister in the Ministry
+[12]: of Law.
+[13]:
+[14]: 4. Shri D. Ering. Deputy Minister in the Ministry
+[15]: of Food, Agriculture, Community
+[16]: Development & Cooperation.
+[17]:
+[18]: 5. Shrimati Jahanara Jaipal Deputy Minister in the Ministry
+[19]: Singh of Tourism & Civil Aviation.
+[20]:
+[21]: 6. Shri S. C. Janir Deputy Minister in the Ministry
+[22]: of Railways,
+[23]:
+[24]: 7. Dr. (Shrimati) Sarojini  Mahishi Deputy Ministcr.
+[25]: 8. Shri B.S. Murthy Deputy Minister in the Ministry
+[26]: of Henlth & Fanily Planning.
+[27]:
+[28]: 9. Shri Mohd. Shafi Qureshi Deputy Minister in the Ministry
+[29]: of Commerce.
+[30]:
+[31]: 10. Shri K.S. Ramaswamy Deputy Ministor in the Ministry
+[32]: of Home Affairs.
+[33]:
+[34]: 11. Shri J BI Muthyal Rao Deputy Minister in the Departnent
+[35]: of Parlianentary Affairs.
+[36]:
+[37]: 12 Shrinati Nandini Satpathy Deputy Minişter in the Ministry
+[38]: of Information & Broadeasting.
+[39]:
+[40]: 13. Shri Bhanu Prakash Singh Deputy Minister in the Ministry
+[41]: of Industrial Development &
+[42]: Company Affai rs.
+[43]:
+[44]: 14 Sardar Iqbal Singh Deputy Minister in the Ministry
+[45]: of Works, Housing & Supply.
+[46]:
+[47]: 15. Shrd Surendra Pal Singh Deputy Minister in the Ministry
+[48]: of External Affairsi
+[49]:
+[50]: (5/1967 Operative from l1-4-1967 forenoon)
+[51]:
+[52]: I RAMESH!
+nhm: 1.0 angle: -2.538804847181402 coords: [0.4234:0.1014, 0.4866:0.1025, 0.4866:0.1141, 0.4234:0.1141] <<<
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.listfinder.log
+list_finder: 1_Upload_2855.pdf
+Num: 0
+Num: 19
+Num: 17
+Num: 15
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.table_finder.log
+table_finder: 1_Upload_2855.pdf
+LINE DETECTION
+page 1 setting Title >MEMBERS OF THE CABINET<
+> pa1.li0 1.|Shrimati Indira Gandhi. Prine Minister|Minister of Atonic Energy, #=conf_boundary_words
+> pa1.li1 2.|Shri Morarji R. Desai, Deputy Prime Minister|Minister of Finance. #=conf_boundary_words
+> pa1.li2 3.|Shri Fakhruddin Ali Ahmed|Minister of Industril Developnent and Company Affairs. #=conf_boundary_words
+> pa1.li3 4.|Shri M.C. Chagla|Minister of External Affairs. #=conf_boundary_words
+> pa1.li4 5.|Shri Y.B. Chavan|Minister of Hone Affairs, #=conf_boundary_words
+> pa1.li5 6.|Shri Jai Sukh Lal Hathi|Minister of Labour & Rehabilitation. #=conf_boundary_words
+> pa1.li6 7.|Shri Jagjivan Ram|Minister of Food & Agriculture. #=conf_boundary_words
+> pa1.li7 8.|Shri Asoka Mehta|Minister of Planning, Petroleum & Chemicals and Social Welfare. #=conf_boundary_words
+> pa1.li8 9.|Shri P. Govinda Menon|Minister of Law. #=conf_boundary_words
+> pa1.li9 10.|Shri C, M. Poonacha|Minister of Railways. #=conf_boundary_words
+> pa1.li10 11.|Prof. V.K.R.V. Rao|Minister of Transport & Shipping. #=conf_boundary_words
+> pa1.li11 12.|Dr. M, Channa Reddy|Minister of Stecl, Mines & Motals. #=conf_boundary_words
+> pa1.li12 13.|Dr. Triguna Sen|Ministor of Education. #=cell_boundary [0.3, 0.6]
+> pa1.li13 14.|Shri K.K. Shah|Ministor of Infornation &. Broadcasting. #=cell_boundary [0.3, 0.6]
+> pa1.li14 15.|Shri Dinesh Singh|Ministor of Commerce. #=cell_boundary [0.3, 0.6]
+> pa1.li15 16,|Dr. Karan Singh|Ministor of Tourism & Civil Aviation. #=cell_boundary [0.3, 0.6]
+> pa1.li16 17|Dr. Rari Subhag Singh|Ministor of Parlianentary Affairs and Conmunications. #=cell_boundary [0.3, 0.6]
+> pa1.li17 18.|Sardar Swaran Singh|Minister of Defonce. #=conf_boundary_words
+> pa1.li18 19.|Shri Satya Narayan Sinha|Minister without Portfolio. #=conf_boundary_words
+LINE DETECTION
+page 2 setting Title >MINISTERS OF STATE<
+> pa2.li0 1.|Shri Bhagwat Jha Azad|Minister of State in the Ministry of Education. #=conf_boundary_words
+> pa2.li1 2.|Shri Bali Ram Bhagat|Minister of State in: the Ministry of Defence. #=conf_boundary_words
+> pa2.li2 3.|Dr. S. Chandrasekhar|Minister of Health & Family Planning. #=conf_boundary_words
+> pa2.li3 4.|Shri Parimal Ghosh|Minister of State in the Ministry of Railways. #=conf_boundary_words
+> pa2.li4 5.|Shrimati Phulrenu Guha|Minister of State in the Department of Social Welfare. #=conf_boundary_words
+> pa2.li5 6,|Shri I.K. Gujral|Minister of State in the Departments of Parliamen tery Affai rs and Communications #=conf_boundary_words
+> pa2.li6 7.|Shri M.s, Gurupadaswamy|Minister of State in the Department of Atomic Energy. #=conf_boundary_words
+> pa2.li7 8.|Shri Jagannath Rao|Minister of Works, Housing and Supply. #=conf_boundary_words
+> pa2.li8 9|Shri Lalit Narayan Mishra|Minister of State in the Ministry of Labour, Employmen t & Rehabilitation, #=conf_boundary_words
+> pa2.li9 10.|Shri Krishna Chandra Pant|Ministor of State in the Ministry of Finance. #=cell_boundary [0.3, 0.6]
+> pa2.li10 11.|Shri K, Raghu Ramaish|Minister of State in the Ministry of Petroleun & Chenicals and of Planning & Social Welfare. #=conf_boundary_words
+> pa2.li11 12.|Dr. K.L. Rao,|Minister of Irrigation & Powor #=conf_boundary_words
+> pa2.li12 13.|Shri K. V. Raghunatha Reddy|Minister of State in the Ministry of Industrial Development & Company Affairs #=conf_boundary_words
+> pa2.li13 14.|Shri Prakashchand B. Sethi|Minister of State in the Ministry of Steel, Mines & Metals. #=conf_boundary_words
+> pa2.li14 15.|Shri Annasahib P. Shinde|Minister of State in the Ministry of Food, Agriculture, Community Developnent & Cooperation. #=conf_boundary_words
+> pa2.li15 16.|Shri Vidya Charan Shukla|Minister of State in the Ministry of Home Affairs. #=conf_boundary_words
+> pa2.li16 17,|Prof, Sher Singh|Minister of State in the Ministry of Education. #=conf_boundary_words
+LINE DETECTION
+Last: [0.5071:0.3836, 0.5403:0.3998]  first: 0.2196:0.1313, 0.2338:0.1325, 0.2306:0.1440, 0.2196:0.1429
+page 3 setting Title >DEPUTY MINISTERS<
+> pa3.li0 1|Shri Bhakt Darshan|Deputy Ministor in the Ministry of Transport & Shipping. #=conf_boundary_words
+> pa3.li1 2|Shri Rohanlal Chaturvedi|Deputy Minister in the Department of Parlianentary Affairs, #=conf_boundary_words
+> pa3.li2 3.|Shri DiR. Ohavan|Deputy Minister in the Ministry of Law. #=conf_boundary_words
+> pa3.li3 4.|Shri D. Ering.|Deputy Minister in the Ministry of Food, Agriculture, Community Development & Cooperation. #=conf_boundary_words
+> pa3.li4 5.|Shrimati Jahanara Jaipal Singh|Deputy Minister in the Ministry of Tourism & Civil Aviation. #=conf_boundary_words
+> pa3.li5 6.|Shri S. C. Janir|Deputy Minister in the Ministry of Railways, #=conf_boundary_words
+> pa3.li6 7.|Dr. (Shrimati) Sarojini|Deputy Ministcr. #=conf_boundary_words
+> pa3.li7 8.|Shri B.S. Murthy|Deputy Minister in the Ministry of Henlth & Fanily Planning. #=conf_boundary_words
+> pa3.li8 9.|Shri Mohd. Shafi Qureshi|Deputy Minister in the Ministry of Commerce. #=conf_boundary_words
+> pa3.li9 10.|Shri K.S. Ramaswamy|Deputy Ministor in the Ministry of Home Affairs. #=conf_boundary_words
+> pa3.li10 11.|Shri J BI Muthyal Rao|Deputy Minister in the Departnent of Parlianentary Affairs. #=conf_boundary_words
+> pa3.li11 12|Shrinati Nandini Satpathy|Deputy Minister in the Ministry of Information & Broadeasting. #=conf_boundary_words
+> pa3.li12 13.|Shri Bhanu Prakash Singh|Deputy Minister in the Ministry of Industrial Development & Company Affai rs. #=conf_boundary_words
+> pa3.li13 14|Sardar Iqbal Singh|Deputy Minister in the Ministry of Works, Housing & Supply. #=conf_boundary_words
+> pa3.li14 15.|Shrd Surendra Pal Singh|Deputy Minister in the Ministry of External Affairsi #=conf_boundary_words
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.tableorder.log
+table_order_builder: 1_Upload_2855.pdf
+nhm: 1.0 avg_height: 0.014268726666666662 coords: [0.7916:0.0666, 0.8622:0.0559, 0.8689:0.0773, 0.7983:0.0880] **
+page_lWords: 168 lWords: 6
+****************
+[0]:
+[1]: New Delhi, the 11th April, 1967.
+Order Date: 1967-04-11
+Minister of Atonic Energy,
+[]
+	atonic == and 4
+	atonic == to 4
+	atonic == public 4
+	atonic == an 4
+	atonic == tri 4
+	atonic == non 4
+	atonic == on 4
+	atonic == atomic 1
+	atonic == any 4
+	atonic == tour 4
+	atonic == at 4
+	Found correction: Atonic atomic
+Add label ignore: >,< [[25:26]] ->[25:26]
+Hierarchy: Minister of atomic Energy
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+1. Shrimati Indira Gandhi. Prine Minister Minister of atomic Energy,
+O: Shrimati|Indira Gandhi. Prine Minister
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Department of Atomic Energy
+Errors:
+  ['EnglishWordsInNameError: pa1.ta0.ro0.ce1 English words in officer name: >Minister<']
+Replacing comma Shri Morarji R. Desai,
+Minister of Finance.
+[]
+Add label ignore: >.< [[19:20]] ->[19:20]
+Hierarchy: Minister of Finance
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+2. Shri Morarji R. Desai, Deputy Prime Minister Minister of Finance.
+O: Shri|Morarji R. Desai.
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Finance
+Errors:
+  ['EnglishWordsInNameError: pa1.ta0.ro1.ce1 English words in officer name: >Deputy,Prime,Minister<']
+Minister of Industril Developnent and Company Affairs.
+[]
+	industril == industry 2
+	industril == industries 2
+	industril == industrial 1
+	industril == indus 4
+	Found correction: Industril industrial
+	developnent == development 1
+	Found correction: Developnent development
+Add label ignore: >.< [[54:55]] ->[54:55]
+Hierarchy: Minister of industrial development and Company Affairs
+Hierarchy: Cabinet Minister
+Hierarchy:                                    and
+--------
+3. Shri Fakhruddin Ali Ahmed Minister of industrial development and Company Affairs.
+O: Shri|Fakhruddin Ali Ahmed
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Industry
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Corporate Affairs
+Minister of External Affairs.
+[]
+Add label ignore: >.< [[28:29]] ->[28:29]
+Hierarchy: Minister of External Affairs
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+4. Shri M.C. Chagla Minister of External Affairs.
+O: Shri|M.C. Chagla
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of External Affairs
+Minister of Hone Affairs,
+[]
+	hone == the 3
+	hone == and 3
+	hone == of 3
+	hone == charge 4
+	hone == in 3
+	hone == state 4
+	hone == to 3
+	hone == for 3
+	hone == copy 3
+	hone == prime 4
+	hone == all 4
+	hone == will 4
+	hone == hold 2
+	hone == also 4
+	hone == he 2
+	hone == tele 3
+	hone == copies 4
+	hone == home 1
+	hone == mines 3
+	hone == food 3
+	hone == water 4
+	hone == human 4
+	hone == law 4
+	hone == steel 4
+	hone == coal 3
+	hone == man 3
+	hone == youth 4
+	hone == power 3
+	hone == up 4
+	hone == housing 4
+	hone == heavy 4
+	hone == gas 4
+	hone == be 3
+	hone == joint 3
+	hone == govt 3
+	hone == an 3
+	hone == has 3
+	hone == road 3
+	hone == as 4
+	hone == works 4
+	hone == tri 4
+	hone == board 4
+	hone == non 2
+	hone == with 4
+	hone == pay 4
+	hone == on 2
+	hone == соpy 4
+	hone == under 4
+	hone == that 4
+	hone == space 4
+	hone == from 4
+	hone == or 3
+	hone == ocean 4
+	hone == north 4
+	hone == women 3
+	hone == try 4
+	hone == trade 4
+	hone == scale 4
+	hone == river 4
+	hone == is 4
+	hone == ganga 4
+	hone == agro 4
+	hone == other 4
+	hone == child 4
+	hone == she 3
+	hone == new 3
+	hone == may 4
+	hone == his 3
+	hone == shall 4
+	hone == work 3
+	hone == rail 4
+	hone == holding 4
+	hone == not 3
+	hone == any 3
+	hone == сорy 4
+	hone == tour 3
+	hone == time 3
+	hone == till 4
+	hone == him 3
+	hone == held 3
+	hone == forest 4
+	hone == end 3
+	hone == change 3
+	hone == at 4
+	hone == wild 4
+	hone == come 2
+	hone ==  4
+	Found correction: Hone home
+Add label ignore: >,< [[24:25]] ->[24:25]
+Hierarchy: Minister of home Affairs
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+5. Shri Y.B. Chavan Minister of home Affairs,
+O: Shri|Y.B. Chavan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Home Affairs
+Minister of Labour & Rehabilitation.
+[]
+Add label ignore: >.< [[35:36]] ->[35:36]
+Hierarchy: Minister of Labour & Rehabilitation
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+6. Shri Jai Sukh Lal Hathi Minister of Labour & Rehabilitation.
+O: Shri|Jai Sukh Lal Hathi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Labour
+Minister of Food & Agriculture.
+[]
+Add label ignore: >.< [[30:31]] ->[30:31]
+Hierarchy: Minister of Food & Agriculture
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+7. Shri Jagjivan Ram Minister of Food & Agriculture.
+O: Shri|Jagjivan Ram
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Agriculture
+Minister of Planning, Petroleum & Chemicals and Social Welfare.
+[]
+Add label ignore: >,< [[20:21], [62:63]] ->[20:21]
+Add label ignore: >.< [[20:21], [62:63]] ->[62:63]
+Hierarchy: Minister of Planning Petroleum & Chemicals and Social Welfare
+Hierarchy: Cabinet Minister
+Hierarchy:                                &           and
+--------
+8. Shri Asoka Mehta Minister of Planning, Petroleum & Chemicals and Social Welfare.
+O: Shri|Asoka Mehta
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Planning
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Petroleum
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Chemicals and Fertilisers
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Welfare
+Minister of Law.
+[]
+Add label ignore: >.< [[15:16]] ->[15:16]
+Hierarchy: Minister of Law
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+9. Shri P. Govinda Menon Minister of Law.
+O: Shri|P. Govinda Menon
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Law and Justice
+Replacing comma Shri C, M. Poonacha
+Minister of Railways.
+[]
+Add label ignore: >.< [[20:21]] ->[20:21]
+Hierarchy: Minister of Railways
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+10. Shri C, M. Poonacha Minister of Railways.
+O: Shri|C. M. Poonacha
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Railways
+Minister of Transport & Shipping.
+[]
+Add label ignore: >.< [[32:33]] ->[32:33]
+Hierarchy: Minister of Transport & Shipping
+Hierarchy: Cabinet Minister
+Hierarchy:                       &
+--------
+11. Prof. V.K.R.V. Rao Minister of Transport & Shipping.
+O: Prof.|V.K.R.V. Rao
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Transport
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Shipping
+Replacing comma Dr. M, Channa Reddy
+Minister of Stecl, Mines & Motals.
+[]
+	stecl == the 4
+	stecl == state 3
+	stecl == to 4
+	stecl == all 4
+	stecl == will 4
+	stecl == he 4
+	stecl == civil 4
+	stecl == tele 3
+	stecl == rural 4
+	stecl == water 4
+	stecl == justice 4
+	stecl == steel 1
+	stecl == coal 4
+	stecl == social 4
+	stecl == science 4
+	stecl == be 4
+	stecl == special 3
+	stecl == supply 4
+	stecl == tri 4
+	stecl == small 3
+	stecl == effect 4
+	stecl == that 4
+	stecl == space 3
+	stecl == ocean 4
+	stecl == eastern 4
+	stecl == try 4
+	stecl == scale 4
+	stecl == other 4
+	stecl == press 4
+	stecl == she 3
+	stecl == new 4
+	stecl == shall 3
+	stecl == skill 3
+	stecl == rail 4
+	stecl == tour 4
+	stecl == time 4
+	stecl == till 3
+	stecl == states 4
+	stecl == held 4
+	stecl == end 4
+	stecl == at 4
+	stecl == direct 4
+	Found correction: Stecl steel
+	motals == state 4
+	motals == all 4
+	motals == hold 4
+	motals == also 4
+	motals == tele 4
+	motals == copies 4
+	motals == mines 4
+	motals == rural 4
+	motals == coal 3
+	motals == man 4
+	motals == social 4
+	motals == gas 4
+	motals == has 4
+	motals == road 4
+	motals == as 4
+	motals == works 4
+	motals == small 4
+	motals == board 4
+	motals == scale 4
+	motals == other 4
+	motals == may 4
+	motals == shall 4
+	motals == metals 1
+	motals == not 4
+	motals == till 4
+	motals == states 4
+	motals == duties 4
+	Found correction: Motals metals
+Hierarchy: Minister of steel Mines & metals
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+12. Dr. M, Channa Reddy Minister of steel Mines & metals
+O: Dr.|M. Channa Reddy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Steel Mines and Metals
+Ministor of Education.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[21:22]] ->[21:22]
+Hierarchy: minister of Education
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+13. Dr. Triguna Sen minister of Education.
+O: Dr.|Triguna Sen
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Education
+Ministor of Infornation &. Broadcasting.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+	infornation == information 1
+	infornation == formation 3
+	Found correction: Infornation information
+Add label ignore: >.< [[25:26], [39:40]] ->[25:26]
+Add label ignore: >.< [[25:26], [39:40]] ->[39:40]
+Hierarchy: minister of information & Broadcasting
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+14. Shri K.K. Shah minister of information &. Broadcasting.
+O: Shri|K.K. Shah
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Information and Broadcasting
+Ministor of Commerce.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[20:21]] ->[20:21]
+Hierarchy: minister of Commerce
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+15. Shri Dinesh Singh minister of Commerce.
+O: Shri|Dinesh Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Commerce
+Ministor of Tourism & Civil Aviation.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[36:37]] ->[36:37]
+Hierarchy: minister of Tourism & Civil Aviation
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+16, Dr. Karan Singh minister of Tourism & Civil Aviation.
+O: Dr.|Karan Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Civil Aviation and Tourism
+Ministor of Parlianentary Affairs and Conmunications.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+	parlianentary == parliamentary 1
+	Found correction: Parlianentary parliamentary
+	conmunications == communications 1
+	Found correction: Conmunications communications
+Hierarchy: minister of parliamentary Affairs and communications
+Hierarchy: Cabinet Minister
+Hierarchy:                                   and
+--------
+17 Dr. Rari Subhag Singh minister of parliamentary Affairs and communications
+O: Dr.|Rari Subhag Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Parliamentary Affairs
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Communications
+Minister of Defonce.
+[]
+	defonce == office 4
+	defonce == finance 4
+	defonce == defence 1
+	defonce == resource 4
+	defonce == science 4
+	defonce == effect 4
+	defonce == reforms 4
+	Found correction: Defonce defence
+Hierarchy: Minister of defence
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+18. Sardar Swaran Singh Minister of defence
+O: Sardar|Swaran Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Defence
+Minister without Portfolio.
+[]
+Add label ignore: >.< [[26:27]] ->[26:27]
+Hierarchy: Minister without Portfolio
+Hierarchy: Cabinet Minister
+Hierarchy:
+--------
+19. Shri Satya Narayan Sinha Minister without Portfolio.
+O: Shri|Satya Narayan Sinha
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry without portfolio
+Minister of State in the Ministry of Education.
+[]
+Add label ignore: >.< [[46:47], [18:24]] ->[46:47]
+Add label ignore: >in the< [[46:47], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Education
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+1. Shri Bhagwat Jha Azad Minister of State in the Ministry of Education.
+O: Shri|Bhagwat Jha Azad
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Education
+Minister of State in: the Ministry of Defence.
+[]
+Add label ignore: >.< [[45:46]] ->[45:46]
+Hierarchy: Minister of State in: the Ministry of Defence
+Hierarchy: Minister of State
+Hierarchy: Minister of State in: the
+--------
+2. Shri Bali Ram Bhagat Minister of State in: the Ministry of Defence.
+O: Shri|Bali Ram Bhagat
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Defence
+Minister of Health & Family Planning.
+[]
+Add label ignore: >.< [[36:37]] ->[36:37]
+Hierarchy: Minister of Health & Family Planning
+Hierarchy: Minister of State
+Hierarchy:
+--------
+3. Dr. S. Chandrasekhar Minister of Health & Family Planning.
+O: Dr.|S. Chandrasekhar
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Health and Family Welfare
+Minister of State in the Ministry of Railways.
+[]
+Add label ignore: >.< [[45:46], [18:24]] ->[45:46]
+Add label ignore: >in the< [[45:46], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Railways
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+4. Shri Parimal Ghosh Minister of State in the Ministry of Railways.
+O: Shri|Parimal Ghosh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Railways
+Minister of State in the Department of Social Welfare.
+[]
+Add label ignore: >.< [[53:54], [18:24]] ->[53:54]
+Add label ignore: >in the< [[53:54], [18:24]] ->[18:24]
+Hierarchy: Minister of State Department of Social Welfare
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+5. Shrimati Phulrenu Guha Minister of State in the Department of Social Welfare.
+O: Shrimati|Phulrenu Guha
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Welfare
+Minister of State in the Departments of Parliamen tery Affai rs and Communications
+[]
+	Merging: Parliamen tery -> Parliamentery
+	Merging: Affai rs -> Affairs
+	parliamentery == parliamentary 1
+	Found correction: Parliamentery parliamentary
+Add label ignore: >in the< [[18:24]] ->[18:24]
+Hierarchy: Minister of State Departments of parliamentary Affairs and Communications
+Hierarchy: Minister of State
+Hierarchy: Minister of State Departments of                       and
+--------
+6, Shri I.K. Gujral Minister of State in the Departments of parliamentary Affairs and Communications
+O: Shri|I.K. Gujral
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Parliamentary Affairs
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Communications
+Replacing comma Shri M.s, Gurupadaswamy
+Minister of State in the Department of Atomic Energy.
+[]
+Add label ignore: >.< [[52:53], [18:24]] ->[52:53]
+Add label ignore: >in the< [[52:53], [18:24]] ->[18:24]
+Hierarchy: Minister of State Department of Atomic Energy
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+7. Shri M.s, Gurupadaswamy Minister of State in the Department of Atomic Energy.
+O: Shri|M.s. Gurupadaswamy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Department of Atomic Energy
+Minister of Works, Housing and Supply.
+[]
+Add label ignore: >,< [[17:18], [37:38]] ->[17:18]
+Add label ignore: >.< [[17:18], [37:38]] ->[37:38]
+Hierarchy: Minister of Works Housing and Supply
+Hierarchy: Minister of State
+Hierarchy:                           and
+--------
+8. Shri Jagannath Rao Minister of Works, Housing and Supply.
+O: Shri|Jagannath Rao
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Works and Housing
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Supply
+Minister of State in the Ministry of Labour, Employmen t & Rehabilitation,
+[]
+	Merging: Employmen t -> Employment
+Add label ignore: >,< [[43:44], [72:73], [18:24]] ->[43:44]
+Add label ignore: >,< [[43:44], [72:73], [18:24]] ->[72:73]
+Add label ignore: >in the< [[43:44], [72:73], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Labour Employment & Rehabilitation
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+9 Shri Lalit Narayan Mishra Minister of State in the Ministry of Labour, Employment & Rehabilitation,
+O: Shri|Lalit Narayan Mishra
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Labour
+Ministor of State in the Ministry of Finance.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[44:45], [18:24]] ->[44:45]
+Add label ignore: >in the< [[44:45], [18:24]] ->[18:24]
+Hierarchy: minister of State Ministry of Finance
+Hierarchy: Minister of State
+Hierarchy: minister of State
+--------
+10. Shri Krishna Chandra Pant minister of State in the Ministry of Finance.
+O: Shri|Krishna Chandra Pant
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Finance
+Replacing comma Shri K, Raghu Ramaish
+Minister of State in the Ministry of Petroleun & Chenicals and of Planning & Social Welfare.
+[]
+	petroleun == petroleum 1
+	petroleun == petro 4
+	Found correction: Petroleun petroleum
+	chenicals == chemicals 1
+	Found correction: Chenicals chemicals
+Add label ignore: >.< [[91:92], [18:24]] ->[91:92]
+Add label ignore: >in the< [[91:92], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of petroleum & chemicals and of Planning & Social Welfare
+Hierarchy: Minister of State
+Hierarchy: Minister of State                       &           and of          &
+--------
+11. Shri K, Raghu Ramaish Minister of State in the Ministry of petroleum & chemicals and of Planning & Social Welfare.
+O: Shri|K. Raghu Ramaish
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Petroleum
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Chemicals and Fertilisers
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Planning
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Welfare
+Minister of Irrigation & Powor
+[]
+	powor == of 4
+	powor == to 4
+	powor == for 3
+	powor == copy 4
+	powor == prime 4
+	powor == hold 4
+	powor == also 4
+	powor == labour 4
+	powor == home 4
+	powor == food 3
+	powor == water 4
+	powor == law 4
+	powor == coal 4
+	powor == sports 4
+	powor == youth 4
+	powor == power 1
+	powor == joint 4
+	powor == govt 4
+	powor == road 4
+	powor == poverty 4
+	powor == works 4
+	powor == board 4
+	powor == non 4
+	powor == pay 4
+	powor == on 4
+	powor == under 4
+	powor == from 4
+	powor == or 3
+	powor == north 4
+	powor == women 4
+	powor == river 4
+	powor == agro 4
+	powor == other 4
+	powor == press 4
+	powor == new 4
+	powor == work 3
+	powor == petro 4
+	powor == not 4
+	powor == tour 3
+	powor == come 4
+	Found correction: Powor power
+Hierarchy: Minister of Irrigation & power
+Hierarchy: Minister of State
+Hierarchy:                        &
+--------
+12. Dr. K.L. Rao, Minister of Irrigation & power
+O: Dr.|K.L. Rao
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Irrigation
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Power
+Minister of State in the Ministry of Industrial Development & Company Affairs
+[]
+Add label ignore: >in the< [[18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Industrial Development & Company Affairs
+Hierarchy: Minister of State
+Hierarchy: Minister of State                                    &
+--------
+13. Shri K. V. Raghunatha Reddy Minister of State in the Ministry of Industrial Development & Company Affairs
+O: Shri|K. V. Raghunatha Reddy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Industry
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Corporate Affairs
+Minister of State in the Ministry of Steel, Mines & Metals.
+[]
+Add label ignore: >,< [[42:43], [58:59], [18:24]] ->[42:43]
+Add label ignore: >.< [[42:43], [58:59], [18:24]] ->[58:59]
+Add label ignore: >in the< [[42:43], [58:59], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Steel Mines & Metals
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+14. Shri Prakashchand B. Sethi Minister of State in the Ministry of Steel, Mines & Metals.
+O: Shri|Prakashchand B. Sethi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Steel Mines and Metals
+Minister of State in the Ministry of Food, Agriculture, Community Developnent & Cooperation.
+[]
+	developnent == development 1
+	Found correction: Developnent development
+Add label ignore: >,< [[41:42], [54:55], [91:92], [18:24]] ->[41:42]
+Add label ignore: >,< [[41:42], [54:55], [91:92], [18:24]] ->[54:55]
+Add label ignore: >.< [[41:42], [54:55], [91:92], [18:24]] ->[91:92]
+Add label ignore: >in the< [[41:42], [54:55], [91:92], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Food Agriculture Community development & Cooperation
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+15. Shri Annasahib P. Shinde Minister of State in the Ministry of Food, Agriculture, Community development & Cooperation.
+O: Shri|Annasahib P. Shinde
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Food
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Community Development and Cooperation
+Minister of State in the Ministry of Home Affairs.
+[]
+Add label ignore: >.< [[49:50], [18:24]] ->[49:50]
+Add label ignore: >in the< [[49:50], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Home Affairs
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+16. Shri Vidya Charan Shukla Minister of State in the Ministry of Home Affairs.
+O: Shri|Vidya Charan Shukla
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Home Affairs
+Replacing comma Prof, Sher Singh
+Minister of State in the Ministry of Education.
+[]
+Add label ignore: >.< [[46:47], [18:24]] ->[46:47]
+Add label ignore: >in the< [[46:47], [18:24]] ->[18:24]
+Hierarchy: Minister of State Ministry of Education
+Hierarchy: Minister of State
+Hierarchy: Minister of State
+--------
+17, Prof, Sher Singh Minister of State in the Ministry of Education.
+O: Prof.|Sher Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Education
+Deputy Ministor in the Ministry of Transport & Shipping.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[55:56], [16:22]] ->[55:56]
+Add label ignore: >in the< [[55:56], [16:22]] ->[16:22]
+Hierarchy: Deputy minister Ministry of Transport & Shipping
+Hierarchy: Deputy Minister
+Hierarchy: Deputy minister                       &
+--------
+1 Shri Bhakt Darshan Deputy minister in the Ministry of Transport & Shipping.
+O: Shri|Bhakt Darshan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Transport
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Shipping
+Deputy Minister in the Department of Parlianentary Affairs,
+[]
+	parlianentary == parliamentary 1
+	Found correction: Parlianentary parliamentary
+Add label ignore: >,< [[58:59], [16:22]] ->[58:59]
+Add label ignore: >in the< [[58:59], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Department of parliamentary Affairs
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+2 Shri Rohanlal Chaturvedi Deputy Minister in the Department of parliamentary Affairs,
+O: Shri|Rohanlal Chaturvedi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Parliamentary Affairs
+Deputy Minister in the Ministry of Law.
+[]
+Add label ignore: >.< [[38:39], [16:22]] ->[38:39]
+Add label ignore: >in the< [[38:39], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Law
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+3. Shri DiR. Ohavan Deputy Minister in the Ministry of Law.
+O: Shri|DiR. Ohavan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Law and Justice
+Deputy Minister in the Ministry of Food, Agriculture, Community Development & Cooperation.
+[]
+Add label ignore: >,< [[39:40], [52:53], [89:90], [16:22]] ->[39:40]
+Add label ignore: >,< [[39:40], [52:53], [89:90], [16:22]] ->[52:53]
+Add label ignore: >.< [[39:40], [52:53], [89:90], [16:22]] ->[89:90]
+Add label ignore: >in the< [[39:40], [52:53], [89:90], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Food Agriculture Community Development & Cooperation
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+4. Shri D. Ering. Deputy Minister in the Ministry of Food, Agriculture, Community Development & Cooperation.
+O: Shri|D. Ering
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Food
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Community Development and Cooperation
+Deputy Minister in the Ministry of Tourism & Civil Aviation.
+[]
+Add label ignore: >.< [[59:60], [16:22]] ->[59:60]
+Add label ignore: >in the< [[59:60], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Tourism & Civil Aviation
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+5. Shrimati Jahanara Jaipal Singh Deputy Minister in the Ministry of Tourism & Civil Aviation.
+O: Shrimati|Jahanara Jaipal Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Civil Aviation and Tourism
+Deputy Minister in the Ministry of Railways,
+[]
+Add label ignore: >,< [[43:44], [16:22]] ->[43:44]
+Add label ignore: >in the< [[43:44], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Railways
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+6. Shri S. C. Janir Deputy Minister in the Ministry of Railways,
+O: Shri|S. C. Janir
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Railways
+Deputy Ministcr.
+[]
+	ministcr == minister 1
+	ministcr == ministry 2
+	ministcr == ministers 2
+	ministcr == mines 4
+	ministcr == ministries 4
+	Found correction: Ministcr minister
+Hierarchy: Deputy minister
+Hierarchy: Deputy Minister
+Hierarchy: Deputy minister
+--------
+7. Dr. (Shrimati) Sarojini Deputy minister
+O: Dr. (Shrimati)|Sarojini
+Deputy Minister in the Ministry of Henlth & Fanily Planning.
+[]
+	henlth == deputy 4
+	henlth == hold 4
+	henlth == he 4
+	henlth == tele 4
+	henlth == health 1
+	henlth == youth 4
+	henlth == heavy 4
+	henlth == with 4
+	henlth == earth 3
+	henlth == north 4
+	henlth == not 4
+	henlth == held 3
+	henlth == end 4
+	Found correction: Henlth health
+	fanily == and 4
+	fanily == all 4
+	fanily == will 4
+	fanily == civil 4
+	fanily == family 1
+	fanily == man 4
+	fanily == supply 4
+	fanily == an 4
+	fanily == railway 4
+	fanily == pay 4
+	fanily == ganga 4
+	fanily == child 4
+	fanily == may 4
+	fanily == skill 4
+	fanily == rail 3
+	fanily == animal 4
+	fanily == any 3
+	fanily == till 4
+	fanily == banking 4
+	fanily == wild 4
+	Found correction: Fanily family
+Add label ignore: >.< [[59:60], [16:22]] ->[59:60]
+Add label ignore: >in the< [[59:60], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of health & family Planning
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+8. Shri B.S. Murthy Deputy Minister in the Ministry of health & family Planning.
+O: Shri|B.S. Murthy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Health and Family Welfare
+Deputy Minister in the Ministry of Commerce.
+[]
+Add label ignore: >.< [[43:44], [16:22]] ->[43:44]
+Add label ignore: >in the< [[43:44], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Commerce
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+9. Shri Mohd. Shafi Qureshi Deputy Minister in the Ministry of Commerce.
+O: Shri|Mohd. Shafi Qureshi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Commerce
+Deputy Ministor in the Ministry of Home Affairs.
+[]
+	ministor == minister 1
+	ministor == ministry 2
+	ministor == ministers 2
+	ministor == mines 4
+	ministor == director 4
+	ministor == ministries 4
+	ministor == division 4
+	Found correction: Ministor minister
+Add label ignore: >.< [[47:48], [16:22]] ->[47:48]
+Add label ignore: >in the< [[47:48], [16:22]] ->[16:22]
+Hierarchy: Deputy minister Ministry of Home Affairs
+Hierarchy: Deputy Minister
+Hierarchy: Deputy minister
+--------
+10. Shri K.S. Ramaswamy Deputy minister in the Ministry of Home Affairs.
+O: Shri|K.S. Ramaswamy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Home Affairs
+Deputy Minister in the Departnent of Parlianentary Affairs.
+[]
+	departnent == department 1
+	departnent == departments 2
+	Found correction: Departnent department
+	parlianentary == parliamentary 1
+	Found correction: Parlianentary parliamentary
+Add label ignore: >.< [[58:59], [16:22]] ->[58:59]
+Add label ignore: >in the< [[58:59], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister department of parliamentary Affairs
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+11. Shri J BI Muthyal Rao Deputy Minister in the department of parliamentary Affairs.
+O: Shri|J BI Muthyal Rao
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Parliamentary Affairs
+Deputy Minister in the Ministry of Information & Broadeasting.
+[]
+	broadeasting == broadcasting 1
+	Found correction: Broadeasting broadcasting
+Add label ignore: >in the< [[16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Information & broadcasting
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+12 Shrinati Nandini Satpathy Deputy Minister in the Ministry of Information & broadcasting
+O: Shrinati|Nandini Satpathy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Information and Broadcasting
+Deputy Minister in the Ministry of Industrial Development & Company Affai rs.
+[]
+	Merging: Affai rs -> Affairs
+Add label ignore: >.< [[75:76], [16:22]] ->[75:76]
+Add label ignore: >in the< [[75:76], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Industrial Development & Company Affairs
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister                                    &
+--------
+13. Shri Bhanu Prakash Singh Deputy Minister in the Ministry of Industrial Development & Company Affairs.
+O: Shri|Bhanu Prakash Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Industry
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Corporate Affairs
+Deputy Minister in the Ministry of Works, Housing & Supply.
+[]
+Add label ignore: >,< [[40:41], [58:59], [16:22]] ->[40:41]
+Add label ignore: >.< [[40:41], [58:59], [16:22]] ->[58:59]
+Add label ignore: >in the< [[40:41], [58:59], [16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of Works Housing & Supply
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister                           &
+--------
+14 Sardar Iqbal Singh Deputy Minister in the Ministry of Works, Housing & Supply.
+O: Sardar|Iqbal Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Works and Housing
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of Supply
+Deputy Minister in the Ministry of External Affairsi
+[]
+	affairsi == affairs 1
+	Found correction: Affairsi affairs
+Add label ignore: >in the< [[16:22]] ->[16:22]
+Hierarchy: Deputy Minister Ministry of External affairs
+Hierarchy: Deputy Minister
+Hierarchy: Deputy Minister
+--------
+15. Shrd Surendra Pal Singh Deputy Minister in the Ministry of External affairs
+O: |Shrd Surendra Pal Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Deputy Minister
+  dept: __department__->Ministry of External Affairs
+==1_Upload_2855.pdf.table_order_builder 51 Errors=2 EnglishWordsInNameError=2
+EnglishWordsInNameError: pa1.ta0.ro0.ce1 English words in officer name: >Minister<
+EnglishWordsInNameError: pa1.ta0.ro1.ce1 English words in officer name: >Deputy,Prime,Minister<
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.ordertagger.log
+manual_tagger: 1_Upload_2855.pdf
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.id_assigner.log
+id_assigner: 1_Upload_2855.pdf
+	indiragandhi.prineminister == indiragandhiprimeminister 2
+[0] O: Shrimati|Indira Gandhi. Prine Minister > Q1149
+continues:
+D:__department__>Department of Atomic Energy
+	morarjir.desai. == morarjidesai 3
+	morarjir.desai. == morarjirdesai 2
+	morarjir.desai. == morarjir.desai 1
+[1] O: Shri|Morarji R. Desai. > Q218661
+continues:
+D:__department__>Ministry of Finance
+[2] O: Shri|Fakhruddin Ali Ahmed > Q317778
+continues:
+D:__department__>Ministry of Industry
+D:__department__>Ministry of Corporate Affairs
+[3] O: Shri|M.C. Chagla > Q3634250
+continues:
+D:__department__>Ministry of External Affairs
+[4] O: Shri|Y.B. Chavan > Q1764541
+continues:
+D:__department__>Ministry of Home Affairs
+[5] O: Shri|Jai Sukh Lal Hathi > Q6124294
+continues:
+D:__department__>Ministry of Labour
+[6] O: Shri|Jagjivan Ram > Q1471625
+continues:
+D:__department__>Ministry of Agriculture
+[7] O: Shri|Asoka Mehta > Q4807564
+continues:
+D:__department__>Ministry of Planning
+D:__department__>Ministry of Petroleum
+D:__department__>Ministry of Chemicals and Fertilisers
+D:__department__>Ministry of Welfare
+[8] O: Shri|P. Govinda Menon > Q7130023
+continues:
+D:__department__>Ministry of Law and Justice
+[9] O: Shri|C. M. Poonacha > Q3667173
+continues:
+D:__department__>Ministry of Railways
+[10] O: Prof.|V.K.R.V. Rao > Q7906086
+continues:
+D:__department__>Ministry of Transport
+D:__department__>Ministry of Shipping
+[11] O: Dr.|M. Channa Reddy > Q3764358
+continues:
+D:__department__>Ministry of Steel Mines and Metals
+[12] O: Dr.|Triguna Sen > Q7841910
+continues:
+D:__department__>Ministry of Education
+[13] O: Shri|K.K. Shah > Q6425223
+continues:
+D:__department__>Ministry of Information and Broadcasting
+[14] O: Shri|Dinesh Singh > Q5278104
+continues:
+D:__department__>Ministry of Commerce
+[15] O: Dr.|Karan Singh > Q1234662
+continues:
+D:__department__>Ministry of Civil Aviation and Tourism
+	rarisubhagsingh == ramsubbagsingh 3
+	rarisubhagsingh == ramsubhagsingh 2
+	rarisubhagsingh == ramsubhagsingh. 3
+[16] O: Dr.|Rari Subhag Singh > Q7288604
+continues:
+D:__department__>Ministry of Parliamentary Affairs
+D:__department__>Ministry of Communications
+[17] O: Sardar|Swaran Singh > Q1034290
+continues:
+D:__department__>Ministry of Defence
+[18] O: Shri|Satya Narayan Sinha > Q17388761
+continues:
+D:__department__>Ministry without portfolio
+[19] O: Shri|Bhagwat Jha Azad > Q4900694
+continues:
+D:__department__>Ministry of Education
+[20] O: Shri|Bali Ram Bhagat > Q2604943
+continues:
+D:__department__>Ministry of Defence
+[21] O: Dr.|S. Chandrasekhar > Q7586477
+continues:
+D:__department__>Ministry of Health and Family Welfare
+[22] O: Shri|Parimal Ghosh > Q24565986
+continues:
+D:__department__>Ministry of Railways
+[23] O: Shrimati|Phulrenu Guha > Q12439758
+continues:
+D:__department__>Ministry of Welfare
+[24] O: Shri|I.K. Gujral > Q248484
+continues:
+D:__department__>Ministry of Parliamentary Affairs
+D:__department__>Ministry of Communications
+[25] O: Shri|M.s. Gurupadaswamy > Q1880782
+continues:
+D:__department__>Department of Atomic Energy
+[26] O: Shri|Jagannath Rao > Q17479222
+continues:
+D:__department__>Ministry of Works and Housing
+D:__department__>Ministry of Supply
+[27] O: Shri|Lalit Narayan Mishra > Q3630093
+continues:
+D:__department__>Ministry of Labour
+[28] O: Shri|Krishna Chandra Pant > Q3595472
+continues:
+D:__department__>Ministry of Finance
+[29] O: Shri|K. Raghu Ramaish > Q6433963
+continues:
+D:__department__>Ministry of Petroleum
+D:__department__>Ministry of Chemicals and Fertilisers
+D:__department__>Ministry of Planning
+D:__department__>Ministry of Welfare
+[30] O: Dr.|K.L. Rao > Q6365681
+continues:
+D:__department__>Ministry of Irrigation
+D:__department__>Ministry of Power
+[31] O: Shri|K. V. Raghunatha Reddy > Q6324166
+continues:
+D:__department__>Ministry of Industry
+D:__department__>Ministry of Corporate Affairs
+[32] O: Shri|Prakashchand B. Sethi > Q7238171
+continues:
+D:__department__>Ministry of Steel Mines and Metals
+[33] O: Shri|Annasahib P. Shinde > Q45349961
+continues:
+D:__department__>Ministry of Food
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Community Development and Cooperation
+[34] O: Shri|Vidya Charan Shukla > Q7928167
+continues:
+D:__department__>Ministry of Home Affairs
+[35] O: Prof.|Sher Singh > Q111720638
+continues:
+D:__department__>Ministry of Education
+[36] O: Shri|Bhakt Darshan > Q4900846
+continues:
+D:__department__>Ministry of Transport
+D:__department__>Ministry of Shipping
+[37] O: Shri|Rohanlal Chaturvedi > Q45983738
+continues:
+D:__department__>Ministry of Parliamentary Affairs
+[38] O: Shri|DiR. Ohavan > Q16007372
+continues:
+D:__department__>Ministry of Law and Justice
+	d.ering == d.eraju 3
+	d.ering == shersingh 4
+[39] O: Shri|D. Ering > Q5227685
+continues:
+D:__department__>Ministry of Food
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Community Development and Cooperation
+[40] O: Shrimati|Jahanara Jaipal Singh > Q43419953
+continues:
+D:__department__>Ministry of Civil Aviation and Tourism
+	s.c.janir == k.c.fant 4
+	s.c.janir == k.c.tant 4
+	s.c.janir == k.c.pante 4
+	s.c.janir == k.c.pant 4
+	s.c.janir == s.c.jamir 1
+	s.c.janir == s.c.jemir 2
+	s.c.janir == a.p.jain 4
+	s.c.janir == s.k.patil 4
+	s.c.janir == s.d.patil 4
+[41] O: Shri|S. C. Janir > Q3532549
+continues:
+D:__department__>Ministry of Railways
+	sarojini == sachin 4
+[42] O: Dr. (Shrimati)|Sarojini >
+[43] O: Shri|B.S. Murthy > Q4875042
+continues:
+D:__department__>Ministry of Health and Family Welfare
+[44] O: Shri|Mohd. Shafi Qureshi > Q6892413
+continues:
+D:__department__>Ministry of Commerce
+[45] O: Shri|K.S. Ramaswamy > Q6323968
+continues:
+D:__department__>Ministry of Home Affairs
+[46] O: Shri|J BI Muthyal Rao > Q110322132
+continues:
+D:__department__>Ministry of Parliamentary Affairs
+[47] O: Shrinati|Nandini Satpathy > Q467189
+continues:
+D:__department__>Ministry of Information and Broadcasting
+[48] O: Shri|Bhanu Prakash Singh > Q104666566
+continues:
+D:__department__>Ministry of Industry
+D:__department__>Ministry of Corporate Affairs
+[49] O: Sardar|Iqbal Singh > Q108403220
+continues:
+D:__department__>Ministry of Works and Housing
+D:__department__>Ministry of Supply
+	shrdsurendrapalsingh == snrisurendrapalsingh 2
+	shrdsurendrapalsingh == surendrapalsingh 4
+[50] O: |Shrd Surendra Pal Singh > Q45348465
+continues:
+D:__department__>Ministry of External Affairs
+==1_Upload_2855.pdf.id_assigner 51 Errors=1 OfficerIDNotFoundError=1
+OfficerIDNotFoundError:  name: 1_Upload_2855.pdf >Sarojini< pa3.wo81->Dr.<, pa3.wo82->(Shrimati)<, pa3.wo83->Sarojini<, pa3.wo84-><
+>> __call__
+>> PROC
+adding handler logs/1_Upload_2855.pdf.orderdetails.log
+details_differ: 1_Upload_2855.pdf
+1_Upload_2855.pdf[42]: O: Q7424448->
+==1_Upload_2855.pdf.details_differ 51 Errors=1 OfficerIDDiffError=1
+OfficerIDDiffError: de42 Q7424448->

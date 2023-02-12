@@ -1,0 +1,9 @@
+# 	MISMATCH P: 3 A: 6 E: 4 W: 200 F: -3 R:False
+# 	MISMATCH P: 5 A: 3 E: 2 W: 152 F: -5 R:False
+
+edits:
+  - newWord 1 pa3.wo29 pa3.wo12
+  - newWord 4 pa3.wo161 pa3.wo166
+  - newWord 5 pa3.wo161 pa3.wo178
+
+  - newWord 2 pa5.wo152 pa5.wo141

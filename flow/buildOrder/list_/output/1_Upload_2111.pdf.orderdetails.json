@@ -1,0 +1,7 @@
+{"date": "1979-01-24", "details": [
+{"detail_idx": 0, "officer_id": "Q218661", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Cabinet Minister"], ["Ministry of Health and Family Welfare", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q319824", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Deputy Prime Minister"]]},
+{"detail_idx": 2, "officer_id": "Q1471625", "continues": [["Ministry of Defence", "Deputy Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q5657287", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q6064863", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]]}
+]}

@@ -1,0 +1,8 @@
+# 	MISMATCH P: 3 A: 16 E: 10 W: 106 F: 4 R:False
+# 	MISMATCH P: 3 A: 11 E: 17 W: 122 F: 10 R:False
+
+edits:
+  - replaceStr pa3.wo106 <all> 10
+  - mergeWords pa3.wo73 pa3.wo74
+  - replaceStr pa3.wo73 <all> Minister
+  - mergeWords pa2.wo235 pa2.wo236

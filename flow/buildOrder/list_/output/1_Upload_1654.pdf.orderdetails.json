@@ -1,0 +1,6 @@
+{"date": "1999-06-09", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [], "assumes": [["Ministry of Communications", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q5924734", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": [["Ministry of Urban Development", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3530303", "continues": [], "relinquishes": [["Ministry of Urban Development", "Cabinet Minister"]], "assumes": [["Ministry of Law Justice and Company Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3530556", "continues": [], "relinquishes": [["Ministry of Law Justice and Company Affairs", "Cabinet Minister"]], "assumes": []}
+]}

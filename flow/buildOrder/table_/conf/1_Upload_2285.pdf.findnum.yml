@@ -1,0 +1,17 @@
+# 	MISMATCH P: 3 A: 4 E: 3 W: 142 F: -4 R:False
+
+edits:
+  - newWord '      ' pa2.wo123 pa2.wo113
+  - replaceStr pa3.wo129 <all> 3
+  - replaceStr pa3.wo130 <all> 'Ashok Gehlot'
+
+  - replaceStr pa2.wo234 <all> Minister
+  - mergeWords pa2.wo240 pa2.wo241
+  - replaceStr pa2.wo240 <all> MINISTERS
+
+  - mergeWords pa4.wo59 pa4.wo60
+
+  - clearChar pa2.wo16 '.'
+
+  - mergeWords pa2.wo17 pa2.wo18 pa2.wo19 pa2.wo20 pa2.wo21
+  - replaceStr pa2.wo17 <all> 'MEMBERS OF THE CABINET'

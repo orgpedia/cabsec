@@ -1,0 +1,8 @@
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [37, 38, 46]
+      continues:
+        - idxs: [ 40, 42, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]

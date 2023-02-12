@@ -1,0 +1,7 @@
+edits:
+  - replaceStr pa0.wo51 <all> ii
+
+  # not
+  - replaceStr pa0.wo81 <all> 'Steel.'
+  - replaceStr pa0.wo59 <all> 'Steel'
+  - replaceStr pa0.wo69 <all> 'Metals'

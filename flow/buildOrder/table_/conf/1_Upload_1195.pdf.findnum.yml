@@ -1,0 +1,7 @@
+include_zero: True
+edits:
+  - newAdjWord 0 pa0.wo8 left
+  - clearWord pa0.wo297
+  - newWord 1 pa0.wo93 pa0.wo47
+  - newWord 2 pa0.wo93 pa0.wo51
+  - newWord 3 pa0.wo93 pa0.wo54

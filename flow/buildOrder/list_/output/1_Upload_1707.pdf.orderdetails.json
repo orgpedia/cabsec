@@ -1,0 +1,8 @@
+{"date": "2002-08-26", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Power", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q4751428", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"], ["Ministry of Corporate Affairs", "Minister of State"]], "assumes": [["Ministry of Power", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q468324", "continues": [["Ministry of Home Affairs", "Deputy Prime Minister"]], "relinquishes": [["Ministry of Coal", "Deputy Prime Minister"], ["Ministry of Mines", "Deputy Prime Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q3109128", "continues": [], "relinquishes": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"]], "assumes": [["Ministry of Coal", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q15135821", "continues": [], "relinquishes": [], "assumes": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q4751376", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"], ["Ministry of Corporate Affairs", "Minister of State"]]}
+]}

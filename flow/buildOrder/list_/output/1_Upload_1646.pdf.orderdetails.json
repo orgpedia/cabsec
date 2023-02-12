@@ -1,0 +1,6 @@
+{"date": "1998-12-05", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"], ["Ministry of Communications", "Cabinet Minister"], ["Ministry of Information and Broadcasting", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3518489", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q5924734", "continues": [], "relinquishes": [], "assumes": [["Ministry of Communications", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7238271", "continues": [], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]]}
+]}

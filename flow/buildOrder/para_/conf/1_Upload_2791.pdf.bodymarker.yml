@@ -1,0 +1,7 @@
+newline_height_multiple: 0.5
+edits:
+  - clearWord pa0.wo7
+  - newWord Minister pa0.wo52 pa0.wo6
+  - addWordIdxs pa0.word_labels.ORDERBODY 186
+
+  - clearWord pa0.wo40

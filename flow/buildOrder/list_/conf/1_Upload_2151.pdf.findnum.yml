@@ -1,0 +1,24 @@
+# 	MISMATCH P: 0 A: 7 E: 6 W: 140 F: 1 R:True
+# 	MISMATCH P: 1 A: 20 E: 18 W: 100 F: 16 R:True
+# 	MISMATCH P: 1 A: 24 E: 23 W: 192 F: 18 R:True
+# 	MISMATCH P: 2 A: 34 E: 33 W: 289 F: 29 R:True
+
+edits:
+  - clearChar pa0.wo139 '{:'
+
+  - replaceStr pa1.wo52 <all> xviii
+  - replaceStr pa1.wo53 <all> 'shri abdul'
+
+  - replaceStr pa1.wo76 <all> xix
+
+  - replaceStr pa1.wo146 <all> xxii
+  - replaceStr pa1.wo268 <all> xxvi
+  - replaceStr pa1.wo303 <all> xxvii
+  - newWord Shri pa1.wo310 pa1.wo304
+
+
+  - replaceStr pa1.wo147 <all> 'shri k.c.'
+
+  - replaceStr pa1.wo168 <all> xxiii
+
+  - clearChar pa0.wo274 ':'

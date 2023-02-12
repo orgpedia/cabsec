@@ -1,0 +1,17 @@
+{"date": "1989-07-04", "details": [
+{"detail_idx": 0, "officer_id": "Q4593", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q962538", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q4834211", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q18344899", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q5101319", "continues": [], "relinquishes": [["Ministry of Defence", "Minister of State"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q6625143", "continues": [["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Drinking Water and Sanitation", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 6, "officer_id": "Q5091746", "continues": [["Ministry of Communications", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Communications", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 7, "officer_id": "Q3377074", "continues": [], "relinquishes": [["Ministry of Textiles", "Minister of State"]], "assumes": [["Ministry of Health and Family Welfare", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 8, "officer_id": "Q6437486", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q16890849", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": [["Ministry of Textiles", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q94700012", "continues": [], "relinquishes": [["Ministry of Food", "Deputy Minister"], ["Ministry of Civil Supplies", "Minister of State"]], "assumes": [["Ministry of Defence", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q337001", "continues": [], "relinquishes": [["Ministry of Railways", "Deputy Minister"]], "assumes": [["Ministry of Steel and Mines", "Minister of State"]]},
+{"detail_idx": 12, "officer_id": "Q108663917", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Deputy Minister"], ["Ministry of Parliamentary Affairs", "Deputy Minister"]], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"], ["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 13, "officer_id": "Q51091970", "continues": [], "relinquishes": [["Ministry of Labour", "Deputy Minister"], ["Ministry of Parliamentary Affairs", "Deputy Minister"]], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"], ["Ministry of Labour", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q17495918", "continues": [], "relinquishes": [["Ministry of Welfare", "Deputy Minister"]], "assumes": [["Ministry of Environment and Forests", "Minister of State"]]}
+]}

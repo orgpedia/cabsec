@@ -1,0 +1,5 @@
+# 	MISMATCH P: 0 A: 9 E: 8 W: 208 F: 1 R:False
+
+edits:
+  - newWord 8 pa0.wo208 pa0.wo168
+  - mergeWords pa0.wo51 pa0.wo52

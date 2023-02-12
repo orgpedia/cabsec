@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo51 <all> Commerce
+  - replaceStr pa0.wo151 <all> Commerce
+  - replaceStr pa0.wo175 <all> Commerce
+  - replaceStr pa0.wo179 <all> Department

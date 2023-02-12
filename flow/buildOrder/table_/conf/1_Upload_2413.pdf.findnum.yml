@@ -1,0 +1,20 @@
+edits:
+  - clearWord pa1.wo146
+  - replaceStr pa1.wo145 <all> Shiv
+
+  - mergeWords pa3.wo162 pa3.wo163
+  - mergeWords pa3.wo212 pa3.wo213
+  - mergeWords pa3.wo119 pa3.wo120
+  - mergeWords pa3.wo130 pa3.wo131
+  - mergeWords pa3.wo241 pa3.wo242
+  - mergeWords pa3.wo253 pa3.wo254
+  - mergeWords pa3.wo177 pa3.wo178
+  - mergeWords pa3.wo227 pa3.wo228
+  - mergeWords pa3.wo91  pa3.wo92
+  - mergeWords pa4.wo33 pa4.wo34
+  - mergeWords pa3.wo142 pa3.wo143
+
+  - replaceStr pa3.wo107 <all> Deputy
+  - replaceStr pa4.wo33 <all> Deputy
+
+  - replaceStr pa1.wo17 <all> MEMBERS

@@ -1,0 +1,3 @@
+edits:
+  - replaceStr pa0.wo35 <all> i
+  - clearChar pa0.wo53 ','

@@ -1,0 +1,32 @@
+# 	MISMATCH P: 1 A: 16 E: 10 W: 184 F: 1 R:False
+# 	MISMATCH P: 1 A: 19 E: 17 W: 213 F: 7 R:False
+
+edits:
+  - replaceStr pa1.wo125 <all> 10
+  - replaceStr pa1.wo126 <all> 'Shri Dinesh'
+
+  - replaceStr pa1.wo140 <all> 11
+  - replaceStr pa1.wo141 <all> 'Shri Madhavsinh'
+
+  - replaceStr pa1.wo143 <all> 12
+  - replaceStr pa1.wo144 <all> 'Shri Bir'
+
+  - replaceStr pa1.wo150 <all> 13
+  - replaceStr pa1.wo151 <all> 'Shri Bindeshwari'
+
+
+  - replaceStr pa1.wo167 <all> 14
+  - replaceStr pa1.wo168 <all> 'Shri B.'
+
+
+  - replaceStr pa1.wo170 <all> 15
+  - replaceStr pa1.wo171 <all> 'Shri H.K.L.'
+
+  - replaceStr pa1.wo195 <all> 17
+  - replaceStr pa1.wo196 <all> 'Smt. Mohsina'
+
+
+  - replaceStr pa1.wo202 <all> 18
+  - replaceStr pa1.wo203 <all> 'Shri Moti'
+
+  - newWord 4 pa4.wo142 pa4.wo143

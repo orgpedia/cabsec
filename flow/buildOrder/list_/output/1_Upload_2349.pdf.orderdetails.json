@@ -1,0 +1,7 @@
+{"date": "1984-11-01", "details": [
+{"detail_idx": 0, "officer_id": "Q4593", "continues": [["", "Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q57446", "continues": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q275146", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q7117543", "continues": [["Ministry of Energy", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q7423687", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"], ["Ministry of Youth Affairs and Sports", "Cabinet Minister"], ["Ministry of Works and Housing", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

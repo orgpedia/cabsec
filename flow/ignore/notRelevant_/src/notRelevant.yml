@@ -1,0 +1,12 @@
+description: This folder contains orders that correct other orders (Corrigendum), currently we are not handling those.
+
+ignore_docs:
+  1_Upload_1562.pdf: notRelevant
+  1_Upload_1567.pdf: notRelevant
+  1_Upload_2464.pdf: notRelevant
+  1_Upload_2807.pdf: notRelevant
+  1_Upload_2862.pdf: notRelevant
+  1_Upload_2886.pdf: notRelevant
+  1_Upload_2947.pdf: notRelevant
+  1_Upload_3305.pdf: notRelevant
+  1_Upload_3314.pdf: notRelevant

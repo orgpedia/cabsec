@@ -1,0 +1,9 @@
+{"date": "1991-06-26", "details": [
+{"detail_idx": 0, "officer_id": "Q275146", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q982813", "continues": [], "relinquishes": [], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7289466", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q43637035", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q54724009", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Deputy Minister"]]},
+{"detail_idx": 5, "officer_id": "Q46992870", "continues": [["Ministry of Petroleum and Natural Gas", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Defence", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q465041", "continues": [["Ministry of Human Resource Development", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]}
+]}
