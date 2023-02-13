@@ -1,2 +1,2 @@
 run:
-	python src/buildTenure.py input output > logs/info.tenure.txt
+	python src/buildTenure.py input output > logs/info.log

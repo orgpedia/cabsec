@@ -38,10 +38,10 @@ $(tasks):
 	poetry run make -C $@
 
 check:
-	poetry run op check > export/logs/info.check.txt
+	poetry run op check > export/logs/info.check.log
 
 readme:
-	poetry run op readme > export/logs/info.readme.txt
+	poetry run op readme > export/logs/info.readme.log
 
 lint:
 	poetry run black -q .

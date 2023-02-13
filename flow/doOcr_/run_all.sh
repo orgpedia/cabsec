@@ -1,1 +1,1 @@
-python src/doOcrAll.py input output > logs/info.log.txt;
+python src/doOcrAll.py input output > logs/info.log
