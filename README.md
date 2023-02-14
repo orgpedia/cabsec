@@ -43,11 +43,11 @@ python -c "import pkg_resources;pkg_resources.resource_filename('orgpedia_cabsec
 These are high level statistics, please check [flow](flow) directory for more information.
 
  - Number of Documents: 904
- - Documents Processed: 896
- - Number of Pages: 2142
+ - Documents Processed: 817
+ - Number of Pages: 2,145
 
- - Total Edits: YYY
- - Edits per Page:  *2.XXX* (YYY/XX)
+ - Total Edits: 3,885
+ - Edits per Page:  *1.8112* (3,885/2,145)
 
 ## Data Processing
 This is a data package repository - it contains documents, configuration and code for processing the documents and creating data. In a sense it is different from code repositories that only contain code and not the artifacts the code generates.
