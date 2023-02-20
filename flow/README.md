@@ -14,19 +14,19 @@ graph TD;
 	doOcr_[<div align=leg>doOcr_</div><br/>input: 904<br/>output: 904] --> annotateFirst_;
 	import/documents --> doOcr_;
 	buildTenure_ --> export/data/schema;
-	buildTenure_ --> export/data;
 	buildTenure_ --> export/data/orders;
-	click annotateFirst_ "https://github.com/orgpedia/cabsec/tree/main/flow/annotateFirst_" "annotateFirst_";
+	buildTenure_ --> export/data;
+	click buildOrder/list_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/list_" "buildOrder/list_";
 	click doOcr_ "https://github.com/orgpedia/cabsec/tree/main/flow/doOcr_" "doOcr_";
-	click buildOrder/manual_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/manual_" "buildOrder/manual_";
+	click buildOrder/table_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/table_" "buildOrder/table_";
+	click annotateFirst_ "https://github.com/orgpedia/cabsec/tree/main/flow/annotateFirst_" "annotateFirst_";
 	click buildTenure_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildTenure_" "buildTenure_";
 	click buildOrder/para_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/para_" "buildOrder/para_";
-	click buildOrder/table_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/table_" "buildOrder/table_";
-	click buildOrder/list_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/list_" "buildOrder/list_";
-	click export/data "https://github.com/orgpedia/cabsec/tree/main/export/data" "export/data";
+	click buildOrder/manual_ "https://github.com/orgpedia/cabsec/tree/main/flow/buildOrder/manual_" "buildOrder/manual_";
+	click export/data/schema "https://github.com/orgpedia/cabsec/tree/main/export/data/schema" "export/data/schema";
 	click import/documents "https://github.com/orgpedia/cabsec/tree/main/import/documents" "import/documents";
 	click export/data/orders "https://github.com/orgpedia/cabsec/tree/main/export/data/orders" "export/data/orders";
-	click export/data/schema "https://github.com/orgpedia/cabsec/tree/main/export/data/schema" "export/data/schema";
+	click export/data "https://github.com/orgpedia/cabsec/tree/main/export/data" "export/data";
 ```
 ## Unprocessed Documents: 94
 ### Ignored Documents:
@@ -40,10 +40,10 @@ graph TD;
 - Import Documents: 904
 - Import Pages: 2,399
 -  
-- Export Documents: 817
+- Export Documents: 810
 - Export Pages: 2,145
 -  
 - Errors: 1,137
 - Edits: 3,885
 -  
-- Edits per Page: 1.8112
+- Edits per Page: **1.8112**
