@@ -476,6 +476,10 @@
           "title": "Detail Idx",
           "type": "integer"
         },
+        "detail_page_idx": {
+          "title": "Detail Page Idx",
+          "type": "integer"
+        },
         "is_valid": {
           "title": "Is Valid",
           "default": true,
@@ -490,7 +494,8 @@
       "required": [
         "word_idxs",
         "officer",
-        "detail_idx"
+        "detail_idx",
+        "detail_page_idx"
       ]
     }
   }

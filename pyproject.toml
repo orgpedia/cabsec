@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "orgpedia-cabsec"
-version = "0.0.1"
+version = "0.0.2"
 description = "Datapackage containing orders of Cabinet Secretariat from https://cabsec.gov.in/."
 authors = ["Orgpedia Foundation <orgpedia.foundation@gmail.com>"]
 license = "MIT"
