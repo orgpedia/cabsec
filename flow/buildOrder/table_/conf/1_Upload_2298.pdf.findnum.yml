@@ -1,0 +1,46 @@
+# 	MISMATCH P: 2 A: 0 E: 1 W: 106 F: 0 R:False
+# 	MISMATCH P: 2 A: 7 E: 1 W: 127 F: -1 R:False
+# 	MISMATCH P: 2 A: 4 E: 9 W: 148 F: 5 R:False
+# 	MISMATCH P: 2 A: 10 E: 5 W: 157 F: 0 R:False
+# 	MISMATCH P: 2 A: 12 E: 11 W: 178 F: 5 R:False
+# 	MISMATCH P: 3 A: 6 E: 4 W: 125 F: 2 R:False
+# 	MISMATCH P: 3 A: 2 E: 7 W: 146 F: 4 R:False
+# 	MISMATCH P: 3 A: 5 E: 4 W: 255 F: -1 R:False
+# 	MISMATCH P: 4 A: 23 E: 18 W: 209 F: 9 R:False
+# 	MISMATCH P: 4 A: 18 E: 24 W: 210 F: 14 R:False
+# 	MISMATCH P: 5 A: 3 E: 30 W: 205 F: 21 R:False
+
+edits:
+  - newWord 1 pa2.wo137 pa2.wo19
+  - newWord 2 pa2.wo137 pa2.wo67
+  - newWord 3 pa2.wo137 pa2.wo84
+  - newWord 4 pa2.wo137 pa2.wo93
+
+  - clearWord pa2.wo96
+  - clearWord pa2.wo97
+  - clearWord pa2.wo103
+
+  - replaceStr pa2.wo105 <all> 5
+  - replaceStr pa2.wo106 <all> 6
+  - replaceStr pa2.wo148 <all> 9
+  - replaceStr pa2.wo193 <all> B
+
+  - newWord 11 pa2.wo137 pa2.wo170
+
+  - newWord 1 pa2.wo244 pa2.wo264
+
+  - newWord 4 pa3.wo7 pa3.wo12
+  - newWord 5 pa3.wo7 pa3.wo122
+  - newWord 7 pa3.wo7 pa3.wo132
+  - newWord 8 pa3.wo7 pa3.wo136
+  - newWord 1 pa3.wo7 pa3.wo143
+  - newWord 4 pa3.wo7 pa3.wo156
+  - newWord 8 pa3.wo7 pa3.wo271
+
+  - clearWord pa4.wo209
+
+  - newWord 1 pa5.wo145 pa5.wo164
+  - clearWord pa5.wo168
+  - replaceStr pa5.wo169 <all> 2
+
+  - replaceStr pa5.wo170 <all> Shri

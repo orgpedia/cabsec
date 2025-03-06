@@ -1,0 +1,8 @@
+{"date": "1999-02-03", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Food Processing Industries", "Cabinet Minister"], ["Ministry of New and Renewable Energy", "Cabinet Minister"], ["Ministry of Electronics", "Cabinet Minister"], ["Ministry of Earth Sciences", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3518489", "continues": [["Ministry of External Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Electronics", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q2604936", "continues": [["Ministry of Human Resource Development", "Cabinet Minister"], ["Ministry of Science and Technology", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Earth Sciences", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3530556", "continues": [["Ministry of Power", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of New and Renewable Energy", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q7238271", "continues": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Food Processing Industries", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q6183707", "continues": [["Ministry of Agriculture", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]]}
+]}

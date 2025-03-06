@@ -1,0 +1,16 @@
+edits:
+  - replaceStr pa0.wo134 <all> and
+  - mergeWords pa0.wo173 pa0.wo174
+  - replaceStr pa0.wo203 <all> the
+
+  - mergeWords pa0.wo263 pa0.wo264
+
+  - mergeWords pa1.wo46 pa1.wo53
+  - replaceStr pa1.wo46 <all> Independent
+
+  - replaceStr pa1.wo207 <all> Petroleum
+  - replaceStr pa1.wo282 <all> 'Charge)'
+
+  - replaceStr pa2.wo48 <all> Ministry
+
+  - replaceStr pa1.wo160 <all> Department

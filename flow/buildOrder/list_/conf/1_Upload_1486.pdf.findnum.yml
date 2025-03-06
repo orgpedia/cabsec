@@ -1,0 +1,11 @@
+# 	MISMATCH P: 0 A: 7 E: 8 W: 329 F: 1 R:True
+# 	MISMATCH P: 0 A: 9 E: 8 W: 340 F: 0 R:True
+# 	MISMATCH P: 1 A: 12 E: 13 W: 103 F: 12 R:True
+# 	MISMATCH P: 1 A: 14 E: 13 W: 124 F: 11 R:True
+# 	MISMATCH P: 1 A: 22 E: 21 W: 314 F: 12 R:True
+
+edits:
+  - replaceStr pa0.wo329 <all> viii
+  - replaceStr pa1.wo103 <all> xiii
+  - replaceStr pa1.wo313 <all> xxi
+  - replaceStr pa0.wo381 <all> Personnel

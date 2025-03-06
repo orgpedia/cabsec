@@ -1,0 +1,16 @@
+edits:
+  - replaceStr pa0.wo61 <all> Heavy
+  - replaceStr pa0.wo73 <all> Scientific
+
+
+  - replaceStr pa0.wo190 <all> Scientific
+  - replaceStr pa0.wo191 <all> Research
+  - replaceStr pa0.wo200 <all> Deputy
+
+
+  - replaceStr pa0.wo212 <all> relinquished
+  - replaceStr pa0.wo239 <all> Mines
+
+  - replaceStr pa0.wo251 <all> of
+  - replaceStr pa0.wo253 <all> Minister
+  - replaceStr pa0.wo254 <all> in

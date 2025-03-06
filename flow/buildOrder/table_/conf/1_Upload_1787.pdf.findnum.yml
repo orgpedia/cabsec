@@ -1,0 +1,13 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 301 F: 1 R:False
+# 	MISMATCH P: 2 A: 8 E: 6 W: 117 F: 1 R:False
+include_zero: True
+
+edits:
+  - newAdjWord 0 pa0.wo8 left
+  - replaceStr pa0.wo300 <all> 3
+  - newWord 6 pa2.wo391 pa2.wo109
+  - newWord 7 pa2.wo391 pa2.wo113
+  - clearWord pa2.wo391
+
+  - replaceStr pa2.wo159 <all> Parthib
+  - mergeWords pa2.wo159 pa2.wo131

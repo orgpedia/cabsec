@@ -1,0 +1,23 @@
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [43, 44, 45, 46]
+
+      relinquishes:
+        - idxs: [66, 67, 68 ]
+
+      assumes:
+        - idxs: [ 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]
+
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [ 69, 70, 71]
+      relinquishes:
+        - idxs: [ 87, 88, 89, 90, 91, 92]
+
+      assumes:
+        - idxs: [74, 75, 76, 77, 78, 79, 80, 81, 82]

@@ -1,0 +1,30 @@
+# 	MISMATCH P: 1 A: 7 E: 5 W: 92 F: 1 R:False
+# 	MISMATCH P: 2 A: 9 E: 8 W: 155 F: 1 R:False
+# 	MISMATCH P: 3 A: 6 E: 19 W: 142 F: 15 R:False
+# 	MISMATCH P: 3 A: 8 E: 7 W: 165 F: 2 R:False
+# 	MISMATCH P: 3 A: 10 E: 9 W: 194 F: 3 R:False
+
+edits:
+  - newWord 5 pa1.wo50 pa1.wo58
+  - replaceStr pa1.wo70 <all> 6
+
+  - replaceStr pa2.wo128 <all> 8
+
+  - newWord 1 pa3.wo142 pa3.wo74
+  - newWord 2 pa3.wo142 pa3.wo89
+  - newWord 3 pa3.wo142 pa3.wo92
+  - newWord 4 pa3.wo142 pa3.wo116
+  - newWord 5 pa3.wo142 pa3.wo126
+  - newWord 7 pa3.wo142 pa3.wo153
+  - newWord 9 pa3.wo142 pa3.wo177
+
+  - replaceStr pa2.wo52 <all> Dr.
+
+  - replaceStr pa2.wo100 <all> 'Ministry of'
+  - replaceStr pa2.wo227 <all> Industrial
+
+  - replaceStr pa3.wo25 <all> Cooperation
+  - replaceStr pa3.wo35 <all> the
+
+  - replaceStr pa1.wo154 <all> of
+  - replaceStr pa2.wo120 <all> 'Ministry of'

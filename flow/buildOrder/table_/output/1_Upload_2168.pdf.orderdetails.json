@@ -1,0 +1,21 @@
+{"date": "1989-12-06", "details": [
+{"detail_idx": 0, "officer_id": "Q315338", "continues": [["Ministry of Defence", "Prime Minister"], ["Ministry of Personnel Public Grievances and Pensions", "Prime Minister"], ["Ministry of Science and Technology", "Prime Minister"], ["Department of Atomic Energy", "Prime Minister"], ["Ministry of Electronics", "Prime Minister"], ["Ministry of Earth Sciences", "Prime Minister"], ["Department of Space", "Prime Minister"], ["Ministry of Environment and Forests", "Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q1764533", "continues": [["Ministry of Agriculture", "Deputy Prime Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q339715", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q3056379", "continues": [["Ministry of Railways", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q4699805", "continues": [["Ministry of Industry", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7489368", "continues": [["Ministry of Textiles", "Cabinet Minister"], ["Ministry of Food Processing Industries", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q6095720", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q4802123", "continues": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Tourism", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q4790546", "continues": [["Ministry of Energy", "Cabinet Minister"], ["Ministry of Civil Aviation", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 9, "officer_id": "Q6036905", "continues": [["Ministry of Labour", "Cabinet Minister"], ["Ministry of Welfare", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q5092131", "continues": [["Ministry of Health and Family Welfare", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 11, "officer_id": "Q248484", "continues": [["Ministry of External Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 12, "officer_id": "Q1880782", "continues": [["Ministry of Petroleum", "Cabinet Minister"], ["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 13, "officer_id": "Q7117580", "continues": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 14, "officer_id": "Q20065204", "continues": [["Ministry of Road Transport and Highways", "Cabinet Minister"], ["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 15, "officer_id": "Q21598134", "continues": [["Ministry of Steel and Mines", "Cabinet Minister"], ["Ministry of Law and Justice", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 16, "officer_id": "Q3523458", "continues": [], "relinquishes": [], "assumes": []},
+{"detail_idx": 17, "officer_id": "Q40938259", "continues": [["Ministry of Water Resources", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 18, "officer_id": "Q2739159", "continues": [["Ministry of Environment and Forests", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

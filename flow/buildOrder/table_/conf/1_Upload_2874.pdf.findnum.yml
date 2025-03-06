@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa3.wo106 <all> Parliamentary
+  - replaceStr pa3.wo216 <all> for
+
+  - replaceStr pa3.wo150 <all> the

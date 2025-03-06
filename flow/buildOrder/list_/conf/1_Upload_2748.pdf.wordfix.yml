@@ -1,0 +1,101 @@
+edits:
+  - mergeWords pa0.wo68 pa0.wo69
+  - replaceStr pa0.wo68 <all> relinquished
+
+  - replaceStr pa0.wo110 <all> Defence
+
+  - mergeWords pa0.wo162 pa0.wo163
+  - replaceStr pa0.wo162 <all> Defence
+
+  - replaceStr pa0.wo200 <all> relinquished
+
+  - mergeWords pa0.wo289 pa0.wo290
+  - replaceStr pa0.wo289 <all> assumed
+
+  - mergeWords pa0.wo337 pa0.wo338
+
+  - replaceStr pa1.wo14 <all> Communications
+  - replaceStr pa1.wo15 <all> '('
+
+  - replaceStr pa1.wo28 <all> 'Affairs'
+  - replaceStr pa1.wo29 <all> '(Grih'
+
+  - replaceStr pa1.wo48 <all> '(Sanchar'
+
+  - mergeWords pa1.wo83 pa1.wo84
+
+  - replaceStr pa1.wo108 <all> '(Audyo'
+  - replaceStr pa1.wo148 <all> '(Sinchai'
+
+  - mergeWords pa1.wo154 pa1.wo155
+  - replaceStr pa1.wo154 <all> assumed
+  - replaceStr pa1.wo163 <all> Energy
+  - clearWords pa1.wo174 pa1.wo175
+  - replaceStr pa1.wo201 <all> 'Vibhag)'
+
+  - replaceStr pa1.wo219 <all> '(Ispat '
+  - replaceStr pa1.wo260 <all> 'Minister'
+  - replaceStr pa1.wo301 <all> of
+  - replaceStr pa1.wo302 <all> Finance
+  - replaceStr pa1.wo303 <all> '( Vitta'
+
+  - replaceStr pa1.wo310 <all> assumed
+  - mergeWords pa1.wo323 pa1.wo324
+  - replaceStr pa1.wo323 <all> Petroleum
+
+  - replaceStr pa2.wo12 <all> Deputy
+  - clearWords pa2.wo175
+
+  - mergeWords pa2.wo260 pa2.wo261
+  - mergeWords pa2.wo268 pa2.wo269 pa2.wo270
+  - replaceStr pa2.wo268 <all> Works
+  - clearWords pa2.wo408
+
+  - mergeWords pa2.wo306 pa2.wo307 pa2.wo308
+  - mergeWords pa2.wo313 pa2.wo314
+  - replaceStr pa2.wo313 <all> Reforms
+
+
+  - replaceStr pa2.wo396 <all> '(Raksha'
+  - clearWords pa2.wo399 pa2.wo402
+
+  - mergeWords pa3.wo12 pa3.wo13
+  - replaceStr pa3.wo12 <all> Deputy
+  - replaceStr pa3.wo45 <all> '(Vitta'
+
+  - replaceStr pa3.wo60 <all> relinquished
+  - replaceStr pa3.wo97 <all> '(Rail'
+
+  - replaceStr pa3.wo146 <all> relinquished
+  - mergeWords pa3.wo167 pa3.wo168
+  - replaceStr pa3.wo167 <all> assumed
+
+  - replaceStr pa3.wo218 <all> '(Raksha'
+  - replaceStr pa3.wo219 <all> 'Mantralay'
+  - clearWords pa3.wo224
+
+  - mergeWords pa3.wo263 pa3.wo264 pa3.wo265
+  - replaceStr pa3.wo263 <all> Minister
+
+  - mergeWords pa3.wo274 pa3.wo275
+
+  - replaceStr pa3.wo317 <all> Minister
+  - mergeWords pa3.wo383 pa3.wo384 pa3.wo385
+
+  - replaceStr pa3.wo398 <all> 'Mantri)'
+
+  - replaceStr pa4.wo24 <all> '(Swasthya'
+  - replaceStr pa4.wo32 <all> 'Mantri)'
+
+
+  - replaceStr pa4.wo55 <all> '(Swasthya'
+  - replaceStr pa4.wo63 <all> 'Mantri)'
+
+  - mergeWords pa4.wo70 pa4.wo71
+  - replaceStr pa4.wo70 <all> 'Hansda'
+
+  - replaceStr pa4.wo153 <all> '(Sinchai'
+  - replaceStr pa4.wo198 <all> 'Deputy'
+
+  - replaceStr pa4.wo234 <all> '(Bhari'
+  - replaceStr pa4.wo258 <all> '(Nirman'

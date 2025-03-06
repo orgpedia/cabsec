@@ -1,0 +1,6 @@
+# 	MISMATCH P: 2 A: 9 E: 8 W: 151 F: 1 R:False
+
+edits:
+  - replaceStr pa2.wo147 <all> 8
+
+  - replaceStr pa2.wo209 <all> and

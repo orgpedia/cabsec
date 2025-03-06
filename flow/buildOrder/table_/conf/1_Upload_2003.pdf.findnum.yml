@@ -1,0 +1,26 @@
+edits:
+  - clearWords pa1.wo154
+  - clearWords pa2.wo61 pa2.wo81 pa2.wo82 pa2.wo83 pa2.wo275
+
+  - mergeWords pa2.wo94 pa2.wo95
+  - mergeWords pa2.wo103 pa2.wo104
+
+  - mergeWords pa2.wo112 pa2.wo113
+
+  - mergeWords pa2.wo121 pa2.wo122
+
+  - mergeWords pa2.wo130 pa2.wo131
+
+  - mergeWords pa2.wo142 pa2.wo143
+
+  - mergeWords pa2.wo152 pa2.wo153
+  - mergeWords pa2.wo161 pa2.wo162
+  - mergeWords pa2.wo170 pa2.wo171
+  - mergeWords pa2.wo192 pa2.wo193
+
+  - mergeWords pa2.wo203 pa2.wo204
+
+  - mergeWords pa2.wo221 pa2.wo222
+  - mergeWords pa2.wo230 pa2.wo231
+  - mergeWords pa2.wo242 pa2.wo243
+  - mergeWords pa2.wo256 pa2.wo257

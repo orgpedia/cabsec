@@ -1,0 +1,5 @@
+edits:
+  - replaceStr pa0.wo36 <all> Birendra
+  - mergeWords pa0.wo37 pa0.wo38
+  - replaceStr pa0.wo37 <all> Singh
+  - mergeWords pa0.wo41 pa0.wo42

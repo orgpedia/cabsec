@@ -1,0 +1,9 @@
+{"date": "1964-06-14", "details": [
+{"detail_idx": 0, "officer_id": "Q4805815", "continues": [], "relinquishes": [["Ministry of Law and Justice", "Cabinet Minister"], ["Ministry of Communications", "Cabinet Minister"]], "assumes": [["Ministry of Law and Social Security", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q17388761", "continues": [], "relinquishes": [["Ministry of Parliamentary Affairs", "Cabinet Minister"], ["Ministry of Civil Aviation", "Cabinet Minister"]], "assumes": [["Ministry of Communications", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7041597", "continues": [], "relinquishes": [["Ministry of Cultural Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Civil Aviation", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q6433963", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State"]], "assumes": [["Ministry of Supply", "Minister of State"], ["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q7288604", "continues": [], "relinquishes": [["Ministry of Social Security and Cottage Industries", "Minister of State"]], "assumes": [["Ministry of Railways", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q42414980", "continues": [], "relinquishes": [["Ministry of Supply", "Cabinet Minister"]], "assumes": [["Ministry of Cultural Affairs", "Cabinet Minister"], ["Ministry of Education", "Cabinet Minister"]]},
+{"detail_idx": 6, "officer_id": "Q99390358", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": [["Ministry of Defence", "Minister of State"]]}
+]}

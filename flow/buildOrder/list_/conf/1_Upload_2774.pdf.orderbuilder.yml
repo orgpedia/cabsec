@@ -1,0 +1,2 @@
+ignores:
+  UnmatchedTextsError: [ pa0.li0, pa2.li2, pa3.li3 ]

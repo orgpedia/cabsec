@@ -1,0 +1,18 @@
+# 	MISMATCH P: 1 A: 2 E: 14 W: 278 F: 1 R:False
+# 	MISMATCH P: 1 A: 14 E: 3 W: 280 F: -11 R:False
+# 	MISMATCH P: 3 A: 49 E: 9 W: 122 F: 5 R:False
+# 	MISMATCH P: 3 A: 10 E: 50 W: 153 F: 45 R:False
+# 	MISMATCH P: 3 A: 12 E: 11 W: 206 F: 5 R:False
+
+edits:
+  - clearWord pa1.wo278
+
+  - replaceStr pa3.wo122 <all> 9
+  - replaceStr pa3.wo176 <all> 11
+
+  - clearWords pa3.wo282 pa3.wo283 pa3.wo284 pa3.wo285 pa3.wo286
+  - clearWords pa2.wo291 pa2.wo292 pa2.wo293
+  - replaceStr pa1.wo281 <all> Shri
+  - replaceStr pa2.wo48 <all> Mukherjee
+
+  - replaceStr pa2.wo124 <all> 'V. A.'

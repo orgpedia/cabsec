@@ -1,0 +1,5 @@
+edits:
+  - mergeWords pa0.wo89 pa0.wo90
+  - replaceStr pa0.wo89 <all> Revenue
+
+  - mergeWords pa0.wo103 pa0.wo104

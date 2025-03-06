@@ -1,0 +1,6 @@
+{"date": "2022-07-06", "details": [
+{"detail_idx": 0, "officer_id": "Q6933491", "continues": [], "relinquishes": [["Ministry of Minority Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q18720206", "continues": [], "relinquishes": [["Ministry of Steel", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7546539", "continues": [["Ministry of Women and Child Development", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Minority Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q16213761", "continues": [["Ministry of Civil Aviation", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Steel", "Cabinet Minister"]]}
+]}

@@ -1,0 +1,10 @@
+{"date": "2000-11-07", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q7635793", "continues": [], "relinquishes": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"]], "assumes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7321222", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": [["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3629480", "continues": [], "relinquishes": [["Ministry of Law Justice and Company Affairs", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Law Justice and Company Affairs", "Minister of State (Independent Charge)"], ["Ministry of Shipping", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q3109128", "continues": [], "relinquishes": [], "assumes": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q3630187", "continues": [], "relinquishes": [], "assumes": [["Ministry of Road Transport and Highways", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 6, "officer_id": "Q3518399", "continues": [["Ministry of Disinvestment", "Minister of State (Independent Charge)"], ["Ministry of Statistics and Programme Implementation", "Minister of State"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Planning", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q5935445", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Minister of State"]], "assumes": [["Ministry of Shipping", "Minister of State"]]}
+]}

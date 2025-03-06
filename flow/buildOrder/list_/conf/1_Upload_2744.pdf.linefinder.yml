@@ -1,0 +1,3 @@
+scopes:
+  - paths: [ pa0 ]
+    rotation_strategy: num_markers

@@ -1,0 +1,18 @@
+{"date": "2000-09-30", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Power", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q7645772", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": [["Ministry of Power", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7321222", "continues": [], "relinquishes": [["Ministry of Rural Development", "Cabinet Minister"]], "assumes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3764667", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rural Development", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q1652493", "continues": [], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q3629480", "continues": [["Ministry of Law Justice and Company Affairs", "Minister of State (Independent Charge)"]], "relinquishes": [["Ministry of Information and Broadcasting", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q7289378", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Minister of State"]], "assumes": [["Ministry of Information and Broadcasting", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q7660441", "continues": [], "relinquishes": [["Ministry of Youth Affairs and Sports", "Minister of State"]], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q63997237", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"]], "assumes": [["Ministry of Textiles", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q201408", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State"]], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q16106772", "continues": [], "relinquishes": [["Ministry of Textiles", "Minister of State"]], "assumes": [["Ministry of Finance", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q7336609", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": [["Ministry of Rural Development", "Minister of State"]]},
+{"detail_idx": 12, "officer_id": "Q7504173", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 13, "officer_id": "Q7117480", "continues": [], "relinquishes": [], "assumes": [["Ministry of Youth Affairs and Sports", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q7426887", "continues": [], "relinquishes": [], "assumes": [["Ministry of Chemicals and Fertilisers", "Minister of State"]]},
+{"detail_idx": 15, "officer_id": "Q6437529", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Minister of State"]]}
+]}

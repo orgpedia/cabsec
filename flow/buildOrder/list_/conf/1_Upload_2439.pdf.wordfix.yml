@@ -1,0 +1,47 @@
+edits:
+
+
+  - replaceStr pa0.wo78 <all> Petroleum
+  - replaceStr pa0.wo118 <all> '& Transport;'
+  - mergeWords pa0.wo160 pa0.wo161 pa0.wo162  pa0.wo163
+
+  - mergeWords pa0.wo204 pa0.wo205 pa0.wo206
+
+
+  - mergeWords pa0.wo236 pa0.wo237 pa0.wo238
+
+  - mergeWords pa0.wo274 pa0.wo275
+  - replaceStr pa0.wo274 <all> relinquished
+
+  - mergeWords pa0.wo293 pa0.wo294 pa0.wo295 pa0.wo296
+  - replaceStr pa0.wo293 <all> '(independent'
+  - replaceStr pa0.wo297 <all> 'charge)'
+  - replaceStr pa0.wo298 <all> of
+  - replaceStr pa0.wo304 <all> Rehabilitation;
+
+  - mergeWords pa0.wo312 pa0.wo313
+  - replaceStr pa0.wo312 <all> Commerce
+
+  - clearWords pa1.wo58 pa1.wo59
+
+  - mergeWords pa1.wo115 pa1.wo116 pa1.wo117
+
+
+  - mergeWords pa1.wo164 pa1.wo165 pa1.wo166 pa1.wo167
+  - replaceStr pa1.wo164 <all> Agriculture
+
+  - mergeWords pa1.wo176 pa1.wo177
+  - replaceStr pa1.wo176 <all> Deputy
+
+
+  - mergeWords pa1.wo206 pa1.wo207
+  - replaceStr pa1.wo206 <all> relinquished
+
+  - mergeWords pa1.wo212 pa1.wo213 pa1.wo214
+  - replaceStr pa1.wo212 <all> Deputy
+  - clearWords pa1.wo215 pa1.wo216
+
+  - replaceStr pa1.wo231 <all> the
+
+  - mergeWords pa1.wo241 pa1.wo242
+  - replaceStr pa1.wo241 <all> Deputy

@@ -1,0 +1,7 @@
+{"date": "1973-11-08", "details": [
+{"detail_idx": 0, "officer_id": "Q1149", "continues": [["", "Prime Minister"]], "relinquishes": [["Ministry of Information and Broadcasting", "Prime Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q248484", "continues": [["Ministry of Information and Broadcasting", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q7285239", "continues": [], "relinquishes": [["Ministry of Shipping and Transport", "Cabinet Minister"]], "assumes": [["Ministry of Communications", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q6355661", "continues": [], "relinquishes": [], "assumes": [["Ministry of Shipping and Transport", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q5712859", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": []}
+]}

@@ -1,0 +1,7 @@
+edits:
+  - newWord 1 pa2.wo68 pa2.wo60
+
+  - replaceStr pa4.wo261 <all> Deputy
+  - replaceStr pa4.wo259 <all> Giridhar
+
+  - replaceStr pa0.wo20 <all> '23rd January'

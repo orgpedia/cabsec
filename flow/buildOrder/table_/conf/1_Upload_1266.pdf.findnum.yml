@@ -1,0 +1,8 @@
+include_zero: True
+edits:
+    - newAdjWord 0 pa0.wo10 left
+
+    - replaceStr pa0.wo222 <all> 'Information Technology'
+    - replaceStr pa2.wo280 <all> 'Information and Broadcasting'
+    - replaceStr pa4.wo272 <all> 'Food Processing Industries'
+    - replaceStr pa5.wo259 <all> 'Corporate Affairs'

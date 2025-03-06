@@ -1,0 +1,11 @@
+edits:
+  - replaceStr pa0.wo63 <all> '(Swasthya'
+  - replaceStr pa0.wo69 'Mantri/Minister' 'Mantri)Minister'
+  - replaceStr pa0.wo71 <all> Health
+  - replaceStr pa0.wo73 <all> Family
+
+  - replaceStr pa0.wo83 <all> '(Nirman'
+  - replaceStr pa0.wo86 <all> 'Mantri)'
+
+  - replaceStr pa0.wo97 <all> '(Swasthya'
+  - replaceStr pa0.wo103 <all> 'Mantralaya)'

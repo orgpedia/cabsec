@@ -1,0 +1,27 @@
+# 	MISMATCH P: 2 A: 14 E: 13 W: 187 F: 1 R:False
+
+edits:
+  - clearWord pa2.wo180
+  - clearWord pa2.wo278
+  - clearWord pa2.wo279
+
+  - clearWord pa3.wo206
+  - clearWord pa3.wo207
+
+  - clearWords pa2.wo18 pa2.wo19
+  - clearWords pa3.wo27 pa3.wo43 pa3.wo44 pa3.wo45 pa3.wo154 pa3.wo155
+
+  - replaceStr pa3.wo26 <all> Ansari
+
+  - mergeWords pa2.wo22 pa2.wo23
+  - mergeWords pa2.wo69 pa2.wo70 pa2.wo71
+  - mergeWords pa2.wo215 pa2.wo216 pa2.wo217
+  - mergeWords pa2.wo246 pa2.wo247 pa2.wo248
+
+  - mergeWords pa3.wo50 pa3.wo51 pa3.wo52
+  - mergeWords pa3.wo82 pa3.wo83 pa3.wo84
+
+  - clearWords pa3.wo149 pa3.wo137
+  - mergeWords pa3.wo165  pa3.wo166 pa3.wo167
+
+  - mergeWords pa4.wo28 pa4.wo29 pa4.wo30

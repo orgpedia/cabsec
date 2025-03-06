@@ -1,0 +1,17 @@
+# 	MISMATCH P: 1 A: 14 E: 12 W: 151 F: 10 R:True
+# 	MISMATCH P: 1 A: 18 E: 17 W: 269 F: 12 R:True
+
+edits:
+  - clearWord pa0.wo46
+  - clearWord pa0.wo269
+  - clearWord pa0.wo268
+  - replaceStr pa1.wo76 <all>   xii
+
+  - newWord xiii pa1.wo191 pa1.wo112
+  - clearWord pa1.wo112
+  - replaceStr pa1.wo113 <all> 'shri buta'
+
+  - replaceStr pa1.wo245 <all> xvii
+  - replaceStr pa1.wo246 <all> 'shri H.K.L.Bhagat'
+
+  - newWord ' ' pa1.wo40 pa1.wo32

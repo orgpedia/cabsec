@@ -1,0 +1,10 @@
+edits:
+  - mergeWords pa0.wo87 pa0.wo55
+
+  - replaceStr pa0.wo51 <all> office
+
+  - replaceStr pa0.wo87 <all> 'Broadcasting'
+  - replaceStr pa0.wo56 <all> '(Soochana aur'
+
+  - replaceStr pa0.wo121 <all> of
+  - replaceStr pa0.wo132 <all> Information

@@ -1,0 +1,11 @@
+edits:
+  - clearWord pa0.wo45
+  - replaceStr pa0.wo67 <all> 'Mantri);'
+  - clearChar pa0.wo87  ','
+
+  - mergeWords pa0.wo72 pa0.wo73 pa0.wo74
+  - mergeWords pa0.wo51 pa0.wo52
+  - mergeWords pa0.wo53 pa0.wo54
+
+  - mergeWords pa0.wo88 pa0.wo89
+  - mergeWords pa0.wo90 pa0.wo91

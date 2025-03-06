@@ -1,0 +1,19 @@
+edits:
+  - mergeWords pa0.wo65 pa0.wo66 pa0.wo67
+
+  - clearWords pa0.wo61  pa0.wo62
+
+  - mergeWords pa0.wo125 pa0.wo126 pa0.wo127
+
+  - replaceStr pa0.wo142 <all> and
+
+  - mergeWords pa0.wo177 pa0.wo178 pa0.wo179
+
+  - mergeWords pa0.wo190 pa0.wo191 pa0.wo192
+
+  - replaceStr pa0.wo220 <all> of
+  - replaceStr pa0.wo221 <all> Defence
+
+  - replaceStr pa0.wo222 <all> '(Raksha'
+  - replaceStr pa0.wo231 <all> 'an'
+  - replaceStr pa0.wo235 <all> 'Mantri)'

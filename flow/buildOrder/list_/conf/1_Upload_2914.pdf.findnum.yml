@@ -1,0 +1,9 @@
+edits:
+  - replaceStr pa0.wo61 <all> i
+  - replaceStr pa0.wo65 <all> ii
+
+  # not
+  - clearWord pa0.wo84
+  - clearWord pa0.wo79
+
+  - mergeWords pa0.wo85 pa0.wo86

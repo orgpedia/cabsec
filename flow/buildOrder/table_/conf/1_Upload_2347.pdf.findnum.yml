@@ -1,0 +1,56 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 66 F: 1 R:False
+# 	MISMATCH P: 0 A: 7 E: 6 W: 89 F: 2 R:False
+# 	MISMATCH P: 0 A: 3 E: 2 W: 226 F: -11 R:False
+# 	MISMATCH P: 1 A: 42 E: 11 W: 119 F: 9 R:False
+# 	MISMATCH P: 1 A: 12 E: 43 W: 132 F: 40 R:False
+# 	MISMATCH P: 1 A: 16 E: 15 W: 199 F: 9 R:False
+# 	MISMATCH P: 1 A: 19 E: 17 W: 254 F: 10 R:False
+
+edits:
+  - newWord 3 pa0.wo66 pa0.wo57
+  - newWord 6 pa0.wo89 pa0.wo81
+  - replaceStr pa0.wo56 <all> Shri
+
+  - newWord 2 pa0.wo226 pa0.wo200
+
+  - clearWord pa1.wo3
+
+  - replaceStr pa1.wo21 <all> 5
+  - replaceStr pa1.wo41 <all> 6
+
+  - replaceStr pa1.wo59 <all> 7
+  - replaceStr pa1.wo64 <all> 8
+  - clearWord pa1.wo92
+  - clearWord pa1.wo105
+  - replaceStr pa1.wo119 <all> 11
+  - clearWord pa1.wo133
+  - replaceStr pa1.wo151 <all> 13
+  - replaceStr pa1.wo190 <all> 14
+  - replaceStr pa1.wo194 <all> 15
+  - clearWord pa1.wo200
+  - replaceStr pa1.wo205 <all> 17
+  - replaceStr pa1.wo242 <all> 18
+  - replaceStr pa1.wo254 <all> 19
+  - clearWord pa1.wo272
+
+  - clearWord pa2.wo2
+  - clearWord pa2.wo20
+  - replaceStr pa2.wo34 <all> 23
+
+  - replaceStr pa2.wo130 <all> Deputy
+  - replaceStr pa0.wo17 <all> 22/12/1984
+  - replaceStr pa0.wo18 <all> 22/12/1984
+
+
+
+  - replaceStr pa0.wo52 <all> Finance
+  - replaceStr pa0.wo95 <all> Law
+
+  - replaceStr pa1.wo28 <all> '(Inde'
+
+
+  - replaceStr pa1.wo222 <all> '(Inde'
+  - replaceStr pa1.wo223 <all> pendent
+  - replaceStr pa1.wo238 <all> Dept
+
+  - replaceStr pa2.wo169 <all> of

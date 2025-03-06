@@ -1,0 +1,4 @@
+edits:
+  - newWord 1 pa0.wo27 pa0.wo19
+  - newWord 2 pa0.wo57 pa0.wo50
+  - replaceStr pa0.wo74 <all> Department

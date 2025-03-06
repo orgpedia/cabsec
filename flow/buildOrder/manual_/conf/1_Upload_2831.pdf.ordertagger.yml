@@ -1,0 +1,23 @@
+edits:
+  - mergeWords pa0.wo17 pa0.wo18
+  - mergeWords pa0.wo80 pa0.wo81
+
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [44, 45, 46, 47]
+
+      assumes:
+        - idxs: [48, 49, 50, 51, 52, 53, 54, 55, 56]
+        - idxs: [48, 49, 50, 80, 82, 83]
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [58, 59, 60, 61]
+
+      assumes:
+        - idxs: [62, 63, 64, 65, 66, 67, 68, 69]
+        - idxs: [62, 63, 80, 82, 83]

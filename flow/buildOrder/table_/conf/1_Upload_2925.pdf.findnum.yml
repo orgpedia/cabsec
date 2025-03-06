@@ -1,0 +1,12 @@
+# 	MISMATCH P: 1 A: 5 E: 4 W: 54 F: 2 R:False
+# 	MISMATCH P: 2 A: 11 E: 10 W: 243 F: -7 R:False
+
+edits:
+  - replaceStr pa1.wo11 <all> 1
+  - newWord 4 pa1.wo54 pa1.wo44
+  - clearChar pa2.wo227 a
+
+  - replaceStr pa1.wo166 <all> Scientific
+  - mergeWords pa2.wo133 pa2.wo134
+
+  - mergeWords pa2.wo248 pa2.wo249 pa2.wo250

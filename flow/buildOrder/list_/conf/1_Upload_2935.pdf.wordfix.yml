@@ -1,0 +1,3 @@
+edits:
+  - mergeWords pa0.wo62 pa0.wo63
+  - replaceStr pa0.wo62  <all> Coordination

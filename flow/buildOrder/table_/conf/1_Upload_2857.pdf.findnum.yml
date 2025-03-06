@@ -1,0 +1,15 @@
+# 	MISMATCH P: 1 A: 3 E: 2 W: 49 F: 1 R:False
+# 	MISMATCH P: 1 A: 5 E: 4 W: 66 F: 2 R:False
+# 	MISMATCH P: 1 A: 7 E: 6 W: 88 F: 3 R:False
+# 	MISMATCH P: 1 A: 18 E: 12 W: 128 F: 4 R:False
+# 	MISMATCH P: 1 A: 13 E: 19 W: 135 F: 10 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 71 F: 1 R:False
+
+edits:
+  - newWord 2 pa1.wo49 pa1.wo32
+  - newWord 4 pa1.wo66 pa1.wo54
+  - newWord 6 pa1.wo88 pa1.wo77
+  - replaceStr pa1.wo128 <all> 12
+  - newWord 5 pa2.wo47 pa2.wo60
+
+  - replaceStr pa2.wo59 <all> Shrimati

@@ -1,0 +1,8 @@
+{"date": "2013-03-21", "details": [
+{"detail_idx": 0, "officer_id": "Q540605", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3532452", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q3534639", "continues": [], "relinquishes": [["Ministry of Social Justice and Empowerment", "Minister of State"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q7387556", "continues": [], "relinquishes": [["Ministry of Commerce and Industry", "Minister of State"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q7387486", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7586381", "continues": [["Ministry of Statistics and Programme Implementation", "Minister of State (Independent Charge)"]], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Minister of State"]], "assumes": [["Ministry of Chemicals and Fertilisers", "Minister of State (Independent Charge)"]]}
+]}

@@ -1,0 +1,8 @@
+# > Page 0 [1-52, 2-66, 3-70, 2-92, 1-132, 2-149, 15-196]
+# > Page 1 []
+
+# pa0.nu3 Expected: 1 Actual: 2 word_idx: 92
+# pa0.nu6 Expected: 3 Actual: 15 word_idx: 196
+
+edits:
+  - clearWords pa0.wo92 pa0.wo132 pa0.wo149 pa0.wo196

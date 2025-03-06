@@ -1,0 +1,5 @@
+{"date": "1956-12-10", "details": [
+{"detail_idx": 0, "officer_id": "Q1471625", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"], ["Ministry of Transport", "Cabinet Minister"], ["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q7285239", "continues": [["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Communications", "Cabinet Minister"], ["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q5657239", "continues": [["Ministry of Law and Justice", "Cabinet Minister"], ["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

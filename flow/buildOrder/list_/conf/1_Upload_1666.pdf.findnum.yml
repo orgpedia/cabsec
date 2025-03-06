@@ -1,0 +1,6 @@
+# 	MISMATCH P: 0 A: 9 E: 8 W: 263 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo209 <all> viii
+  - replaceStr pa1.wo1 <all> xiii
+  - replaceStr pa1.wo2 <all> 'shri hukumdeo'

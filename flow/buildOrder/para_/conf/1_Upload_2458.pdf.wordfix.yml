@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo63 <all> Muslim
+  - mergeWords pa0.wo64 pa0.wo65
+  - replaceStr pa0.wo64 <all> Wakfs

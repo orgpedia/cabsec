@@ -1,0 +1,11 @@
+# 	MISMATCH P: 0 A: 4 E: 2 W: 186 F: 1 R:True
+# 	MISMATCH P: 0 A: 7 E: 6 W: 304 F: 3 R:True
+
+edits:
+  - replaceStr pa0.wo95 <all> ii
+  - replaceStr pa0.wo118 <all> iii
+  - replaceStr pa0.wo251 <all> vi
+
+  - replaceStr pa1.wo1 <all> viii
+  - replaceStr pa1.wo97 <all> Shri
+  - replaceStr pa1.wo147 <all> Shri

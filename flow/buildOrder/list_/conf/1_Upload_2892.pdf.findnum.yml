@@ -1,0 +1,7 @@
+edits:
+  - replaceStr pa0.wo36 <all> i
+  - replaceStr pa0.wo48 <all> ii
+  - replaceStr pa0.wo68 <all> iii
+  - replaceStr pa0.wo89 <all> iv
+
+  - replaceStr pa0.wo17 <all> November

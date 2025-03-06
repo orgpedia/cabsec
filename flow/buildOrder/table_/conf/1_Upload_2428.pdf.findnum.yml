@@ -1,0 +1,7 @@
+# 	MISMATCH P: 3 A: 6 E: 5 W: 74 F: 1 R:False
+
+edits:
+  - clearWord pa3.wo60
+
+  - replaceStr pa0.wo16 <all> 7
+  - replaceStr pa0.wo18 <all> 1980

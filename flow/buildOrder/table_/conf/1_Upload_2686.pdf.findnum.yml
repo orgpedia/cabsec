@@ -1,0 +1,4 @@
+# 	MISMATCH P: 4 A: 16 E: 13 W: 306 F: 3 R:False
+
+edits:
+  - replaceStr pa4.wo306 <all> 13

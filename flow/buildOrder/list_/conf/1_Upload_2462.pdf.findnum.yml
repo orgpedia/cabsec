@@ -1,0 +1,4 @@
+edits:
+  - clearWord pa0.wo30
+  - replaceStr pa0.wo16 <all> August
+  - replaceStr pa0.wo17 <all> 1979

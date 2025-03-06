@@ -1,0 +1,107 @@
+# 	MISMATCH P: 2 A: 8 E: 7 W: 75 F: 1 R:False
+# 	MISMATCH P: 2 A: 7 E: 6 W: 206 F: -14 R:False
+# 	MISMATCH P: 3 A: 8 E: 6 W: 68 F: 1 R:False
+# 	MISMATCH P: 3 A: 7 E: 9 W: 82 F: 3 R:False
+# 	MISMATCH P: 3 A: 9 E: 8 W: 106 F: 1 R:False
+# 	MISMATCH P: 3 A: 12 E: 13 W: 159 F: 2 R:False
+# 	MISMATCH P: 3 A: 14 E: 13 W: 170 F: 1 R:False
+# 	MISMATCH P: 3 A: 17 E: 16 W: 207 F: 2 R:False
+# 	MISMATCH P: 3 A: 12 E: 18 W: 220 F: 3 R:False
+# 	MISMATCH P: 3 A: 19 E: 13 W: 233 F: -3 R:False
+
+edits:
+  - newWord 7 pa2.wo82 pa2.wo62
+
+  - replaceStr pa2.wo202 <all> 6
+
+  - newWord 8 pa3.wo121 pa3.wo94
+  - replaceStr pa3.wo159 <all> 13
+  - newWord 16 pa3.wo207 pa3.wo199
+  - newWord 'Shri B. C. Bhagavati' pa3.wo184 pa3.wo199
+  - replaceStr pa3.wo220 <all> 18
+
+  - mergeWords pa3.wo140 pa3.wo141
+
+  - replaceStr pa3.wo68 <all> 6
+
+
+  - replaceStr pa3.wo73 <all> Deputy
+  - replaceStr pa3.wo7 <all> Deputy
+  - replaceStr pa3.wo20 <all> Deputy
+  - replaceStr pa3.wo57 <all> Deputy
+  - replaceStr pa3.wo255 <all> Deputy
+
+  - replaceStr pa3.wo55 <all> 'B.S.'
+  - replaceStr pa3.wo56 <all> Murthy
+
+  - replaceStr pa3.wo107 <all> Shri
+  - replaceStr pa3.wo108 <all> 'C. R.'
+  - replaceStr pa3.wo109 <all> Pattabhi
+  - replaceStr pa3.wo110 <all> Raman
+
+  - replaceStr pa3.wo184 <all> Shri
+  - replaceStr pa3.wo185 <all> Bhibhudhend
+  - replaceStr pa3.wo187 <all> Mi
+
+  - replaceStr pa3.wo208 <all> Shri
+  - replaceStr pa3.wo209 <all> Shyam
+  - replaceStr pa3.wo210 <all> Dhar
+  - replaceStr pa3.wo211 <all> Mishra
+
+  - replaceStr pa3.wo253 <all> Bhakt
+
+  - replaceStr pa3.wo122 n m
+  - replaceStr pa3.wo123 <all> Maragatham
+  - replaceStr pa3.wo124 <all> Chandrashekhar
+
+  - clearWords pa2.wo20 pa2.wo21
+
+
+  - mergeWords pa3.wo28 pa3.wo29
+  - replaceStr pa3.wo28 <all> Agriculture
+
+  - mergeWords pa3.wo77 pa3.wo78
+  - replaceStr pa3.wo77 <all> Ministry
+  - replaceStr pa3.wo79 <all> of
+  - replaceStr pa3.wo81 <all> Affairs
+
+  - replaceStr pa3.wo83 <all> Shrimati
+  - mergeWords pa3.wo85 pa3.wo86
+  - replaceStr pa3.wo85 <all> Ramachandran
+
+  - replaceStr pa3.wo87 <all> Deputy
+  - replaceStr pa3.wo88 <all> Minister
+  - replaceStr pa3.wo93 <all> Education
+  - replaceStr pa3.wo100 <all> in
+  - replaceStr pa3.wo116 <all> of
+  - replaceStr pa3.wo120 <all> Broadcasting
+
+  - replaceStr pa3.wo125 <all> Deputy
+
+  - mergeWords pa3.wo129 pa3.wo130 pa3.wo131
+  - replaceStr pa3.wo129 <all> Department
+
+  - replaceStr pa3.wo133 <all> Social
+
+  - mergeWords pa3.wo174 pa3.wo175
+  - replaceStr pa3.wo174 <all> Deputy
+
+  - mergeWords pa3.wo189 pa3.wo190
+  - replaceStr pa3.wo189 <all> Deputy
+
+  - replaceStr pa3.wo182 <all> Affairs
+
+  - replaceStr pa3.wo191 <all> Minister
+
+  - replaceStr pa3.wo203 <all> Department
+  - replaceStr pa3.wo213 <all> Minister
+  - replaceStr pa3.wo216 <all> Ministry
+
+  - replaceStr pa3.wo219 <all> Power
+
+  - replaceStr pa3.wo225 <all> Deputy
+  - replaceStr pa3.wo229 <all> Minstry
+
+  - mergeWords pa3.wo249 pa3.wo250
+  - replaceStr pa3.wo249 <all> Employment
+  - replaceStr pa3.wo259 <all> Ministry

@@ -1,0 +1,165 @@
+# 	MISMATCH P: 1 A: 5 E: 4 W: 76 F: 1 R:False
+# 	MISMATCH P: 1 A: 8 E: 7 W: 130 F: 2 R:False
+# 	MISMATCH P: 1 A: 12 E: 11 W: 177 F: 3 R:False
+# 	MISMATCH P: 2 A: 6 E: 4 W: 126 F: 1 R:False
+# 	MISMATCH P: 2 A: 6 E: 8 W: 174 F: 3 R:False
+# 	MISMATCH P: 2 A: 10 E: 7 W: 214 F: 1 R:False
+# 	MISMATCH P: 3 A: 15 E: 14 W: 131 F: 11 R:False
+# 	MISMATCH P: 3 A: 6 E: 17 W: 154 F: 12 R:False
+# 	MISMATCH P: 4 A: 50 E: 4 W: 42 F: 1 R:False
+# 	MISMATCH P: 4 A: 7 E: 51 W: 43 F: 47 R:False
+
+edits:
+  - newWord 4 pa1.wo76 pa1.wo55
+  - replaceStr pa1.wo109 <all> 7
+  - replaceStr pa1.wo169 <all> 11
+  - newWord 14 pa1.wo76 pa1.wo205
+
+  - newWord 4 pa2.wo72 pa2.wo76
+  - replaceStr pa2.wo99 <all> 5
+  - replaceStr pa2.wo174 <all> 8
+  - replaceStr pa2.wo192 <all> 9
+
+  - replaceStr pa3.wo108 <all> 14
+  - clearWord pa3.wo154
+
+  - clearWord pa4.wo8
+  - clearWord pa4.wo18
+  - clearWord pa4.wo19
+  - clearWord pa4.wo42
+  - clearWord pa4.wo43
+
+
+  - clearWords pa1.wo30 pa1.wo31 pa1.wo32 pa1.wo33 pa1.wo34 pa1.wo35
+  - replaceStr pa1.wo56 <all> Sikander
+  - replaceStr pa1.wo171 <all> 'P.'
+  - replaceStr pa1.wo172 <all> 'Ramachandran'
+
+  - replaceStr pa2.wo23 <all> 'Smt.'
+  - replaceStr pa2.wo24 <all> 'Renuka'
+  - replaceStr pa2.wo25 <all> Devi
+
+  - replaceStr pa2.wo100 <all> Shri
+  - replaceStr pa2.wo101 <all> Krishna
+
+  - replaceStr pa2.wo128 <all> Dhana
+  - replaceStr pa2.wo131 <all> shan
+
+  - replaceStr pa2.wo104 <all> Mini
+
+
+  - mergeWords pa2.wo175 pa2.wo176
+  - replaceStr pa2.wo175 <all> Kumari
+
+  - replaceStr pa3.wo46 <all> Mini
+  - replaceStr pa3.wo137 <all> Shri
+  - replaceStr pa3.wo138 <all> Jagdambi
+  - replaceStr pa3.wo140 <all> Yadav
+
+  - replaceStr pa1.wo12 <all> Shri
+  - replaceStr pa1.wo13 <all> Morarji
+  - replaceStr pa1.wo14 <all> Desai
+  - replaceStr pa1.wo23 <all> 'Minister'
+  - clearWords pa1.wo15 pa1.wo16 pa1.wo17 pa1.wo18
+
+  - replaceStr pa1.wo50 <all> and
+
+  - mergeWords pa1.wo58 pa1.wo59
+  - replaceStr pa1.wo58 <all> Minister
+  - replaceStr pa1.wo61 <all> Works
+  - replaceStr pa1.wo64 <all> and
+  - replaceStr pa1.wo67 <all> Rehabilitation
+  - replaceStr pa1.wo68 <all> '(Nirman'
+
+  - mergeWords pa1.wo81 pa1.wo82
+  - replaceStr pa1.wo81 <all> Minister
+  - replaceStr pa1.wo85 <all> and
+  - replaceStr pa1.wo86 <all> 'Irrigation(krishi'
+
+  - replaceStr pa1.wo98 <all> Law
+  - replaceStr pa1.wo100 <all> and
+  - replaceStr pa1.wo102 <all> 'Affairs(Vidhi'
+
+  - mergeWords pa1.wo116 pa1.wo117
+  - replaceStr pa1.wo116 <all> 'Education'
+
+  - replaceStr pa1.wo137 <all> 'Railway'
+
+  - replaceStr pa1.wo147 <all> 'Civil'
+  - replaceStr pa1.wo175 <all> 'Energy(Oorja'
+  - replaceStr pa1.wo185 <all> 'External'
+
+  - replaceStr pa1.wo211 <all> 'Communications'
+
+  - replaceStr pa2.wo10 <all> of
+  - replaceStr pa2.wo17 <all> 'Finance(Vitta'
+
+  - replaceStr pa2.wo36 <all> Education
+
+
+  - replaceStr pa2.wo59 <all> Commerce
+  - replaceStr pa2.wo60 <all> Civil
+  - replaceStr pa2.wo62 <all> and
+  - replaceStr pa2.wo63 <all> 'Cooperation(Vanijya'
+
+  - replaceStr pa2.wo90 <all> and
+
+  - replaceStr pa2.wo113 <all> 'Commerce,'
+  - replaceStr pa2.wo116 <all> and
+
+
+  - mergeWords pa2.wo132 pa2.wo133
+  - replaceStr pa2.wo132 <all> Minister
+
+  - replaceStr pa2.wo134 <all> of
+  - mergeWords pa2.wo142 pa2.wo143
+  - replaceStr pa2.wo142 <all> Social
+  - replaceStr pa2.wo144 <all> Welfare
+  - replaceStr pa2.wo146 <all> 'Culture(Shiksha'
+
+  - replaceStr pa2.wo164 <all> External
+  - replaceStr pa2.wo165 <all> 'Affairs(Videsh'
+
+  - mergeWords pa2.wo179 pa2.wo180
+  - replaceStr pa2.wo180 <all> Minister
+  - replaceStr pa2.wo185 <all> Ministry
+
+  - mergeWords pa2.wo218 pa2.wo219
+  - replaceStr pa2.wo218 <all> Minister
+
+
+  - replaceStr pa2.wo227 <all> Home
+  - replaceStr pa2.wo228 <all> 'Affairs(Grih'
+
+  - replaceStr pa2.wo236 <all> function
+  - replaceStr pa2.wo245 <all> Law
+  - replaceStr pa2.wo248 <all> Company
+
+
+
+  - mergeWords pa3.wo8 pa3.wo9
+  - replaceStr pa3.wo8 <all> Ministry
+
+  - replaceStr pa3.wo13 <all> Parliamentary
+
+  - replaceStr pa3.wo35 <all> of
+  - replaceStr pa3.wo41 <all> 'Communications(Sanchar'
+
+  - replaceStr pa3.wo79 <all> function
+  - replaceStr pa3.wo80 <all> as
+
+  - mergeWords pa3.wo86 pa3.wo87 pa3.wo88
+  - replaceStr pa3.wo86 <all> Departments
+
+  - replaceStr pa3.wo90 <all> Atomic
+  - replaceStr pa3.wo91 <all> 'Energy(Parmanu'
+  - clearWords pa3.wo92
+  - replaceStr pa3.wo94 <all> 'Electronics(Electronics'
+
+  - replaceStr pa3.wo112 <all> Minister
+  - replaceStr pa3.wo121 <all> Parliamentary
+
+  - mergeWords pa3.wo146 pa3.wo147
+  - replaceStr pa3.wo146 <all> Ministry
+
+  - clearWords pa4.wo8  pa4.wo18 pa4.wo19 pa4.wo42 pa4.wo43

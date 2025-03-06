@@ -1,0 +1,20 @@
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 29, 30, 31]
+
+      assumes:
+        - idxs: [ 32, 33, 40, 41, 42, 43, 44 ]
+
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 46, 47, 48 ]
+
+      assumes:
+        - idxs: [ 49, 50, 56, 57, 58, 59, 60, 61 ]

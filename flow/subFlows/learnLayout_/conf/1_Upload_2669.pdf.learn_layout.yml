@@ -1,0 +1,23 @@
+word_labels:
+  orderDatePlace: [ pa0.wo22, pa0.wo23, pa0.wo24, pa0.wo25, pa0.wo26, pa0.wo27, pa0.wo28, pa0.wo29 ]
+  signatoryBlock:
+    - [ pa0.wo60, pa0.wo61, pa0.wo62, pa0.wo63, pa0.wo64 ]
+    - [ pa0.wo144, pa0.wo145, pa0.wo146, pa0.wo147, pa0.wo148, pa0.wo149, pa0.wo150 ]
+  copyStatement:
+    - [ pa0.wo66, pa0.wo67, pa0.wo68, pa0.wo69, pa0.wo70, pa0.wo71, pa0.wo72 ]
+    - [ pa0.wo73, pa0.wo74, pa0.wo75, pa0.wo76, pa0.wo77, pa0.wo78, pa0.wo79, pa0.wo80, pa0.wo81, pa0.wo82, pa0.wo83, pa0.wo84, pa0.wo85, pa0.wo86, pa0.wo87, pa0.wo88 ]
+    - [ pa0.wo89, pa0.wo90, pa0.wo91, pa0.wo92, pa0.wo93, pa0.wo94, pa0.wo95, pa0.wo96, pa0.wo97, pa0.wo98, pa0.wo99, pa0.wo100, pa0.wo101, pa0.wo102, pa0.wo103, pa0.wo104, pa0.wo105, pa0.wo106, pa0.wo107, pa0.wo108, pa0.wo109, pa0.wo110, pa0.wo111, pa0.wo112, pa0.wo113, pa0.wo114, pa0.wo115, pa0.wo116, pa0.wo117, pa0.wo118, pa0.wo119, pa0.wo120, pa0.wo121, pa0.wo122, pa0.wo123, pa0.wo124, pa0.wo125 ]
+    - [ pa0.wo126, pa0.wo127, pa0.wo128, pa0.wo129, pa0.wo130, pa0.wo131, pa0.wo132, pa0.wo133, pa0.wo134, pa0.wo135, pa0.wo136, pa0.wo137, pa0.wo138, pa0.wo139, pa0.wo140, pa0.wo141 ]
+    - [ pa0.wo151, pa0.wo152, pa0.wo153, pa0.wo154, pa0.wo155, pa0.wo156, pa0.wo157, pa0.wo158, pa0.wo159, pa0.wo160, pa0.wo161, pa0.wo162, pa0.wo163, pa0.wo164, pa0.wo165, pa0.wo166, pa0.wo167, pa0.wo168, pa0.wo169, pa0.wo170, pa0.wo171, pa0.wo172, pa0.wo173, pa0.wo174, pa0.wo175, pa0.wo176, pa0.wo177, pa0.wo178, pa0.wo179, pa0.wo180, pa0.wo181, pa0.wo182, pa0.wo183, pa0.wo184, pa0.wo185, pa0.wo186, pa0.wo187, pa0.wo188, pa0.wo189, pa0.wo190 ]
+  orderBody:
+    - [ pa0.wo30, pa0.wo31, pa0.wo32, pa0.wo33, pa0.wo34, pa0.wo35, pa0.wo36, pa0.wo37, pa0.wo38, pa0.wo39, pa0.wo40, pa0.wo41, pa0.wo42, pa0.wo43, pa0.wo44, pa0.wo45, pa0.wo46, pa0.wo47, pa0.wo48, pa0.wo49, pa0.wo50, pa0.wo51, pa0.wo52, pa0.wo53, pa0.wo54, pa0.wo55, pa0.wo56, pa0.wo57, pa0.wo58 ]
+  other:
+    - [ pa0.wo65 ]
+    - [ pa0.wo191, pa0.wo192, pa0.wo193 ]
+    - [ pa0.wo1, pa0.wo2 ]
+    - [ pa0.wo194 ]
+    - [ pa0.wo0 ]
+    - [ pa0.wo59 ]
+    - [ pa0.wo142, pa0.wo143 ]
+  header:
+    - [ pa0.wo3, pa0.wo4, pa0.wo5, pa0.wo6, pa0.wo7, pa0.wo8, pa0.wo9, pa0.wo10, pa0.wo11, pa0.wo12, pa0.wo13, pa0.wo14, pa0.wo15, pa0.wo16, pa0.wo17, pa0.wo18, pa0.wo19, pa0.wo20, pa0.wo21 ]

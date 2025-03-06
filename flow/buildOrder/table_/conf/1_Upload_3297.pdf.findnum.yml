@@ -1,0 +1,7 @@
+include_zero: True
+
+edits:
+  - newWord 0 pa0.wo45 pa1.wo146
+  - replaceStr pa5.wo153 <all> Affairs
+  - replaceStr pa3.wo288 <all> Affairs
+

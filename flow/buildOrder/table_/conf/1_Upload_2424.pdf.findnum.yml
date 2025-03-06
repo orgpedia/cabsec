@@ -1,0 +1,10 @@
+# 	MISMATCH P: 2 A: 11 E: 10 W: 125 F: 1 R:False
+
+edits:
+  - replaceStr pa2.wo117 <all> 10
+  - mergeWords pa4.wo156 pa4.wo157
+  - mergeWords pa4.wo127 pa4.wo128 pa4.wo129
+  - mergeWords pa4.wo93 pa4.wo94
+  - mergeWords pa4.wo140 pa4.wo141 pa4.wo142
+  - mergeWords pa4.wo109 pa4.wo110 pa4.wo111
+  - mergeWords pa4.wo77 pa4.wo78

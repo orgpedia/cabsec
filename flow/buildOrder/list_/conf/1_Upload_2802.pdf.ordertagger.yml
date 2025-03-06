@@ -1,0 +1,97 @@
+edits:
+  - mergeWords pa2.wo80 pa2.wo81
+  - mergeWords pa2.wo83 pa2.wo84
+
+  - mergeWords pa2.wo92 pa2.wo93
+  - replaceStr pa2.wo92 <all> Department
+  - replaceStr pa2.wo95 <all> Science
+
+  - replaceStr pa2.wo119 <all> Affairs
+
+  - replaceStr pa2.wo130 <all> Shri
+  - replaceStr pa2.wo134 <all> Minister
+  - replaceStr pa2.wo142 <all> Affairs
+  - replaceStr pa2.wo161 <all> Energy
+
+  - replaceStr pa2.wo163 <all> Electronics
+
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 29
+      page_idx: 2
+      officer:
+        idxs: [ 28, 29, 30, 31 ]
+
+      assumes:
+        - idxs: [ 32, 33, 34 ]
+
+    - detail_idx: 30
+      page_idx: 2
+      officer:
+        idxs: [ 36, 37, 38, 39 ]
+
+      assumes:
+        - idxs: [ 40, 41, 42, 43 ]
+
+    - detail_idx: 31
+      page_idx: 2
+      officer:
+        idxs: [ 45, 46, 47, 48]
+
+      assumes:
+        - idxs: [49, 50, 51, 52, 53 ]
+
+
+    - detail_idx: 32
+      page_idx: 2
+      officer:
+        idxs: [ 55, 56, 57, 58]
+
+      assumes:
+        - idxs: [59, 60, 61, 62, 63, 64]
+
+    - detail_idx: 33
+      page_idx: 2
+      officer:
+        idxs: [ 76, 77, 78, 79 ]
+
+      assumes:
+        - idxs: [ 80, 81, 82, 83, 84 ]
+        - idxs: [ 92, 93, 94, 95, 96, 97]
+
+    - detail_idx: 34
+      page_idx: 2
+      officer:
+        idxs: [ 99, 100, 101]
+
+      assumes:
+        - idxs: [102, 103, 104, 105, 106 ]
+
+    - detail_idx: 35
+      page_idx: 2
+      officer:
+        idxs: [ 108, 109, 110 ]
+
+      assumes:
+        - idxs: [111, 112, 113, 114, 115, 116, 117, 118, 119 ]
+        - idxs: [111, 112, 113, 123, 124, 125, 126, 127, 128]
+
+
+    - detail_idx: 36
+      page_idx: 2
+      officer:
+        idxs: [ 130, 131, 132, 133]
+
+      assumes:
+        - idxs: [134, 135, 136, 137, 138, 139, 140, 141, 142 ]
+        - idxs: [134, 135, 136, 158, 159, 160, 161, 162]
+        - idxs: [ 134, 135, 136, 163]
+
+    - detail_idx: 37
+      page_idx: 2
+      officer:
+        idxs: [ 183, 184, 185, 186, 187 ]
+
+      assumes:
+        - idxs: [164, 165, 166, 167, 168, 169, 170, 171]

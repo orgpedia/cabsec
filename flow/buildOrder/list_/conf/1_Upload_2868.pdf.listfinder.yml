@@ -1,0 +1,3 @@
+rotation_config:
+  rotation_strategy: num_markers
+  rotation_page_idxs: [ 0 ]

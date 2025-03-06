@@ -1,0 +1,21 @@
+edits:
+  - replaceStr pa0.wo124 <all> 'I.'
+  - replaceStr pa0.wo144 <all> 'Broadcasting'
+  - newWord "State in the Ministry of Works and Housing" pa0.wo150 pa0.wo132
+  - newWord "State in the Ministry of" pa0.wo144 pa0.wo141
+
+
+
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 3
+      page_idx: 0
+      officer:
+        idxs: [ 123, 124, 125, 126]
+
+      relinquishes:
+        - idxs: [ 131, 132, 231]
+
+      assumes:
+        - idxs: [ 139, 140, 232, 141, 142, 143, 144 ]

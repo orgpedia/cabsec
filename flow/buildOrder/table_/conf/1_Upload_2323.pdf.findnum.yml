@@ -1,0 +1,16 @@
+# 	MISMATCH P: 2 A: 7 E: 6 W: 97 F: 1 R:False
+# 	MISMATCH P: 3 A: 13 E: 18 W: 195 F: 8 R:False
+# 	MISMATCH P: 3 A: 19 E: 14 W: 207 F: 3 R:False
+
+edits:
+  - replaceStr pa2.wo80 <all> 6
+  - replaceStr pa3.wo195 <all> 18
+
+  - clearWords pa1.wo116 pa1.wo117 pa1.wo130 pa1.wo131
+
+  - replaceStr pa1.wo169 <all> Minister
+
+  - replaceStr pa4.wo204 <all> Deputy
+
+  - replaceStr pa4.wo6 <all> 'P.R.'
+  - replaceStr pa4.wo8 <all> Munshi

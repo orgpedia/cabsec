@@ -1,0 +1,9 @@
+ignores:
+  MarkerMisalginedError: [ pa2.nu6 ]
+
+edits:
+  - clearWord pa0.wo323
+
+  - replaceStr pa1.wo234 <all> Prasad
+  - mergeWords pa2.wo323 pa2.wo324
+  - replaceStr pa2.wo323 <all> Ministry

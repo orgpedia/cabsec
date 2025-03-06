@@ -1,0 +1,11 @@
+# 	MISMATCH P: 1 A: 11 E: 10 W: 106 F: 1 R:False
+
+edits:
+  - newWord 10 pa1.wo106 pa1.wo96
+  - clearChar pa3.wo91 1
+
+  - replaceStr pa1.wo81 <all> Community
+  - replaceStr pa1.wo102 <all> Parliamentary
+
+  - clearWord pa2.wo131
+  - replaceStr pa0.wo15 <all> February

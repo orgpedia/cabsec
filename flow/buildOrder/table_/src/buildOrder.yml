@@ -1,0 +1,59 @@
+description: Builds orders from documents containing tables, uses numbers on the left to form lists and then builds table and then an order.
+
+ignore_docs:
+  1_Upload_1990.pdf: Lot of dirty text,  two orders 1 of resignation and 1 of assumption, IMPORTANT
+  1_Upload_2686.pdf: Faded paper unable to read
+  1_Upload_2811.pdf: Hindi Department
+  1_Upload_2812.pdf: Hindi Department / English Department
+  1_Upload_2910.pdf: Black scan, with lots of mistakes
+  1_Upload_2431.pdf: Reversed Department followed by name
+  1_Upload_2290.pdf: dirty pdf
+  1_Upload_2412.pdf: dirty pdf
+  1_Upload_937.pdf: dirty pdf
+
+pipeline:
+  - name: num_marker
+    config:
+      conf_stub: 'findnum'
+      x_range: [0, 0.45]
+      max_number: 60
+      find_alphabet: False
+
+  - name: rotation_detector
+    config:
+      min_num_markers: 5
+
+  - name: line_finder
+    config:
+      rotation_config:
+        rotation_strategy: num_markers
+
+
+  - name: list_finder2
+    config:
+      find_roman: False
+      conf_stub:  listfinder
+
+  - name: table_finder
+    config:
+      sent_delim: "."
+      conf_stub:  table_finder
+
+  - name: table_order_builder
+    config:
+      dict_file: conf/dict.3.txt
+      conf_stub:  tableorder
+
+  - name: order_tagger
+    config:
+      conf_stub: ordertagger
+
+  - name: id_assigner_vocab
+    config:
+      conf_stub: 'id_assigner'
+      cadre_file_dict: {'goi_minister': 'conf/wiki_officerID.yml'}
+      post_id_fields: ['dept']
+
+  - name: details_differ
+    config:
+      mode: "diff"

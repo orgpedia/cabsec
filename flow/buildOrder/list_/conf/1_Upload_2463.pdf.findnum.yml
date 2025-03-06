@@ -1,0 +1,14 @@
+# 	MISMATCH P: 0 A: 9 E: 8 W: 193 F: 2 R:True
+# 	MISMATCH P: 0 A: 12 E: 11 W: 262 F: 3 R:True
+
+edits:
+  - replaceStr pa0.wo38 <all> i
+  - replaceStr pa0.wo170 <all> viii
+  - replaceStr pa0.wo239 <all> xi
+  - replaceStr pa0.wo18 <all> 1979
+
+  - mergeWords pa0.wo174 pa0.wo175
+
+  - newWord '           ' pa0.wo267 pa0.wo261
+  - newWord '           ' pa0.wo268 pa0.wo261
+  - mergeWords pa1.wo2 pa1.wo3

@@ -1,0 +1,4 @@
+edits:
+  - clearWord pa0.wo45
+  - replaceStr pa0.wo52 <all> relinqui
+  - replaceStr pa0.wo53 <all> shed

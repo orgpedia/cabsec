@@ -1,0 +1,70 @@
+edits:
+  - mergeWords pa0.wo71 pa0.wo72
+  - replaceStr pa0.wo71 <all> State
+  - replaceStr pa0.wo70 <all> of
+
+  - replaceStr pa0.wo74 <all> Commerce
+  - clearWords pa0.wo77 pa0.wo85
+
+  - mergeWords pa0.wo123  pa0.wo124 pa0.wo125
+  - mergeWords pa0.wo191  pa0.wo192 pa0.wo193
+  - mergeWords pa0.wo257  pa0.wo258 pa0.wo259
+
+  - mergeWords pa0.wo152 pa0.wo153 pa0.wo154 pa0.wo155
+  - mergeWords pa0.wo171 pa0.wo172 pa0.wo173
+
+  - mergeWords pa0.wo189 pa0.wo190
+
+  - mergeWords pa0.wo215 pa0.wo216
+
+  - mergeWords pa0.wo217 pa0.wo218 pa0.wo219 pa0.wo220
+
+  - mergeWords pa0.wo229 pa0.wo230
+  - replaceStr pa0.wo229 <all> Fertilizer
+  - replaceStr pa0.wo230 <all> '(Ra'
+
+
+  - mergeWords pa0.wo255 pa0.wo256
+  - mergeWords pa0.wo271 pa0.wo272 pa0.wo273
+
+  - mergeWords pa0.wo283 pa0.wo284
+  - replaceStr pa0.wo283 <all> 'office of'
+  - replaceStr pa0.wo287 <all> of
+
+
+  - mergeWords pa0.wo323 pa0.wo324 pa0.wo325
+  - mergeWords pa0.wo328 pa0.wo329
+
+  - mergeWords pa1.wo6 pa1.wo7 pa1.wo8
+  - replaceStr pa1.wo13 <all> Deputy
+
+  - replaceStr pa1.wo57 <all> office
+  - mergeWords pa1.wo66 pa1.wo67 pa1.wo68 pa1.wo69 pa1.wo70
+
+  - mergeWords pa1.wo49 pa1.wo50
+  - mergeWords pa1.wo51 pa1.wo52
+
+  - mergeWords pa1.wo98 pa1.wo99
+  - replaceStr pa1.wo98 <all> Buta
+
+  - mergeWords pa1.wo101 pa1.wo102 pa1.wo103 pa1.wo104
+
+  - replaceStr pa1.wo106 <all> office
+
+  - mergeWords pa1.wo122 pa1.wo123
+
+  - mergeWords pa1.wo137 pa1.wo138
+
+  - mergeWords pa1.wo148 pa1.wo149
+  - mergeWords pa1.wo150 pa1.wo151
+
+  - mergeWords pa1.wo152 pa1.wo153 pa1.wo154
+  - mergeWords pa1.wo164 pa1.wo165 pa1.wo166
+
+  - mergeWords pa1.wo176 pa1.wo177 pa1.wo178
+
+  - replaceStr pa1.wo176 <all> assumed
+  - replaceStr pa1.wo180 <all> office
+
+  - replaceStr pa1.wo190 <all> Communication
+  - mergeWords pa1.wo190 pa1.wo191

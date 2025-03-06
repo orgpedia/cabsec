@@ -1,0 +1,1 @@
+JSON Schema of all the objects in data folder

@@ -1,0 +1,18 @@
+# 	MISMATCH P: 0 A: 9 E: 8 W: 164 F: 1 R:True
+
+min_marker: 1
+
+edits:
+  - newWord viii pa0.wo128 pa0.wo150
+  - clearWord pa0.wo148
+  - replaceStr pa0.wo149 <all> 'shri vikram'
+
+  - replaceStr pa0.wo240 l i
+  - replaceStr pa0.wo257 <all> xiv
+  - replaceStr pa0.wo258 <all> 'shri vijay'
+
+  - clearWord pa1.wo89
+  - clearWord pa1.wo139
+  - clearWord pa1.wo177
+  - clearWord pa1.wo1
+  - clearWord pa1.wo65

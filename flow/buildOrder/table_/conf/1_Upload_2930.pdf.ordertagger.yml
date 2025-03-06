@@ -1,0 +1,14 @@
+mode: append_detail
+order:
+  details:
+    - detail_idx: 12
+      page_idx: 0
+
+      officer:
+        idxs: [ 61, 62, 63]
+
+      relinquishes:
+        - idxs: [76, 77, 78, 79, 80, 81, 82]
+
+      continues:
+        - idxs: [64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74]

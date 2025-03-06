@@ -1,0 +1,23 @@
+# 	MISMATCH P: 3 A: 20 E: 24 W: 53 F: 23 R:True
+# 	MISMATCH P: 3 A: 25 E: 21 W: 106 F: 19 R:True
+# 	MISMATCH P: 3 A: 29 E: 28 W: 284 F: 23 R:True
+# 	MISMATCH P: 4 A: 34 E: 33 W: 98 F: 31 R:True
+# 	MISMATCH P: 4 A: 39 E: 37 W: 326 F: 32 R:True
+
+edits:
+  - replaceStr pa0.wo63 <all> i
+  - clearWord  pa0.wo131
+  - replaceStr  pa0.wo198 <all> D
+  - replaceStr pa2.wo341 <all> xxii
+  - replaceStr pa2.wo189 <all> B.P.
+  - replaceStr pa3.wo53 <all> xxiv
+  - clearWord pa3.wo54
+  - clearWord pa3.wo198
+  - replaceStr pa3.wo199 <all> Vidya
+  - replaceStr  pa3.wo252 <all> xxviii
+  - replaceStr  pa4.wo270 y v
+
+  - mergeWords pa3.wo274 pa3.wo275
+  - clearWords pa3.wo276 pa3.wo277
+
+  - mergeWords pa3.wo280 pa3.wo281

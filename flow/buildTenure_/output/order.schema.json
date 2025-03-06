@@ -1,0 +1,512 @@
+{
+  "title": "Order",
+  "type": "object",
+  "properties": {
+    "words": {
+      "title": "Words",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Word"
+      }
+    },
+    "shape_": {
+      "$ref": "#/definitions/Box"
+    },
+    "order_id": {
+      "title": "Order Id",
+      "type": "string"
+    },
+    "date": {
+      "title": "Date",
+      "type": "string",
+      "format": "date"
+    },
+    "order_idx": {
+      "title": "Order Idx",
+      "default": -1,
+      "type": "integer"
+    },
+    "number": {
+      "title": "Number",
+      "default": "",
+      "type": "string"
+    },
+    "path": {
+      "title": "Path",
+      "type": "string",
+      "format": "path"
+    },
+    "details": {
+      "title": "Details",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/OrderDetail"
+      }
+    },
+    "category": {
+      "title": "Category",
+      "default": "",
+      "type": "string"
+    }
+  },
+  "required": [
+    "word_idxs",
+    "order_id",
+    "path",
+    "details"
+  ],
+  "definitions": {
+    "BreakType": {
+      "title": "BreakType",
+      "description": "An enumeration.",
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "type": "integer"
+    },
+    "Coord": {
+      "title": "Coord",
+      "type": "object",
+      "properties": {
+        "x": {
+          "title": "X",
+          "type": "number"
+        },
+        "y": {
+          "title": "Y",
+          "type": "number"
+        }
+      },
+      "required": [
+        "x",
+        "y"
+      ]
+    },
+    "Box": {
+      "title": "Box",
+      "type": "object",
+      "properties": {
+        "top": {
+          "$ref": "#/definitions/Coord"
+        },
+        "bot": {
+          "$ref": "#/definitions/Coord"
+        }
+      },
+      "required": [
+        "top",
+        "bot"
+      ]
+    },
+    "Poly": {
+      "title": "Poly",
+      "type": "object",
+      "properties": {
+        "coords": {
+          "title": "Coords",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Coord"
+          }
+        },
+        "box_": {
+          "$ref": "#/definitions/Box"
+        }
+      },
+      "required": [
+        "coords"
+      ]
+    },
+    "Word": {
+      "title": "Word",
+      "type": "object",
+      "properties": {
+        "doc": {
+          "title": "Doc"
+        },
+        "page_idx": {
+          "title": "Page Idx",
+          "type": "integer"
+        },
+        "word_idx": {
+          "title": "Word Idx",
+          "type": "integer"
+        },
+        "text_": {
+          "title": "Text ",
+          "type": "string"
+        },
+        "break_type": {
+          "default": 1,
+          "allOf": [
+            {
+              "$ref": "#/definitions/BreakType"
+            }
+          ]
+        },
+        "shape_": {
+          "title": "Shape ",
+          "anyOf": [
+            {
+              "$ref": "#/definitions/Poly"
+            },
+            {
+              "$ref": "#/definitions/Box"
+            }
+          ]
+        },
+        "orig_text_": {
+          "title": "Orig Text ",
+          "type": "string"
+        }
+      },
+      "required": [
+        "page_idx",
+        "word_idx",
+        "text_",
+        "shape_"
+      ]
+    },
+    "Officer": {
+      "title": "Officer",
+      "type": "object",
+      "properties": {
+        "word_idxs": {
+          "title": "Word Idxs",
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        },
+        "page_idx_": {
+          "title": "Page Idx ",
+          "type": "integer"
+        },
+        "words": {
+          "title": "Words",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Word"
+          }
+        },
+        "shape_": {
+          "$ref": "#/definitions/Box"
+        },
+        "salut": {
+          "title": "Salut",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "full_name": {
+          "title": "Full Name",
+          "type": "string"
+        },
+        "birth_date": {
+          "title": "Birth Date",
+          "type": "string",
+          "format": "date"
+        },
+        "relative_name": {
+          "title": "Relative Name",
+          "default": "",
+          "type": "string"
+        },
+        "home_district": {
+          "title": "Home District",
+          "default": "",
+          "type": "string"
+        },
+        "posting_date": {
+          "title": "Posting Date",
+          "type": "string",
+          "format": "date"
+        },
+        "cadre": {
+          "title": "Cadre",
+          "default": "",
+          "type": "string"
+        },
+        "officer_idx": {
+          "title": "Officer Idx",
+          "default": -1,
+          "type": "integer"
+        },
+        "officer_id": {
+          "title": "Officer Id",
+          "default": "",
+          "type": "string"
+        },
+        "orig_lang": {
+          "title": "Orig Lang",
+          "default": "en",
+          "type": "string"
+        },
+        "orig_salut": {
+          "title": "Orig Salut",
+          "default": "",
+          "type": "string"
+        },
+        "orig_name": {
+          "title": "Orig Name",
+          "default": "",
+          "type": "string"
+        },
+        "orig_full_name": {
+          "title": "Orig Full Name",
+          "default": "",
+          "type": "string"
+        }
+      },
+      "required": [
+        "word_idxs",
+        "salut",
+        "name",
+        "full_name"
+      ]
+    },
+    "Span": {
+      "title": "Span",
+      "type": "object",
+      "properties": {
+        "start": {
+          "title": "Start",
+          "type": "integer"
+        },
+        "end": {
+          "title": "End",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "start",
+        "end"
+      ]
+    },
+    "Post": {
+      "title": "Post",
+      "type": "object",
+      "properties": {
+        "word_idxs": {
+          "title": "Word Idxs",
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        },
+        "page_idx_": {
+          "title": "Page Idx ",
+          "type": "integer"
+        },
+        "words": {
+          "title": "Words",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Word"
+          }
+        },
+        "shape_": {
+          "$ref": "#/definitions/Box"
+        },
+        "post_str": {
+          "title": "Post Str",
+          "type": "string"
+        },
+        "orig_str": {
+          "title": "Orig Str",
+          "type": "string"
+        },
+        "dept_hpath": {
+          "title": "Dept Hpath",
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "role_hpath": {
+          "title": "Role Hpath",
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "juri_hpath": {
+          "title": "Juri Hpath",
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "loca_hpath": {
+          "title": "Loca Hpath",
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "stat_hpath": {
+          "title": "Stat Hpath",
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "dept_spans": {
+          "title": "Dept Spans",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Span"
+          }
+        },
+        "role_spans": {
+          "title": "Role Spans",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Span"
+          }
+        },
+        "juri_spans": {
+          "title": "Juri Spans",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Span"
+          }
+        },
+        "loca_spans": {
+          "title": "Loca Spans",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Span"
+          }
+        },
+        "stat_spans": {
+          "title": "Stat Spans",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Span"
+          }
+        },
+        "post_id": {
+          "title": "Post Id",
+          "default": "",
+          "type": "string"
+        },
+        "post_idx": {
+          "title": "Post Idx",
+          "default": -1,
+          "type": "integer"
+        },
+        "has_issues": {
+          "title": "Has Issues",
+          "default": false,
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "word_idxs",
+        "post_str"
+      ]
+    },
+    "OrderDetail": {
+      "title": "OrderDetail",
+      "type": "object",
+      "properties": {
+        "word_idxs": {
+          "title": "Word Idxs",
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        },
+        "page_idx_": {
+          "title": "Page Idx ",
+          "type": "integer"
+        },
+        "words": {
+          "title": "Words",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Word"
+          }
+        },
+        "shape_": {
+          "$ref": "#/definitions/Box"
+        },
+        "officer": {
+          "$ref": "#/definitions/Officer"
+        },
+        "continues": {
+          "title": "Continues",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Post"
+          }
+        },
+        "relinquishes": {
+          "title": "Relinquishes",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Post"
+          }
+        },
+        "assumes": {
+          "title": "Assumes",
+          "default": [],
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Post"
+          }
+        },
+        "detail_idx": {
+          "title": "Detail Idx",
+          "type": "integer"
+        },
+        "detail_page_idx": {
+          "title": "Detail Page Idx",
+          "type": "integer"
+        },
+        "promoted_from": {
+          "$ref": "#/definitions/Post"
+        },
+        "promoted_to": {
+          "$ref": "#/definitions/Post"
+        },
+        "is_valid": {
+          "title": "Is Valid",
+          "default": true,
+          "type": "boolean"
+        },
+        "path": {
+          "title": "Path",
+          "default": "",
+          "type": "string"
+        }
+      },
+      "required": [
+        "word_idxs",
+        "officer",
+        "detail_idx"
+      ]
+    }
+  }
+}

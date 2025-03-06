@@ -1,0 +1,11 @@
+description: This folder(task) builds tenures from orders and also the reporting hierarchy from posts(roles).
+
+pipeline:
+  - name: tenure_builder
+    config:
+      conf_stub: 'tenure_builder'
+
+  - name: tenure_writer
+    config:
+      cadre_file_dict: {'goi_minister': 'conf/wiki_officerID.yml'}
+      post_id_fields: ['dept', 'role']

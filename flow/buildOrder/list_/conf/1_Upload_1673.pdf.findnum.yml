@@ -1,0 +1,7 @@
+# 	MISMATCH P: 0 A: 11 E: 10 W: 358 F: 0 R:True
+
+edits:
+  - replaceStr pa0.wo315 <all> x
+  - clearWord pa0.wo3
+
+  - replaceStr pa0.wo14 <all> 30th

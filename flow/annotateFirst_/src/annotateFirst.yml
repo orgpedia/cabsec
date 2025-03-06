@@ -1,0 +1,17 @@
+description: This folder(task) runs layoutLMv2 model and marks different areas on the document.
+
+docker_pipes: [ infer_layoutlmv2 ]
+docker_dir: /import/docker/
+docker_config:
+  pre_install_lines: ['RUN pip install transformers[torch]']
+  post_intall_lines: ['ENV PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION python']
+  do_dry_run: True
+  delete_container_dir: False
+
+pipeline:
+  - name: infer_layoutlmv2
+    config:
+      #infer_model_name: orgpedia:cabsec-layoutlmv2
+      infer_model_name: huggingface:orgpedia-foundation/cabsec-layoutlmv2
+      model_dir: /import/models/
+      batch_size: 10

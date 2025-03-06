@@ -1,0 +1,71 @@
+# 	MISMATCH P: 1 A: 20 E: 2 W: 108 F: 1 R:False
+# 	MISMATCH P: 1 A: 3 E: 21 W: 110 F: 19 R:False
+# 	MISMATCH P: 1 A: 5 E: 4 W: 115 F: 1 R:False
+# 	MISMATCH P: 1 A: 8 E: 6 W: 170 F: 2 R:False
+# 	MISMATCH P: 1 A: 13 E: 11 W: 241 F: 4 R:False
+# 	MISMATCH P: 2 A: 7 E: 17 W: 61 F: 16 R:False
+# 	MISMATCH P: 2 A: 36 E: 8 W: 65 F: 6 R:False
+# 	MISMATCH P: 2 A: 5 E: 37 W: 120 F: 34 R:False
+# 	MISMATCH P: 2 A: 6 E: 3 W: 331 F: -4 R:False
+# 	MISMATCH P: 3 A: 19 E: 10 W: 3 F: 8 R:False
+# 	MISMATCH P: 3 A: 13 E: 2 W: 11 F: -2 R:False
+# 	MISMATCH P: 3 A: 15 E: 14 W: 190 F: 9 R:False
+# 	MISMATCH P: 3 A: 3 E: 2 W: 309 F: -5 R:False
+# 	MISMATCH P: 4 A: 15 E: 7 W: 110 F: 4 R:False
+# 	MISMATCH P: 4 A: 9 E: 16 W: 118 F: 12 R:False
+
+edits:
+  - replaceStr pa1.wo108 <all> 2
+  - replaceStr pa1.wo114 <all> 4
+  - replaceStr pa1.wo136 <all> 6
+  - replaceStr pa1.wo153 <all> 7
+  - replaceStr pa1.wo219 <all> 11
+  - replaceStr pa1.wo236 <all> 12
+  - clearWords pa1.wo217 pa1.wo136 pa1.wo138 pa1.wo217 pa1.wo218
+  - replaceStr pa1.wo128 <all> 'Mantri)'
+
+  - newWord '        ' pa1.wo271 pa1.wo268
+  - newWord '        ' pa1.wo272 pa1.wo268
+  - newWord '        ' pa1.wo273 pa1.wo268
+  - newWord '        ' pa1.wo280 pa1.wo277
+
+  - replaceStr pa2.wo5 <all> 15
+  - replaceStr pa2.wo35 <all> 17
+
+  - newWord 1 pa2.wo61 pa2.wo57
+  - replaceStr pa2.wo61 <all> 2
+  - replaceStr pa2.wo65 <all> 3
+  - newWord 4 pa2.wo61 pa2.wo116
+  - newWord 7 pa2.wo127 pa2.wo151
+
+  - replaceStr pa2.wo219 <all> 3
+  - replaceStr pa2.wo227 <all> 4
+  - newWord 5 pa2.wo215 pa2.wo231
+
+  - clearWords pa2.wo237 pa2.wo241
+  - mergeWords pa2.wo239 pa2.wo240
+
+  - replaceStr pa3.wo96 <all> 10
+  - replaceStr pa3.wo5 <all> 11
+  - newWord 12 pa3.wo190 pa3.wo131
+  - replaceStr pa3.wo305 <all> 14
+  - newWord 9 pa3.wo19 pa3.wo70
+
+  - replaceStr pa3.wo211 <all> 16
+  - clearWords pa3.wo306 pa3.wo307 pa3.wo308 pa3.wo4 pa3.wo3 pa3.wo97
+
+  - replaceStr pa3.wo308 <all> 2
+
+  - replaceStr pa4.wo110 <all> 7
+  - replaceStr pa4.wo114 <all> 8
+  - clearWords pa4.wo173 pa4.wo12
+  - clearWords pa4.wo187 pa4.wo9
+
+  - replaceStr pa5.wo5 <all> 17
+  - replaceStr pa5.wo30 <all> 18
+  - clearWords pa5.wo54 pa5.wo55
+  - splitWord pa5.wo76 '20.'
+
+
+  - clearWord pa0.wo39
+  - replaceStr pa0.wo40 <all> ' 24 March'

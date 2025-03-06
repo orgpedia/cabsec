@@ -1,0 +1,11 @@
+edits:
+  - newWord 1 pa1.wo0 pa1.wo14
+  - newWord 2 pa1.wo0 pa1.wo20
+  - newWord 2 pa1.wo0 pa1.wo45
+
+  - mergeWords pa1.wo36 pa1.wo37 pa1.wo38
+  - mergeWords pa1.wo48 pa1.wo49
+  - mergeWords pa1.wo61 pa1.wo62
+  - mergeWords pa1.wo74 pa1.wo75
+
+  - mergeWords pa1.wo29 pa1.wo30

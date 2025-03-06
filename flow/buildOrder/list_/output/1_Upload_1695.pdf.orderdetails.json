@@ -1,0 +1,6 @@
+{"date": "2001-11-02", "details": [
+{"detail_idx": 0, "officer_id": "Q7504173", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": [["Ministry of Shipping", "Minister of State"]]},
+{"detail_idx": 1, "officer_id": "Q5935445", "continues": [], "relinquishes": [["Ministry of Shipping", "Minister of State"]], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q2997305", "continues": [["Ministry of Micro Small and Medium Enterprises", "Minister of State (Independent Charge)"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State"], ["Department of Atomic Energy", "Minister of State"], ["Department of Space", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Planning", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q7929142", "continues": [["Prime Ministers Office", "Minister of State"]], "relinquishes": [["Ministry of Planning", "Minister of State"]], "assumes": []}
+]}

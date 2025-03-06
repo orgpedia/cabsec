@@ -1,0 +1,8 @@
+min_marker: 1
+edits:
+  - clearWord pa0.wo52
+  - replaceStr pa0.wo54 <all> i
+
+  - mergeWords pa0.wo57 pa0.wo58
+  - mergeWords pa0.wo109 pa0.wo110 pa0.wo111
+  - replaceStr pa0.wo109 <all> Planning

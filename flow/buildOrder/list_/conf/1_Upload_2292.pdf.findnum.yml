@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo82 <all> iii
+  - replaceStr pa0.wo83 <all> 'shri veerendra'
+  - clearWord pa0.wo98

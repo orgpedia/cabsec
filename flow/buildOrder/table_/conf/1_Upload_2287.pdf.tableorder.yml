@@ -1,0 +1,5 @@
+edits:
+  - mergeWords pa2.wo21 pa2.wo22 pa2.wo11
+
+ignores:
+  UnmatchedTextsError: [pa0.ta0.ro0.ce2 ]

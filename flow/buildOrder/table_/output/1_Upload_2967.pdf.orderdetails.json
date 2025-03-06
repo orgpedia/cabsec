@@ -1,0 +1,8 @@
+{"date": "1954-12-07", "details": [
+{"detail_idx": 0, "officer_id": "Q7660367", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q5657239", "continues": [], "relinquishes": [], "assumes": [["Ministry of Law and Justice", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q17285530", "continues": [], "relinquishes": [], "assumes": [["Ministry of Natural Resources", "Cabinet Minister"], ["Ministry of Scientific Research", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q51079062", "continues": [], "relinquishes": [], "assumes": [["Ministry of Revenue and Civil Expenditure", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q21607987", "continues": [], "relinquishes": [], "assumes": [["Ministry of Revenue and Defence Expenditure", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q15983116", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rehabilitation", "Cabinet Minister"]]}
+]}

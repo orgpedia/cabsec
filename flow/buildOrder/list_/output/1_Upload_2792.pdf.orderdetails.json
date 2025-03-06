@@ -1,0 +1,7 @@
+{"date": "1972-07-22", "details": [
+{"detail_idx": 0, "officer_id": "Q16007995", "continues": [], "relinquishes": [["Ministry of Industry", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6389169", "continues": [], "relinquishes": [["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q982295", "continues": [], "relinquishes": [["Ministry of Planning", "Cabinet Minister"]], "assumes": [["Ministry of Industry", "Cabinet Minister"], ["Department of Science and Technology", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q248484", "continues": [], "relinquishes": [["Ministry of Works and Housing", "Minister of State"]], "assumes": [["Ministry of Information and Broadcasting", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q1896702", "continues": [], "relinquishes": [["Ministry of Agriculture", "Deputy Minister"]], "assumes": [["Ministry of Communications", "Deputy Minister"]]}
+]}

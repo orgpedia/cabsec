@@ -1,0 +1,12 @@
+# 	MISMATCH P: 0 A: 6 E: 5 W: 263 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo190 <all> v
+  - mergeWords pa0.wo298 pa0.wo299
+  - replaceStr pa0.wo298 <all> Rehabilitation
+  - replaceStr pa0.wo300 <all> '(Shram'
+
+  - replaceStr pa0.wo313 <all> labour
+  - replaceStr pa0.wo314 <all> '(Shram'
+  - replaceStr pa0.wo315 <all> 'Mantri).'
+  - replaceStr pa1.wo149 <all> xi

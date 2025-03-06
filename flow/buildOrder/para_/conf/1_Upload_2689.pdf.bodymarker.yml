@@ -1,0 +1,7 @@
+edits:
+  - mergeWords pa0.wo50  pa0.wo51
+  - replaceStr pa0.wo52 <all> Dharia
+  - replaceStr pa0.wo53 <all> relinquish
+
+  - newWord '     ' pa0.wo77 pa0.wo65
+  - replaceStr pa0.wo49 <all> Shri

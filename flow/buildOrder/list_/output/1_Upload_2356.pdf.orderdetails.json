@@ -1,0 +1,6 @@
+{"date": "1984-07-19", "details": [
+{"detail_idx": 0, "officer_id": "Q1149", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7238171", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Planning", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q275146", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q5607249", "continues": [], "relinquishes": [["Ministry of Planning", "Cabinet Minister"]], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]}
+]}

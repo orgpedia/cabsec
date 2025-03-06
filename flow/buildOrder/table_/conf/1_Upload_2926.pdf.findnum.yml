@@ -1,0 +1,14 @@
+# 	MISMATCH P: 3 A: 47 E: 17 W: 58 F: 13 R:False
+# 	MISMATCH P: 3 A: 18 E: 48 W: 71 F: 43 R:False
+
+edits:
+  - replaceStr pa3.wo58 <all> 17
+
+  - mergeWords pa2.wo189 pa2.wo190
+  - mergeWords pa2.wo107 pa2.wo108
+
+  - mergeWords pa3.wo98 pa3.wo99
+
+  - mergeWords pa3.wo62 pa3.wo63
+  - mergeWords pa3.wo131 pa3.wo132
+  - mergeWords pa3.wo44 pa3.wo45

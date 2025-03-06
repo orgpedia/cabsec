@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 5 E: 4 W: 115 F: 2 R:False
+# 	MISMATCH P: 0 A: 9 E: 8 W: 187 F: 3 R:False
+# 	MISMATCH P: 0 A: 13 E: 11 W: 272 F: 4 R:False
+
+edits:
+  - clearChar pa0.wo44 '/'
+  - clearChar pa0.wo97 '/'
+  - clearChar pa0.wo170 V
+
+  - clearWord pa0.wo252
+  - clearWord pa0.wo253
+  - clearWord pa0.wo254
+
+  - newWord 11 pa0.wo255 pa0.wo235
+  - newWord 17 pa1.wo53 pa1.wo38
+  - clearChar pa1.wo53 '/'
+  - clearWord pa1.wo110
+
+  - replaceStr pa1.wo2 <all> 15

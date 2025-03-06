@@ -1,0 +1,5 @@
+{"date": "1985-01-14", "details": [
+{"detail_idx": 0, "officer_id": "Q275146", "continues": [["Ministry of Defence", "Cabinet Minister"], ["Ministry of Planning", "Cabinet Minister"]], "relinquishes": [["Ministry of Planning", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q315338", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7918212", "continues": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Industry", "Cabinet Minister"], ["Ministry of Corporate Affairs", "Cabinet Minister"]]}
+]}

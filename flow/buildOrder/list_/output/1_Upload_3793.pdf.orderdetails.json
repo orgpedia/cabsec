@@ -1,0 +1,9 @@
+{"date": "2023-12-07", "details": [
+{"detail_idx": 0, "officer_id": "Q6965799", "continues": [], "relinquishes": [["Ministry of Agriculture", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3520052", "continues": [["Ministry of Tribal Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7237724", "continues": [], "relinquishes": [["Ministry of Jal Shakti", "Minister of State"], ["Ministry of Food Processing Industries", "Minister of State"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q7499789", "continues": [["Ministry of Agriculture", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Food Processing Industries", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q7285934", "continues": [["Ministry of Skill Development and Entrepreneurship", "Minister of State"], ["Ministry of Information Technology", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Jal Shakti", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q16885696", "continues": [], "relinquishes": [["Ministry of Tribal Affairs", "Minister of State"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q63998496", "continues": [["Ministry of Health and Family Welfare", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Tribal Affairs", "Minister of State"]]}
+]}

@@ -1,0 +1,14 @@
+# 	MISMATCH P: 2 A: 12 E: 11 W: 164 F: 1 R:False
+# 	MISMATCH P: 2 A: 19 E: 18 W: 241 F: 2 R:False
+# 	MISMATCH P: 3 A: 3 E: 2 W: 35 F: 1 R:False
+# 	MISMATCH P: 3 A: 5 E: 4 W: 80 F: 2 R:False
+# 	MISMATCH P: 3 A: 8 E: 7 W: 127 F: 3 R:False
+
+edits:
+  - clearWord pa2.wo155
+  - clearWord pa2.wo230
+  - newWord 2 pa3.wo35 pa3.wo31
+  - newWord 4 pa3.wo80 pa3.wo54
+  - newWord 7 pa3.wo127 pa3.wo111
+
+  - replaceStr pa0.wo19 <all> August

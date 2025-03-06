@@ -1,0 +1,26 @@
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 34, 35, 36]
+
+      continues:
+        - idxs: [ 37, 38, 39, 45, 40, 46]
+
+      assumes:
+        - idxs: [ 54, 55, 56, 64, 65, 66, 67 ]
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 34, 35, 36]
+
+      continues:
+        - idxs: [ 37, 38, 39, 45, 40, 46]
+
+      assumes:
+        - idxs: [ 54, 55, 56, 64, 65, 66, 67 ]

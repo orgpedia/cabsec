@@ -1,0 +1,12 @@
+{"date": "1983-02-14", "details": [
+{"detail_idx": 0, "officer_id": "Q16012160", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q4901829", "continues": [], "relinquishes": [["Ministry of Civil Supplies", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q315338", "continues": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Commerce", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q17180608", "continues": [["Ministry of Communications", "Minister of State"], ["Ministry of Communications", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q4900694", "continues": [], "relinquishes": [["Ministry of Civil Aviation", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Food", "Minister of State (Independent Charge)"], ["Ministry of Civil Supplies", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 5, "officer_id": "Q6403123", "continues": [["Ministry of Tourism", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": [["Ministry of Civil Aviation and Tourism", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 6, "officer_id": "Q5628338", "continues": [["Ministry of Works and Housing", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [["Ministry of Works and Housing", "Minister of State"]], "assumes": [["Ministry of Information and Broadcasting", "Minister of State (Independent Charge)"], ["Ministry of Parliamentary Affairs", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q6951677", "continues": [], "relinquishes": [["Ministry of Information and Broadcasting", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Steel and Mines", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 8, "officer_id": "Q6323911", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"], ["Ministry of Steel and Mines", "Minister of State"]], "assumes": [["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q6893382", "continues": [], "relinquishes": [["Ministry of Civil Supplies", "Deputy Minister"]], "assumes": [["Ministry of Works and Housing", "Deputy Minister"]]}
+]}

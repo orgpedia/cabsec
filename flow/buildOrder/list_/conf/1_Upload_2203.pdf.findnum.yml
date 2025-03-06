@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 11 E: 2 W: 53 F: 0 R:False
+
+edits:
+  - clearWord pa0.wo41
+  - clearWord pa0.wo28
+
+  - replaceStr pa0.wo29 <all> 22nd
+
+  - replaceStr pa0.wo42 <all> i
+  - replaceStr pa0.wo53 <all> ii
+  - replaceStr pa0.wo66 <all> iii
+  - replaceStr pa0.wo301 <all> xii
+  - replaceStr pa0.wo341 <all> xiii
+
+  - replaceStr pa1.wo2  <all> xiv
+  - replaceStr pa1.wo375 <all> xxiii
+  - replaceStr pa1.wo415 <all> xxiv
+
+  - replaceStr pa2.wo35 <all> xxvi

@@ -1,0 +1,9 @@
+{"date": "2012-09-22", "details": [
+{"detail_idx": 0, "officer_id": "Q3346285", "continues": [], "relinquishes": [["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q5006743", "continues": [["Ministry of Road Transport and Highways", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Railways", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7427196", "continues": [], "relinquishes": [["Ministry of Urban Development", "Minister of State"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q7530834", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q7636617", "continues": [], "relinquishes": [["Ministry of Tourism", "Minister of State"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q5105446", "continues": [], "relinquishes": [["Ministry of Information and Broadcasting", "Minister of State"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q7633839", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": []}
+]}

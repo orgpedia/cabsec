@@ -1,0 +1,37 @@
+# 	MISMATCH P: 2 A: 4 E: 3 W: 240 F: -17 R:False
+
+edits:
+  - replaceStr pa2.wo224 <all> 3
+
+  - mergeWords pa3.wo160 pa3.wo161
+  - mergeWords pa3.wo239 pa3.wo240
+  - mergeWords pa3.wo281 pa3.wo282
+  - mergeWords pa3.wo128 pa3.wo129
+  - mergeWords pa3.wo225 pa3.wo226
+  - mergeWords pa3.wo188 pa3.wo189
+  - mergeWords pa3.wo147 pa3.wo148
+  - mergeWords pa3.wo178 pa3.wo179
+
+  - mergeWords pa4.wo18 pa4.wo19
+  - mergeWords pa4.wo76 pa4.wo77
+
+  - replaceStr pa3.wo215 1 i
+
+  - replaceStr pa2.wo167 <all> Scientific
+  - replaceStr pa2.wo171 <all> Affairs
+
+  - mergeWords pa3.wo14 pa3.wo15 pa3.wo16
+  - replaceStr pa3.wo14 <all> Cooperation
+
+  - clearWords pa3.wo13
+
+  - mergeWords pa2.wo78 pa2.wo79
+
+  - mergeWords pa3.wo135 pa3.wo136
+  - replaceStr pa3.wo135 <all> Scientific
+
+  - replaceStr pa3.wo244 <all> Ministry
+  - replaceStr pa3.wo289 <all> '&'
+
+  - mergeWords pa3.wo260 pa3.wo261
+  - mergeWords pa3.wo304 pa3.wo305

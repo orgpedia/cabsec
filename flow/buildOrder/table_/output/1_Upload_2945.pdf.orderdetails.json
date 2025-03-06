@@ -1,0 +1,21 @@
+{"date": "1952-05-13", "details": [
+{"detail_idx": 0, "officer_id": "Q1047", "continues": [["Ministry of External Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q196617", "continues": [["Ministry of Education", "Cabinet Minister"], ["Ministry of Natural Resources", "Cabinet Minister"], ["Ministry of Scientific Research", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q6036811", "continues": [["Ministry of Defence", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q431601", "continues": [["Ministry of Health", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q6347919", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7282619", "continues": [["Ministry of Agriculture", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q3763779", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q1471625", "continues": [["Ministry of Communications", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q317769", "continues": [["Ministry of Planning", "Cabinet Minister"], ["Ministry of River Valley Schemes", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 9, "officer_id": "Q3532094", "continues": [["Ministry of Commerce and Industry", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q17421336", "continues": [["Ministry of Law and Justice", "Cabinet Minister"], ["Ministry of Minority Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 11, "officer_id": "Q244689", "continues": [["Ministry of Railways", "Cabinet Minister"], ["Ministry of Transport", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 12, "officer_id": "Q1034290", "continues": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 13, "officer_id": "Q312557", "continues": [["Ministry of Labour", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 14, "officer_id": "Q6323235", "continues": [["Production", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 15, "officer_id": "Q4699796", "continues": [["Ministry of Rehabilitation", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 16, "officer_id": "Q17388761", "continues": [["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 17, "officer_id": "Q6733578", "continues": [["Ministry of Finance", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 18, "officer_id": "Q18385307", "continues": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

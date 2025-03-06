@@ -1,0 +1,11 @@
+{"date": "2006-10-24", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"], ["Ministry of Labour", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q57446", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q278849", "continues": [], "relinquishes": [], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3519803", "continues": [["Ministry of Panchayati Raj", "Cabinet Minister"], ["Ministry of Youth Affairs and Sports", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Development of North Eastern Region", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q7148799", "continues": [], "relinquishes": [["Ministry of Development of North Eastern Region", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q1453956", "continues": [["Ministry without portfolio", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": [["Ministry of Labour", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 6, "officer_id": "Q5071308", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State"]], "assumes": [["Ministry of Rural Development", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q6167051", "continues": [], "relinquishes": [], "assumes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q2721714", "continues": [], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Minister of State"]]}
+]}

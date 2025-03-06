@@ -1,0 +1,4 @@
+edits:
+  - mergeWords pa0.wo34 pa0.wo35
+  - replaceStr pa0.wo34 <all> effect
+  - replaceStr pa0.wo60 <all> Department

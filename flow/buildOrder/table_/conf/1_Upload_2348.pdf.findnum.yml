@@ -1,0 +1,14 @@
+# 	MISMATCH P: 2 A: 9 E: 8 W: 144 F: 1 R:False
+
+edits:
+  - replaceStr pa2.wo126 <all> 8
+  - replaceStr pa4.wo8 <all> Deputy
+  - replaceStr pa4.wo105 <all> Deputy
+  - replaceStr pa4.wo151 <all> Deputy
+
+
+
+  - replaceStr pa1.wo10 <all> MEMBERS
+  - replaceStr pa1.wo12 <all> THE
+  - mergeWords pa1.wo13 pa1.wo14
+  - replaceStr pa1.wo13 <all> CABINET

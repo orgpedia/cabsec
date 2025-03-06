@@ -1,0 +1,10 @@
+edits:
+  - clearWord pa2.wo0
+  - mergeWords pa3.wo103 pa3.wo104
+  - mergeWords pa3.wo119 pa3.wo120
+  - mergeWords pa3.wo164 pa3.wo165
+  - mergeWords pa3.wo177 pa3.wo178
+  - mergeWords pa3.wo190 pa3.wo191
+
+  - replaceStr pa0.wo24 <all> 10
+  - replaceStr pa0.wo25 <all> 'August 1981'

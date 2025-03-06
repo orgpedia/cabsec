@@ -1,0 +1,14 @@
+# 	MISMATCH P: 1 A: 8 E: 18 W: 19 F: 16 R:False
+# 	MISMATCH P: 1 A: 10 E: 9 W: 28 F: 6 R:False
+# 	MISMATCH P: 1 A: 20 E: 11 W: 37 F: 7 R:False
+
+edits:
+
+  - replaceStr pa1.wo19 <all> 18
+  - replaceStr pa1.wo28 <all> 19
+
+  - replaceStr pa0.wo56 <all> Processing
+  - replaceStr pa0.wo60 <all> 'Non'
+
+  - replaceStr pa2.wo165 <all> '(Banking'
+  - clearWords pa1.wo216 pa0.wo61

@@ -1,0 +1,10 @@
+{"date": "1963-11-21", "details": [
+{"detail_idx": 0, "officer_id": "Q982295", "continues": [], "relinquishes": [["Ministry of Steel", "Cabinet Minister"], ["Ministry of Heavy Industry", "Cabinet Minister"]], "assumes": [["Ministry of Steel", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"], ["Ministry of Heavy Engineering", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q5939753", "continues": [], "relinquishes": [["Ministry of Scientific Research and Cultural Affairs", "Cabinet Minister"], ["Ministry of Education", "Cabinet Minister"]], "assumes": [["Ministry of Petroleum", "Cabinet Minister"], ["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3634250", "continues": [], "relinquishes": [], "assumes": [["Ministry of Education", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3530663", "continues": [], "relinquishes": [["Ministry of Mines and Fuel", "Minister of State"]], "assumes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q99390358", "continues": [], "relinquishes": [["Ministry of Agriculture", "Deputy Minister"]], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q17388586", "continues": [], "relinquishes": [["Ministry of Scientific Research and Cultural Affairs", "Deputy Minister"]], "assumes": [["Ministry of Education", "Deputy Minister"]]},
+{"detail_idx": 6, "officer_id": "Q7238171", "continues": [], "relinquishes": [["Ministry of Steel and Heavy Engineering", "Deputy Minister"]], "assumes": [["Ministry of Steel", "Deputy Minister"], ["Ministry of Mines", "Deputy Minister"], ["Ministry of Heavy Engineering", "Deputy Minister"]]},
+{"detail_idx": 7, "officer_id": "Q4900846", "continues": [], "relinquishes": [], "assumes": [["Ministry of Education", "Deputy Minister"]]}
+]}

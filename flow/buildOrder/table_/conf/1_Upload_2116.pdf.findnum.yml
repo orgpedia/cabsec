@@ -1,0 +1,21 @@
+# 	MISMATCH P: 4 A: 38 E: 37 W: 165 F: 28 R:False
+
+edits:
+  - clearChar pa4.wo154 -
+
+  - replaceStr pa2.wo61 <all> Devi
+  - replaceStr pa2.wo64 <all> Deputy
+
+  - replaceStr pa4.wo170 <all> Deputy
+  - newWord Shri  pa3.wo150 pa3.wo138
+  - newWord Chimanbhai pa3.wo151 pa3.wo138
+  - newWord Mehta pa3.wo153 pa3.wo138
+
+  - replaceStr pa3.wo39 <all> (INDEPENDENT
+
+  - replaceStr pa4.wo191 <all> Deputy
+
+  - replaceStr pa4.wo199 <all> 40
+  - newWord Smt pa4.wo188 pa4.wo199
+  - newWord Usha pa4.wo189 pa4.wo199
+  - newWord Singh pa4.wo190 pa4.wo199

@@ -1,0 +1,10 @@
+{"date": "1997-05-01", "details": [
+{"detail_idx": 0, "officer_id": "Q248484", "continues": [["Department of Atomic Energy", "Minister of State (Independent Charge)"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State (Independent Charge)"], ["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"], ["Ministry of Electronics", "Minister of State (Independent Charge)"], ["Ministry of External Affairs", "Minister of State (Independent Charge)"], ["Ministry of Jammu Kashmir Affairs", "Minister of State (Independent Charge)"], ["Ministry of Earth Sciences", "Minister of State (Independent Charge)"], ["Ministry of Petroleum and Natural Gas", "Minister of State (Independent Charge)"], ["Ministry of Power", "Minister of State (Independent Charge)"], ["Department of Space", "Minister of State (Independent Charge)"]], "relinquishes": [["Ministry of Finance", "Minister of State (Independent Charge)"], ["Ministry of Labour", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q5006683", "continues": [], "relinquishes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q377358", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3524472", "continues": [], "relinquishes": [], "assumes": [["Ministry of Labour", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q3595150", "continues": [], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q7273581", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q87718211", "continues": [], "relinquishes": [], "assumes": [["Ministry of Home Affairs", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q24851561", "continues": [], "relinquishes": [], "assumes": [["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]]}
+]}

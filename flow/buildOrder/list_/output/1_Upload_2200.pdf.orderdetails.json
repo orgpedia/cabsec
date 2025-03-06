@@ -1,0 +1,7 @@
+{"date": "1986-06-24", "details": [
+{"detail_idx": 0, "officer_id": "Q6894504", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]], "assumes": [["Ministry of Transport", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q275146", "continues": [["Ministry of Human Resource Development", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3520007", "continues": [["Ministry of Industry", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Petroleum and Natural Gas", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q377358", "continues": [["Ministry of Personnel Public Grievances and Pensions", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Home Affairs", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q17318870", "continues": [["Ministry of Energy", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Petroleum and Natural Gas", "Minister of State"]]}
+]}

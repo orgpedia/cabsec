@@ -1,0 +1,13 @@
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 31, 32, 33]
+
+      continues:
+        - idxs: [ 34, 35, 36 ]
+
+      assumes:
+        - idxs: [ 66, 67, 68, 69, 70 ]

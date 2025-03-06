@@ -1,0 +1,8 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 122 F: 1 R:True
+
+edits:
+  - clearWords pa0.wo229
+  - replaceStr pa0.wo101 <all> '(Audyogik'
+
+  - replaceStr pa0.wo11 <all> 'Up-Mantri)'
+  - clearWords pa0.wo105 pa0.wo104

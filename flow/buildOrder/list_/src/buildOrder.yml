@@ -1,0 +1,49 @@
+description: This folder(task) handles documents with lists, finds numbers and lines and then lists. It runs ner on lists.
+
+pipeline:
+  - name: num_marker
+    config:
+      conf_stub: 'findnum'
+      x_range: [0, 0.45]
+      max_number: 64
+      min_marker: 1
+
+  - name: rotation_detector
+    config:
+      min_num_markers: 2
+
+  - name: line_finder
+    config:
+      conf_stub: linefinder
+
+  - name: list_finder2
+    config:
+      find_roman: True
+
+  - name: para_fixer
+    config:
+      dict_file: conf/dict.3.txt
+      conf_stub: 'wordfix'
+
+  - name: post_parser_onsentence
+    config:
+      ignore_labels: ["ignore", "person", "puncts"]
+
+  - name: order_builder
+    config:
+      conf_stub: orderbuilder
+
+  - name: order_tagger
+    config:
+      conf_stub: ordertagger
+
+  - name: id_assigner_vocab
+    config:
+      conf_stub: 'id_assigner'
+      cadre_file_dict: {'goi_minister': 'conf/wiki_officerID.yml'}
+      post_id_fields: ['dept']
+      tenure_name_file: 'ministries.yml'
+
+  - name: details_differ
+    config:
+      mode: "diff"

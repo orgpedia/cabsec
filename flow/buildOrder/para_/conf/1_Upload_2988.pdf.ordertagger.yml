@@ -1,0 +1,14 @@
+edits:
+  - mergeWords pa0.wo27 pa0.wo28
+
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 24, 25, 26]
+
+      relinquishes:
+        - idxs: [27, 29, 30]

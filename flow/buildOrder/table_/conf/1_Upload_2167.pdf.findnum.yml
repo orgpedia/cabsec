@@ -1,0 +1,71 @@
+# 	MISMATCH P: 0 A: 7 E: 3 W: 100 F: 1 R:False
+# 	MISMATCH P: 0 A: 9 E: 8 W: 114 F: 5 R:False
+# 	MISMATCH P: 0 A: 14 E: 10 W: 158 F: 6 R:False
+# 	MISMATCH P: 0 A: 18 E: 15 W: 198 F: 10 R:False
+# 	MISMATCH P: 1 A: 3 E: 2 W: 43 F: 1 R:False
+# 	MISMATCH P: 1 A: 7 E: 5 W: 115 F: 2 R:False
+# 	MISMATCH P: 1 A: 3 E: 2 W: 218 F: -6 R:False
+# 	MISMATCH P: 2 A: 8 E: 18 W: 70 F: 17 R:False
+# 	MISMATCH P: 2 A: 15 E: 11 W: 187 F: 7 R:False
+# 	MISMATCH P: 3 A: 25 E: 24 W: 108 F: 23 R:False
+# 	MISMATCH P: 3 A: 28 E: 26 W: 167 F: 24 R:False
+# 	MISMATCH P: 3 A: 9 E: 29 W: 188 F: 26 R:False
+# 	MISMATCH P: 3 A: 50 E: 10 W: 207 F: 6 R:False
+
+edits:
+  - newWord 3 pa0.wo62 pa0.wo71
+  - replaceStr pa0.wo77 <all> 4
+  - newWord 5 pa0.wo62 pa0.wo85
+  - newWord 6 pa0.wo62 pa0.wo94
+  - newWord 8 pa0.wo62 pa0.wo108
+  - replaceStr pa0.wo122 <all> 10
+  - replaceStr pa0.wo130 <all> 11
+  - replaceStr pa0.wo142 <all> 12
+  - replaceStr pa0.wo149 <all> 13
+  - replaceStr pa0.wo172 <all> 15
+  - replaceStr pa0.wo182 <all> 16
+  - replaceStr pa0.wo190 <all> 17
+
+  - newWord 2 pa1.wo43 pa1.wo32
+  - newWord 5 pa1.wo43 pa1.wo88
+  - newWord 6 pa1.wo43 pa1.wo99
+  - newWord 2 pa1.wo43 pa1.wo200
+
+  - replaceStr pa1.wo156 <all> 10
+  - replaceStr pa1.wo175 <all> MINISTER
+  - clearWord pa1.wo174
+
+
+  - replaceStr pa2.wo1 <all> 4
+  - newWord 5 pa2.wo32 pa2.wo19
+  - replaceStr pa2.wo32 <all> 6
+  - replaceStr pa2.wo52 <all> 7
+
+  - newWord 11 pa2.wo32 pa2.wo124
+  - newWord 13 pa2.wo32 pa2.wo154
+
+  - replaceStr pa2.wo140 <all> 12
+  - replaceStr pa2.wo168 <all> 14
+  - replaceStr pa2.wo215 <all> 16
+  - replaceStr pa2.wo234 <all> 17
+  - replaceStr pa2.wo253 <all> 18
+  - replaceStr pa2.wo278 <all> 19
+
+  - replaceStr pa3.wo9 <all> 20
+  - replaceStr pa3.wo45 <all> 21
+  - replaceStr pa3.wo55 <all> 22
+  - replaceStr pa3.wo90 <all> 24
+  - newWord 27 pa3.wo167 pa3.wo139
+  - replaceStr pa3.wo188 <all> 29
+  - replaceStr pa3.wo207 <all> 30
+  - clearWord pa3.wo123
+
+  - replaceStr pa3.wo0 <all> Minister
+  - replaceStr pa3.wo109 <all> Shri
+  - replaceStr pa3.wo111 <all> Krishna
+
+#  - replaceStr pa2.wo187 <all>
+#  - newWord 24 pa3.wo108 pa3.wo108
+#  - replaceStr pa3.wo167 <all>
+#  - replaceStr pa3.wo188 <all>
+#  - replaceStr pa3.wo207 <all>

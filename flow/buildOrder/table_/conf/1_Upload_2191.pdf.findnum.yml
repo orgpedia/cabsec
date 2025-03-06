@@ -1,0 +1,29 @@
+# 	MISMATCH P: 2 A: 10 E: 9 W: 183 F: 1 R:False
+# 	MISMATCH P: 3 A: 2 E: 7 W: 159 F: 0 R:False
+# 	MISMATCH P: 3 A: 4 E: 3 W: 189 F: -5 R:False
+# 	MISMATCH P: 3 A: 6 E: 5 W: 214 F: -4 R:False
+# 	MISMATCH P: 3 A: 17 E: 7 W: 229 F: -3 R:False
+# 	MISMATCH P: 3 A: 8 E: 18 W: 244 F: 7 R:False
+# 	MISMATCH P: 4 A: 10 E: 4 W: 5 F: 3 R:False
+# 	MISMATCH P: 4 A: 18 E: 17 W: 126 F: 9 R:False
+
+edits:
+  - clearWord pa0.wo8
+  - clearWord pa0.wo10
+  - clearWord pa0.wo140
+
+  - newWord 9 pa2.wo183 pa2.wo175
+
+  - clearWord pa3.wo2
+
+  - newWord 1 pa3.wo189 pa3.wo135
+  - newWord 3 pa3.wo189 pa3.wo174
+  - newWord 5 pa3.wo214 pa3.wo202
+  - replaceStr pa3.wo229 <all> 7
+
+  - replaceStr pa4.wo104 <all> 17
+  - clearWord pa4.wo3
+
+  - clearWords pa2.wo162
+  - newWord '     ' pa2.wo173 pa2.wo157
+  - replaceStr pa2.wo23 <all> Prime

@@ -1,0 +1,6 @@
+# 	MISMATCH P: 1 A: 5 E: 3 W: 196 F: -7 R:False
+
+edits:
+  - newWord 3 pa1.wo196 pa1.wo134
+  - newWord 4 pa1.wo196 pa1.wo178
+  - clearWord pa1.wo0

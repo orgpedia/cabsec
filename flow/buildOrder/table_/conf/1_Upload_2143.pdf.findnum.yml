@@ -1,0 +1,9 @@
+edits:
+  - replaceStr pa1.wo123 <all> Minister
+  - replaceStr pa1.wo202 <all> Ministry
+  - replaceStr pa2.wo62 <all> Ministry
+  - replaceStr pa2.wo91 <all> Ministry
+  - replaceStr pa2.wo105 <all> Ministry
+  - replaceStr pa2.wo120 <all> Department
+
+  - replaceStr pa4.wo29 <all> Ministry

@@ -1,0 +1,5 @@
+{"date": "1958-03-29", "details": [
+{"detail_idx": 0, "officer_id": "Q244689", "continues": [], "relinquishes": [["Ministry of Transport", ""], ["Ministry of Communications", ""]], "assumes": [["Ministry of Commerce and Industry", ""]]},
+{"detail_idx": 1, "officer_id": "Q218661", "continues": [], "relinquishes": [["Ministry of Commerce and Industry", ""]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7387584", "continues": [["Ministry of Irrigation", ""], ["Ministry of Power", ""]], "relinquishes": [], "assumes": [["Ministry of Transport", ""], ["Ministry of Communications", ""]]}
+]}

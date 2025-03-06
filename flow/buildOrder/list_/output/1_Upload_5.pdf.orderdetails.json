@@ -1,0 +1,6 @@
+{"date": "2016-07-12", "details": [
+{"detail_idx": 0, "officer_id": "Q1963905", "continues": [], "relinquishes": [["Ministry of Minority Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6933491", "continues": [["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [["Ministry of Minority Affairs", "Minister of State"]], "assumes": [["Ministry of Minority Affairs", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 2, "officer_id": "Q12457057", "continues": [], "relinquishes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q555778", "continues": [], "relinquishes": [["Ministry of Urban Development", "Minister of State"], ["Ministry of Housing and Urban Poverty Alleviation", "Minister of State"]], "assumes": [["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]]}
+]}

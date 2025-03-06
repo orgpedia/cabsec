@@ -1,0 +1,23 @@
+{"date": "1990-04-23", "details": [
+{"detail_idx": 0, "officer_id": "Q315338", "continues": [["Ministry of Defence", "Minister of State (Independent Charge)"], ["Ministry of Personnel Public Grievances and Pensions", "Minister of State (Independent Charge)"], ["Ministry of Science and Technology", "Minister of State (Independent Charge)"], ["Department of Atomic Energy", "Minister of State (Independent Charge)"], ["Ministry of Electronics", "Minister of State (Independent Charge)"], ["Ministry of Earth Sciences", "Minister of State (Independent Charge)"], ["Department of Space", "Cabinet Minister"], ["", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q5092131", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]], "assumes": [["Ministry of Environment and Forests", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q20065204", "continues": [], "relinquishes": [["Ministry of Communications", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q6153095", "continues": [], "relinquishes": [], "assumes": [["Ministry of Communications", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q7294844", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 5, "officer_id": "Q11179743", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q99488052", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q47459980", "continues": [], "relinquishes": [], "assumes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q42330780", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q95538512", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q7631751", "continues": [], "relinquishes": [], "assumes": [["Ministry of Home Affairs", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q7426876", "continues": [], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"], ["Ministry of Tourism", "Minister of State"]]},
+{"detail_idx": 12, "officer_id": "Q2739159", "continues": [], "relinquishes": [["Ministry of Programme Implementation", "Minister of State"]], "assumes": []},
+{"detail_idx": 13, "officer_id": "Q61686029", "continues": [], "relinquishes": [], "assumes": [["Ministry of Planning", "Minister of State"], ["Ministry of Programme Implementation", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q122304", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 15, "officer_id": "Q7586381", "continues": [], "relinquishes": [], "assumes": [["Ministry of Micro Small and Medium Enterprises", "Minister of State"], ["Ministry of Rural Development", "Minister of State"], ["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 16, "officer_id": "Q4699660", "continues": [], "relinquishes": [], "assumes": [["Ministry of Railways", "Deputy Minister"]]},
+{"detail_idx": 17, "officer_id": "Q85979501", "continues": [], "relinquishes": [], "assumes": [["Ministry of Welfare", "Deputy Minister"]]},
+{"detail_idx": 18, "officer_id": "Q4764671", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Deputy Minister"]]},
+{"detail_idx": 19, "officer_id": "Q4900848", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Deputy Minister"]]},
+{"detail_idx": 20, "officer_id": "Q50410280", "continues": [], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Deputy Minister"]]}
+]}

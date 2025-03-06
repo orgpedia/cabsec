@@ -1,0 +1,14 @@
+{"date": "1995-02-10", "details": [
+{"detail_idx": 0, "officer_id": "Q5278104", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q57446", "continues": [], "relinquishes": [["Ministry of Commerce", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q4699805", "continues": [], "relinquishes": [], "assumes": [["Ministry of Food", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7423687", "continues": [], "relinquishes": [], "assumes": [["Ministry of Civil Supplies", "Cabinet Minister"], ["Ministry of Consumer Affairs, Food and Public Distribution", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q1854649", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q2741772", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Labour", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 6, "officer_id": "Q3764490", "continues": [], "relinquishes": [["Ministry of Textiles", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Textiles", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 7, "officer_id": "Q377358", "continues": [], "relinquishes": [], "assumes": [["Ministry of Commerce", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 8, "officer_id": "Q19517937", "continues": [], "relinquishes": [], "assumes": [["Ministry of Parliamentary Affairs", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q7240137", "continues": [["Ministry of Urban Development", "Minister of State"], ["Ministry of Drinking Water and Sanitation", "Minister of State"]], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q7117595", "continues": [], "relinquishes": [["Ministry of Power", "Minister of State"]], "assumes": [["Ministry of Drinking Water and Sanitation", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q44128896", "continues": [], "relinquishes": [], "assumes": [["Ministry of Power", "Minister of State"]]}
+]}

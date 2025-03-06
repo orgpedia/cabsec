@@ -1,0 +1,16 @@
+edits:
+  - clearWord pa0.wo204
+  - replaceStr pa0.wo203 <all> 16
+  - newWord 17 pa0.wo203 pa0.wo213
+
+  - newWord 5 pa1.wo159 pa1.wo212
+
+  - replaceStr pa0.wo206 <all> Shri
+
+  - newWord 31 pa3.wo239 pa3.wo252
+
+
+  - replaceStr pa0.wo209 <all> Minister
+  - replaceStr pa0.wo212 <all> Affairs
+
+  - replaceStr pa0.wo218 <all> of

@@ -1,0 +1,6 @@
+edits:
+  - replaceStr pa0.wo35 <all> i
+
+  - replaceStr pa0.wo39 <all> Singh
+  - replaceStr pa0.wo16 <all> 15th
+  - replaceStr pa0.wo18 <all> 1966

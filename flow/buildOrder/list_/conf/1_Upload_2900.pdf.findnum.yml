@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo35 <all> i
+  - replaceStr pa0.wo65 <all> ii
+  - replaceStr pa0.wo85 <all> iii

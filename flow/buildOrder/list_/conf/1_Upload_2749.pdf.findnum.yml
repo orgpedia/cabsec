@@ -1,0 +1,12 @@
+# 	MISMATCH P: 0 A: 11 E: 5 W: 83 F: 4 R:False
+
+edits:
+  - replaceStr pa0.wo48 <all> i
+  - replaceStr pa0.wo83 <all> ii
+  - replaceStr pa0.wo112 <all> iii
+  - replaceStr pa0.wo137 <all> iv
+
+  - replaceStr pa0.wo26 <all> October
+  - replaceStr pa0.wo54 <all> relinquished
+  - replaceStr pa0.wo155 <all> Chemicals
+  - replaceStr pa0.wo129 <all> External

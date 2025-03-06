@@ -1,0 +1,5 @@
+{"date": "1961-04-05", "details": [
+{"detail_idx": 0, "officer_id": "Q244689", "continues": [], "relinquishes": [["Ministry of Commerce and Industry", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q6323235", "continues": [], "relinquishes": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "assumes": [["Ministry of Commerce and Industry", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q4900304", "continues": [["Ministry of Works and Housing", "Minister of State"], ["Ministry of Supply", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

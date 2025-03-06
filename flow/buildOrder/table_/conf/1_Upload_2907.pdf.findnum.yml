@@ -1,0 +1,47 @@
+# 	MISMATCH P: 3 A: 14 E: 13 W: 45 F: 11 R:False
+# 	MISMATCH P: 3 A: 5 E: 4 W: 124 F: -3 R:False
+# 	MISMATCH P: 3 A: 18 E: 11 W: 243 F: -2 R:False
+# 	MISMATCH P: 3 A: 14 E: 19 W: 247 F: 5 R:False
+
+edits:
+  - replaceStr pa3.wo30 <all> 13
+  - replaceStr pa3.wo112 <all> 4
+  - replaceStr pa3.wo210 <all> 11
+  - replaceStr pa3.wo231 <all> 12
+  - replaceStr pa3.wo243 <all> 13
+  - replaceStr pa3.wo280 <all> 16
+
+  - mergeWords pa3.wo67 pa3.wo68
+  - replaceStr pa3.wo100 <all> Shri
+  - replaceStr pa3.wo197 <all> Maragatham
+  - replaceStr pa3.wo199 <all> drashekhar
+  - replaceStr pa3.wo232 <all> Shri
+  - mergeWords pa3.wo222 pa3.wo223
+
+  - mergeWords pa3.wo214 pa3.wo215
+
+  - clearWords pa2.wo22 pa2.wo23
+
+  - replaceStr pa0.wo14 <all> 20
+  - clearWord pa0.wo15
+
+  - replaceStr pa3.wo13 <all> Railways
+
+  - mergeWords pa3.wo20 pa3.wo21
+  - replaceStr pa3.wo20 <all> Cultural
+
+  - mergeWords pa3.wo27 pa3.wo28 pa3.wo29
+  - replaceStr pa3.wo27 <all> Education
+
+  - replaceStr pa3.wo35 <all> of
+  - replaceStr pa3.wo57 <all> of
+  - replaceStr pa3.wo82 <all> Rehabilitation
+
+  - mergeWords pa3.wo96 pa3.wo97 pa3.wo98
+  - replaceStr pa3.wo96 <all> Agriculture
+
+  - replaceStr pa3.wo129 <all> Deputy
+  - replaceStr pa3.wo136 <all> Development
+
+
+  - mergeWords pa3.wo157 pa3.wo158 pa3.wo159

@@ -1,0 +1,7 @@
+{"date": "2004-01-09", "details": [
+{"detail_idx": 0, "officer_id": "Q233289", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Cabinet Minister"], ["Ministry of New and Renewable Energy", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3595482", "continues": [], "relinquishes": [["Ministry of Coal", "Cabinet Minister"]], "assumes": [["Ministry of New and Renewable Energy", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q465041", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7289378", "continues": [], "relinquishes": [["Ministry of Mines", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Environment and Forests", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 4, "officer_id": "Q7911792", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]}
+]}

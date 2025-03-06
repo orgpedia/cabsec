@@ -1,0 +1,10 @@
+# 	MISMATCH P: 2 A: 2 E: 21 W: 308 F: 1 R:False
+# 	MISMATCH P: 3 A: 2 E: 22 W: 14 F: 21 R:False
+# 	MISMATCH P: 3 A: 23 E: 3 W: 32 F: 1 R:False
+# 	MISMATCH P: 5 A: 13 E: 23 W: 20 F: 22 R:False
+# 	MISMATCH P: 5 A: 24 E: 14 W: 37 F: 12 R:False
+
+edits:
+  - clearWord pa2.wo308
+  - replaceStr pa3.wo14 <all> 22
+  - replaceStr pa5.wo20 <all> 23

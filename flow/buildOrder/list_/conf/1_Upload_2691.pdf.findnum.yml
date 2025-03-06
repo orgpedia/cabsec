@@ -1,0 +1,7 @@
+# 	MISMATCH P: 0 A: 6 E: 4 W: 157 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo95 <all> iii
+  - replaceStr pa0.wo118 <all> iv
+
+  - mergeWords pa0.wo98 pa0.wo99

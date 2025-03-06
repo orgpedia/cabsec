@@ -1,0 +1,6 @@
+newline_height_multiple: 0.5
+edits:
+  - replaceStr pa0.wo30 <all> 1972
+  - newWord '          ' pa0.wo34 pa0.wo0
+  - mergeWords pa0.wo34 pa0.wo35
+  - mergeWords pa0.wo37 pa0.wo38 pa0.wo39

@@ -1,0 +1,10 @@
+edits:
+  - mergeWords pa1.wo122 pa1.wo123
+  - replaceStr pa1.wo16 <all> State
+  - clearWord pa1.wo17
+
+  - replaceStr pa1.wo47 <all> State
+
+  - mergeWords pa1.wo214 pa1.wo215 pa1.wo216
+
+  - replaceStr pa1.wo46 <all> of

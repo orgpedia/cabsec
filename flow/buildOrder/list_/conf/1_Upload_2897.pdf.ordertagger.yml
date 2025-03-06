@@ -1,0 +1,47 @@
+edits:
+  - mergeWords pa0.wo320 pa0.wo321
+
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 5
+      page_idx: 0
+      officer:
+        idxs: [ 128, 129, 130, 131]
+
+      relinquishes:
+        - idxs: [ 136, 137, 138, 139 ]
+
+    - detail_idx: 12 # Gulzarilal Nanda
+      page_idx: 0
+
+      officer:
+        idxs: [ 183, 184, 185 ]
+
+      continues:
+        - idxs: [ 160, 161, 162, 163, 164 ]
+        - idxs: [ 180, 181, 182 ]
+
+      assumes:
+        - idxs: [ 169, 170, 171, 172 ]
+
+    - detail_idx: 6
+      page_idx: 0
+
+      officer:
+        idxs: [ 189, 190, 191 ]
+
+      relinquishes:
+        - idxs: [ 196, 197, 198, 199, 200 ]
+
+    - detail_idx: 13
+      page_idx: 0
+
+      officer:
+        idxs: [ 214, 215, 216 ]
+
+      continues:
+        - idxs: [ 226, 227, 228 ]
+
+      assumes:
+        - idxs: [ 233, 234, 235, 236, 237 ]

@@ -1,0 +1,13 @@
+# 	MISMATCH P: 1 A: 11 E: 10 W: 210 F: 1 R:False
+
+edits:
+  - replaceStr pa1.wo198 <all> 10
+
+  - replaceStr pa2.wo29 <all> Ramach
+  - replaceStr pa2.wo30 <all> andran
+
+  - replaceStr pa2.wo81 <all> MINISTERS
+  - replaceStr pa2.wo82 <all> OF
+
+  - replaceStr pa1.wo14 <all> MEMBERS
+  - replaceStr pa1.wo17 <all> CABINET

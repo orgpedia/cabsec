@@ -1,0 +1,14 @@
+{"date": "2021-07-07", "details": [
+{"detail_idx": 0, "officer_id": "Q1151446", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3630922", "continues": [], "relinquishes": [["Ministry of Law and Justice", "Cabinet Minister"], ["Ministry of Communications", "Cabinet Minister"], ["Ministry of Information Technology", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7711496", "continues": [], "relinquishes": [["Ministry of Social Justice and Empowerment", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q3522405", "continues": [], "relinquishes": [["Ministry of Education", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q14647783", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Cabinet Minister"], ["Ministry of Science and Technology", "Cabinet Minister"], ["Ministry of Earth Sciences", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q7238178", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Cabinet Minister"], ["Ministry of Information and Broadcasting", "Cabinet Minister"], ["Ministry of Heavy Industries and Public Enterprises", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q7420653", "continues": [], "relinquishes": [["Ministry of Labour", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q555778", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Minister of State"]], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q7418477", "continues": [], "relinquishes": [["Ministry of Education", "Minister of State"], ["Ministry of Communications", "Minister of State"], ["Ministry of Information Technology", "Minister of State"]], "assumes": []},
+{"detail_idx": 9, "officer_id": "Q16149149", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Minister of State"], ["Ministry of Social Justice and Empowerment", "Minister of State"]], "assumes": []},
+{"detail_idx": 10, "officer_id": "Q16938944", "continues": [], "relinquishes": [["Ministry of Micro Small and Medium Enterprises", "Minister of State"], ["Ministry of Fisheries, Animal Husbandary and Dairying", "Minister of State"]], "assumes": []},
+{"detail_idx": 11, "officer_id": "Q64003284", "continues": [], "relinquishes": [["Ministry of Women and Child Development", "Minister of State"]], "assumes": []}
+]}

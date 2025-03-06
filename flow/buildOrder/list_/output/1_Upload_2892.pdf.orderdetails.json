@@ -1,0 +1,8 @@
+{"date": "1966-11-13", "details": [
+{"detail_idx": 0, "officer_id": "Q1149", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q1764541", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q1034290", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3634250", "continues": [], "relinquishes": [["Ministry of Education", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q317778", "continues": [], "relinquishes": [["Ministry of Irrigation", "Cabinet Minister"], ["Ministry of Power", "Cabinet Minister"]], "assumes": [["Ministry of Education", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q6124294", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Minister of State"], ["Ministry of Defence Supplies", "Minister of State"]], "assumes": [["Ministry of Defence", "Minister of State"]]}
+]}

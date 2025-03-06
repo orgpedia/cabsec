@@ -1,0 +1,19 @@
+# This model is only needed for training, given that is a subFlow, skipping this.
+#huggingface:microsoft/layoutlmv2-base-uncased:
+#  git_url: https://huggingface.co/microsoft/layoutlmv2-base-uncased
+#  branch: no_ocr
+#  commit_sha: 3511dfb6fbed7b99955a5ce8c445278cc281b206
+#  paper_url: https://arxiv.org/abs/2012.14740
+
+huggingface:dslim/bert-base-NER:
+  git_url: https://huggingface.co/dslim/bert-base-NER
+  commit_sha: f7c2808a659015eeb8828f3f809a2f1be67a2446
+
+huggingface:orgpedia-foundation/cabsec-layoutlmv2:
+  git_url: https://huggingface.co/orgpedia-foundation/cabsec-layoutlmv2
+  paper_url: https://arxiv.org/abs/2012.14740
+
+
+
+
+

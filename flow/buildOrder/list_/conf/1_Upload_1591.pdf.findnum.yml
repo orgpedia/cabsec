@@ -1,0 +1,20 @@
+# 	MISMATCH P: 0 A: 3 E: 2 W: 106 F: 1 R:True
+# 	MISMATCH P: 0 A: 7 E: 6 W: 254 F: 2 R:True
+# 	MISMATCH P: 0 A: 9 E: 8 W: 301 F: 3 R:True
+# 	MISMATCH P: 1 A: 18 E: 2 W: 234 F: -4 R:True
+# 	MISMATCH P: 1 A: 25 E: 23 W: 375 F: 12 R:True
+
+edits:
+  - newWord ii pa0.wo106 pa0.wo77
+  - newWord vi pa0.wo106 pa0.wo209
+  - replaceStr pa0.wo279 <all> viii
+
+  - replaceStr pa1.wo15 <all> xi
+  - clearWord pa1.wo188
+  - clearWord pa1.wo108
+  - replaceStr pa1.wo320 <all> xxiii
+  - replaceStr pa1.wo339 <all> xxiv
+
+  - replaceStr pa1.wo110 <all> Fayeed
+
+  - clearWords pa0.wo366 pa0.wo367 pa0.wo368 pa0.wo369

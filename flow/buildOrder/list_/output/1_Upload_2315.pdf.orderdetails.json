@@ -1,0 +1,9 @@
+{"date": "1987-07-25", "details": [
+{"detail_idx": 0, "officer_id": "Q4593", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Planning", "Cabinet Minister"], ["Ministry of Programme Implementation", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7117543", "continues": [], "relinquishes": [["Ministry of Commerce", "Cabinet Minister"]], "assumes": [["Ministry of Planning", "Cabinet Minister"], ["Ministry of Programme Implementation", "Cabinet Minister"], ["Ministry of Law and Justice", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3520007", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Finance", "Cabinet Minister"], ["Ministry of Commerce", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7916339", "continues": [["Ministry of Energy", "Cabinet Minister"], ["Ministry of Steel and Mines", "Cabinet Minister"]], "relinquishes": [["Ministry of Steel and Mines", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q6739352", "continues": [], "relinquishes": [], "assumes": [["Ministry of Steel and Mines", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q60793096", "continues": [["Ministry of Petroleum and Natural Gas", "Minister of State (Independent Charge)"], ["Ministry of Finance", "Minister of State"]], "relinquishes": [["Ministry of Finance", "Minister of State"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q3532614", "continues": [["Ministry of Civil Aviation", "Minister of State (Independent Charge)"]], "relinquishes": [], "assumes": [["Ministry of Tourism", "Minister of State"]]}
+]}

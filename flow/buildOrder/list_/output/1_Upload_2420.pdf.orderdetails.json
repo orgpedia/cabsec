@@ -1,0 +1,9 @@
+{"date": "1982-09-06", "details": [
+{"detail_idx": 0, "officer_id": "Q7117543", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q3520007", "continues": [], "relinquishes": [["Ministry of Coal", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q43377472", "continues": [], "relinquishes": [["Ministry of Steel", "Minister of State"], ["Ministry of Mines", "Minister of State"], ["Ministry of Coal", "Minister of State"]], "assumes": [["Ministry of Energy", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q5071023", "continues": [], "relinquishes": [["Ministry of Environment and Forests", "Minister of State"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q6354405", "continues": [["Ministry of Parliamentary Affairs", "Deputy Minister"]], "relinquishes": [], "assumes": [["Ministry of Industry", "Deputy Minister"]]},
+{"detail_idx": 5, "officer_id": "Q6893382", "continues": [["Ministry of Agriculture", "Deputy Minister"], ["Ministry of Civil Supplies", "Deputy Minister"]], "relinquishes": [["Ministry of Agriculture", "Deputy Minister"]], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q5091746", "continues": [], "relinquishes": [["Ministry of Supply", "Deputy Minister"]], "assumes": [["Ministry of Labour", "Deputy Minister"]]}
+]}

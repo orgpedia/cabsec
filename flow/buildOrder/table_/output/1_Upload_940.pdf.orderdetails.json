@@ -1,0 +1,9 @@
+{"date": "2009-05-23", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q57446", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q982813", "continues": [["Ministry of Agriculture", "Cabinet Minister"], ["Ministry of Consumer Affairs, Food and Public Distribution", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q278849", "continues": [["Ministry of Defence", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q377358", "continues": [["Ministry of Home Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q465041", "continues": [["Ministry of Railways", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q58292", "continues": [["Ministry of External Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": []}
+]}

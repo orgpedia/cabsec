@@ -1,0 +1,12 @@
+{"date": "1975-12-01", "details": [
+{"detail_idx": 0, "officer_id": "Q1149", "continues": [["", "Prime Minister"]], "relinquishes": [], "assumes": [["Ministry of Defence", "Prime Minister"]]},
+{"detail_idx": 1, "officer_id": "Q1034290", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q7881031", "continues": [], "relinquishes": [["Ministry of Shipping and Transport", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q3634914", "continues": [], "relinquishes": [], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q5619936", "continues": [], "relinquishes": [], "assumes": [["Ministry of Shipping and Transport", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q6433963", "continues": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Supply", "Cabinet Minister"]]},
+{"detail_idx": 6, "officer_id": "Q7273372", "continues": [], "relinquishes": [["Ministry of Supply", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 7, "officer_id": "Q89407422", "continues": [], "relinquishes": [["Ministry of Petroleum", "Minister of State"], ["Ministry of Chemicals and Fertilisers", "Minister of State"]], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q5628338", "continues": [], "relinquishes": [], "assumes": [["Ministry of Works and Housing", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q51413574", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]}
+]}

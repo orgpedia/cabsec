@@ -1,0 +1,36 @@
+# 	MISMATCH P: 1 A: 21 E: 18 W: 41 F: 17 R:False
+# 	MISMATCH P: 1 A: 31 E: 22 W: 45 F: 20 R:False
+# 	MISMATCH P: 1 A: 5 E: 32 W: 62 F: 29 R:False
+# 	MISMATCH P: 1 A: 7 E: 6 W: 86 F: 2 R:False
+# 	MISMATCH P: 1 A: 4 E: 9 W: 152 F: 3 R:False
+# 	MISMATCH P: 1 A: 7 E: 6 W: 209 F: -2 R:False
+# 	MISMATCH P: 2 A: 5 E: 2 W: 56 F: -1 R:False
+# 	MISMATCH P: 2 A: 14 E: 13 W: 163 F: 2 R:False
+
+edits:
+
+  - replaceStr pa1.wo35 <all> 1
+  - replaceStr pa1.wo41 <all> 2
+  - replaceStr pa1.wo45 <all> 3
+  - replaceStr pa1.wo53 <all> 4
+  - replaceStr pa1.wo70 <all> 6
+
+  - newWord 1 pa1.wo91 pa1.wo104
+  - newWord 2 pa1.wo91 pa1.wo113
+  - newWord 3 pa1.wo91 pa1.wo126
+  - replaceStr pa1.wo178 <all> 6
+
+  - replaceStr pa2.wo38 <all> 3
+  - replaceStr pa2.wo43 <all> 4
+  - newWord 13 pa2.wo163 pa2.wo153
+
+  - clearWords pa1.wo22 pa1.wo23 pa1.wo24
+  - mergeWords pa1.wo100 pa1.wo101
+  - mergeWords pa1.wo169 pa1.wo170
+  - replaceStr pa1.wo169 <all> Shrimati
+  - replaceStr pa2.wo164 <all> Shri
+
+  - newWord '    ' pa1.wo90 pa1.wo73
+
+  - replaceStr pa1.wo215 <all> Dr.
+  - newWord '    ' pa1.wo226 pa1.wo217

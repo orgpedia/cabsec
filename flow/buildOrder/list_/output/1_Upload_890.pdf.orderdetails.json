@@ -1,0 +1,6 @@
+{"date": "2012-06-26", "details": [
+{"detail_idx": 0, "officer_id": "Q57446", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q41914", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q777478", "continues": [], "relinquishes": [["Ministry of Micro Small and Medium Enterprises", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q982817", "continues": [["Ministry of Science and Technology", "Cabinet Minister"], ["Ministry of Earth Sciences", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Micro Small and Medium Enterprises", "Cabinet Minister"]]}
+]}

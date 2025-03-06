@@ -1,0 +1,8 @@
+min_marker: 2
+
+edits:
+  - clearWords pa0.wo43
+
+  - newWord ii pa0.wo42 pa0.wo114
+
+  - clearWords pa0.wo152 pa0.wo153 pa0.wo154 pa0.wo155 pa0.wo156 pa0.wo157 pa0.wo158 pa0.wo159 pa0.wo160 pa0.wo161 pa0.wo162 pa0.wo163 pa0.wo164 pa0.wo165 pa0.wo166 pa0.wo167 pa0.wo168 pa0.wo169 pa0.wo170 pa0.wo171 pa0.wo172 pa0.wo173 pa0.wo174 pa0.wo175 pa0.wo176 pa0.wo177 pa0.wo178 pa0.wo179 pa0.wo180 pa0.wo290

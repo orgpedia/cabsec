@@ -1,0 +1,4 @@
+min_marker: 1
+edits:
+  - replaceStr pa0.wo54 <all> ii
+  - replaceStr pa0.wo43 <all> relinquished

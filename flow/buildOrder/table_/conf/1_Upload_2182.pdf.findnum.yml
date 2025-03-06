@@ -1,0 +1,9 @@
+# 	MISMATCH P: 3 A: 6 E: 5 W: 51 F: 4 R:False
+# 	MISMATCH P: 4 A: 16 E: 15 W: 45 F: 14 R:False
+
+edits:
+  - newWord 5 pa3.wo51 pa3.wo36
+  - replaceStr pa3.wo1 <all> 3
+
+  - newWord 15 pa4.wo45 pa4.wo22
+  - replaceStr pa2.wo213 <all> MINISTER

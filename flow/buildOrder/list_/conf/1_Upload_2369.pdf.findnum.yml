@@ -1,0 +1,23 @@
+# 	MISMATCH P: 0 A: 6 E: 4 W: 178 F: 3 R:True
+
+edits:
+  - clearChar pa0.wo75 J
+  - clearChar pa0.wo116 J
+  - clearChar pa0.wo134 J
+  - newWord i pa0.wo91 pa0.wo62
+  - replaceStr pa0.wo309 <all> viii
+  - clearWord pa1.wo0
+
+  - replaceStr pa0.wo313 <all> Sal
+
+  - clearWord pa0.wo32
+  - replaceStr pa0.wo33 <all> Feb.fr
+  - replaceStr pa0.wo34 <all> 1983
+  - clearWord pa0.wo35
+  - clearWord pa0.wo36
+  - clearWord pa0.wo37
+  - clearWord pa0.wo38
+
+  - replaceStr pa0.wo347 <all> State
+  - replaceStr pa1.wo46 <all> Arif
+  - replaceStr pa1.wo75 <all> Wor

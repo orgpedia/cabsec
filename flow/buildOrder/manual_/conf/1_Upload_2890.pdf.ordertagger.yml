@@ -1,0 +1,22 @@
+edits:
+  - replaceStr pa0.wo24 <all> March
+  - mergeWords pa0.wo83 pa0.wo84 pa0.wo85
+  - replaceStr pa0.wo83 <all> Ministry
+
+  - mergeWords pa0.wo87 pa0.wo88 pa0.wo89
+
+  - mergeWords pa0.wo90 pa0.wo91
+  - replaceStr pa0.wo92 <all> Technical
+
+  - mergeWords pa0.wo92 pa0.wo93 pa0.wo94 pa0.wo95 pa0.wo96
+  - replaceStr pa0.wo92 <all> Development
+
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [77, 78, 79, 80]
+
+      assumes:
+        - idxs: [ 83, 87, 92, 97, 98]

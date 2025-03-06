@@ -1,0 +1,15 @@
+{"date": "1962-05-08", "details": [
+{"detail_idx": 0, "officer_id": "Q3530663", "continues": [], "relinquishes": [], "assumes": [["Ministry of Irrigation", "Minister of State"], ["Ministry of Power", "Minister of State"]]},
+{"detail_idx": 1, "officer_id": "Q7288604", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 2, "officer_id": "Q16007372", "continues": [], "relinquishes": [], "assumes": [["Ministry of Defence", "Deputy Minister"]]},
+{"detail_idx": 3, "officer_id": "Q5006790", "continues": [], "relinquishes": [], "assumes": [["Ministry of Planning", "Deputy Minister"]]},
+{"detail_idx": 4, "officer_id": "Q4942539", "continues": [], "relinquishes": [], "assumes": [["Ministry of Home Affairs", "Deputy Minister"]]},
+{"detail_idx": 5, "officer_id": "Q6106808", "continues": [], "relinquishes": [], "assumes": [["Ministry of Works and Housing", "Deputy Minister"], ["Ministry of Supply", "Deputy Minister"]]},
+{"detail_idx": 6, "officer_id": "Q110322143", "continues": [], "relinquishes": [], "assumes": [["Ministry of Information and Broadcasting", "Deputy Minister"]]},
+{"detail_idx": 7, "officer_id": "Q5227685", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health", "Deputy Minister"]]},
+{"detail_idx": 8, "officer_id": "Q5278104", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Deputy Minister"]]},
+{"detail_idx": 9, "officer_id": "Q15724841", "continues": [], "relinquishes": [], "assumes": [["Ministry of Law and Justice", "Deputy Minister"]]},
+{"detail_idx": 10, "officer_id": "Q4907261", "continues": [], "relinquishes": [], "assumes": [["Ministry of Transport", "Deputy Minister"], ["Ministry of Communications", "Deputy Minister"]]},
+{"detail_idx": 11, "officer_id": "Q51364722", "continues": [], "relinquishes": [], "assumes": [["Ministry of Community Development Panchayati Raj and Cooperation", "Deputy Minister"]]},
+{"detail_idx": 12, "officer_id": "Q42414980", "continues": [["Ministry of Mines and Fuel", "Deputy Minister"]], "relinquishes": [["Ministry of Law and Justice", "Deputy Minister"]], "assumes": []}
+]}

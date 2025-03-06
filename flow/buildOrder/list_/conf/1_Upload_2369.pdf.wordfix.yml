@@ -1,0 +1,78 @@
+edits:
+  - mergeWords pa0.wo72 pa0.wo73
+
+  #pa0.li1
+  - replaceStr pa0.wo80 <all> relinquished
+
+  - clearWord pa0.wo94
+
+  #pa0.li2
+  - mergeWords pa0.wo99 pa0.wo100 pa0.wo101
+  - mergeWords pa0.wo110 pa0.wo111 pa0.wo112
+  - replaceStr pa0.wo110 <all> Department
+  - replaceStr pa0.wo115 <all> 'also;'
+
+  #pa0.li3
+  - replaceStr pa0.wo120 <all> Minister
+  - replaceStr pa0.wo126 <all> look
+  - replaceStr pa0.wo129 <all> work
+
+  #pa0.li4
+  - replaceStr pa0.wo138 <all> Azad
+  - replaceStr pa0.wo139 <all> relinquished
+  - replaceStr pa0.wo144 <all> Minister
+
+  - mergeWords pa0.wo147 pa0.wo148 pa0.wo149
+  - replaceStr pa0.wo147 <all> Independent
+
+  - replaceStr pa0.wo157 <all> and
+
+
+  #pa0.li5
+  - mergeWords pa0.wo187 pa0.wo188 pa0.wo189 pa0.wo190
+  - replaceStr pa0.wo187 <all> Independent
+  - mergeWords pa0.wo208 pa0.wo209
+  - replaceStr pa0.wo208 <all> charge
+
+  #pa0.li6
+  - mergeWords pa0.wo236 pa0.wo237 pa0.wo238 pa0.wo239
+  - replaceStr pa0.wo236 <all> Department
+
+  - mergeWords pa0.wo242 pa0.wo243 pa0.wo244
+  - replaceStr pa0.wo242 <all> Parliamentary
+
+  - mergeWords pa0.wo269 pa0.wo270 pa0.wo271 pa0.wo272
+  - replaceStr pa0.wo269 <all> '(Independent'
+
+  - mergeWords pa0.wo273 pa0.wo274
+  - replaceStr pa0.wo273 <all> 'charge)'
+
+  - replaceStr pa0.wo282 <all> 'and'
+
+  - mergeWords pa0.wo283 pa0.wo284 pa0.wo285 pa0.wo286
+
+  - mergeWords pa0.wo295 pa0.wo296 pa0.wo297 pa0.wo298 pa0.wo299 pa0.wo300
+  - replaceStr pa0.wo295 <all> Department
+
+
+  - mergeWords pa0.wo302 pa0.wo303
+  - replaceStr pa0.wo302 <all> Parliamentary
+
+  #pa0.li6
+  - mergeWords pa0.wo313 pa0.wo314
+
+  - replaceStr pa0.wo322 <all> of
+  - mergeWords pa0.wo324  pa0.wo325 pa0.wo326
+
+  - mergeWords pa0.wo333  pa0.wo325 pa0.wo334
+  - replaceStr pa0.wo333 <all> Information
+
+  - replaceStr pa0.wo329 <all> of
+  - replaceStr pa0.wo332 <all> of
+
+  - mergeWords pa0.wo348 pa0.wo349 pa0.wo350 pa0.wo351
+  - replaceStr pa0.wo348 <all> Independent
+
+  - replaceStr pa0.wo353 <all> of
+
+  - replaceStr pa0.wo357 <all> Steel

@@ -1,0 +1,11 @@
+docker_pipes: [ learn_layoutlmv2 ]
+docker_config:
+  pre_install_lines: ['RUN pip install transformers[torch]']
+  post_intall_lines: ['ENV PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION python']
+  do_dry_run: False
+  delete_container_dir: False
+
+pipeline:
+  - name: learn_layoutlmv2
+    config:
+      num_folds: 1

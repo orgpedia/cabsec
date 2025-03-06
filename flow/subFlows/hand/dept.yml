@@ -1,0 +1,489 @@
+name: __department__
+alias: []
+description: This field contains all the Ministries(dept) of Government of India
+orgCode: govcabsec
+expand_names:
+  ministry: minister
+  ministry of: ''
+  and: '&'
+  'department': 'deptt'
+
+ministries:
+  - name: Ministry of Home Affairs
+    alias: [Ministry of Griha Affairs, Home Aftairs, Home Minister, Minister of Home, Home]
+    departments:
+      - name: Department of Internal Security
+      - name: Department of States
+
+  - name: Ministry of External Affairs
+    alias: [External]
+
+  - name: Ministry of Defence
+    alias: []
+    departments:
+      - name: Department of Defence Production
+        alias: [ Department of Defence Production and Supplies, Defence Production ]
+
+      - name: Department of Defence
+
+      - name: Department of Defence Research and Development
+
+  - name: Ministry of Defence Supplies
+    alias: [ Ministry of Defence Production ]
+
+  - name: Ministry of Railways
+    alias: [ Railway, 'Ministry of Rail ways']
+
+  - name: Ministry of Health and Family Welfare
+    alias: [ Health Family Welfare, Department of Health, Health Familyhelfare, Familywelfare, Familyhelfare, Ministry of Health and Familylanning, 'Ministry of Health and Family Planning', Ministry of Health Family Planning ]
+    departments:
+      - name: Department of Family Welfare
+
+  - name: Ministry of Health
+
+  - name: Ministry of Finance
+    alias: [ Finance, Ministry5feiriance]
+    departments:
+      - name: Department of Revenue
+        alias: []
+
+      - name: Department of Economic Affairs
+        alias: [Economic Affairs]
+
+      - name: Banking Revenue and Insurance
+        alias: ['Banking, Revenue and Insurance']
+
+      - name: Revenue and Banking
+
+      - name: Department of Expenditure
+
+      - name: Department of Co-ordination
+
+  - name: Ministry of Revenue and Civil Expenditure
+    alias: [ Ministry of Revenue and Expenditure]
+
+  - name: Ministry of Revenue and Defence Expenditure
+
+  - name: Ministry of Social Justice and Empowerment
+    alias: [Socialwelare]
+
+  - name: Ministry of Information and Broadcasting
+    alias: [Ministry of Infomticnnnd Broadcasting, Information Broadcasting, formation and Broadcasting, 'Ministry of Informatlan and Broadcasting']
+
+  - name: Ministry of Information and Broadcasting and Communications
+    alias: ['Minister of Information Broadcasting and Communications']
+
+  - name: Ministry of Parliamentary Affairs
+    alias: [ Parliamentaryaffairs, Ministry of Parliamentaryattairs, Minister of Parliamentary, Department of Parliamentary Affairs]
+
+  - name: Ministry of Education
+    alias: [ Ministry of Education and Social Welfare ]
+
+  - name: Ministry of Human Resource Development # Removed Ministry of Education
+    alias: [ Ministry Human Resource Development ]
+    departments:
+      - name: Department of Youth Affairs and Sports
+        alias: [ Youth Services ]
+
+      - name: Department of Women and Child Development
+        alias: [ Department of Women Child Development]
+
+      - name: Department of Culture
+        alias: [ Cultural Affairs ]
+
+      - name: Department of Education
+
+      - name: Department of Education and Culture
+        alias: [ Departments of Education and Culture ]
+
+      - name: 'Department of Womens Welfare'
+
+  - name: Ministry of Cultural Affairs
+    alias: []
+
+  - name: Ministry of Tribal Affairs
+    alias: []
+
+  - name: Ministry of Rural Development
+    alias: [ Ministry of Rural Reconstruction, Ministry of Rural Areas and Employment, Department of Rural Employment and Poverty Alleviation, Ministry Rural Areas Employment, Ministry of Rurallopment, 'Ministry of Rural of Development' ]
+
+  - name: Ministry of Agro and Rural Industries
+    alias: []
+
+  - name: Ministry of Communications and Information Technology
+    alias: [ Ministry of Communications and Information Technology ]
+
+  - name: Ministry of Communications
+    alias: [ Ministry Communications, Department of Communications ]
+
+  - name: Ministry of Textiles
+    alias: [ Ministry of Textile ]
+
+  - name: Ministry of Heavy Industries and Public Enterprises
+    alias: [ Ministry of Heavy Industries Public Enterprises, Department of Public Enterprises, 'Ministry of Heavy Industry and Public Enterprises' ] # removed Ministry of Heavy Industry
+    departments:
+      - name: Department of Heavy Industry
+
+  - name: Ministry of Heavy Industry
+    alias: [ Ministry of Heavy Industries ]
+
+  - name: Production
+
+  - name: Ministry of River Valley Schemes
+
+  - name: Ministry of Natural Resources
+
+  - name: Ministry of Civil Aviation and Tourism
+    alias: [ Ministry of Tourism and Civil aviation]
+    departments:
+      - name: Department of Civil Aviation
+
+      - name: Department of Tourism
+
+  - name: Ministry of Civil Aviation
+    alias: [Aviation]
+
+  - name: Ministry of Environment and Forests
+    alias: [ Ministry of Environment Forest and Climate Change, Department of ecology, ecology, Department of Wastelands Development, 'Ministry of Environment and Forest', 'Ministry of Environment  Forest and Climate Change', 'Department of Environment & Forests' ]
+    departments:
+      - name: 'Department of Environment Forests & Wild Life'
+
+  - name: Ministry of Environment
+    alias: [Department of Environment]
+
+  - name: Ministry of Industry
+    alias: [  Ministry of Industry and Civil Supplies, Ministry of Industrial Development, Industryportfolio, Audyogik Vikastatha Viz, Ministry of Industries ]
+    departments:
+      - name: 'Department of Chemicals and Petro- chemicals'
+        alias: [ 'Department of Chemicals and Petrochemicals', 'Department of Chemicals and Petro-chemicals' ]
+      - name: 'Department of Small Scale Industries and Agro and Rural Industries'
+        alias: [ 'Department of Small Scale Industries and Agro & Rural Industries']
+      - name: Department of Heavy Industry
+      - name: Department of Industrial Development
+
+  - name: Ministry of Industrial Development and Internal Trade
+    alias: [ 'Ministry of Industrial Development Internal Trade' ]
+
+
+
+  - name: Ministry of Civil Supplies
+    alias: [ Ministry of Civil Supplies and Cooperation]
+
+  - name: Ministry of Foreign Trade
+    alias: [ Ministry of Trade ]
+
+  - name: Ministry of Commerce
+    alias: [ ]
+    departments:
+      - name: Department of Industrial Policy Promotion
+
+      - name: Department of Foreign Trade
+        alias: [ Foreign Trade ]
+
+      - name: Department of Supply
+
+  - name: Ministry of Commerce and Industry
+    alias: [ Commerce and Industries ]
+    departments:
+      - name: Department of Industrial Policy and Promotion
+      - name: Department of Commerce
+      - name: Department of Cottage Industries
+        alias: [ Cottage Industries ]
+      - name: International Trade
+
+  - name: Ministry of Coal
+    alias: [Department of Coal]
+
+  - name: Ministry of Labour
+    alias: [Ministry of Labour and Employment, Minister ofLabour, Ministry of Labour Employment and Rehabilitation, Ministry of Labour and Rehabilitation, 'Ministry of Labour, Employment and Rehabilitation'  ]
+
+  - name: Ministry of Drinking Water and Sanitation
+
+  - name: Ministry of Water Resources
+    alias: [ Waterresources, Minister of Water Viz Resources, 'Water of Resources', 'Ministry of Water Resource', Waterresources]
+
+  - name: Ministry of Jal Shakti
+    alias: []
+
+  - name: Ministry of Agriculture
+    alias: [Ministry of Agriculture and Farmers Welfare, Ministry of Agriculture and Irrigation, Ministry of Food and Agriculture]
+    departments:
+      - name: Department of Agricultural Research and Education
+
+      - name: Department of Rural Development
+
+      - name: Department of Animal Husbandry and Dairying
+
+      - name: Department of Agriculture and Cooperation
+
+      - name: Department of Food Processing Industries
+
+
+
+  - name: Ministry of Tourism
+    alias: []
+
+  - name: Ministry of Urban Development
+    alias: [Ministry of Urban Affairs and Employment, Urban Employment and Poverty, Ministry Urban of Affairs and Employment, Minister of Urbanatairs and Employment]
+
+  - name: Ministry of Steel and Heavy Engineering
+    alias: [ Ministry of Steel and Heavy Industries ]
+
+  - name: Ministry of Heavy Engineering
+
+
+  - name: Ministry of Iron and Steel
+    alias: [ Department of Iron and Steel]
+
+  - name: Ministry of Steel
+    alias: []
+
+  - name: Ministry of Mines
+    alias: []
+
+  - name: Ministry of Power
+
+  - name: Ministry of Energy
+    alias: []
+    departments:
+      - name: Department of Power
+      - name: Department of Petroleum
+      - name: Department of Non Conventional Energy Sources
+
+  - name: Ministry of Non Conventional Energy Sources
+
+  - name: Ministry of Petroleum and Natural Gas
+    alias: [ Petroleum Natural Gas, Petroleum and Natural As, 'Potroloum and Natural Gas', ]
+
+  - name: Ministry of Petroleum
+    alias: [Ministry of Peircleum]
+
+  - name: Ministry of Petroleum Chemicals and Fertilisers
+    alias: [ Ministry of PetroChemicals, 'Ministry of Petro-Chemicals', 'Fertilizers Petroleum chemicals']
+
+  - name: Ministry of Petroleum, Chemicals and Non-Ferrous metals
+    alias: [ 'Ministry of Petroleum Chemicals and non-ferrous Metals', 'Ministry of Petroleum Chemicals and Non Ferrous Metals']
+
+
+  - name: Ministry of Chemicals and Fertilisers
+
+  - name: Ministry of Transport
+    departments:
+      - name: Department of Railways
+      - name: Department of Surface Transport
+
+  - name: Ministry of Transport and Aviation
+
+  - name: Ministry of Road Transport and Highways
+    alias: [ Ministry of Surface Transport, Ministry of Surfaceansport, 'Ministry of Surface ansport.' ]
+
+  - name: Ministry of Personnel Public Grievances and Pensions
+    alias: [Ministry of Personnel Public Grievances Pensions, Ministry of Personnel and Training Administrative Reforms and Public Grievances and Pension, Department of Administrative Reforms Public Grievances, Department of Personnel, Department of Administrative Reforms and Public Grievances, 'Ministry of Personnel, Public Grievances and Pensions', 'Department of Personnel and Administrative Reforms', 'Personnel  Public Grievances and Pensions','Ministry of Personnel & Public Grievances and Pensions', Ministry of Personnel and Training Administrative Reforms and Public Grievances and Pensions ]
+    departments:
+      - name: Department of Personnel and Training
+
+  - name: Ministry of Law and Justice
+    alias: [ Ministry of Law, Ministry of Law Justice, 'Legal Affairs', 'Minister of Legal Affairs' ]
+
+  - name: Ministry of Law Justice and Company Affairs
+    alias: [ 'Ministry of Law  Justice and Company Affairs', 'Ministry of LawJustice and Company Affairs'] # double space
+    departments:
+      - name: Department of Law and Justice
+
+  - name: Ministry of Law and Social Security
+
+  - name: Ministry of Food
+
+  - name: Ministry of Food Processing Industries
+    alias: [ Foodprocessing Industries, Food Processingindustries, 'Food Processing']
+
+  - name: Ministry of Chemicals and Fertilisers
+    alias: [ Chemicals,  Department of Fertilizers, Department of Fertilizers, 'Ministry of Chemicals and Fertilizers']
+
+  - name: Ministry of Youth Affairs and Sports
+    alias: [Youth Affairs Sports, Department of Sports, Sports, Ministry of Sports ]
+
+  - name: Ministry of Women and Child Development
+    alias: [ Ministry of Social Womens Welfare, Ministry of Women Child Development, "Ministry of Social and Women's Welfare", 'Ministry of Social & Womens Welfare', Ministry of Social and Womens Welfare ]
+
+  - name: Ministry of Shipping
+    alias: [ 'Ministry of Shipping and Waterways' ]
+
+  - name: Ministry of Shipping and Transport
+    alias: [ Ministry Shipping and Transport, Ministry of shipping transport]
+
+  - name: Ministry of Planning
+    alias: []
+
+  - name: Ministry of Planning and Programme Implementation
+    alias: []
+
+  - name: Ministry of Micro Small and Medium Enterprises
+    alias: [Ministry of Small Scale Industries, Small and Medium Enterprises, 'Micro , Small and Medium Enterprises', 'Ministry of Micro  Small and Medium Enterprises']
+
+  - name: Ministry of Irrigation
+    alias: [Irrigation]
+
+  - name: Ministry of Housing and Urban Poverty Alleviation
+    alias: [ Urban Employment and Poverty Alleviation, Urban Affairs and Employment, Ministry of Housing and Urban Affairs, Ministry of Urban Development and Poverty Alleviation, 'Minister of Urban Employment and Poverty Alleviation', 'Ministry of Urban Development Poverty Alleviation' ]
+
+  - name: Ministry of Corporate Affairs
+    alias: [ Company Affairs, Companyffairs, Ministry of Company Affairs, Ministry of Justice and copy Affairs]
+
+  - name: Ministry of Steel and Mines
+    departments:
+      - name: Department of Mines
+
+      - name: Department of Steel
+
+  - name: Ministry of Mines and Fuel
+
+  - name: Ministry of Steel Mines and Metals
+
+  - name: Ministry of Mines and Minerals
+
+  - name: Ministry of Mines and Metals
+
+  - name: Ministry of Statistics and Programme Implementation
+    alias: [Ministry of Statistics Programme Implementation, Ministry of Programme Implementation, Minister of Statistics and Programmeipleentation ]
+
+
+  - name: 'Ministry of Consumer Affairs, Food and Public Distribution'
+    alias: [Ministry of Consumer Affairs Food and Public Distribution, Ministry of Food and Consumer Affairs, Ministry of Consumer Affairs and Public Distribution, Consumer Affairs Food Public Distribution, Consumer Affairs, 'Ministry of Consumer Affairs  Food & Public Distribution', 'Consumer Affairs  Food and Public Distribution', 'Minister of Consumer Affairs , Food and Public Distribution', 'Consumer Affairs Public Distribution']
+
+  - name: Ministry without portfolio
+    alias: [ Minister without portfolio, Ministorwithoutportfclio, Ministerwithoutportfolio, without Portfolio]
+
+
+  - name: Ministry of Minority Affairs
+    alias: []
+
+  - name: Ministry of Earth Sciences
+    alias: [ Ocean Development, Department of Ocean Development, Minister of Ocean Development ]
+
+  - name: Ministry of Works and Housing
+    alias: [ Ministry of Works Housing, Works and Estates, 'Works and States', 'Works, Housing and Supply', 'Minister of Works  Housing and Supply' ]
+
+  - name: Ministry of Skill Development
+    alias: []
+
+  - name: Ministry of Entrepreneurship
+    alias: []
+
+  - name: Ministry of Skill Development and Entrepreneurship
+    alias: []
+
+  - name: Ministry of Science and Technology
+    alias: [ Ministry of Science Technology, Department of Technical Development, Ministry of Science As Technology ]
+
+  - name: Department of Science and Technology
+
+  - name: Ministry of River Development and Ganga Rejuvenation
+    alias: [ 'Ministry of Water Resources, River Development and Ganga Rejuvenation', 'Ministry of Water Resources River Development and Ganga Rejuvenation' ]
+
+  - name: Ministry of New and Renewable Energy
+    alias: [ 'Ministry of Non- conventional energy Sources', 'Ministry of Non- conventionalEnergy Sources', 'Ministry of Non-Conventional Energy Sources', 'Ministry of Non - Conventional Energy Sources' ]
+
+  - name: Ministry of Ayurveda
+
+  - name: Ministry of Ayurveda Yoga and Naturopathy Unani Siddha and Homoeopathy
+    alias: [ Ministry of  AYUSH, Ministry of Ayurveda Yoga and Naturopathy Unani Siddha and Homoeopathy, Department of Indian Systems of Medicine and Homoeopathy, 'Ministry of Ayurveda , Yoga and Naturopathy , Unani , Siddha and Homoeopathy ( AYUSH )', 'Ministry of Ayurveda  Yoga and Naturopathy  Unani  Siddha and Homoeopathy', Ministry of Ayush]
+
+  - name:  Ministry of Development of North Eastern Region
+    alias: [ Development of North Easternregion, Department of Development of North Eastern Region  ]
+
+  - name: Ministry of Panchayati Raj
+    alias: []
+
+  - name: Ministry of Culture
+    alias: []
+
+  - name: Ministry of Supply
+    alias: [Supply and Rehabilitation, Ministry of Supply and Rehabilitation ]
+
+  - name: Ministry of Supply and Technical Development # TODO Added later
+    alias: [ Department of Supply and Technical Development]
+
+  - name: Ministry of Programme Implementation
+    alias: []
+
+  - name: Prime Ministers Office
+    alias: [Prime Ministersoffice, ]
+
+  - name: Ministry of Overseas Indian Affairs
+    alias: []
+
+  - name: Ministry of Electronics
+    alias: [ Department of Electronics ]
+
+  - name: Ministry of Welfare
+    alias: [ Department of Social Welfare, Ministry of Social Welfare ]
+    departments:
+       - name: Department of Women and Child Development
+
+
+  - name: Ministry of Information Technology
+    alias: [ Ministry of Electronics and Information Technology, Informationtecnology, 'Information of Тech- nology' ]
+
+  - name: Department of Space
+    alias: [Space, Minister of Space]
+
+  - name: Department of Atomic Energy
+    alias: [Atomic Energy, Minister of Atomic Energy]
+
+  - name: Ministry of Wakf
+    alias: [ Public Wakf, MuslamiWakfs, 'Muslim Wakfs']
+
+  - name: Ministry of Jammu Kashmir Affairs
+    alias: [ State of Jammu and Kashmir, Jammu and Kashmir Affairs, Department of Jammu and Kashmir Affairs ]
+
+  - name: Ministry of Bengal Affairs
+    alias: []
+
+  - name: Ministry of Scientific Research and Cultural Affairs
+    alias: [ Natural Resources Scientific Research, 'Minister of Natural Resources & Scientific Research']
+
+  - name: Ministry of Scientific and Industrial Research
+
+  - name: Ministry of Scientific Research
+
+  - name: Ministry of Social Security and Cottage Industries
+    alias: [ Department of Social Security ]
+
+  - name: Ministry of Disinvestment
+    alias: [Department of Disinvestment]
+
+  - name: Ministry of Community Development Panchayati Raj and Cooperation
+
+  - name: Ministry of Community Development and Cooperation
+    alias: [Community Development and Cooperation, 'Ministry of Community Development']
+
+  - name: Ministry of Commonwealth Relations
+    alias: [ Commonwealth Relations ]
+
+  - name: Ministry of Rehabilitation
+    alias: []
+
+
+  - name: Ministry of Fisheries, Animal Husbandary and Dairying
+    alias: []
+    departments:
+      - name: Department of Animal Husbandry and Dairying
+        alias: ['Department of Animal His ndry and Dairying', 'Ministry of Fisheries  Animal Husbandry and Dairying', 'Ministry of Fisheries Animal Husbandry and Dairying', 'Ministry of Animal Husbandry Dairying and Fisheries' ]
+
+
+
+  - name: Ministry of Economic and Defence Coordination
+    alias: [ Ministry of Economic and Defence Co-ordination]
+
+
+  - name: Department of Posts and Telegraphs
+
+  - name: Ministry of Consumer Industries
+
+  - name: 'Ministry of Works Mines & Power'
+
+  - name: Ministry of Cooperation
+
+
+  - name: 'Ministry of Non - Resident Indian Affairs'

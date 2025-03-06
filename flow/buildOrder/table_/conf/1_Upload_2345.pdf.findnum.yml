@@ -1,0 +1,4 @@
+# 	MISMATCH P: 3 A: 22 E: 21 W: 123 F: 14 R:False
+
+edits:
+  - newWord 21 pa3.wo123 pa3.wo110

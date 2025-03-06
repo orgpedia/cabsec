@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 5 E: 4 W: 120 F: 2 R:False
+# 	MISMATCH P: 1 A: 19 E: 50 W: 1 F: 49 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 249 F: -3 R:False
+include_zero: True
+edits:
+  - newAdjWord 0 pa0.wo12 left
+  - newWord 1 pa0.wo72  pa0.wo51
+  - newWord 4 pa0.wo120 pa0.wo89
+  - clearWord pa1.wo0
+  - newWord 5 pa2.wo249 pa2.wo219
+
+  - newWord '     ' pa0.wo198 pa0.wo186
+  - newWord '     ' pa0.wo216 pa0.wo207
+  - newWord '     ' pa1.wo55 pa1.wo46
+  - newWord '     ' pa1.wo293 pa1.wo289
+
+  - replaceStr pa1.wo191 <all> 'Labour and'
+  - replaceStr pa1.wo306 <all> climate
+  - replaceStr pa2.wo53 <all> Eastern

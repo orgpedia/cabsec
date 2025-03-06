@@ -1,0 +1,17 @@
+# 	MISMATCH P: 1 A: 3 E: 8 W: 124 F: 1 R:False
+# 	MISMATCH P: 1 A: 9 E: 4 W: 132 F: -4 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 93 F: 1 R:False
+
+edits:
+  - replaceStr pa1.wo124 <all> 8
+
+  - replaceStr pa2.wo79 <all> 5
+  - newWord 4 pa2.wo169 pa2.wo182
+
+  - replaceStr pa1.wo85 <all> Minister
+  - replaceStr pa1.wo179 <all> Smt
+
+  - clearWords pa1.wo186 pa1.wo187
+
+  - replaceStr pa1.wo14 <all> MEMBERS
+  - replaceStr pa1.wo17 <all> CABINET

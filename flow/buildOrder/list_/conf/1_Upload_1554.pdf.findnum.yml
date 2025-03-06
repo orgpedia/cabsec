@@ -1,0 +1,5 @@
+edits:
+  - clearWord pa0.wo0
+  - clearWord pa0.wo1
+  - clearWord pa0.wo43
+  - newWord 1 pa0.wo43 pa0.wo41

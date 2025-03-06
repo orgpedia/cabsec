@@ -1,0 +1,27 @@
+edits:
+  - replaceStr pa0.wo1 <all> 1
+  - replaceStr pa0.wo2 <all> 2
+  - replaceStr pa0.wo3 <all> 3
+  - replaceStr pa0.wo5 <all> 4
+  - replaceStr pa0.wo6 <all> 5
+
+  - newWord 6 pa0.wo6 pa0.wo76
+  - newWord 7 pa0.wo6 pa0.wo79
+
+  - replaceStr pa0.wo8 <all> 8
+  - replaceStr pa0.wo9 <all> 9
+  - replaceStr pa0.wo11 <all> 10
+
+  - replaceStr pa0.wo16 <all> '12'
+
+  - replaceStr pa0.wo24 <all> 16
+  - replaceStr pa0.wo26 <all> 17
+  - replaceStr pa0.wo27 <all> 18
+
+  - clearWords pa0.wo13 pa0.wo17 pa0.wo25
+  - clearWords pa0.wo162 pa0.wo163 pa0.wo164 pa0.wo165 pa0.wo166
+
+  - replaceStr pa0.wo105 <all> San
+
+  - replaceStr pa0.wo208 <all> for
+  - replaceStr pa0.wo134 <all> 'Scientific Research'

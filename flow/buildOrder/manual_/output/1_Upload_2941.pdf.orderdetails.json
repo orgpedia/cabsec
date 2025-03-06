@@ -1,0 +1,6 @@
+{"date": "1961-02-27", "details": [
+{"detail_idx": 0, "officer_id": "Q2724411", "continues": [], "relinquishes": [["Ministry of Home Affairs", ""]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q244689", "continues": [["Ministry of Commerce and Industry", ""]], "relinquishes": [], "assumes": [["Ministry of Home Affairs", ""]]},
+{"detail_idx": 2, "officer_id": "Q7041597", "continues": [["Ministry of Commerce and Industry", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q6752338", "continues": [["Ministry of Commerce and Industry", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

@@ -1,0 +1,7 @@
+# 	MISMATCH P: 0 A: 4 E: 3 W: 116 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo78 <all> iii
+
+  - replaceStr pa0.wo17 <all> October
+  - clearWord pa0.wo18

@@ -1,0 +1,1 @@
+../output/ministry.master.txt

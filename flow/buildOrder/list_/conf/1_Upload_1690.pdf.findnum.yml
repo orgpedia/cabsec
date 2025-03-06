@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 6 E: 5 W: 189 F: 2 R:True
+# 	MISMATCH P: 1 A: 6 E: 15 W: 119 F: 12 R:True
+# 	MISMATCH P: 1 A: 16 E: 7 W: 221 F: 3 R:True
+
+edits:
+  - newWord i pa0.wo120 pa0.wo42
+  - newWord iv pa0.wo120 pa0.wo122
+  - newWord x pa0.wo120 pa0.wo297
+
+  - clearWord pa0.wo40
+  - clearWord pa0.wo72
+  - clearWord pa0.wo121
+  - clearWord pa0.wo188
+
+  - newWord xi pa1.wo28 pa1.wo3
+  - newWord xv pa1.wo221 pa1.wo194
+  - clearWord pa1.wo119
+
+  - replaceStr pa1.wo326 <all> Prof

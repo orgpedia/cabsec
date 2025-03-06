@@ -1,0 +1,15 @@
+# 	MISMATCH P: 0 A: 6 E: 5 W: 102 F: 1 R:False
+# 	MISMATCH P: 0 A: 10 E: 9 W: 145 F: 2 R:False
+# 	MISMATCH P: 1 A: 4 E: 2 W: 171 F: -6 R:False
+# 	MISMATCH P: 1 A: 6 E: 5 W: 215 F: -4 R:False
+# 	MISMATCH P: 2 A: 6 E: 5 W: 100 F: 1 R:False
+
+edits:
+  - newWord 5 pa0.wo102 pa0.wo96
+  - newWord 9 pa0.wo145 pa0.wo138
+
+  - newWord 2 pa1.wo107 pa1.wo116
+  - newWord 3 pa1.wo107 pa1.wo158
+  - newWord 5 pa1.wo107 pa1.wo188
+
+  - newWord 5 pa2.wo100 pa2.wo79

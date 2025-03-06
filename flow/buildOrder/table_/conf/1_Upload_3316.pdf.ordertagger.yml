@@ -1,0 +1,32 @@
+mode: append_detail
+order:
+  details:
+    - detail_idx: 4
+      page_idx: 0
+
+      officer:
+        idxs: [ 29, 30, 31]
+
+      assumes:
+        - idxs: [ 38, 39, 40 ]
+        - idxs: [ 42 ]
+
+
+    - detail_idx: 5
+      page_idx: 0
+
+      officer:
+        idxs: [ 44, 45, 46]
+
+      relinquishes:
+        - idxs: [ 38, 39, 40 ]
+        - idxs: [ 42 ]
+
+    - detail_idx: 6
+      page_idx: 0
+
+      officer:
+        idxs: [ 68, 69, 70, 71]
+
+      assumes:
+        - idxs: [ 75, 76, 77, 78 ]

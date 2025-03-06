@@ -1,0 +1,11 @@
+edits:
+  - mergeWords pa1.wo141 pa1.wo142 pa1.wo143
+  - mergeWords pa1.wo177 pa1.wo178 pa1.wo179
+  - mergeWords pa1.wo211 pa1.wo212 pa1.wo213
+  - mergeWords pa1.wo161 pa1.wo162
+  - mergeWords pa1.wo193 pa1.wo194
+  - mergeWords pa1.wo69 pa1.wo70
+
+  - clearChar pa1.wo140 '.'
+  - mergeWords pa1.wo183 pa1.wo186 pa1.wo187
+  - replaceStr pa1.wo183 <all> Department

@@ -1,0 +1,17 @@
+{"date": "1992-07-03", "details": [
+{"detail_idx": 0, "officer_id": "Q275146", "continues": [], "relinquishes": [], "assumes": [["Ministry of New and Renewable Energy", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q6354405", "continues": [], "relinquishes": [["Ministry of Power", "Minister of State (Independent Charge)"], ["Ministry of New and Renewable Energy", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Power", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 2, "officer_id": "Q1897974", "continues": [], "relinquishes": [["Ministry of Planning and Programme Implementation", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Law Justice and Company Affairs", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q1380115", "continues": [], "relinquishes": [["Ministry of Civil Aviation and Tourism", "Minister of State"]], "assumes": [["Ministry of Civil Aviation and Tourism", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q3530556", "continues": [], "relinquishes": [["Ministry of Law Justice and Company Affairs", "Minister of State"]], "assumes": [["Ministry of Science and Technology", "Minister of State"], ["Ministry of Electronics", "Minister of State"], ["Ministry of Earth Sciences", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q6511067", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q7240137", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"], ["Ministry of Heavy Industries and Public Enterprises", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q3764490", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State"]], "assumes": [["Ministry of Rural Development", "Minister of State"], ["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q21176248", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State"]], "assumes": [["Ministry of Rural Development", "Minister of State"], ["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q16204692", "continues": [], "relinquishes": [], "assumes": [["Ministry of Planning and Programme Implementation", "Minister of State (Independent Charge)"], ["Ministry of New and Renewable Energy", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q4357649", "continues": [], "relinquishes": [], "assumes": [["Ministry of External Affairs", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q19882178", "continues": [], "relinquishes": [], "assumes": [["Ministry of Rural Development", "Minister of State"], ["Ministry of Environment and Forests", "Minister of State"]]},
+{"detail_idx": 12, "officer_id": "Q6437486", "continues": [], "relinquishes": [], "assumes": [["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 13, "officer_id": "Q39086627", "continues": [], "relinquishes": [], "assumes": [["Ministry of Civil Aviation and Tourism", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q3595500", "continues": [], "relinquishes": [], "assumes": [["Ministry of Human Resource Development", "Deputy Minister"], ["Ministry of Human Resource Development", "Deputy Minister"]]}
+]}

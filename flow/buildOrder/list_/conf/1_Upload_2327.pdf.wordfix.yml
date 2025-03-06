@@ -1,0 +1,11 @@
+edits:
+  - replaceStr pa0.wo217 <all> relinquished
+  - mergeWords pa0.wo315 pa0.wo316 pa0.wo317
+
+  - replaceStr pa2.wo124 <all> of
+  - replaceStr pa2.wo130 <all> of
+
+  - replaceStr pa2.wo238 <all> office
+
+  - mergeWords pa1.wo75 pa1.wo76
+  - replaceStr pa1.wo75 <all> office

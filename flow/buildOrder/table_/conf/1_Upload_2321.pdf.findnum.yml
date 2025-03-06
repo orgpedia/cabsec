@@ -1,0 +1,3 @@
+edits:
+  - replaceStr pa4.wo144 <all> Deputy
+  - mergeWords pa4.wo172 pa4.wo173

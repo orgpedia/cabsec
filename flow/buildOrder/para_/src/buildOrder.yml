@@ -1,0 +1,37 @@
+description: This folder(task) handles documents with paragraphs, uses ner model to mark person and custom post finder
+
+pipeline:
+  - name: body_marker
+    config:
+      conf_stub: 'bodymarker'
+
+  - name: para_fixer
+    config:
+      item_name: "list_items"
+      dict_file: conf/dict.3.txt
+      conf_stub: 'wordfix'
+      officer_at_start: False
+
+  - name: post_parser_onsentence
+    config:
+      ignore_labels: ["ignore", "person"]
+
+  - name: order_builder
+    config:
+      conf_stub: orderbuilder
+      ignore_texts_file: conf/ignore_texts.txt
+
+  - name: order_tagger
+    config:
+      conf_stub: ordertagger
+
+  - name: id_assigner_vocab
+    config:
+      conf_stub: 'id_assigner'
+      cadre_file_dict: {'goi_minister': 'conf/wiki_officerID.yml'}
+      post_id_fields: ['dept']
+      tenure_name_file: 'ministries.yml'
+
+  - name: details_differ
+    config:
+      mode: "diff"

@@ -1,0 +1,5 @@
+{"date": "2000-02-02", "details": [
+{"detail_idx": 0, "officer_id": "Q3109128", "continues": [], "relinquishes": [["Ministry of Tourism", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q4751468", "continues": [], "relinquishes": [["Ministry of Culture", "Cabinet Minister"], ["Ministry of Youth Affairs and Sports", "Cabinet Minister"]], "assumes": [["Ministry of Tourism", "Cabinet Minister"], ["Ministry of Human Resource Development", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7635793", "continues": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"]]}
+]}

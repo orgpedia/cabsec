@@ -1,0 +1,8 @@
+# 	MISMATCH P: 0 A: 11 E: 2 W: 87 F: 1 R:False
+
+edits:
+  - replaceStr pa0.wo33 <all> i
+  - replaceStr pa0.wo87 <all> ii
+  - replaceStr pa0.wo88 <all> iii
+
+  - replaceStr pa0.wo19 <all> April

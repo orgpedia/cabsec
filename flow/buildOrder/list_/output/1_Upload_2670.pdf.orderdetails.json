@@ -1,0 +1,7 @@
+{"date": "1976-08-09", "details": [
+{"detail_idx": 0, "officer_id": "Q7668113", "continues": [], "relinquishes": [["Ministry of Industry", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q7660381", "continues": [], "relinquishes": [["Ministry without portfolio", "Cabinet Minister"]], "assumes": [["Ministry of Civil Supplies", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q111698993", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Civil Supplies", "Minister of State"]]},
+{"detail_idx": 3, "officer_id": "Q89103290", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q16012160", "continues": [], "relinquishes": [["Ministry of Industry", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"]]}
+]}

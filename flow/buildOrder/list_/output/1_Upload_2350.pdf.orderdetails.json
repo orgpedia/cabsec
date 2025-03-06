@@ -1,0 +1,7 @@
+{"date": "1984-08-02", "details": [
+{"detail_idx": 0, "officer_id": "Q297950", "continues": [], "relinquishes": [["Ministry of Defence", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q5607249", "continues": [], "relinquishes": [["Ministry without portfolio", "Cabinet Minister"]], "assumes": [["Ministry of Defence", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7238171", "continues": [["Ministry of Planning", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Irrigation", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q110322062", "continues": [], "relinquishes": [["Ministry of Rural Development", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Irrigation", "Minister of State"]]},
+{"detail_idx": 4, "officer_id": "Q6894504", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State"]], "assumes": [["Ministry of Rural Development", "Minister of State (Independent Charge)"]]}
+]}

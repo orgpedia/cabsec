@@ -1,0 +1,12 @@
+# 	MISMATCH P: 2 A: 12 E: 11 W: 192 F: 1 R:False
+# 	MISMATCH P: 6 A: 16 E: 15 W: 116 F: 10 R:False
+# 	MISMATCH P: 6 A: 16 E: 17 W: 136 F: 11 R:False
+# 	MISMATCH P: 6 A: 19 E: 18 W: 246 F: 10 R:False
+
+edits:
+  - replaceStr pa2.wo187 <all> 11
+  - replaceStr pa6.wo116 <all> 15
+  - clearWord pa6.wo151
+
+  - clearWords pa6.wo277 pa6.wo282 pa6.wo315 pa6.wo316
+  - clearWords pa3.wo96  pa3.wo97  pa3.wo98  pa3.wo99  pa3.wo105  pa3.wo106  pa3.wo107  pa3.wo108  pa3.wo109  pa3.wo115  pa3.wo116  pa3.wo117 pa3.wo118  pa3.wo119  pa3.wo120  pa3.wo121

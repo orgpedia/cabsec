@@ -1,0 +1,8 @@
+edits:
+  - clearWords pa1.wo237 pa1.wo238 pa1.wo239
+  - clearWords pa1.wo47  pa1.wo48  pa1.wo49
+  - clearWords pa1.wo65  pa1.wo66
+
+  - clearWords pa1.wo25  pa1.wo39 pa1.wo23 pa1.wo24
+
+  - replaceStr pa0.wo25 <all> January

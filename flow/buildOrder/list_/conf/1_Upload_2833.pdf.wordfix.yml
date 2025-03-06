@@ -1,0 +1,9 @@
+edits:
+  - replaceStr pa0.wo142 <all> PetroChemicals
+  - replaceStr pa0.wo70 <all> of
+
+  - replaceStr pa1.wo200 <all> of
+  - replaceStr pa1.wo128 <all> 'the office'
+
+  - replaceStr pa2.wo181 <all> and
+  - clearWords pa2.wo74 pa2.wo75 pa0.wo278

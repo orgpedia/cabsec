@@ -1,0 +1,9 @@
+# 	MISMATCH P: 1 A: 12 E: 11 W: 115 F: 1 R:False
+# 	MISMATCH P: 3 A: 5 E: 4 W: 85 F: -3 R:False
+
+edits:
+
+  - replaceStr pa1.wo104 <all> 11
+
+  - replaceStr pa2.wo3 <all> 1
+  - newWord 4 pa3.wo85 pa3.wo82

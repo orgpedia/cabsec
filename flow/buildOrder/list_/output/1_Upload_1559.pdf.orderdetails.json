@@ -1,0 +1,5 @@
+{"date": "1993-12-02", "details": [
+{"detail_idx": 0, "officer_id": "Q3530556", "continues": [], "relinquishes": [["Ministry of Science and Technology", "Minister of State"], ["Ministry of Electronics", "Minister of State"], ["Ministry of Earth Sciences", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q15880052", "continues": [["Prime Ministers Office", "Minister of State"], ["Department of Atomic Energy", "Minister of State"], ["Department of Space", "Minister of State"], ["Ministry of Science and Technology", "Minister of State"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q5340599", "continues": [["Ministry of Chemicals and Fertilisers", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"], ["Ministry of Electronics", "Minister of State"], ["Ministry of Earth Sciences", "Minister of State"]], "relinquishes": [], "assumes": []}
+]}

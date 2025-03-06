@@ -1,0 +1,18 @@
+# 	MISMATCH P: 1 A: 2 E: 3 W: 53 F: 1 R:False
+# 	MISMATCH P: 1 A: 4 E: 3 W: 68 F: 0 R:False
+# 	MISMATCH P: 1 A: 9 E: 8 W: 248 F: -6 R:False
+
+edits:
+  - clearWord pa0.wo232
+  - clearWord pa1.wo250
+  - clearWord pa2.wo166
+
+  - replaceStr pa1.wo53 <all> 3
+  - replaceStr pa1.wo234 <all> 8
+
+  #  - newWord '     ' pa2.wo156 pa2.wo142
+
+  - replaceStr pa1.wo75 <all> 'State(Independent'
+  - replaceStr pa1.wo103 <all> 'State(Independent'
+
+  - mergeWords pa2.wo36 pa2.wo37

@@ -1,0 +1,13 @@
+{"date": "2013-06-17", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Cabinet Minister"], ["Ministry of Railways", "Cabinet Minister"], ["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6024265", "continues": [], "relinquishes": [], "assumes": [["Ministry of Labour", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q6744197", "continues": [], "relinquishes": [["Ministry of Labour", "Cabinet Minister"]], "assumes": [["Ministry of Railways", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q1453956", "continues": [], "relinquishes": [], "assumes": [["Ministry of Road Transport and Highways", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q755831", "continues": [["Ministry of Commerce and Industry", "Cabinet Minister"]], "relinquishes": [["Ministry of Textiles", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q5564273", "continues": [], "relinquishes": [], "assumes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]]},
+{"detail_idx": 6, "officer_id": "Q13512569", "continues": [], "relinquishes": [], "assumes": [["Ministry of Textiles", "Cabinet Minister"]]},
+{"detail_idx": 7, "officer_id": "Q6749643", "continues": [], "relinquishes": [], "assumes": [["Ministry of Social Justice and Empowerment", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q7420651", "continues": [], "relinquishes": [], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]},
+{"detail_idx": 9, "officer_id": "Q5322044", "continues": [], "relinquishes": [], "assumes": [["Ministry of Commerce and Industry", "Minister of State"]]},
+{"detail_idx": 10, "officer_id": "Q6187990", "continues": [], "relinquishes": [], "assumes": [["Ministry of Finance", "Minister of State"]]}
+]}

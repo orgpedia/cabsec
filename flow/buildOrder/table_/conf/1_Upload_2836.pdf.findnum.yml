@@ -1,0 +1,14 @@
+# 	MISMATCH P: 0 A: 2 E: 17 W: 207 F: 1 R:False
+# 	MISMATCH P: 2 A: 5 E: 4 W: 55 F: 1 R:False
+
+edits:
+  - replaceStr pa0.wo193 <all> 1
+  - newWord 4 pa2.wo55 pa2.wo52
+
+  - clearWords pa0.wo174  pa0.wo175  pa0.wo176  pa0.wo177  pa0.wo178  pa0.wo179
+  - clearWords pa0.wo180  pa0.wo181  pa0.wo182  pa0.wo185  pa0.wo186  pa0.wo187  pa0.wo188
+
+  - mergeWords pa0.wo189 pa0.wo190
+  - replaceStr pa0.wo189 <all> MINISTERS
+
+  - newWord '    ' pa2.wo200 pa2.wo196

@@ -1,0 +1,42 @@
+# 	MISMATCH P: 2 A: 3 E: 2 W: 77 F: 1 R:False
+# 	MISMATCH P: 2 A: 5 E: 4 W: 84 F: 2 R:False
+# 	MISMATCH P: 2 A: 0 E: 8 W: 200 F: 3 R:False
+# 	MISMATCH P: 2 A: 11 E: 1 W: 204 F: -5 R:False
+# 	MISMATCH P: 3 A: 5 E: 18 W: 224 F: 13 R:False
+# 	MISMATCH P: 3 A: 17 E: 6 W: 237 F: 0 R:False
+
+edits:
+  - newWord 2 pa2.wo77 pa2.wo73
+  - newWord 4 pa2.wo84 pa2.wo81
+  - newWord 8 pa2.wo185 pa2.wo189
+  - newWord 9 pa2.wo185 pa2.wo193
+  - replaceStr pa2.wo200 <all> 10
+
+  - newWord 1 pa3.wo224 pa3.wo91
+  - newWord 2 pa3.wo224 pa3.wo94
+  - newWord 3 pa3.wo224 pa3.wo97
+  - newWord 4 pa3.wo224 pa3.wo100
+  - newWord 6 pa3.wo224 pa3.wo228
+  - replaceStr pa3.wo237 <all> 7
+
+  - newWord 2 pa4.wo3 pa4.wo8
+  - newWord 4 pa4.wo3 pa4.wo81
+  - newWord 5 pa4.wo3 pa4.wo107
+  - newWord 6 pa4.wo3 pa4.wo141
+
+  - newWord 9 pa5.wo5 pa5.wo1
+
+  - newWord 4 pa6.wo174 pa6.wo4
+  - newWord 5 pa6.wo174 pa6.wo32
+  - newWord 6 pa6.wo174 pa6.wo57
+  - newWord 7 pa6.wo174 pa6.wo60
+  - newWord 8 pa6.wo174 pa6.wo130
+  - newWord 9 pa6.wo174 pa6.wo133
+
+  ## TODO please remove this
+  - clearWord pa5.wo224
+
+  - newWord '       ' pa2.wo83 pa2.wo90
+  - mergeWords pa3.wo81 pa3.wo82
+  - clearWords pa3.wo85  pa3.wo153  pa3.wo154 pa3.wo155 pa3.wo156
+  - replaceStr pa3.wo157 <all> Minister

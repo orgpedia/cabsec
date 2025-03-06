@@ -1,0 +1,26 @@
+# 	MISMATCH P: 1 A: 3 E: 2 W: 40 F: 1 R:False
+# 	MISMATCH P: 2 A: 10 E: 9 W: 154 F: 1 R:False
+# 	MISMATCH P: 2 A: 12 E: 11 W: 184 F: 2 R:False
+
+edits:
+  - newWord 2 pa1.wo40 pa1.wo31
+  - newWord 9 pa2.wo154 pa2.wo133
+  - replaceStr pa2.wo159 <all> 11
+  - replaceStr pa2.wo160 <all> 'Shri Lalit'
+
+
+  - replaceStr pa3.wo40 <all> and
+
+
+  - replaceStr pa3.wo219 <all> Ministry
+
+  - replaceStr pa3.wo68 <all> and
+  - replaceStr pa3.wo181 <all> and
+
+  - newWord 15 pa3.wo205 pa3.wo196
+  - clearWord pa3.wo205
+
+  - replaceStr pa2.wo134 <all> Om
+
+  - replaceStr pa3.wo222 <all> and
+  - replaceStr pa3.wo225 <all> and

@@ -1,0 +1,5 @@
+{"date": "2013-06-15", "details": [
+{"detail_idx": 0, "officer_id": "Q5006743", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Cabinet Minister"], ["Ministry of Railways", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3595205", "continues": [], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q41914", "continues": [], "relinquishes": [], "assumes": [["Ministry of Road Transport and Highways", "Cabinet Minister"], ["Ministry of Railways", "Cabinet Minister"], ["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]]}
+]}

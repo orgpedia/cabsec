@@ -1,0 +1,4 @@
+edits:
+  - clearWords pa1.wo167 pa1.wo168
+  - replaceStr pa1.wo255 <all> the
+  - replaceStr pa0.wo43 <all> Prime

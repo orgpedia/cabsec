@@ -1,0 +1,23 @@
+# 	MISMATCH P: 2 A: 12 E: 2 W: 109 F: -8 R:False
+# 	MISMATCH P: 2 A: 3 E: 13 W: 117 F: 2 R:False
+
+edits:
+  - replaceStr pa2.wo109 <all> 2
+  - replaceStr pa2.wo73 <all> Heavy
+
+  - clearWords pa3.wo38  pa3.wo39
+
+  - replaceStr pa3.wo63 <all> 'in'
+
+  - mergeWords pa3.wo114 pa3.wo115
+  - replaceStr pa3.wo114 <all> Community
+  - replaceStr pa3.wo116 <all> Development
+
+  - replaceStr pa3.wo150 <all> 'in'
+
+  - replaceStr pa3.wo142 <all> 'Defence'
+
+  - mergeWords pa3.wo123 pa3.wo124
+
+  - replaceStr pa3.wo230 <all> the
+  - replaceStr pa3.wo252 <all> Development

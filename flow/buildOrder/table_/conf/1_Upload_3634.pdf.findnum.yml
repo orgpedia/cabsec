@@ -1,0 +1,7 @@
+include_zero: True
+
+edits:
+  - newWord 0 pa0.wo58 pa1.wo4
+ 
+  - clearWords pa5.wo173 pa3.wo305 pa2.wo258
+  - replaceStr pa3.wo314 <all> 'Parliamentary Affairs'

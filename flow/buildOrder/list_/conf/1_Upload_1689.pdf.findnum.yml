@@ -1,0 +1,4 @@
+edits:
+  - replaceStr pa0.wo41 <all> i
+  - newWord ii pa0.wo116 pa0.wo56
+  - newWord v pa0.wo116 pa0.wo117

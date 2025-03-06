@@ -1,0 +1,12 @@
+edits:
+  - mergeWords pa0.wo51 pa0.wo52
+  - replaceStr pa0.wo51 <all> Ram
+
+  - mergeWords pa0.wo53 pa0.wo54
+  - replaceStr pa0.wo53 <all> relinquished
+
+  - replaceStr pa0.wo56 <all> office
+  - replaceStr pa0.wo59 <all> Minister
+
+  - replaceStr pa0.wo61 <all> agriculture
+  - replaceStr pa0.wo62 <all> and

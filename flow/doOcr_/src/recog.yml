@@ -1,0 +1,22 @@
+description: This folder(task) runs the OCR and builds JSON object with text and bounding boxes
+
+pipeline:
+  - name: gcv_recognizer
+    config:
+      bucket: vastram
+
+  - name: meta_writer
+    config:
+      meta_file: conf/urls.archive.json
+
+  - name: page_image_builder_embedded
+    config:
+      image_dir: /export/page_images
+
+  - name: orient_pages
+    config:
+      min_word_len: 4
+
+  - name: html_generator
+    config:
+      html_root: /export/html

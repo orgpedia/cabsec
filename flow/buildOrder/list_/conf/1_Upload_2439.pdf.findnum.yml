@@ -1,0 +1,19 @@
+# 	MISMATCH P: 0 A: 10 E: 9 W: 305 F: 1 R:False
+
+edits:
+  - newWord 9 pa0.wo305 pa0.wo280
+
+  - replaceStr pa0.wo280 <all> Shri
+
+  - replaceStr pa0.wo25 <all> October
+  - replaceStr pa0.wo26 <all> 1980
+
+  - clearWord pa0.wo27
+  - clearWord pa0.wo28
+  - clearWord pa0.wo29
+  - clearWord pa0.wo30
+
+  - clearWord pa0.wo44
+  - clearWord pa0.wo45
+  - clearWord pa0.wo46
+  - clearWord pa0.wo47

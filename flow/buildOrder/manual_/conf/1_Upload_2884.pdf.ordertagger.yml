@@ -1,0 +1,14 @@
+edits:
+  - replaceStr pa0.wo28 <all> 'A.M.'
+  - mergeWords pa0.wo45 pa0.wo46
+
+order:
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 27, 28, 44]
+
+      assumes:
+        - idxs: [45, 47, 48, 39, 40, 41, 42, 43]

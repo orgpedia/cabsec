@@ -1,0 +1,11 @@
+mode: overwrite_detail
+order:
+  details:
+    - detail_idx: 14
+      page_idx: 1
+      officer:
+        idxs: [ 143, 144, 145, 146 ]
+
+      assumes:
+        - idxs: [152, 153, 162, 163, 164, 165, 166]
+        - idxs: [168, 169, 154, 155, 156, 157, 158, 159]

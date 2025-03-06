@@ -1,0 +1,14 @@
+edits:
+  - replaceStr pa0.wo44 <all> Finance # Hack as post is not mentioned
+
+order:
+  order_date: '1st August, 1956'
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 36, 37, 38]
+
+      relinquishes:
+        - idxs: [44, 45]

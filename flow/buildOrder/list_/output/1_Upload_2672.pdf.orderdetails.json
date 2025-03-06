@@ -1,0 +1,13 @@
+{"date": "1976-09-23", "details": [
+{"detail_idx": 0, "officer_id": "Q5203758", "continues": [["Ministry of Commerce", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 1, "officer_id": "Q5871914", "continues": [], "relinquishes": [], "assumes": [["Ministry of Works and Housing", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q6433963", "continues": [], "relinquishes": [["Ministry of Works and Housing", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Civil Aviation and Tourism", "Cabinet Minister"], ["Ministry of Parliamentary Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7285239", "continues": [], "relinquishes": [["Ministry of Civil Aviation and Tourism", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 4, "officer_id": "Q7238171", "continues": [], "relinquishes": [["Ministry of Chemicals and Fertilisers", "Cabinet Minister"]], "assumes": [["Ministry without portfolio", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q1896096", "continues": [], "relinquishes": [["Ministry of Defence", "Deputy Minister"]], "assumes": [["Ministry of Defence", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q45348465", "continues": [], "relinquishes": [["Ministry of Civil Aviation and Tourism", "Minister of State"]], "assumes": [["Ministry of Railways", "Minister of State"]]},
+{"detail_idx": 7, "officer_id": "Q315338", "continues": [], "relinquishes": [["Ministry of Commerce", "Deputy Minister"]], "assumes": [["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 8, "officer_id": "Q1896702", "continues": [], "relinquishes": [["Ministry of Communications", "Deputy Minister"]], "assumes": [["Ministry of Labour", "Deputy Minister"]]},
+{"detail_idx": 9, "officer_id": "Q7423687", "continues": [], "relinquishes": [["Ministry of Railways", "Deputy Minister"]], "assumes": [["Ministry of Commerce", "Deputy Minister"]]},
+{"detail_idx": 10, "officer_id": "Q45348459", "continues": [], "relinquishes": [["Ministry of Labour", "Deputy Minister"]], "assumes": [["Ministry of Communications", "Deputy Minister"]]}
+]}

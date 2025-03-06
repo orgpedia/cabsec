@@ -1,0 +1,8 @@
+edits:
+  - mergeWords pa0.wo68 pa0.wo69 pa0.wo70
+
+  - mergeWords pa0.wo72 pa0.wo73
+  - replaceStr pa0.wo72 <all> Environment
+
+  - mergeWords pa0.wo48 pa0.wo49
+  - replaceStr pa0.wo48 <all> Department

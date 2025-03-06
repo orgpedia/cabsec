@@ -1,0 +1,8 @@
+{"date": "1984-09-07", "details": [
+{"detail_idx": 0, "officer_id": "Q315338", "continues": [], "relinquishes": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Industry", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q57446", "continues": [["Ministry of Finance", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Commerce", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3763961", "continues": [], "relinquishes": [["Ministry of Shipping and Transport", "Cabinet Minister"]], "assumes": [["Ministry of Industry", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q7918212", "continues": [["Ministry of Labour", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Shipping and Transport", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q58292", "continues": [], "relinquishes": [["Ministry of Finance", "Minister of State"]], "assumes": [["Ministry of Commerce", "Minister of State"], ["Ministry of Commerce", "Minister of State"]]},
+{"detail_idx": 5, "officer_id": "Q17466379", "continues": [], "relinquishes": [["Ministry of Commerce", "Minister of State"], ["Ministry of Commerce", "Minister of State"]], "assumes": [["Ministry of Industry", "Minister of State"]]}
+]}

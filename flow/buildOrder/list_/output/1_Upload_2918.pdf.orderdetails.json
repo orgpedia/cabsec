@@ -1,0 +1,6 @@
+{"date": "1964-07-19", "details": [
+{"detail_idx": 0, "officer_id": "Q244689", "continues": [], "relinquishes": [["Ministry of External Affairs", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q1034290", "continues": [], "relinquishes": [["Ministry of Industry", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]], "assumes": [["Ministry of External Affairs", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q21608071", "continues": [], "relinquishes": [["Ministry of Irrigation", "Cabinet Minister"], ["Ministry of Power", "Cabinet Minister"]], "assumes": [["Ministry of Industry", "Cabinet Minister"], ["Ministry of Supply", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q6365681", "continues": [], "relinquishes": [["Ministry of Irrigation", "Minister of State"], ["Ministry of Power", "Minister of State"]], "assumes": [["Ministry of Irrigation", "Minister of State"], ["Ministry of Power", "Minister of State"]]}
+]}

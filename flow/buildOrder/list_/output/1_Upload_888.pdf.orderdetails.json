@@ -1,0 +1,6 @@
+{"date": "2012-07-31", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [["Ministry of Finance", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q377358", "continues": [], "relinquishes": [["Ministry of Home Affairs", "Cabinet Minister"]], "assumes": [["Ministry of Finance", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q3504490", "continues": [], "relinquishes": [["Ministry of Power", "Cabinet Minister"]], "assumes": [["Ministry of Home Affairs", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q3519659", "continues": [["Ministry of Corporate Affairs", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Power", "Cabinet Minister"]]}
+]}

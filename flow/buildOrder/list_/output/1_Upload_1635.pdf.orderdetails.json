@@ -1,0 +1,9 @@
+{"date": "1998-01-11", "details": [
+{"detail_idx": 0, "officer_id": "Q6123428", "continues": [], "relinquishes": [["Ministry of New and Renewable Energy", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q6365478", "continues": [], "relinquishes": [["Ministry of Coal", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q3634905", "continues": [], "relinquishes": [["Ministry of Consumer Affairs, Food and Public Distribution", "Minister of State (Independent Charge)"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q248484", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Cabinet Minister"], ["Ministry of New and Renewable Energy", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q4853134", "continues": [["Ministry of Welfare", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Consumer Affairs, Food and Public Distribution", "Cabinet Minister"]]},
+{"detail_idx": 5, "officer_id": "Q3632975", "continues": [["Ministry of Civil Aviation", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Coal", "Minister of State"]]},
+{"detail_idx": 6, "officer_id": "Q3534034", "continues": [["Ministry of Petroleum and Natural Gas", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of New and Renewable Energy", "Minister of State"]]}
+]}

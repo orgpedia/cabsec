@@ -1,0 +1,18 @@
+{"date": "2000-05-27", "details": [
+{"detail_idx": 0, "officer_id": "Q122304", "continues": [], "relinquishes": [], "assumes": [["Ministry of Agriculture", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q4791555", "continues": [], "relinquishes": [], "assumes": [["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q7321222", "continues": [["Ministry of Rural Development", "Cabinet Minister"]], "relinquishes": [["Ministry of Agriculture", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 3, "officer_id": "Q5071487", "continues": [], "relinquishes": [["Ministry of Drinking Water and Sanitation", "Cabinet Minister"]], "assumes": [["Ministry of Health and Family Welfare", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q4751468", "continues": [["Ministry of Tourism", "Cabinet Minister"], ["Ministry of Culture", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 5, "officer_id": "Q5924734", "continues": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 6, "officer_id": "Q7635793", "continues": [["Ministry of Youth Affairs and Sports", "Cabinet Minister"]], "relinquishes": [["Ministry of Housing and Urban Poverty Alleviation", "Cabinet Minister"]], "assumes": [["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 7, "officer_id": "Q3530556", "continues": [["Ministry of Power", "Cabinet Minister"]], "relinquishes": [["Ministry of Mines and Minerals", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 8, "officer_id": "Q6951805", "continues": [], "relinquishes": [["Ministry of Health and Family Welfare", "Minister of State (Independent Charge)"]], "assumes": [["Ministry of Coal", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 9, "officer_id": "Q4955984", "continues": [], "relinquishes": [], "assumes": [["Ministry of Steel", "Minister of State (Independent Charge)"]]},
+{"detail_idx": 10, "officer_id": "Q7336609", "continues": [], "relinquishes": [["Ministry of Mines and Minerals", "Minister of State"]], "assumes": [["Ministry of Health and Family Welfare", "Minister of State"]]},
+{"detail_idx": 11, "officer_id": "Q7660441", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": [["Ministry of Youth Affairs and Sports", "Minister of State"]]},
+{"detail_idx": 12, "officer_id": "Q5935445", "continues": [], "relinquishes": [["Ministry of Agriculture", "Minister of State"]], "assumes": [["Ministry of Road Transport and Highways", "Minister of State"]]},
+{"detail_idx": 13, "officer_id": "Q5248055", "continues": [], "relinquishes": [["Ministry of Road Transport and Highways", "Minister of State"]], "assumes": [["Ministry of Agriculture", "Minister of State"]]},
+{"detail_idx": 14, "officer_id": "Q6124286", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": [["Ministry of Mines", "Minister of State"]]},
+{"detail_idx": 15, "officer_id": "Q23760895", "continues": [], "relinquishes": [["Ministry of Human Resource Development", "Minister of State"]], "assumes": [["Ministry of Agriculture", "Minister of State"]]}
+]}

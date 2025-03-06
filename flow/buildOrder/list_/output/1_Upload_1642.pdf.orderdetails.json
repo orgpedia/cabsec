@@ -1,0 +1,5 @@
+{"date": "1998-04-20", "details": [
+{"detail_idx": 0, "officer_id": "Q7423687", "continues": [], "relinquishes": [], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q1652493", "continues": [["Ministry of Information and Broadcasting", "Cabinet Minister"]], "relinquishes": [], "assumes": [["Ministry of Communications", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q6002323", "continues": [["Ministry of Railways", "Minister of State"], ["Ministry of Parliamentary Affairs", "Minister of State"]], "relinquishes": [], "assumes": [["Ministry of Planning and Programme Implementation", "Minister of State"]]}
+]}

@@ -1,0 +1,6 @@
+# 	MISMATCH P: 0 A: 2 E: 3 W: 114 F: 2 R:True
+# 	MISMATCH P: 0 A: 4 E: 3 W: 179 F: 1 R:True
+
+edits:
+  - replaceStr pa0.wo74 <all> i
+  - replaceStr pa0.wo114 <all> iii

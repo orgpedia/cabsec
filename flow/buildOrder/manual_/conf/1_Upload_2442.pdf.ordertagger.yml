@@ -1,0 +1,36 @@
+edits:
+  - mergeWords pa0.wo51 pa0.wo52
+  - mergeWords pa0.wo59 pa0.wo60 pa0.wo61
+  - mergeWords pa0.wo63 pa0.wo64
+
+  - mergeWords pa0.wo68 pa0.wo69
+  - mergeWords pa0.wo74 pa0.wo75
+  - replaceStr pa0.wo77 <all> Electronics
+
+  - mergeWords pa0.wo92 pa0.wo93
+  - mergeWords pa0.wo96 pa0.wo97
+  - mergeWords pa0.wo99 pa0.wo100 pa0.wo101
+  - newWord 3 pa0.wo27 pa0.wo25
+  - addWordIdxs pa0.word_labels.ORDERBODY 250
+
+order:
+  order_date: 3 Nov 1980
+  details:
+    - detail_idx: 0
+      page_idx: 0
+      officer:
+        idxs: [48, 49, 50]
+
+      continues:
+        - idxs: [51, 52, 53, 54, 55, 56, 57, 58, 59, 62, 63]
+
+      assumes:
+        - idxs: [68, 70, 71, 72, 73, 74, 76, 77]
+
+    - detail_idx: 1
+      page_idx: 0
+      officer:
+        idxs: [80, 81, 82, 83, 84]
+
+      assumes:
+        - idxs: [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101]

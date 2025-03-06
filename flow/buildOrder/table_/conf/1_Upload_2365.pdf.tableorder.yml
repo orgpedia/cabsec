@@ -1,0 +1,33 @@
+ignores:
+  UnmatchedTextsError: [ pa3.ta0.ro4.ce2, pa3.ta0.ro3.ce2, pa3.ta0.ro1.ce2, pa2.ta0.ro7.ce2, pa1.ta0.ro14.ce2, pa1.ta0.ro18.ce2]
+edits:
+  - replaceStr pa0.wo87 <all> Minister
+  - replaceStr pa0.wo93 <all> Affairs
+
+  - mergeWords pa0.wo109 pa0.wo110 pa0.wo111
+  - replaceStr pa0.wo109 <all> without
+
+  - replaceStr pa0.wo144 <all> welfare
+
+  - replaceStr pa0.wo175 <all> Minister
+
+  - mergeWords pa1.wo29 pa1.wo30 pa1.wo31 pa1.wo32
+  - replaceStr pa1.wo194 <all> Welfare
+  - replaceStr pa1.wo251 <all> Irrigation
+
+  - replaceStr pa1.wo336 <all> External
+
+  - mergeWords pa2.wo263 pa2.wo264 pa2.wo265 pa2.wo266
+  - replaceStr pa2.wo263 <all> Parliamentary
+
+  - replaceStr pa2.wo275 <all> of
+
+  - mergeWords pa2.wo36 pa2.wo37   pa2.wo38 pa2.wo39
+  - replaceStr pa2.wo36 <all> '(Independent'
+
+  - mergeWords pa2.wo46 pa2.wo47  pa2.wo48
+  - replaceStr pa2.wo46 <all> Information
+
+  - mergeWords pa2.wo50 pa2.wo51 pa2.wo52
+  - replaceStr pa2.wo50 <all> Broadcasting
+  - clearWords pa1.wo239

@@ -1,0 +1,7 @@
+{"date": "2004-11-27", "details": [
+{"detail_idx": 0, "officer_id": "Q41914", "continues": [], "relinquishes": [["Ministry of Coal", "Cabinet Minister"], ["Ministry of Mines", "Cabinet Minister"]], "assumes": []},
+{"detail_idx": 1, "officer_id": "Q3630358", "continues": [], "relinquishes": [], "assumes": [["Ministry of Coal", "Cabinet Minister"]]},
+{"detail_idx": 2, "officer_id": "Q6024265", "continues": [], "relinquishes": [["Ministry of Labour", "Cabinet Minister"]], "assumes": [["Ministry of Mines", "Cabinet Minister"]]},
+{"detail_idx": 3, "officer_id": "Q33168", "continues": [], "relinquishes": [["Ministry without portfolio", "Cabinet Minister"]], "assumes": [["Ministry of Labour", "Cabinet Minister"]]},
+{"detail_idx": 4, "officer_id": "Q3595535", "continues": [], "relinquishes": [["Ministry of Coal", "Minister of State"], ["Ministry of Mines", "Minister of State"]], "assumes": [["Ministry of Coal", "Minister of State"], ["Ministry of Mines", "Minister of State"]]}
+]}

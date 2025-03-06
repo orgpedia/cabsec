@@ -1,0 +1,5 @@
+{"date": "1956-10-19", "details": [
+{"detail_idx": 0, "officer_id": "Q4699796", "continues": [], "relinquishes": [], "assumes": [["Ministry of Food", "Cabinet Minister"], ["Ministry of Agriculture", "Cabinet Minister"]]},
+{"detail_idx": 1, "officer_id": "Q7131233", "continues": [["Ministry of Agriculture", "Cabinet Minister"], ["Ministry of Agriculture", "Cabinet Minister"]], "relinquishes": [], "assumes": []},
+{"detail_idx": 2, "officer_id": "Q17495754", "continues": [], "relinquishes": [], "assumes": []}
+]}

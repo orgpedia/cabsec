@@ -1,0 +1,136 @@
+[tool.poetry]
+name = "orgpedia-cabsec"
+version = "0.0.12"
+description = "Datapackage containing orders of Cabinet Secretariat from https://cabsec.gov.in/."
+authors = ["Orgpedia Foundation <orgpedia.foundation@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+keywords = ["information extraction", "data package", "government data"]
+classifiers=[
+    'Development Status :: 2 - Pre-Alpha',
+    'Intended Audience :: Developers',
+    'License :: OSI Approved :: MIT License',
+    'Natural Language :: English',
+    'Programming Language :: Python :: 3',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
+    'Topic :: Scientific/Engineering :: Artificial Intelligence',
+    'Topic :: Scientific/Engineering :: Information Analysis',
+    'Topic :: Scientific/Engineering :: Visualization',
+    'Topic :: Scientific/Engineering :: Image Processing',
+    'Topic :: Scientific/Engineering :: Image Recognition',
+]
+
+packages = [ { include = "orgpedia_cabsec", from = "export" } ]
+include = [ "export/orgpedia_cabsec/*" ]
+
+[tool.poetry.urls]
+"homepage" = "https://www.orgpedia.in/"
+"repository" = "https://github.com/orgpedia/cabsec"
+"data issues" = "https://github.com/orgpedia/cabsec/discussions"
+
+[tool.poetry.dependencies]
+python = ">3.8.1 <4.0"
+
+# this is a datapackage should not have any dependency as we are publishing data
+# dependencies for running the flow are in group.dev.dependencies
+google-cloud-vision = "^3.7.2"
+waybackpy = "^3.0.6"
+google-cloud-storage = "^2.15.0"
+numpy = "*"
+transformers = {extras = ["torch"], version = "^4.38.2"}
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+docint = { git = "https://github.com/mukundesh/docInt.git" }
+orgpedia = {git = "https://github.com/orgpedia/orgpedia.git"}
+#transformers = {extras = ["torch"], version = "^4.23.1"}
+
+black = "^22.6.0"
+ruff = "^0.0.243"
+more-itertools = "^10.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 100
+skip-string-normalization = true
+target-version = ['py37', 'py38', 'py39', 'py310']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | \.yml
+  | \.json
+  | \.txt
+  | \.bak
+  | makefile
+  | _build
+  | buck-out
+  | build
+  | dist
+  | input
+  | output
+  | logs
+  | conf
+  | models
+  | export
+  | documents
+)/
+'''
+
+[tool.ruff]
+# Enable Pyflakes `E` and `F` codes by default.
+select = ["E", "F", "W", "I001"]
+ignore = []
+
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+fixable = ["I001"] # fix only isort issues
+unfixable = []
+
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".git",
+    ".mypy_cache",
+    ".nox",
+    ".ruff_cache",
+    ".tox",
+    "__pypackages__",
+    "dist",
+    "node_modules",
+    "venv",
+    ".bak",
+    "input",
+    "output",
+    "logs",
+    "conf",
+    "export",
+    "models",
+    "documents",
+    "data_packages",
+    "websites",
+    "page_images",
+    "html",
+]
+per-file-ignores = {}
+
+# Same as Black.
+line-length = 100
+
+# Allow unused variables when underscore-prefixed.
+#dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+# Assume Python 3.7
+target-version = "py38"

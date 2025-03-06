@@ -1,0 +1,20 @@
+order:
+  order_date: '30th January, 1957'
+  details:
+    - detail_idx: 0
+      page_idx: 0
+
+      officer:
+        idxs: [ 35, 36, 37, 38 ]
+
+      relinquishes:
+        - idxs: [66, 67, 1]
+
+    - detail_idx: 1
+      page_idx: 0
+
+      officer:
+        idxs: [ 59, 60 ]
+
+      assumes:
+        - idxs: [66, 67, 1]

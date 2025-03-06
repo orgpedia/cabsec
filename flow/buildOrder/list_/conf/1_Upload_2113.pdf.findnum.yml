@@ -1,0 +1,24 @@
+# > Page 0 [1-72, 3-73, 2-108, 1-131, 11-139]
+
+# pa0.nu4 Expected: 2 Actual: 11 word_idx: 139
+# pa0.nu1 Expected: 1 Actual: 3 word_idx: 73
+
+edits:
+  - replaceStr pa0.wo63 <all> assumed
+  - replaceStr pa0.wo78 <all> assumed
+  - replaceStr pa0.wo85 <all> Finance
+  - replaceStr pa0.wo47 <all> Deputy
+  - replaceStr pa0.wo48 <all> Prime
+  - replaceStr pa0.wo57 <all> Affairs
+  - replaceStr pa0.wo41 <all> 'Y.B.'
+  - replaceStr pa0.wo44 <all> been
+  - replaceStr pa0.wo66 <all> of
+
+  - replaceStr pa0.wo58 <all> i
+  - replaceStr pa0.wo72 <all> ii
+
+  - replaceStr pa0.wo15 <all> July
+
+  - clearWord pa0.wo108
+  - clearWord pa0.wo131
+  - clearWord pa0.wo139

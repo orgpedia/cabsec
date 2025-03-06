@@ -1,0 +1,9 @@
+# 	MISMATCH P: 2 A: 5 E: 4 W: 62 F: 1 R:False
+
+edits:
+  - newWord 4 pa2.wo62 pa2.wo50
+  - replaceStr pa3.wo224 <all> Singh
+  - replaceStr pa3.wo225 <all> Rawat
+
+  - mergeWords pa2.wo11 pa2.wo12
+  - replaceStr pa2.wo11 <all> in
