@@ -150,7 +150,7 @@ model
 /import/docker
 /import/data_packages
 
-/import/websites/cabsec.gov.in
+#/import/websites/cabsec.gov.in
 
 /export/page_images
 /export/html
@@ -166,3 +166,4 @@ model
 *~
 .DS_Store
 poetry.lock
+LFS
