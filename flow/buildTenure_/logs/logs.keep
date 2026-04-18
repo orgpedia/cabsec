@@ -1,0 +1,2002 @@
+>>> tenure_builder.log
+Entering tenure builder
+
+## Processing Officer: Q1034290 #detailpost_infos: 68
+
+	Orders: {'1_Upload_2740.pdf', '1_Upload_2857.pdf', '1_Upload_2875.pdf', '1_Upload_2900.pdf', '1_Upload_2892.pdf', '1_Upload_2853.pdf', '1_Upload_2785.pdf', '1_Upload_2925.pdf', '1_Upload_2003.pdf', '1_Upload_2008.pdf', '1_Upload_2023.pdf', '1_Upload_3098.pdf', '1_Upload_2772.pdf', '1_Upload_2784.pdf', '1_Upload_2874.pdf', '1_Upload_2855.pdf', '1_Upload_2894.pdf', '1_Upload_2002.pdf', '1_Upload_2893.pdf', '1_Upload_2918.pdf', '1_Upload_2010.pdf', '1_Upload_2856.pdf', '1_Upload_2842.pdf', '1_Upload_2851.pdf', '1_Upload_2822.pdf', '1_Upload_2909.pdf', '1_Upload_2826.pdf', '1_Upload_2922.pdf', '1_Upload_2897.pdf', '1_Upload_2748.pdf', '1_Upload_2691.pdf', '1_Upload_2004.pdf', '1_Upload_2836.pdf', '1_Upload_2773.pdf', '1_Upload_2945.pdf', '1_Upload_1995.pdf', '1_Upload_2741.pdf', '1_Upload_2914.pdf', '1_Upload_2841.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2835.pdf', '1_Upload_2907.pdf', '1_Upload_2012.pdf', '1_Upload_2926.pdf', '1_Upload_2840.pdf', '1_Upload_2908.pdf', '1_Upload_2742.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2945.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_3098.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[4]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing, D:__department__>Ministry of Commerce, D:__department__>Ministry of Consumer Industries
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1952-05-13->,1957-04-16]
+		NEW T: [Q1034290,1952-05-13->,1957-04-16]
+		NEW T: [Q1034290,1956-08-31->,1957-04-16]
+		NEW T: [Q1034290,1956-08-31->,1957-04-16]
+Order: 1_Upload_2023.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Mines and Fuel, D:__department__>Ministry of Steel
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1957-04-16->,1962-04-10]
+		NEW T: [Q1034290,1957-04-16->,1962-04-10]
+Order: 1_Upload_2002.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2922.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2897.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Railways Order[2]: D:__department__>Ministry of Railways, D:__department__>Ministry of Agriculture
+Order: 1_Upload_2893.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Railways, D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Multiple roles Officer: Q1034290 1_Upload_2002.pdf:5-Cabinet Minister|1_Upload_2922.pdf:5-Cabinet Minister|1_Upload_2924.pdf:5-Cabinet Minister|1_Upload_2925.pdf:6-Cabinet Minister|1_Upload_2926.pdf:6-Cabinet Minister|1_Upload_2927.pdf:6-Cabinet Minister|1_Upload_2928.pdf:6-Cabinet Minister|1_Upload_2897.pdf:13-None
+		NEW T: [Q1034290,1962-04-10->1_Upload_2893.pdf,1963-09-02]
+		Closing Actives*[1]: D:__department__>Ministry of Railways 1_Upload_2893.pdf 3
+Order: 1_Upload_2900.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Agriculture Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Railways
+***Missing Assume post_id: D:__department__>Ministry of Railways not found in 1_Upload_2900.pdf Q1034290 D:__department__>Ministry of Railways
+Order: 1_Upload_2894.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+Multiple roles Officer: Q1034290 1_Upload_2897.pdf:13-None|1_Upload_2893.pdf:3-Cabinet Minister|1_Upload_2900.pdf:0-None|1_Upload_2894.pdf:3-Cabinet Minister
+		NEW T: [Q1034290,1963-09-01->,1964-05-27]
+Order: 1_Upload_2003.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1964-05-27->,1964-06-09]
+Order: 1_Upload_2004.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2907.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2914.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2908.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2918.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[3]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply, D:__department__>Ministry of External Affairs
+		NEW T: [Q1034290,1964-06-09->1_Upload_2918.pdf,1964-07-19]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2918.pdf 1
+		NEW T: [Q1034290,1964-06-20->1_Upload_2918.pdf,1964-07-19]
+		Closing Active: D:__department__>Ministry of Supply 1_Upload_2918.pdf 1
+Order: 1_Upload_2909.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1964-07-19->,1966-01-11]
+Order: 1_Upload_2008.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1966-01-14->,1966-01-24]
+Order: 1_Upload_2010.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2874.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2875.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2892.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1966-01-24->1_Upload_2892.pdf,1966-11-13]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2892.pdf 2
+Order: 1_Upload_2012.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2853.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2855.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2856.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2857.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2835.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2836.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2841.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2851.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Defence Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2826.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[3]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering, D:__department__>Ministry of External Affairs
+Multiple roles Officer: Q1034290 1_Upload_2892.pdf:2-Cabinet Minister|1_Upload_2012.pdf:15-Cabinet Minister|1_Upload_2853.pdf:15-Cabinet Minister|1_Upload_2855.pdf:17-Cabinet Minister|1_Upload_2856.pdf:16-Cabinet Minister|1_Upload_2857.pdf:16-Cabinet Minister|1_Upload_2835.pdf:15-Cabinet Minister|1_Upload_2836.pdf:14-Cabinet Minister|1_Upload_2841.pdf:15-Cabinet Minister|1_Upload_2851.pdf:3-None|1_Upload_2842.pdf:11-Cabinet Minister|1_Upload_2840.pdf:13-Cabinet Minister|1_Upload_2826.pdf:6-Cabinet Minister
+		NEW T: [Q1034290,1966-11-13->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Defence 1_Upload_2826.pdf 6
+Multiple roles Officer: Q1034290 1_Upload_2851.pdf:3-None|1_Upload_2842.pdf:11-Cabinet Minister|1_Upload_2840.pdf:13-Cabinet Minister|1_Upload_2826.pdf:6-Cabinet Minister
+		NEW T: [Q1034290,1969-11-16->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Steel and Heavy Engineering 1_Upload_2826.pdf 6
+Order: 1_Upload_2822.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1970-06-28->,1971-03-18]
+Order: 1_Upload_1995.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2784.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2785.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2772.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2773.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2740.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2748.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1971-03-18->1_Upload_2748.pdf,1974-10-11]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2748.pdf 2
+Order: 1_Upload_2741.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2742.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2691.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1974-10-11->1_Upload_2691.pdf,1975-12-01]
+		Closing Active: D:__department__>Ministry of Defence 1_Upload_2691.pdf 1
+
+## Processing Officer: Q104178808 #detailpost_infos: 13
+
+	Orders: {'1_Upload_3634.pdf', '1_Upload_3795.pdf', '1_Upload_3837.pdf', '1_Upload_3889.pdf', '1_Upload_3004.pdf', '1_Upload_3158.pdf', '1_Upload_3297.pdf'}
+Order: 1_Upload_3158.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3004.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3297.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3634.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3795.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3837.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+	New ministry Clearing older posts.
+		NEW T: [Q104178808,2021-07-07->,2024-06-09]
+		NEW T: [Q104178808,2021-07-07->,2024-06-09]
+Order: 1_Upload_3889.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+***No Closing Orders[1]: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+		NEW T: [Q104178808,2024-06-09->,2024-10-04]
+
+## Processing Officer: Q104666566 #detailpost_infos: 41
+
+	Orders: {'1_Upload_2857.pdf', '1_Upload_2854.pdf', '1_Upload_2640.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2042.pdf', '1_Upload_2856.pdf', '1_Upload_2842.pdf', '1_Upload_2822.pdf', '1_Upload_2455.pdf', '1_Upload_2153.pdf', '1_Upload_2826.pdf', '1_Upload_2453.pdf', '1_Upload_2836.pdf', '1_Upload_2454.pdf', '1_Upload_2832.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2463.pdf', '1_Upload_2840.pdf', '1_Upload_2635.pdf'}
+Order: 1_Upload_2854.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2855.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2856.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2857.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2835.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2836.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2833.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[4]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry, D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+		NEW T: [Q104666566,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Corporate Affairs 1_Upload_2833.pdf 26
+		NEW T: [Q104666566,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2833.pdf 26
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2826.pdf #detailpost_infos: 5
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[5]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+		NEW T: [Q104666566,1969-02-14->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Corporate Affairs 1_Upload_2826.pdf 17
+		NEW T: [Q104666566,1969-02-14->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Industrial Development and Internal Trade 1_Upload_2826.pdf 17
+Order: 1_Upload_2822.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2832.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2832.pdf 0
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Mines and Metals 1_Upload_2832.pdf 0
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2832.pdf 0
+	New ministry Clearing older posts.
+Order: 1_Upload_2640.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2635.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2453.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2455.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Irrigation
+		NEW T: [Q104666566,1977-08-14->1_Upload_2455.pdf,1979-01-26]
+		Closing Actives*[1]: D:__department__>Ministry of Agriculture 1_Upload_2455.pdf 39
+Order: 1_Upload_2463.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Irrigation Order[1]: D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_2463.pdf Q104666566 D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+		NEW T: [Q104666566,1979-01-26->,1979-07-28]
+Order: 1_Upload_2153.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2454.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+	New ministry Clearing older posts.
+Multiple roles Officer: Q104666566 1_Upload_2153.pdf:19-Minister of State (Independent Charge)|1_Upload_2454.pdf:36-Minister of State
+		NEW T: [Q104666566,1979-07-30->,1980-01-14]
+Order: 1_Upload_2042.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+***Missing Assume post_id: D:__department__>Ministry of Rural Development not found in 1_Upload_2042.pdf Q104666566 D:__department__>Ministry of Rural Development
+
+## Processing Officer: Q104696553 #detailpost_infos: 5
+
+	Orders: {'1_Upload_2454.pdf', '1_Upload_2473.pdf', '1_Upload_2462.pdf', '1_Upload_2452.pdf'}
+Order: 1_Upload_2462.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Tourism
+Order: 1_Upload_2452.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Tourism, D:__department__>Ministry of Civil Aviation Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+		NEW T: [Q104696553,1979-08-13->1_Upload_2452.pdf,1979-08-16]
+		NEW T: [Q104696553,1979-08-13->1_Upload_2452.pdf,1979-08-16]
+		Closing Actives*[2]: D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Tourism 1_Upload_2452.pdf 30
+Order: 1_Upload_2454.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Civil Aviation and Tourism Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+Order: 1_Upload_2473.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Civil Aviation and Tourism Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+		NEW T: [Q104696553,1979-08-16->1_Upload_2473.pdf,1979-11-28]
+		Closing Active: D:__department__>Ministry of Civil Aviation and Tourism 1_Upload_2473.pdf 1
+
+## Processing Officer: Q1047 #detailpost_infos: 36
+
+	Orders: {'1_Upload_2933.pdf', '1_Upload_3314.pdf', '1_Upload_2025.pdf', '1_Upload_2955.pdf', '1_Upload_2925.pdf', '1_Upload_2023.pdf', '1_Upload_3098.pdf', '1_Upload_2894.pdf', '1_Upload_2002.pdf', '1_Upload_2893.pdf', '1_Upload_2026.pdf', '1_Upload_2937.pdf', '1_Upload_2027.pdf', '1_Upload_2922.pdf', '1_Upload_3312.pdf', '1_Upload_2945.pdf', '1_Upload_3082.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2926.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2027.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Ministry of Commonwealth Relations, D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+Order: 1_Upload_2025.pdf #detailpost_infos: 2
+	Active[3]: D:__department__>Ministry of Commonwealth Relations, D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+		NEW T: [Q1047,1947-08-15->1_Upload_2025.pdf,1950-01-26]
+		Closing Actives*[1]: D:__department__>Ministry of Commonwealth Relations 1_Upload_2025.pdf 0
+Order: 1_Upload_2026.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1947-08-15->,1952-05-13]
+		NEW T: [Q1047,1947-08-15->,1952-05-13]
+Order: 1_Upload_2945.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2955.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_3098.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+***Missing Assume post_id: D:__department__>Ministry of Finance not found in 1_Upload_3098.pdf Q1047 D:__department__>Ministry of Finance
+Order: 1_Upload_3082.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1952-05-13->,1957-04-16]
+		NEW T: [Q1047,1953-03-16->,1957-04-16]
+Order: 1_Upload_2023.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_3312.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_3314.pdf #detailpost_infos: 1
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of Finance, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1957-04-16->,1962-04-10]
+		NEW T: [Q1047,1957-04-16->,1962-04-10]
+		NEW T: [Q1047,1957-09-17->,1962-04-10]
+Order: 1_Upload_2002.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2922.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2924.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2925.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2933.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2926.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Defence, D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2927.pdf #detailpost_infos: 2
+	Active[3]: D:__department__>Ministry of Defence, D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Multiple roles Officer: Q1047 1_Upload_2933.pdf:1-None|1_Upload_2926.pdf:0-Prime Minister
+		NEW T: [Q1047,1962-11-01->1_Upload_2927.pdf,1962-11-21]
+		Closing Actives*[1]: D:__department__>Ministry of Defence 1_Upload_2927.pdf 0
+Order: 1_Upload_2937.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+***Missing Assume post_id: D:__department__>Ministry of Defence not found in 1_Upload_2937.pdf Q1047 D:__department__>Ministry of Defence
+Order: 1_Upload_2928.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2893.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2894.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+***No Closing Orders[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+		NEW T: [Q1047,1962-04-10->,1964-05-27]
+		NEW T: [Q1047,1962-04-10->,1964-05-27]
+
+## Processing Officer: Q1058 #detailpost_infos: 120
+
+	Orders: {'1_Upload_1873.pdf', '1_Upload_1176.pdf', '1_Upload_1421.pdf', '1_Upload_1178.pdf', '1_Upload_1787.pdf', '1_Upload_2388.pdf', '1_Upload_3158.pdf', '1_Upload_1.pdf', '1_Upload_2447.pdf', '1_Upload_1177.pdf', '1_Upload_2405.pdf', '1_Upload_1392.pdf', '1_Upload_1763.pdf', '1_Upload_1856.pdf', '1_Upload_3297.pdf', '1_Upload_1388.pdf', '1_Upload_3795.pdf', '1_Upload_1516.pdf', '1_Upload_1495.pdf', '1_Upload_1943.pdf', '1_Upload_229.pdf', '1_Upload_1393.pdf', '1_Upload_230.pdf', '1_Upload_2606.pdf', '1_Upload_1733.pdf', '1_Upload_1195.pdf', '1_Upload_1170.pdf', '1_Upload_2398.pdf', '1_Upload_1235.pdf', '1_Upload_3634.pdf', '1_Upload_1215.pdf', '1_Upload_1859.pdf', '1_Upload_3837.pdf', '1_Upload_3889.pdf', '1_Upload_1782.pdf', '1_Upload_1249.pdf', '1_Upload_1171.pdf', '1_Upload_1387.pdf', '1_Upload_1211.pdf', '1_Upload_1266.pdf', '1_Upload_1807.pdf'}
+Order: 1_Upload_1782.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1170.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1171.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1176.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1177.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1178.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_230.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_229.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1195.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1211.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1215.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1235.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1249.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1266.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1387.pdf #detailpost_infos: 4
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1388.pdf #detailpost_infos: 1
+	Active[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions, D:__department__>Ministry of Civil Aviation Order[1]: D:__department__>Ministry of Civil Aviation
+Order: 1_Upload_1392.pdf #detailpost_infos: 3
+	Active[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions, D:__department__>Ministry of Civil Aviation Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Multiple roles Officer: Q1058 1_Upload_1387.pdf:0-Prime Minister|1_Upload_1388.pdf:1-Cabinet Minister
+		NEW T: [Q1058,2018-03-09->1_Upload_1392.pdf,2018-03-10]
+		Closing Actives*[1]: D:__department__>Ministry of Civil Aviation 1_Upload_1392.pdf 0
+Order: 1_Upload_1393.pdf #detailpost_infos: 1
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[1]: D:__department__>Ministry of Civil Aviation
+***Missing Assume post_id: D:__department__>Ministry of Civil Aviation not found in 1_Upload_1393.pdf Q1058 D:__department__>Ministry of Civil Aviation
+Order: 1_Upload_1421.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1495.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1516.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1733.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1763.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1787.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1807.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+	New ministry Clearing older posts.
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+Order: 1_Upload_1856.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+***Missing Assume post_id: D:__department__>Department of Atomic Energy not found in 1_Upload_1856.pdf Q1058 D:__department__>Department of Atomic Energy
+***Missing Assume post_id: D:__department__>Department of Space not found in 1_Upload_1856.pdf Q1058 D:__department__>Department of Space
+***Missing Assume post_id: D:__department__>Ministry of Personnel Public Grievances and Pensions not found in 1_Upload_1856.pdf Q1058 D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1859.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1873.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1943.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2388.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2398.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2405.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2447.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2606.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3158.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3297.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3634.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3795.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3837.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+	New ministry Clearing older posts.
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+Order: 1_Upload_3889.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+***No Closing Orders[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+
+## Processing Officer: Q106322481 #detailpost_infos: 33
+
+	Orders: {'1_Upload_2189.pdf', '1_Upload_1991.pdf', '1_Upload_2185.pdf', '1_Upload_2325.pdf', '1_Upload_2297.pdf', '1_Upload_2197.pdf', '1_Upload_2300.pdf', '1_Upload_2298.pdf', '1_Upload_2324.pdf', '1_Upload_2187.pdf', '1_Upload_2302.pdf', '1_Upload_2171.pdf', '1_Upload_2334.pdf', '1_Upload_2314.pdf', '1_Upload_2178.pdf', '1_Upload_2301.pdf', '1_Upload_2299.pdf', '1_Upload_2188.pdf', '1_Upload_2167.pdf', '1_Upload_2184.pdf', '1_Upload_2191.pdf', '1_Upload_2190.pdf'}
+Order: 1_Upload_2197.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2184.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+		NEW T: [Q106322481,1986-05-12->1_Upload_2184.pdf,1986-05-13]
+		Closing Actives*[1]: D:__department__>Ministry of Industry 1_Upload_2184.pdf 34
+Order: 1_Upload_2185.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2191.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2187.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2188.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2189.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2190.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2297.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2298.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2299.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2300.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2301.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2302.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2314.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+		NEW T: [Q106322481,1986-05-12->1_Upload_2314.pdf,1987-07-23]
+		Closing Active: D:__department__>Ministry of Heavy Industries and Public Enterprises 1_Upload_2314.pdf 0
+		NEW T: [Q106322481,1986-10-23->1_Upload_2314.pdf,1987-07-23]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2314.pdf 0
+Order: 1_Upload_2334.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2324.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2325.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2171.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Information and Broadcasting
+		NEW T: [Q106322481,1988-06-25->1_Upload_2171.pdf,1989-04-22]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2171.pdf 0
+Order: 1_Upload_2178.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2167.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q106322481,1989-04-22->,1989-12-02]
+Order: 1_Upload_1991.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+***Missing Assume post_id: D:__department__>Ministry of Information and Broadcasting not found in 1_Upload_1991.pdf Q106322481 D:__department__>Ministry of Information and Broadcasting
+
+## Processing Officer: Q1068309 #detailpost_infos: 14
+
+	Orders: {'1_Upload_2128.pdf', '1_Upload_1624.pdf', '1_Upload_1637.pdf', '1_Upload_1629.pdf', '1_Upload_1614.pdf', '1_Upload_1623.pdf', '1_Upload_1622.pdf'}
+Order: 1_Upload_1614.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Agriculture>Department of Animal Husbandry and Dairying
+	New ministry Clearing older posts.
+		NEW T: [Q1068309,1996-06-29->,1997-04-21]
+		NEW T: [Q1068309,1996-06-29->,1997-04-21]
+Order: 1_Upload_1622.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_1622.pdf Q1068309 D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying not found in 1_Upload_1622.pdf Q1068309 D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_1623.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_2128.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_1624.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_1629.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[4]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Consumer Affairs, Food and Public Distribution, D:__department__>Ministry of Consumer Affairs, Food and Public Distribution, D:__department__>Ministry of Agriculture>Department of Animal Husbandry and Dairying
+		NEW T: [Q1068309,1997-06-09->1_Upload_1629.pdf,1997-06-09]
+		Closing Active: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution 1_Upload_1629.pdf 1
+	New ministry Clearing older posts.
+		NEW T: [Q1068309,1997-04-22->,1998-03-19]
+		NEW T: [Q1068309,1997-04-22->,1998-03-19]
+		NEW T: [Q1068309,1997-06-09->,1998-03-19]
+Order: 1_Upload_1637.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_1637.pdf Q1068309 D:__department__>Ministry of Agriculture
+
+## Processing Officer: Q107657297 #detailpost_infos: 5
+
+	Orders: {'1_Upload_2637.pdf', '1_Upload_2664.pdf', '1_Upload_2750.pdf', '1_Upload_2674.pdf', '1_Upload_2742.pdf'}
+Order: 1_Upload_2750.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2742.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2674.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2664.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2637.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+		NEW T: [Q107657297,1974-10-23->1_Upload_2637.pdf,1977-03-14]
+		Closing Active: D:__department__>Ministry of Agriculture 1_Upload_2637.pdf 0
+
+## Processing Officer: Q108168769 #detailpost_infos: 6
+
+	Orders: {'1_Upload_2471.pdf', '1_Upload_2470.pdf', '1_Upload_2454.pdf'}
+Order: 1_Upload_2454.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2471.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2470.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+		NEW T: [Q108168769,1979-08-27->1_Upload_2470.pdf,1979-12-26]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2470.pdf 1
+		NEW T: [Q108168769,1979-08-27->1_Upload_2470.pdf,1979-12-26]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2470.pdf 1
+
+## Processing Officer: Q108403220 #detailpost_infos: 31
+
+	Orders: {'1_Upload_2010.pdf', '1_Upload_2856.pdf', '1_Upload_2857.pdf', '1_Upload_2875.pdf', '1_Upload_2842.pdf', '1_Upload_2854.pdf', '1_Upload_2840.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2874.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2836.pdf', '1_Upload_2830.pdf'}
+Order: 1_Upload_2010.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2874.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2875.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2854.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+		NEW T: [Q108403220,1966-01-24->1_Upload_2854.pdf,1967-03-18]
+		NEW T: [Q108403220,1966-01-24->1_Upload_2854.pdf,1967-03-18]
+		Closing Actives*[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum 1_Upload_2854.pdf 16
+Order: 1_Upload_2855.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2856.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2857.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2835.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2836.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2833.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[4]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing, D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Supply 1_Upload_2833.pdf 27
+		NEW T: [Q108403220,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Works and Housing 1_Upload_2833.pdf 27
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2830.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[3]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1969-02-14->1_Upload_2830.pdf,1970-07-10]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2830.pdf 0
+		NEW T: [Q108403220,1969-02-14->1_Upload_2830.pdf,1970-07-10]
+		Closing Active: D:__department__>Ministry of Shipping and Transport 1_Upload_2830.pdf 0
+***No Closing Orders[1]: D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1970-07-10->,1971-03-18]
+
+## Processing Officer: Q108507760 #detailpost_infos: 12
+
+	Orders: {'1_Upload_2152.pdf', '1_Upload_2421.pdf', '1_Upload_2346.pdf', '1_Upload_2365.pdf', '1_Upload_2352.pdf', '1_Upload_2345.pdf', '1_Upload_2348.pdf', '1_Upload_2344.pdf', '1_Upload_2343.pdf', '1_Upload_2347.pdf', '1_Upload_2366.pdf'}
+Order: 1_Upload_2421.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2365.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Finance Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2366.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Finance Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2152.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Finance Order[2]: D:__department__>Ministry of Finance, D:__department__>Ministry of Industry
+		NEW T: [Q108507760,1982-09-11->1_Upload_2152.pdf,1984-02-08]
+		Closing Active: D:__department__>Ministry of Finance 1_Upload_2152.pdf 2
+Order: 1_Upload_2344.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2348.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2345.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+	New ministry Clearing older posts.
+		NEW T: [Q108507760,1984-02-08->,1984-11-01]
+Order: 1_Upload_2352.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2343.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2346.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2347.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+***No Closing Orders[1]: D:__department__>Ministry of Industry
+		NEW T: [Q108507760,1984-11-05->,1985-01-03]
+
+## Processing Officer: Q108663917 #detailpost_infos: 21
+
+	Orders: {'1_Upload_2324.pdf', '1_Upload_2325.pdf', '1_Upload_2321.pdf', '1_Upload_2328.pdf', '1_Upload_2334.pdf', '1_Upload_2173.pdf', '1_Upload_1991.pdf', '1_Upload_2178.pdf', '1_Upload_2322.pdf', '1_Upload_2323.pdf', '1_Upload_2167.pdf'}
+Order: 1_Upload_2328.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2321.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2322.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2323.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2334.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2324.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2325.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2178.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2167.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Industry, D:__department__>Ministry of Parliamentary Affairs
+		NEW T: [Q108663917,1988-02-15->1_Upload_2167.pdf,1989-07-04]
+		Closing Actives*[1]: D:__department__>Ministry of Road Transport and Highways 1_Upload_2167.pdf 48
+Order: 1_Upload_2173.pdf #detailpost_infos: 4
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Industry, D:__department__>Ministry of Parliamentary Affairs Order[4]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals, D:__department__>Ministry of Parliamentary Affairs
+Multiple roles Officer: Q108663917 1_Upload_2334.pdf:18-Deputy Minister|1_Upload_2324.pdf:59-Deputy Minister|1_Upload_2325.pdf:57-Deputy Minister|1_Upload_2178.pdf:56-Deputy Minister|1_Upload_2167.pdf:48-Minister of State|1_Upload_2173.pdf:12-Deputy Minister
+		NEW T: [Q108663917,1988-06-25->1_Upload_2173.pdf,1989-07-04]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2173.pdf 12
+***Missing Assume post_id: D:__department__>Ministry of Road Transport and Highways not found in 1_Upload_2173.pdf Q108663917 D:__department__>Ministry of Road Transport and Highways
+	New ministry Clearing older posts.
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+Order: 1_Upload_1991.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals, D:__department__>Ministry of Parliamentary Affairs
+***Missing Assume post_id: D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals not found in 1_Upload_1991.pdf Q108663917 D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals
+***Missing Assume post_id: D:__department__>Ministry of Parliamentary Affairs not found in 1_Upload_1991.pdf Q108663917 D:__department__>Ministry of Parliamentary Affairs
+
+## Processing Officer: Q110322034 #detailpost_infos: 16
+
+	Orders: {'1_Upload_2427.pdf', '1_Upload_2429.pdf', '1_Upload_2414.pdf', '1_Upload_2428.pdf', '1_Upload_2413.pdf', '1_Upload_2422.pdf', '1_Upload_2430.pdf', '1_Upload_2411.pdf', '1_Upload_2407.pdf', '1_Upload_2424.pdf', '1_Upload_2415.pdf'}
+Order: 1_Upload_2427.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2428.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2429.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2430.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2424.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2407.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2411.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2415.pdf #detailpost_infos: 3
+	Active[1]: D:__department__>Ministry of Industry Order[3]: D:__department__>Ministry of Industry, D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+		NEW T: [Q110322034,1980-03-03->1_Upload_2415.pdf,1982-01-15]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2415.pdf 9
+Order: 1_Upload_2413.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+Order: 1_Upload_2414.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+Order: 1_Upload_2422.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+		NEW T: [Q110322034,1982-01-15->1_Upload_2422.pdf,1982-09-03]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2422.pdf 20
+		NEW T: [Q110322034,1982-01-15->1_Upload_2422.pdf,1982-09-03]
+		Closing Active: D:__department__>Ministry of Steel and Mines 1_Upload_2422.pdf 20
+
+## Processing Officer: Q110322062 #detailpost_infos: 12
+
+	Orders: {'1_Upload_2350.pdf', '1_Upload_2346.pdf', '1_Upload_2365.pdf', '1_Upload_2352.pdf', '1_Upload_2345.pdf', '1_Upload_2348.pdf', '1_Upload_2344.pdf', '1_Upload_2343.pdf', '1_Upload_2347.pdf', '1_Upload_2366.pdf', '1_Upload_2373.pdf'}
+Order: 1_Upload_2373.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2365.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2366.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2344.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2348.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2350.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Rural Development Order[2]: D:__department__>Ministry of Rural Development, D:__department__>Ministry of Irrigation
+Multiple roles Officer: Q110322062 1_Upload_2373.pdf:5-Minister of State (Independent Charge)|1_Upload_2365.pdf:34-Minister of State (Independent Charge)|1_Upload_2366.pdf:31-Minister of State (Independent Charge)|1_Upload_2344.pdf:32-Minister of State (Independent Charge)|1_Upload_2348.pdf:32-Minister of State|1_Upload_2350.pdf:3-Minister of State (Independent Charge)
+		NEW T: [Q110322062,1983-01-29->1_Upload_2350.pdf,1984-08-02]
+		Closing Active: D:__department__>Ministry of Rural Development 1_Upload_2350.pdf 3
+Order: 1_Upload_2345.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Irrigation Order[1]: D:__department__>Ministry of Irrigation
+	New ministry Clearing older posts.
+		NEW T: [Q110322062,1984-08-02->,1984-11-01]
+Order: 1_Upload_2352.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2343.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2346.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2347.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+***No Closing Orders[1]: D:__department__>Ministry of Planning
+		NEW T: [Q110322062,1984-11-05->,1985-01-03]
+
+## Processing Officer: Q110322103 #detailpost_infos: 9
+
+	Orders: {'1_Upload_2418.pdf', '1_Upload_2429.pdf', '1_Upload_2430.pdf', '1_Upload_2411.pdf', '1_Upload_2439.pdf', '1_Upload_2435.pdf', '1_Upload_2417.pdf', '1_Upload_2424.pdf'}
+Order: 1_Upload_2429.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2435.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2430.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2424.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Labour
+		NEW T: [Q110322103,1980-06-02->1_Upload_2424.pdf,1980-10-21]
+		Closing Actives*[1]: D:__department__>Ministry of Industry 1_Upload_2424.pdf 48
+Order: 1_Upload_2439.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Labour Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Labour
+***Missing Assume post_id: D:__department__>Ministry of Industry not found in 1_Upload_2439.pdf Q110322103 D:__department__>Ministry of Industry
+Order: 1_Upload_2411.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Labour Order[1]: D:__department__>Ministry of Labour
+Order: 1_Upload_2418.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Labour Order[1]: D:__department__>Ministry of Labour
+		NEW T: [Q110322103,1980-10-21->1_Upload_2418.pdf,1982-01-08]
+		Closing Active: D:__department__>Ministry of Labour 1_Upload_2418.pdf 2
+Order: 1_Upload_2417.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Labour
+***Missing Assume post_id: D:__department__>Ministry of Labour not found in 1_Upload_2417.pdf Q110322103 D:__department__>Ministry of Labour
+
+## Processing Officer: Q110322120 #detailpost_infos: 8
+
+	Orders: {'1_Upload_2923.pdf', '1_Upload_2023.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2922.pdf', '1_Upload_2925.pdf', '1_Upload_2926.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2023.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Home Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q110322120,1957-04-16->,1962-04-10]
+Order: 1_Upload_2923.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2922.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+***No Closing Orders[1]: D:__department__>Ministry of Home Affairs
+		NEW T: [Q110322120,1962-04-16->,1963-09-02]
+
+## Processing Officer: Q110322132 #detailpost_infos: 26
+
+	Orders: {'1_Upload_2846.pdf', '1_Upload_2856.pdf', '1_Upload_2857.pdf', '1_Upload_2854.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2869.pdf', '1_Upload_2867.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2836.pdf'}
+Order: 1_Upload_2854.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2855.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2856.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2867.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1967-03-18->1_Upload_2867.pdf,1967-11-14]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2867.pdf 7
+Order: 1_Upload_2869.pdf #detailpost_infos: 3
+	Active[1]: D:__department__>Ministry of Welfare Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2857.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2835.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2836.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2833.pdf #detailpost_infos: 5
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[5]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare, D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1967-11-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2833.pdf 24
+		NEW T: [Q110322132,1967-11-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2833.pdf 24
+		NEW T: [Q110322132,1967-11-14->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Welfare 1_Upload_2833.pdf 24
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare Order[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+Order: 1_Upload_2846.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare Order[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1969-02-14->1_Upload_2846.pdf,1969-10-18]
+		Closing Active: D:__department__>Ministry of Law and Justice 1_Upload_2846.pdf 3
+		NEW T: [Q110322132,1969-02-14->1_Upload_2846.pdf,1969-10-18]
+		Closing Active: D:__department__>Ministry of Welfare 1_Upload_2846.pdf 3
+
+## Processing Officer: Q110322143 #detailpost_infos: 17
+
+	Orders: {'1_Upload_2010.pdf', '1_Upload_2875.pdf', '1_Upload_2930.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2909.pdf', '1_Upload_2874.pdf', '1_Upload_2907.pdf', '1_Upload_2876.pdf', '1_Upload_2925.pdf', '1_Upload_2926.pdf', '1_Upload_2894.pdf', '1_Upload_2908.pdf', '1_Upload_2893.pdf', '1_Upload_2003.pdf', '1_Upload_2906.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2930.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2893.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2894.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1962-05-08->,1964-05-27]
+Order: 1_Upload_2003.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1964-05-27->,1964-06-09]
+Order: 1_Upload_2906.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2907.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2908.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2909.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1964-06-15->,1966-01-11]
+Order: 1_Upload_2876.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1966-01-11->,1966-01-24]
+Order: 1_Upload_2010.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2874.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2875.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+***No Closing Orders[1]: D:__department__>Ministry of Railways
+		NEW T: [Q110322143,1966-01-24->,1967-03-13]
+
+## Processing Officer: Q110322150 #detailpost_infos: 9
+
+	Orders: {'1_Upload_2475.pdf', '1_Upload_2452.pdf', '1_Upload_2456.pdf', '1_Upload_2042.pdf', '1_Upload_2454.pdf'}
+Order: 1_Upload_2456.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Law and Justice
+Order: 1_Upload_2452.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Law and Justice Order[1]: D:__department__>Ministry of Law Justice and Company Affairs
+		NEW T: [Q110322150,1979-08-03->1_Upload_2452.pdf,1979-08-16]
+		Closing Actives*[1]: D:__department__>Ministry of Law and Justice 1_Upload_2452.pdf 5
+Order: 1_Upload_2454.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Law Justice and Company Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Law and Justice
+		NEW T: [Q110322150,1979-08-16->1_Upload_2454.pdf,1979-08-27]
+		Closing Actives*[1]: D:__department__>Ministry of Law Justice and Company Affairs 1_Upload_2454.pdf 5
+Order: 1_Upload_2475.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Law and Justice Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Law Justice and Company Affairs, D:__department__>Ministry of Petroleum
+	New ministry Clearing older posts.
+		NEW T: [Q110322150,1979-08-27->,1980-01-14]
+		NEW T: [Q110322150,1979-08-27->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+Order: 1_Upload_2042.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Law Justice and Company Affairs, D:__department__>Ministry of Petroleum Chemicals and Fertilisers
+***Missing Assume post_id: D:__department__>Ministry of Law Justice and Company Affairs not found in 1_Upload_2042.pdf Q110322150 D:__department__>Ministry of Law Justice and Company Affairs
+***Missing Assume post_id: D:__department__>Ministry of Petroleum Chemicals and Fertilisers not found in 1_Upload_2042.pdf Q110322150 D:__department__>Ministry of Petroleum Chemicals and Fertilisers
+
+## Processing Officer: Q11050320 #detailpost_infos: 49
+
+	Orders: {'1_Upload_2044.pdf', '1_Upload_2095.pdf', '1_Upload_2050.pdf', '1_Upload_2106.pdf', '1_Upload_2097.pdf', '1_Upload_2048.pdf', '1_Upload_2055.pdf', '1_Upload_2108.pdf', '1_Upload_1765.pdf', '1_Upload_2090.pdf', '1_Upload_2101.pdf', '1_Upload_2091.pdf', '1_Upload_2094.pdf', '1_Upload_2096.pdf', '1_Upload_2105.pdf', '1_Upload_2107.pdf', '1_Upload_1472.pdf', '1_Upload_2098.pdf', '1_Upload_1454.pdf', '1_Upload_2049.pdf', '1_Upload_2054.pdf', '1_Upload_2093.pdf', '1_Upload_873.pdf', '1_Upload_2099.pdf', '1_Upload_2046.pdf', '1_Upload_2057.pdf', '1_Upload_2052.pdf', '1_Upload_2100.pdf', '1_Upload_2053.pdf', '1_Upload_1146.pdf', '1_Upload_1444.pdf', '1_Upload_2051.pdf', '1_Upload_2056.pdf', '1_Upload_2092.pdf', '1_Upload_2103.pdf', '1_Upload_1443.pdf', '1_Upload_2047.pdf', '1_Upload_2104.pdf', '1_Upload_2058.pdf', '1_Upload_2045.pdf'}
+Order: 1_Upload_1472.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2090.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2091.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2092.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2093.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2094.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_1765.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2095.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2096.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2097.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2098.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2105.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2106.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2108.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2107.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2103.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2104.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2101.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2099.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2100.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_1443.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[2]: D:__department__>Ministry of Health and Family Welfare, D:__department__>Ministry of Health and Family Welfare
+		NEW T: [Q11050320,2004-05-24->1_Upload_1443.pdf,2009-04-22]
+		Closing Active: D:__department__>Ministry of Health and Family Welfare 1_Upload_1443.pdf 2
+	New ministry Clearing older posts.
+		NEW T: [Q11050320,2009-04-22->,2009-05-22]
+Order: 1_Upload_1454.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Health and Family Welfare
+***Missing Assume post_id: D:__department__>Ministry of Health and Family Welfare not found in 1_Upload_1454.pdf Q11050320 D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2044.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2045.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2046.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2047.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2048.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2049.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2050.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2051.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2052.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_873.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Textiles Order[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas
+		NEW T: [Q11050320,2009-05-28->1_Upload_873.pdf,2012-10-30]
+		Closing Active: D:__department__>Ministry of Textiles 1_Upload_873.pdf 0
+Order: 1_Upload_2053.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Petroleum and Natural Gas
+Order: 1_Upload_1146.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Petroleum and Natural Gas
+Order: 1_Upload_2054.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_1146.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2055.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_2056.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_2057.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_2058.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+	New ministry Clearing older posts.
+		NEW T: [Q11050320,2012-10-30->,2014-05-26]
+		NEW T: [Q11050320,2013-03-05->,2014-05-26]
+Order: 1_Upload_1444.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+***Missing Assume post_id: D:__department__>Ministry of Petroleum and Natural Gas not found in 1_Upload_1444.pdf Q11050320 D:__department__>Ministry of Petroleum and Natural Gas
+***Missing Assume post_id: D:__department__>Ministry of Textiles not found in 1_Upload_1444.pdf Q11050320 D:__department__>Ministry of Textiles
+
+## Processing Officer: Q111153880 #detailpost_infos: 4
+
+	Orders: {'1_Upload_1574.pdf', '1_Upload_1538.pdf'}
+Order: 1_Upload_1574.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Civil Supplies, D:__department__>Ministry of Food
+Order: 1_Upload_1538.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Food, D:__department__>Ministry of Civil Supplies Order[2]: D:__department__>Ministry of Civil Supplies, D:__department__>Ministry of Food
+		NEW T: [Q111153880,1990-11-21->1_Upload_1538.pdf,1991-02-21]
+		Closing Active: D:__department__>Ministry of Civil Supplies 1_Upload_1538.pdf 4
+		NEW T: [Q111153880,1990-11-21->1_Upload_1538.pdf,1991-02-21]
+		Closing Active: D:__department__>Ministry of Food 1_Upload_1538.pdf 4
+
+## Processing Officer: Q111352685 #detailpost_infos: 2
+
+	Orders: {'1_Upload_3889.pdf'}
+Order: 1_Upload_3889.pdf #detailpost_infos: 2
+>>> info.log
+Pipe_partial->pipe
+  exec_task: tenure_writer 
+adding handler logs/tenure_writer.log
+Inside tenure_writer
+Entering tenure writer
+Pipe_partial->pipe
+  exec_task: tenure_builder 
+adding handler logs/tenure_builder.log
+Inside tenure_builder
+Entering tenure builder
+Duplicate order_ids: 1_Upload_2143.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2023.pdf {'Q288528'}
+Duplicate order_ids: 1_Upload_2144.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2366.pdf {'Q24817466'}
+Duplicate order_ids: 1_Upload_1556.pdf {'Q15880052'}
+Duplicate order_ids: 1_Upload_2146.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2063.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2064.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2065.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2062.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2060.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_1751.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2066.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2061.pdf {'Q6002323'}
+Duplicate order_ids: 1_Upload_2841.pdf {'Q16007372'}
+
+## Processing Officer: Q1034290 #detailpost_infos: 68
+
+	Orders: {'1_Upload_2740.pdf', '1_Upload_2857.pdf', '1_Upload_2875.pdf', '1_Upload_2900.pdf', '1_Upload_2892.pdf', '1_Upload_2853.pdf', '1_Upload_2785.pdf', '1_Upload_2925.pdf', '1_Upload_2003.pdf', '1_Upload_2008.pdf', '1_Upload_2023.pdf', '1_Upload_3098.pdf', '1_Upload_2772.pdf', '1_Upload_2784.pdf', '1_Upload_2874.pdf', '1_Upload_2855.pdf', '1_Upload_2894.pdf', '1_Upload_2002.pdf', '1_Upload_2893.pdf', '1_Upload_2918.pdf', '1_Upload_2010.pdf', '1_Upload_2856.pdf', '1_Upload_2842.pdf', '1_Upload_2851.pdf', '1_Upload_2822.pdf', '1_Upload_2909.pdf', '1_Upload_2826.pdf', '1_Upload_2922.pdf', '1_Upload_2897.pdf', '1_Upload_2748.pdf', '1_Upload_2691.pdf', '1_Upload_2004.pdf', '1_Upload_2836.pdf', '1_Upload_2773.pdf', '1_Upload_2945.pdf', '1_Upload_1995.pdf', '1_Upload_2741.pdf', '1_Upload_2914.pdf', '1_Upload_2841.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2835.pdf', '1_Upload_2907.pdf', '1_Upload_2012.pdf', '1_Upload_2926.pdf', '1_Upload_2840.pdf', '1_Upload_2908.pdf', '1_Upload_2742.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2945.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_3098.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[4]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing, D:__department__>Ministry of Commerce, D:__department__>Ministry of Consumer Industries
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1952-05-13->,1957-04-16]
+		NEW T: [Q1034290,1952-05-13->,1957-04-16]
+		NEW T: [Q1034290,1956-08-31->,1957-04-16]
+		NEW T: [Q1034290,1956-08-31->,1957-04-16]
+Order: 1_Upload_2023.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Mines and Fuel, D:__department__>Ministry of Steel
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1957-04-16->,1962-04-10]
+		NEW T: [Q1034290,1957-04-16->,1962-04-10]
+Order: 1_Upload_2002.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2922.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2897.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Railways Order[2]: D:__department__>Ministry of Railways, D:__department__>Ministry of Agriculture
+Order: 1_Upload_2893.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Railways, D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Multiple roles Officer: Q1034290 1_Upload_2002.pdf:5-Cabinet Minister|1_Upload_2922.pdf:5-Cabinet Minister|1_Upload_2924.pdf:5-Cabinet Minister|1_Upload_2925.pdf:6-Cabinet Minister|1_Upload_2926.pdf:6-Cabinet Minister|1_Upload_2927.pdf:6-Cabinet Minister|1_Upload_2928.pdf:6-Cabinet Minister|1_Upload_2897.pdf:13-None
+		NEW T: [Q1034290,1962-04-10->1_Upload_2893.pdf,1963-09-02]
+		Closing Actives*[1]: D:__department__>Ministry of Railways 1_Upload_2893.pdf 3
+Order: 1_Upload_2900.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Agriculture Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Railways
+***Missing Assume post_id: D:__department__>Ministry of Railways not found in 1_Upload_2900.pdf Q1034290 D:__department__>Ministry of Railways
+Order: 1_Upload_2894.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+Multiple roles Officer: Q1034290 1_Upload_2897.pdf:13-None|1_Upload_2893.pdf:3-Cabinet Minister|1_Upload_2900.pdf:0-None|1_Upload_2894.pdf:3-Cabinet Minister
+		NEW T: [Q1034290,1963-09-01->,1964-05-27]
+Order: 1_Upload_2003.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1964-05-27->,1964-06-09]
+Order: 1_Upload_2004.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2907.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2914.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2908.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply
+Order: 1_Upload_2918.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Industry Order[3]: D:__department__>Ministry of Industry, D:__department__>Ministry of Supply, D:__department__>Ministry of External Affairs
+		NEW T: [Q1034290,1964-06-09->1_Upload_2918.pdf,1964-07-19]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2918.pdf 1
+		NEW T: [Q1034290,1964-06-20->1_Upload_2918.pdf,1964-07-19]
+		Closing Active: D:__department__>Ministry of Supply 1_Upload_2918.pdf 1
+Order: 1_Upload_2909.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1964-07-19->,1966-01-11]
+Order: 1_Upload_2008.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1966-01-14->,1966-01-24]
+Order: 1_Upload_2010.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2874.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2875.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2892.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1966-01-24->1_Upload_2892.pdf,1966-11-13]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2892.pdf 2
+Order: 1_Upload_2012.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2853.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2855.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2856.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2857.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2835.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2836.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2841.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2851.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Defence Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering
+Order: 1_Upload_2826.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering Order[3]: D:__department__>Ministry of Defence, D:__department__>Ministry of Steel and Heavy Engineering, D:__department__>Ministry of External Affairs
+Multiple roles Officer: Q1034290 1_Upload_2892.pdf:2-Cabinet Minister|1_Upload_2012.pdf:15-Cabinet Minister|1_Upload_2853.pdf:15-Cabinet Minister|1_Upload_2855.pdf:17-Cabinet Minister|1_Upload_2856.pdf:16-Cabinet Minister|1_Upload_2857.pdf:16-Cabinet Minister|1_Upload_2835.pdf:15-Cabinet Minister|1_Upload_2836.pdf:14-Cabinet Minister|1_Upload_2841.pdf:15-Cabinet Minister|1_Upload_2851.pdf:3-None|1_Upload_2842.pdf:11-Cabinet Minister|1_Upload_2840.pdf:13-Cabinet Minister|1_Upload_2826.pdf:6-Cabinet Minister
+		NEW T: [Q1034290,1966-11-13->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Defence 1_Upload_2826.pdf 6
+Multiple roles Officer: Q1034290 1_Upload_2851.pdf:3-None|1_Upload_2842.pdf:11-Cabinet Minister|1_Upload_2840.pdf:13-Cabinet Minister|1_Upload_2826.pdf:6-Cabinet Minister
+		NEW T: [Q1034290,1969-11-16->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Steel and Heavy Engineering 1_Upload_2826.pdf 6
+Order: 1_Upload_2822.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q1034290,1970-06-28->,1971-03-18]
+Order: 1_Upload_1995.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2784.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2785.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2772.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2773.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2740.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2748.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1971-03-18->1_Upload_2748.pdf,1974-10-11]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2748.pdf 2
+Order: 1_Upload_2741.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2742.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2691.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Defence Order[1]: D:__department__>Ministry of Defence
+		NEW T: [Q1034290,1974-10-11->1_Upload_2691.pdf,1975-12-01]
+		Closing Active: D:__department__>Ministry of Defence 1_Upload_2691.pdf 1
+
+## Processing Officer: Q104178808 #detailpost_infos: 13
+
+	Orders: {'1_Upload_3634.pdf', '1_Upload_3795.pdf', '1_Upload_3837.pdf', '1_Upload_3889.pdf', '1_Upload_3004.pdf', '1_Upload_3158.pdf', '1_Upload_3297.pdf'}
+Order: 1_Upload_3158.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3004.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3297.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3634.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3795.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+Order: 1_Upload_3837.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Development of North Eastern Region, D:__department__>Ministry of Cooperation Order[2]: D:__department__>Ministry of Cooperation, D:__department__>Ministry of Development of North Eastern Region
+	New ministry Clearing older posts.
+		NEW T: [Q104178808,2021-07-07->,2024-06-09]
+		NEW T: [Q104178808,2021-07-07->,2024-06-09]
+Order: 1_Upload_3889.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+***No Closing Orders[1]: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+		NEW T: [Q104178808,2024-06-09->,2024-10-04]
+
+## Processing Officer: Q104666566 #detailpost_infos: 41
+
+	Orders: {'1_Upload_2857.pdf', '1_Upload_2854.pdf', '1_Upload_2640.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2042.pdf', '1_Upload_2856.pdf', '1_Upload_2842.pdf', '1_Upload_2822.pdf', '1_Upload_2455.pdf', '1_Upload_2153.pdf', '1_Upload_2826.pdf', '1_Upload_2453.pdf', '1_Upload_2836.pdf', '1_Upload_2454.pdf', '1_Upload_2832.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2463.pdf', '1_Upload_2840.pdf', '1_Upload_2635.pdf'}
+Order: 1_Upload_2854.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2855.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2856.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2857.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2835.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2836.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry
+Order: 1_Upload_2833.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry Order[4]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industry, D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+		NEW T: [Q104666566,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Corporate Affairs 1_Upload_2833.pdf 26
+		NEW T: [Q104666566,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2833.pdf 26
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade
+Order: 1_Upload_2826.pdf #detailpost_infos: 5
+	Active[2]: D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Corporate Affairs Order[5]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Industrial Development and Internal Trade, D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+		NEW T: [Q104666566,1969-02-14->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Corporate Affairs 1_Upload_2826.pdf 17
+		NEW T: [Q104666566,1969-02-14->1_Upload_2826.pdf,1970-06-28]
+		Closing Active: D:__department__>Ministry of Industrial Development and Internal Trade 1_Upload_2826.pdf 17
+Order: 1_Upload_2822.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2832.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Mines and Metals, D:__department__>Ministry of Petroleum
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2832.pdf 0
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Mines and Metals 1_Upload_2832.pdf 0
+		NEW T: [Q104666566,1970-06-28->1_Upload_2832.pdf,1970-09-01]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2832.pdf 0
+	New ministry Clearing older posts.
+Order: 1_Upload_2640.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2635.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2453.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2455.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Irrigation
+		NEW T: [Q104666566,1977-08-14->1_Upload_2455.pdf,1979-01-26]
+		Closing Actives*[1]: D:__department__>Ministry of Agriculture 1_Upload_2455.pdf 39
+Order: 1_Upload_2463.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Irrigation Order[1]: D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_2463.pdf Q104666566 D:__department__>Ministry of Agriculture
+	New ministry Clearing older posts.
+		NEW T: [Q104666566,1979-01-26->,1979-07-28]
+Order: 1_Upload_2153.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2454.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+	New ministry Clearing older posts.
+Multiple roles Officer: Q104666566 1_Upload_2153.pdf:19-Minister of State (Independent Charge)|1_Upload_2454.pdf:36-Minister of State
+		NEW T: [Q104666566,1979-07-30->,1980-01-14]
+Order: 1_Upload_2042.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+***Missing Assume post_id: D:__department__>Ministry of Rural Development not found in 1_Upload_2042.pdf Q104666566 D:__department__>Ministry of Rural Development
+
+## Processing Officer: Q104696553 #detailpost_infos: 5
+
+	Orders: {'1_Upload_2454.pdf', '1_Upload_2473.pdf', '1_Upload_2462.pdf', '1_Upload_2452.pdf'}
+Order: 1_Upload_2462.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Tourism
+Order: 1_Upload_2452.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Tourism, D:__department__>Ministry of Civil Aviation Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+		NEW T: [Q104696553,1979-08-13->1_Upload_2452.pdf,1979-08-16]
+		NEW T: [Q104696553,1979-08-13->1_Upload_2452.pdf,1979-08-16]
+		Closing Actives*[2]: D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Tourism 1_Upload_2452.pdf 30
+Order: 1_Upload_2454.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Civil Aviation and Tourism Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+Order: 1_Upload_2473.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Civil Aviation and Tourism Order[1]: D:__department__>Ministry of Civil Aviation and Tourism
+		NEW T: [Q104696553,1979-08-16->1_Upload_2473.pdf,1979-11-28]
+		Closing Active: D:__department__>Ministry of Civil Aviation and Tourism 1_Upload_2473.pdf 1
+
+## Processing Officer: Q1047 #detailpost_infos: 36
+
+	Orders: {'1_Upload_2933.pdf', '1_Upload_3314.pdf', '1_Upload_2025.pdf', '1_Upload_2955.pdf', '1_Upload_2925.pdf', '1_Upload_2023.pdf', '1_Upload_3098.pdf', '1_Upload_2894.pdf', '1_Upload_2002.pdf', '1_Upload_2893.pdf', '1_Upload_2026.pdf', '1_Upload_2937.pdf', '1_Upload_2027.pdf', '1_Upload_2922.pdf', '1_Upload_3312.pdf', '1_Upload_2945.pdf', '1_Upload_3082.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2926.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2027.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Ministry of Commonwealth Relations, D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+Order: 1_Upload_2025.pdf #detailpost_infos: 2
+	Active[3]: D:__department__>Ministry of Commonwealth Relations, D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+		NEW T: [Q1047,1947-08-15->1_Upload_2025.pdf,1950-01-26]
+		Closing Actives*[1]: D:__department__>Ministry of Commonwealth Relations 1_Upload_2025.pdf 0
+Order: 1_Upload_2026.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Scientific Research
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1947-08-15->,1952-05-13]
+		NEW T: [Q1047,1947-08-15->,1952-05-13]
+Order: 1_Upload_2945.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2955.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_3098.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+***Missing Assume post_id: D:__department__>Ministry of Finance not found in 1_Upload_3098.pdf Q1047 D:__department__>Ministry of Finance
+Order: 1_Upload_3082.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1952-05-13->,1957-04-16]
+		NEW T: [Q1047,1953-03-16->,1957-04-16]
+Order: 1_Upload_2023.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_3312.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_3314.pdf #detailpost_infos: 1
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of Finance, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Finance
+	New ministry Clearing older posts.
+		NEW T: [Q1047,1957-04-16->,1962-04-10]
+		NEW T: [Q1047,1957-04-16->,1962-04-10]
+		NEW T: [Q1047,1957-09-17->,1962-04-10]
+Order: 1_Upload_2002.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2922.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2924.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2925.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2933.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+Order: 1_Upload_2926.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Defence, D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of Defence, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2927.pdf #detailpost_infos: 2
+	Active[3]: D:__department__>Ministry of Defence, D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Multiple roles Officer: Q1047 1_Upload_2933.pdf:1-None|1_Upload_2926.pdf:0-Prime Minister
+		NEW T: [Q1047,1962-11-01->1_Upload_2927.pdf,1962-11-21]
+		Closing Actives*[1]: D:__department__>Ministry of Defence 1_Upload_2927.pdf 0
+Order: 1_Upload_2937.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of Defence
+***Missing Assume post_id: D:__department__>Ministry of Defence not found in 1_Upload_2937.pdf Q1047 D:__department__>Ministry of Defence
+Order: 1_Upload_2928.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2893.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+Order: 1_Upload_2894.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs Order[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+***No Closing Orders[2]: D:__department__>Department of Atomic Energy, D:__department__>Ministry of External Affairs
+		NEW T: [Q1047,1962-04-10->,1964-05-27]
+		NEW T: [Q1047,1962-04-10->,1964-05-27]
+
+## Processing Officer: Q1058 #detailpost_infos: 120
+
+	Orders: {'1_Upload_1873.pdf', '1_Upload_1176.pdf', '1_Upload_1421.pdf', '1_Upload_1178.pdf', '1_Upload_1787.pdf', '1_Upload_2388.pdf', '1_Upload_3158.pdf', '1_Upload_1.pdf', '1_Upload_2447.pdf', '1_Upload_1177.pdf', '1_Upload_2405.pdf', '1_Upload_1392.pdf', '1_Upload_1763.pdf', '1_Upload_1856.pdf', '1_Upload_3297.pdf', '1_Upload_1388.pdf', '1_Upload_3795.pdf', '1_Upload_1516.pdf', '1_Upload_1495.pdf', '1_Upload_1943.pdf', '1_Upload_229.pdf', '1_Upload_1393.pdf', '1_Upload_230.pdf', '1_Upload_2606.pdf', '1_Upload_1733.pdf', '1_Upload_1195.pdf', '1_Upload_1170.pdf', '1_Upload_2398.pdf', '1_Upload_1235.pdf', '1_Upload_3634.pdf', '1_Upload_1215.pdf', '1_Upload_1859.pdf', '1_Upload_3837.pdf', '1_Upload_3889.pdf', '1_Upload_1782.pdf', '1_Upload_1249.pdf', '1_Upload_1171.pdf', '1_Upload_1387.pdf', '1_Upload_1211.pdf', '1_Upload_1266.pdf', '1_Upload_1807.pdf'}
+Order: 1_Upload_1782.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1170.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1171.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1176.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1177.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1178.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_230.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_229.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1195.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1211.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1215.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1235.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1249.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1266.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1387.pdf #detailpost_infos: 4
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Civil Aviation, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1388.pdf #detailpost_infos: 1
+	Active[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions, D:__department__>Ministry of Civil Aviation Order[1]: D:__department__>Ministry of Civil Aviation
+Order: 1_Upload_1392.pdf #detailpost_infos: 3
+	Active[4]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions, D:__department__>Ministry of Civil Aviation Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Multiple roles Officer: Q1058 1_Upload_1387.pdf:0-Prime Minister|1_Upload_1388.pdf:1-Cabinet Minister
+		NEW T: [Q1058,2018-03-09->1_Upload_1392.pdf,2018-03-10]
+		Closing Actives*[1]: D:__department__>Ministry of Civil Aviation 1_Upload_1392.pdf 0
+Order: 1_Upload_1393.pdf #detailpost_infos: 1
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[1]: D:__department__>Ministry of Civil Aviation
+***Missing Assume post_id: D:__department__>Ministry of Civil Aviation not found in 1_Upload_1393.pdf Q1058 D:__department__>Ministry of Civil Aviation
+Order: 1_Upload_1421.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1495.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1516.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1733.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1763.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1787.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1807.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+	New ministry Clearing older posts.
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+		NEW T: [Q1058,2014-05-27->,2019-05-30]
+Order: 1_Upload_1856.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+***Missing Assume post_id: D:__department__>Department of Atomic Energy not found in 1_Upload_1856.pdf Q1058 D:__department__>Department of Atomic Energy
+***Missing Assume post_id: D:__department__>Department of Space not found in 1_Upload_1856.pdf Q1058 D:__department__>Department of Space
+***Missing Assume post_id: D:__department__>Ministry of Personnel Public Grievances and Pensions not found in 1_Upload_1856.pdf Q1058 D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1859.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1873.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_1943.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2388.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2398.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2405.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2447.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_2606.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3158.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3297.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3634.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3795.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+Order: 1_Upload_3837.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+	New ministry Clearing older posts.
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+		NEW T: [Q1058,2019-05-31->,2024-06-09]
+Order: 1_Upload_3889.pdf #detailpost_infos: 3
+	Active[0] Order[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+***No Closing Orders[3]: D:__department__>Department of Atomic Energy, D:__department__>Department of Space, D:__department__>Ministry of Personnel Public Grievances and Pensions
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+		NEW T: [Q1058,2024-06-09->,2024-10-04]
+**** ERROR FOUND ***
+Long Tenure Gap: 10.043835616438356 years O: Q1058 1_Upload_1859.pdf:0 <-> :-1 D: 1836
+
+## Processing Officer: Q106322481 #detailpost_infos: 33
+
+	Orders: {'1_Upload_2189.pdf', '1_Upload_1991.pdf', '1_Upload_2185.pdf', '1_Upload_2325.pdf', '1_Upload_2297.pdf', '1_Upload_2197.pdf', '1_Upload_2300.pdf', '1_Upload_2298.pdf', '1_Upload_2324.pdf', '1_Upload_2187.pdf', '1_Upload_2302.pdf', '1_Upload_2171.pdf', '1_Upload_2334.pdf', '1_Upload_2314.pdf', '1_Upload_2178.pdf', '1_Upload_2301.pdf', '1_Upload_2299.pdf', '1_Upload_2188.pdf', '1_Upload_2167.pdf', '1_Upload_2184.pdf', '1_Upload_2191.pdf', '1_Upload_2190.pdf'}
+Order: 1_Upload_2197.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2184.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+		NEW T: [Q106322481,1986-05-12->1_Upload_2184.pdf,1986-05-13]
+		Closing Actives*[1]: D:__department__>Ministry of Industry 1_Upload_2184.pdf 34
+Order: 1_Upload_2185.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2191.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2187.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2188.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises
+Order: 1_Upload_2189.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2190.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2297.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2298.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2299.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2300.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2301.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2302.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+Order: 1_Upload_2314.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Heavy Industries and Public Enterprises Order[2]: D:__department__>Ministry of Heavy Industries and Public Enterprises, D:__department__>Ministry of Industry
+		NEW T: [Q106322481,1986-05-12->1_Upload_2314.pdf,1987-07-23]
+		Closing Active: D:__department__>Ministry of Heavy Industries and Public Enterprises 1_Upload_2314.pdf 0
+		NEW T: [Q106322481,1986-10-23->1_Upload_2314.pdf,1987-07-23]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2314.pdf 0
+Order: 1_Upload_2334.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2324.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2325.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of External Affairs Order[1]: D:__department__>Ministry of External Affairs
+Order: 1_Upload_2171.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of External Affairs Order[2]: D:__department__>Ministry of External Affairs, D:__department__>Ministry of Information and Broadcasting
+		NEW T: [Q106322481,1988-06-25->1_Upload_2171.pdf,1989-04-22]
+		Closing Active: D:__department__>Ministry of External Affairs 1_Upload_2171.pdf 0
+Order: 1_Upload_2178.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2167.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q106322481,1989-04-22->,1989-12-02]
+Order: 1_Upload_1991.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+***Missing Assume post_id: D:__department__>Ministry of Information and Broadcasting not found in 1_Upload_1991.pdf Q106322481 D:__department__>Ministry of Information and Broadcasting
+
+## Processing Officer: Q1068309 #detailpost_infos: 14
+
+	Orders: {'1_Upload_2128.pdf', '1_Upload_1624.pdf', '1_Upload_1637.pdf', '1_Upload_1629.pdf', '1_Upload_1614.pdf', '1_Upload_1623.pdf', '1_Upload_1622.pdf'}
+Order: 1_Upload_1614.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Agriculture>Department of Animal Husbandry and Dairying
+	New ministry Clearing older posts.
+		NEW T: [Q1068309,1996-06-29->,1997-04-21]
+		NEW T: [Q1068309,1996-06-29->,1997-04-21]
+Order: 1_Upload_1622.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_1622.pdf Q1068309 D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying not found in 1_Upload_1622.pdf Q1068309 D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_1623.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_2128.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying
+Order: 1_Upload_1624.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_1629.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Fisheries, Animal Husbandary and Dairying>Department of Animal Husbandry and Dairying Order[4]: D:__department__>Ministry of Agriculture, D:__department__>Ministry of Consumer Affairs, Food and Public Distribution, D:__department__>Ministry of Consumer Affairs, Food and Public Distribution, D:__department__>Ministry of Agriculture>Department of Animal Husbandry and Dairying
+		NEW T: [Q1068309,1997-06-09->1_Upload_1629.pdf,1997-06-09]
+		Closing Active: D:__department__>Ministry of Consumer Affairs, Food and Public Distribution 1_Upload_1629.pdf 1
+	New ministry Clearing older posts.
+		NEW T: [Q1068309,1997-04-22->,1998-03-19]
+		NEW T: [Q1068309,1997-04-22->,1998-03-19]
+		NEW T: [Q1068309,1997-06-09->,1998-03-19]
+Order: 1_Upload_1637.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+***Missing Assume post_id: D:__department__>Ministry of Agriculture not found in 1_Upload_1637.pdf Q1068309 D:__department__>Ministry of Agriculture
+
+## Processing Officer: Q107657297 #detailpost_infos: 5
+
+	Orders: {'1_Upload_2637.pdf', '1_Upload_2664.pdf', '1_Upload_2750.pdf', '1_Upload_2674.pdf', '1_Upload_2742.pdf'}
+Order: 1_Upload_2750.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2742.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2674.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2664.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+Order: 1_Upload_2637.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Agriculture Order[1]: D:__department__>Ministry of Agriculture
+		NEW T: [Q107657297,1974-10-23->1_Upload_2637.pdf,1977-03-14]
+		Closing Active: D:__department__>Ministry of Agriculture 1_Upload_2637.pdf 0
+
+## Processing Officer: Q108168769 #detailpost_infos: 6
+
+	Orders: {'1_Upload_2471.pdf', '1_Upload_2470.pdf', '1_Upload_2454.pdf'}
+Order: 1_Upload_2454.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2471.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2470.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+		NEW T: [Q108168769,1979-08-27->1_Upload_2470.pdf,1979-12-26]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2470.pdf 1
+		NEW T: [Q108168769,1979-08-27->1_Upload_2470.pdf,1979-12-26]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2470.pdf 1
+
+## Processing Officer: Q108403220 #detailpost_infos: 31
+
+	Orders: {'1_Upload_2010.pdf', '1_Upload_2856.pdf', '1_Upload_2857.pdf', '1_Upload_2875.pdf', '1_Upload_2842.pdf', '1_Upload_2854.pdf', '1_Upload_2840.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2874.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2836.pdf', '1_Upload_2830.pdf'}
+Order: 1_Upload_2010.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2874.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2875.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum
+Order: 1_Upload_2854.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+		NEW T: [Q108403220,1966-01-24->1_Upload_2854.pdf,1967-03-18]
+		NEW T: [Q108403220,1966-01-24->1_Upload_2854.pdf,1967-03-18]
+		Closing Actives*[2]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum 1_Upload_2854.pdf 16
+Order: 1_Upload_2855.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2856.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2857.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2835.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2836.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing
+Order: 1_Upload_2833.pdf #detailpost_infos: 4
+	Active[2]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing Order[4]: D:__department__>Ministry of Supply, D:__department__>Ministry of Works and Housing, D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Supply 1_Upload_2833.pdf 27
+		NEW T: [Q108403220,1967-03-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Works and Housing 1_Upload_2833.pdf 27
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2842.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2840.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport
+Order: 1_Upload_2830.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Parliamentary Affairs Order[3]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Shipping and Transport, D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1969-02-14->1_Upload_2830.pdf,1970-07-10]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2830.pdf 0
+		NEW T: [Q108403220,1969-02-14->1_Upload_2830.pdf,1970-07-10]
+		Closing Active: D:__department__>Ministry of Shipping and Transport 1_Upload_2830.pdf 0
+***No Closing Orders[1]: D:__department__>Ministry of Shipping and Transport
+		NEW T: [Q108403220,1970-07-10->,1971-03-18]
+
+## Processing Officer: Q108507760 #detailpost_infos: 12
+
+	Orders: {'1_Upload_2152.pdf', '1_Upload_2421.pdf', '1_Upload_2346.pdf', '1_Upload_2365.pdf', '1_Upload_2352.pdf', '1_Upload_2345.pdf', '1_Upload_2348.pdf', '1_Upload_2344.pdf', '1_Upload_2343.pdf', '1_Upload_2347.pdf', '1_Upload_2366.pdf'}
+Order: 1_Upload_2421.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2365.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Finance Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2366.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Finance Order[1]: D:__department__>Ministry of Finance
+Order: 1_Upload_2152.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Finance Order[2]: D:__department__>Ministry of Finance, D:__department__>Ministry of Industry
+		NEW T: [Q108507760,1982-09-11->1_Upload_2152.pdf,1984-02-08]
+		Closing Active: D:__department__>Ministry of Finance 1_Upload_2152.pdf 2
+Order: 1_Upload_2344.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2348.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2345.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+	New ministry Clearing older posts.
+		NEW T: [Q108507760,1984-02-08->,1984-11-01]
+Order: 1_Upload_2352.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2343.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2346.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2347.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+***No Closing Orders[1]: D:__department__>Ministry of Industry
+		NEW T: [Q108507760,1984-11-05->,1985-01-03]
+
+## Processing Officer: Q108663917 #detailpost_infos: 21
+
+	Orders: {'1_Upload_2324.pdf', '1_Upload_2325.pdf', '1_Upload_2321.pdf', '1_Upload_2328.pdf', '1_Upload_2334.pdf', '1_Upload_2173.pdf', '1_Upload_1991.pdf', '1_Upload_2178.pdf', '1_Upload_2322.pdf', '1_Upload_2323.pdf', '1_Upload_2167.pdf'}
+Order: 1_Upload_2328.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2321.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2322.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2323.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[1]: D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2334.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Road Transport and Highways Order[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2324.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2325.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2178.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways
+Order: 1_Upload_2167.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Parliamentary Affairs Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Industry, D:__department__>Ministry of Parliamentary Affairs
+		NEW T: [Q108663917,1988-02-15->1_Upload_2167.pdf,1989-07-04]
+		Closing Actives*[1]: D:__department__>Ministry of Road Transport and Highways 1_Upload_2167.pdf 48
+Order: 1_Upload_2173.pdf #detailpost_infos: 4
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Industry, D:__department__>Ministry of Parliamentary Affairs Order[4]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Road Transport and Highways, D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals, D:__department__>Ministry of Parliamentary Affairs
+Multiple roles Officer: Q108663917 1_Upload_2334.pdf:18-Deputy Minister|1_Upload_2324.pdf:59-Deputy Minister|1_Upload_2325.pdf:57-Deputy Minister|1_Upload_2178.pdf:56-Deputy Minister|1_Upload_2167.pdf:48-Minister of State|1_Upload_2173.pdf:12-Deputy Minister
+		NEW T: [Q108663917,1988-06-25->1_Upload_2173.pdf,1989-07-04]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2173.pdf 12
+***Missing Assume post_id: D:__department__>Ministry of Road Transport and Highways not found in 1_Upload_2173.pdf Q108663917 D:__department__>Ministry of Road Transport and Highways
+	New ministry Clearing older posts.
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+		NEW T: [Q108663917,1989-07-04->,1989-12-02]
+Order: 1_Upload_1991.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals, D:__department__>Ministry of Parliamentary Affairs
+***Missing Assume post_id: D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals not found in 1_Upload_1991.pdf Q108663917 D:__department__>Ministry of Industry>Department of Chemicals and Petro- chemicals
+***Missing Assume post_id: D:__department__>Ministry of Parliamentary Affairs not found in 1_Upload_1991.pdf Q108663917 D:__department__>Ministry of Parliamentary Affairs
+
+## Processing Officer: Q110322034 #detailpost_infos: 16
+
+	Orders: {'1_Upload_2427.pdf', '1_Upload_2429.pdf', '1_Upload_2414.pdf', '1_Upload_2428.pdf', '1_Upload_2413.pdf', '1_Upload_2422.pdf', '1_Upload_2430.pdf', '1_Upload_2411.pdf', '1_Upload_2407.pdf', '1_Upload_2424.pdf', '1_Upload_2415.pdf'}
+Order: 1_Upload_2427.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2428.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2429.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2430.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2424.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2407.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2411.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2415.pdf #detailpost_infos: 3
+	Active[1]: D:__department__>Ministry of Industry Order[3]: D:__department__>Ministry of Industry, D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+		NEW T: [Q110322034,1980-03-03->1_Upload_2415.pdf,1982-01-15]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2415.pdf 9
+Order: 1_Upload_2413.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+Order: 1_Upload_2414.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+Order: 1_Upload_2422.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Steel and Mines
+		NEW T: [Q110322034,1982-01-15->1_Upload_2422.pdf,1982-09-03]
+		Closing Active: D:__department__>Ministry of Industry 1_Upload_2422.pdf 20
+		NEW T: [Q110322034,1982-01-15->1_Upload_2422.pdf,1982-09-03]
+		Closing Active: D:__department__>Ministry of Steel and Mines 1_Upload_2422.pdf 20
+
+## Processing Officer: Q110322062 #detailpost_infos: 12
+
+	Orders: {'1_Upload_2350.pdf', '1_Upload_2346.pdf', '1_Upload_2365.pdf', '1_Upload_2352.pdf', '1_Upload_2345.pdf', '1_Upload_2348.pdf', '1_Upload_2344.pdf', '1_Upload_2343.pdf', '1_Upload_2347.pdf', '1_Upload_2366.pdf', '1_Upload_2373.pdf'}
+Order: 1_Upload_2373.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2365.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2366.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2344.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2348.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Rural Development Order[1]: D:__department__>Ministry of Rural Development
+Order: 1_Upload_2350.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Rural Development Order[2]: D:__department__>Ministry of Rural Development, D:__department__>Ministry of Irrigation
+Multiple roles Officer: Q110322062 1_Upload_2373.pdf:5-Minister of State (Independent Charge)|1_Upload_2365.pdf:34-Minister of State (Independent Charge)|1_Upload_2366.pdf:31-Minister of State (Independent Charge)|1_Upload_2344.pdf:32-Minister of State (Independent Charge)|1_Upload_2348.pdf:32-Minister of State|1_Upload_2350.pdf:3-Minister of State (Independent Charge)
+		NEW T: [Q110322062,1983-01-29->1_Upload_2350.pdf,1984-08-02]
+		Closing Active: D:__department__>Ministry of Rural Development 1_Upload_2350.pdf 3
+Order: 1_Upload_2345.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Irrigation Order[1]: D:__department__>Ministry of Irrigation
+	New ministry Clearing older posts.
+		NEW T: [Q110322062,1984-08-02->,1984-11-01]
+Order: 1_Upload_2352.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2343.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2346.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+Order: 1_Upload_2347.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Planning Order[1]: D:__department__>Ministry of Planning
+***No Closing Orders[1]: D:__department__>Ministry of Planning
+		NEW T: [Q110322062,1984-11-05->,1985-01-03]
+
+## Processing Officer: Q110322103 #detailpost_infos: 9
+
+	Orders: {'1_Upload_2418.pdf', '1_Upload_2429.pdf', '1_Upload_2430.pdf', '1_Upload_2411.pdf', '1_Upload_2439.pdf', '1_Upload_2435.pdf', '1_Upload_2417.pdf', '1_Upload_2424.pdf'}
+Order: 1_Upload_2429.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2435.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2430.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Industry
+Order: 1_Upload_2424.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Industry Order[1]: D:__department__>Ministry of Labour
+		NEW T: [Q110322103,1980-06-02->1_Upload_2424.pdf,1980-10-21]
+		Closing Actives*[1]: D:__department__>Ministry of Industry 1_Upload_2424.pdf 48
+Order: 1_Upload_2439.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Labour Order[2]: D:__department__>Ministry of Industry, D:__department__>Ministry of Labour
+***Missing Assume post_id: D:__department__>Ministry of Industry not found in 1_Upload_2439.pdf Q110322103 D:__department__>Ministry of Industry
+Order: 1_Upload_2411.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Labour Order[1]: D:__department__>Ministry of Labour
+Order: 1_Upload_2418.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Labour Order[1]: D:__department__>Ministry of Labour
+		NEW T: [Q110322103,1980-10-21->1_Upload_2418.pdf,1982-01-08]
+		Closing Active: D:__department__>Ministry of Labour 1_Upload_2418.pdf 2
+Order: 1_Upload_2417.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Labour
+***Missing Assume post_id: D:__department__>Ministry of Labour not found in 1_Upload_2417.pdf Q110322103 D:__department__>Ministry of Labour
+
+## Processing Officer: Q110322120 #detailpost_infos: 8
+
+	Orders: {'1_Upload_2923.pdf', '1_Upload_2023.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2922.pdf', '1_Upload_2925.pdf', '1_Upload_2926.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2023.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Home Affairs
+	New ministry Clearing older posts.
+		NEW T: [Q110322120,1957-04-16->,1962-04-10]
+Order: 1_Upload_2923.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2922.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Home Affairs Order[1]: D:__department__>Ministry of Home Affairs
+***No Closing Orders[1]: D:__department__>Ministry of Home Affairs
+		NEW T: [Q110322120,1962-04-16->,1963-09-02]
+
+## Processing Officer: Q110322132 #detailpost_infos: 26
+
+	Orders: {'1_Upload_2846.pdf', '1_Upload_2856.pdf', '1_Upload_2857.pdf', '1_Upload_2854.pdf', '1_Upload_2841.pdf', '1_Upload_2835.pdf', '1_Upload_2869.pdf', '1_Upload_2867.pdf', '1_Upload_2855.pdf', '1_Upload_2833.pdf', '1_Upload_2836.pdf'}
+Order: 1_Upload_2854.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2855.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2856.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[1]: D:__department__>Ministry of Parliamentary Affairs
+Order: 1_Upload_2867.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Parliamentary Affairs Order[2]: D:__department__>Ministry of Parliamentary Affairs, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1967-03-18->1_Upload_2867.pdf,1967-11-14]
+		Closing Active: D:__department__>Ministry of Parliamentary Affairs 1_Upload_2867.pdf 7
+Order: 1_Upload_2869.pdf #detailpost_infos: 3
+	Active[1]: D:__department__>Ministry of Welfare Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2857.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2835.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2836.pdf #detailpost_infos: 3
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare
+Order: 1_Upload_2833.pdf #detailpost_infos: 5
+	Active[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Welfare, D:__department__>Ministry of Petroleum Order[5]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Petroleum, D:__department__>Ministry of Welfare, D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1967-11-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Chemicals and Fertilisers 1_Upload_2833.pdf 24
+		NEW T: [Q110322132,1967-11-18->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Petroleum 1_Upload_2833.pdf 24
+		NEW T: [Q110322132,1967-11-14->1_Upload_2833.pdf,1969-02-14]
+		Closing Active: D:__department__>Ministry of Welfare 1_Upload_2833.pdf 24
+Order: 1_Upload_2841.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare Order[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+Order: 1_Upload_2846.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare Order[2]: D:__department__>Ministry of Law and Justice, D:__department__>Ministry of Welfare
+		NEW T: [Q110322132,1969-02-14->1_Upload_2846.pdf,1969-10-18]
+		Closing Active: D:__department__>Ministry of Law and Justice 1_Upload_2846.pdf 3
+		NEW T: [Q110322132,1969-02-14->1_Upload_2846.pdf,1969-10-18]
+		Closing Active: D:__department__>Ministry of Welfare 1_Upload_2846.pdf 3
+
+## Processing Officer: Q110322143 #detailpost_infos: 17
+
+	Orders: {'1_Upload_2010.pdf', '1_Upload_2875.pdf', '1_Upload_2930.pdf', '1_Upload_2924.pdf', '1_Upload_2928.pdf', '1_Upload_2909.pdf', '1_Upload_2874.pdf', '1_Upload_2907.pdf', '1_Upload_2876.pdf', '1_Upload_2925.pdf', '1_Upload_2926.pdf', '1_Upload_2894.pdf', '1_Upload_2908.pdf', '1_Upload_2893.pdf', '1_Upload_2003.pdf', '1_Upload_2906.pdf', '1_Upload_2927.pdf'}
+Order: 1_Upload_2924.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2930.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2925.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2926.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2927.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2928.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2893.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+Order: 1_Upload_2894.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Information and Broadcasting Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1962-05-08->,1964-05-27]
+Order: 1_Upload_2003.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Information and Broadcasting
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1964-05-27->,1964-06-09]
+Order: 1_Upload_2906.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2907.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2908.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2909.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1964-06-15->,1966-01-11]
+Order: 1_Upload_2876.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+	New ministry Clearing older posts.
+		NEW T: [Q110322143,1966-01-11->,1966-01-24]
+Order: 1_Upload_2010.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2874.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+Order: 1_Upload_2875.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Railways Order[1]: D:__department__>Ministry of Railways
+***No Closing Orders[1]: D:__department__>Ministry of Railways
+		NEW T: [Q110322143,1966-01-24->,1967-03-13]
+
+## Processing Officer: Q110322150 #detailpost_infos: 9
+
+	Orders: {'1_Upload_2475.pdf', '1_Upload_2452.pdf', '1_Upload_2456.pdf', '1_Upload_2042.pdf', '1_Upload_2454.pdf'}
+Order: 1_Upload_2456.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Law and Justice
+Order: 1_Upload_2452.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Law and Justice Order[1]: D:__department__>Ministry of Law Justice and Company Affairs
+		NEW T: [Q110322150,1979-08-03->1_Upload_2452.pdf,1979-08-16]
+		Closing Actives*[1]: D:__department__>Ministry of Law and Justice 1_Upload_2452.pdf 5
+Order: 1_Upload_2454.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Law Justice and Company Affairs Order[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Law and Justice
+		NEW T: [Q110322150,1979-08-16->1_Upload_2454.pdf,1979-08-27]
+		Closing Actives*[1]: D:__department__>Ministry of Law Justice and Company Affairs 1_Upload_2454.pdf 5
+Order: 1_Upload_2475.pdf #detailpost_infos: 3
+	Active[2]: D:__department__>Ministry of Corporate Affairs, D:__department__>Ministry of Law and Justice Order[3]: D:__department__>Ministry of Chemicals and Fertilisers, D:__department__>Ministry of Law Justice and Company Affairs, D:__department__>Ministry of Petroleum
+	New ministry Clearing older posts.
+		NEW T: [Q110322150,1979-08-27->,1980-01-14]
+		NEW T: [Q110322150,1979-08-27->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+		NEW T: [Q110322150,1979-12-31->,1980-01-14]
+Order: 1_Upload_2042.pdf #detailpost_infos: 2
+	Active[0] Order[2]: D:__department__>Ministry of Law Justice and Company Affairs, D:__department__>Ministry of Petroleum Chemicals and Fertilisers
+***Missing Assume post_id: D:__department__>Ministry of Law Justice and Company Affairs not found in 1_Upload_2042.pdf Q110322150 D:__department__>Ministry of Law Justice and Company Affairs
+***Missing Assume post_id: D:__department__>Ministry of Petroleum Chemicals and Fertilisers not found in 1_Upload_2042.pdf Q110322150 D:__department__>Ministry of Petroleum Chemicals and Fertilisers
+
+## Processing Officer: Q11050320 #detailpost_infos: 49
+
+	Orders: {'1_Upload_2044.pdf', '1_Upload_2095.pdf', '1_Upload_2050.pdf', '1_Upload_2106.pdf', '1_Upload_2097.pdf', '1_Upload_2048.pdf', '1_Upload_2055.pdf', '1_Upload_2108.pdf', '1_Upload_1765.pdf', '1_Upload_2090.pdf', '1_Upload_2101.pdf', '1_Upload_2091.pdf', '1_Upload_2094.pdf', '1_Upload_2096.pdf', '1_Upload_2105.pdf', '1_Upload_2107.pdf', '1_Upload_1472.pdf', '1_Upload_2098.pdf', '1_Upload_1454.pdf', '1_Upload_2049.pdf', '1_Upload_2054.pdf', '1_Upload_2093.pdf', '1_Upload_873.pdf', '1_Upload_2099.pdf', '1_Upload_2046.pdf', '1_Upload_2057.pdf', '1_Upload_2052.pdf', '1_Upload_2100.pdf', '1_Upload_2053.pdf', '1_Upload_1146.pdf', '1_Upload_1444.pdf', '1_Upload_2051.pdf', '1_Upload_2056.pdf', '1_Upload_2092.pdf', '1_Upload_2103.pdf', '1_Upload_1443.pdf', '1_Upload_2047.pdf', '1_Upload_2104.pdf', '1_Upload_2058.pdf', '1_Upload_2045.pdf'}
+Order: 1_Upload_1472.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2090.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2091.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2092.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2093.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2094.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_1765.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2095.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2096.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2097.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2098.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2105.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2106.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2108.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2107.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2103.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2104.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2101.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2099.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2100.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[1]: D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_1443.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Health and Family Welfare Order[2]: D:__department__>Ministry of Health and Family Welfare, D:__department__>Ministry of Health and Family Welfare
+		NEW T: [Q11050320,2004-05-24->1_Upload_1443.pdf,2009-04-22]
+		Closing Active: D:__department__>Ministry of Health and Family Welfare 1_Upload_1443.pdf 2
+	New ministry Clearing older posts.
+		NEW T: [Q11050320,2009-04-22->,2009-05-22]
+Order: 1_Upload_1454.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Health and Family Welfare
+***Missing Assume post_id: D:__department__>Ministry of Health and Family Welfare not found in 1_Upload_1454.pdf Q11050320 D:__department__>Ministry of Health and Family Welfare
+Order: 1_Upload_2044.pdf #detailpost_infos: 1
+	Active[0] Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2045.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2046.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2047.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2048.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2049.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2050.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2051.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2052.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Textiles Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_873.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Textiles Order[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas
+		NEW T: [Q11050320,2009-05-28->1_Upload_873.pdf,2012-10-30]
+		Closing Active: D:__department__>Ministry of Textiles 1_Upload_873.pdf 0
+Order: 1_Upload_2053.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Petroleum and Natural Gas
+Order: 1_Upload_1146.pdf #detailpost_infos: 1
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Petroleum and Natural Gas
+Order: 1_Upload_2054.pdf #detailpost_infos: 2
+	Active[1]: D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_1146.pdf #detailpost_infos: 1
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[1]: D:__department__>Ministry of Textiles
+Order: 1_Upload_2055.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_2056.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
+Order: 1_Upload_2057.pdf #detailpost_infos: 2
+	Active[2]: D:__department__>Ministry of Textiles, D:__department__>Ministry of Petroleum and Natural Gas Order[2]: D:__department__>Ministry of Petroleum and Natural Gas, D:__department__>Ministry of Textiles
