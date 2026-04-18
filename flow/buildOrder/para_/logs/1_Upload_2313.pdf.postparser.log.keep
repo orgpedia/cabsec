@@ -1,0 +1,10 @@
+post_parser: 1_Upload_2313.pdf
+The undersigned is directed to pay that with immediate effect from to pay Shri has relinquished the office of the Minister of State Department of Defence Research and Development Ministry of Defence
+Spans:
+----------
+The undersigned is directed to pay that with immediate effect from to pay Shri has relinquished the office of the Minister of State Department of Defence Research and Development Ministry of Defence
+SpanGroups:
+----------
+dept: D:2 Ministry of Defence->Department of Defence Research and Development [132:198]
+role: D:4 Minister of State [114:131]
+verb: D:2 relinquishes [83:95]

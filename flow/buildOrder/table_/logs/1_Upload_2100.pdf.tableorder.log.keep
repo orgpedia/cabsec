@@ -1,0 +1,766 @@
+table_order_builder: 1_Upload_2100.pdf
+Prime Minister and also in-charge of the Ministries/Departments not specifically allocated to the charge of any Minister viz: (i)Ministry of Personnel Public Grievances & Pensions (ii) Ministry of Planning (iii) Department of Atomic Energy (iv) Department of Space(v) Ministry of Coal (vi) Ministry of Environment and Forests and (vii) Ministry of Information & Broadcasting
+dept: D:2 Ministry of Information and Broadcasting [336:374]|D:2 Ministry of Environment and Forests [290:325]|D:2 Ministry of Coal [268:284]|D:2 Ministry of Personnel Public Grievances and Pensions [129:179]|D:2 Ministry of Planning [185:205]|D:2 Department of Space [245:264]|D:2 Department of Atomic Energy [212:239]
+role: D:2 Prime Minister [0:14]
+--------
+1 Dr. Manmohan Singh Prime Minister and also in-charge of the Ministries/Departments not specifically allocated to the charge of any Minister viz.: (i)Ministry of Personnel, Public Grievances & Pensions; (ii) Ministry of Planning; (iii) Department of Atomic Energy; (iv) Department of Space,(v) Ministry of Coal, (vi) Ministry of Environment and Forests, and (vii) Ministry of Information & Broadcasting.
+O: Dr.|Manmohan Singh
+continues:
+  role: __role__->Prime Minister
+  dept: __department__->Ministry of Personnel Public Grievances and Pensions
+  role: __role__->Prime Minister
+  dept: __department__->Ministry of Planning
+  role: __role__->Prime Minister
+  dept: __department__->Department of Atomic Energy
+  role: __role__->Prime Minister
+  dept: __department__->Department of Space
+  role: __role__->Prime Minister
+  dept: __department__->Ministry of Coal
+  role: __role__->Prime Minister
+  dept: __department__->Ministry of Environment and Forests
+  role: __role__->Prime Minister
+  dept: __department__->Ministry of Information and Broadcasting
+Minister ofExternal Affairs and Minister of Finance
+dept: D:2 Ministry of External Affairs [11:27]|D:2 Ministry of Finance [32:51]
+role: 
+*SETTING pa0.ta0.ro1.ce2 table:Cabinet Minister|Minister ofExternal Affairs and Minister of Finance
+--------
+2 Shri Pranab Mukherjee Minister ofExternal Affairs and Minister of Finance.
+O: Shri|Pranab Mukherjee
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of External Affairs
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Finance
+Minister of Human Resource Development
+dept: D:2 Ministry of Human Resource Development [0:38]
+role: 
+*SETTING pa0.ta0.ro2.ce2 table:Cabinet Minister|Minister of Human Resource Development
+--------
+3 Shri Arjun Singh Minister of Human Resource Development.
+O: Shri|Arjun Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Human Resource Development
+Minister of Agriculture and Minister of Consumer Affairs Food & Public Distribution
+dept: D:2 Ministry of Agriculture [0:23]|D:2 Ministry of Consumer Affairs, Food and Public Distribution [28:83]
+role: 
+*SETTING pa0.ta0.ro3.ce2 table:Cabinet Minister|Minister of Agriculture and Minister of Consumer Affairs Food & Public Distribution
+--------
+4 Shri Sharad Pawar Minister of Agriculture and Minister of Consumer Affairs, Food & Public Distribution.
+O: Shri|Sharad Pawar
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Consumer Affairs, Food and Public Distribution
+Minister of Railways
+dept: D:2 Ministry of Railways [0:20]
+role: 
+*SETTING pa0.ta0.ro4.ce2 table:Cabinet Minister|Minister of Railways
+--------
+5 Shri Lalu Prasad Minister of Railways.
+O: Shri|Lalu Prasad
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Railways
+Minister of Defence
+dept: D:2 Ministry of Defence [0:19]
+role: 
+*SETTING pa0.ta0.ro5.ce2 table:Cabinet Minister|Minister of Defence
+--------
+6 Shri A.K. Antony Minister of Defence.
+O: Shri|A.K. Antony
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Defence
+Minister of Minority Affairs
+dept: D:2 Ministry of Minority Affairs [0:28]
+role: 
+*SETTING pa0.ta0.ro6.ce2 table:Cabinet Minister|Minister of Minority Affairs
+--------
+7 Shri A.R. Antulay Minister of Minority Affairs.
+O: Shri|A.R. Antulay
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Minority Affairs
+Minister of Power
+dept: D:2 Ministry of Power [0:17]
+role: 
+*SETTING pa0.ta0.ro7.ce2 table:Cabinet Minister|Minister of Power
+--------
+8 Shri Sushilkumar Shinde Minister of Power.
+O: Shri|Sushilkumar Shinde
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Power
+Minister of Chemicals & Fertilizers and Minister of Steel
+dept: D:2 Ministry of Steel [40:57]|D:2 Ministry of Chemicals and Fertilisers [0:35]
+role: 
+*SETTING pa0.ta0.ro8.ce2 table:Cabinet Minister|Minister of Chemicals & Fertilizers and Minister of Steel
+--------
+9 Shri Ram Vilas Paswan Minister of Chemicals & Fertilizers and Minister of Steel.
+O: Shri|Ram Vilas Paswan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Chemicals and Fertilisers
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Steel
+Minister of Urban Development
+dept: D:2 Ministry of Urban Development [0:29]
+role: 
+*SETTING pa0.ta0.ro9.ce2 table:Cabinet Minister|Minister of Urban Development
+--------
+10 Shri S. Jaipal Reddy Minister of Urban Development.
+O: Shri|S. Jaipal Reddy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Urban Development
+Minister of Mines
+dept: D:2 Ministry of Mines [0:17]
+role: 
+*SETTING pa0.ta0.ro10.ce2 table:Cabinet Minister|Minister of Mines
+--------
+11 Shri Sis Ram Ola Minister of Mines.
+O: Shri|Sis Ram Ola
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Mines
+Minister of Home Affairs
+dept: D:2 Ministry of Home Affairs [0:24]
+role: 
+*SETTING pa0.ta0.ro11.ce2 table:Cabinet Minister|Minister of Home Affairs
+--------
+12 Shri P. Chidambaram Minister of Home Affairs.
+O: Shri|P. Chidambaram
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Home Affairs
+Minister of Micro Small and Medium Enterprises
+dept: D:2 Ministry of Micro Small and Medium Enterprises [0:46]
+role: 
+*SETTING pa0.ta0.ro12.ce2 table:Cabinet Minister|Minister of Micro Small and Medium Enterprises
+--------
+13 Shri Mahavir Prasad Minister of Micro, Small and Medium Enterprises.
+O: Shri|Mahavir Prasad
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Micro Small and Medium Enterprises
+Minister of Tribal Affairs
+dept: D:2 Ministry of Tribal Affairs [0:26]
+role: 
+*SETTING pa0.ta0.ro13.ce2 table:Cabinet Minister|Minister of Tribal Affairs
+--------
+14 Shri P.R. Kyndiah Minister of Tribal Affairs.
+O: Shri|P.R. Kyndiah
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Tribal Affairs
+Minister of Shipping Road Transport & Highways
+dept: D:2 Ministry of Road Transport and Highways [21:46]|D:2 Ministry of Shipping [0:20]
+role: 
+*SETTING pa0.ta0.ro14.ce2 table:Cabinet Minister|Minister of Shipping Road Transport & Highways
+--------
+15 Shri T.R. Baalu Minister of Shipping, Road Transport & Highways.
+O: Shri|T.R. Baalu
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Shipping
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Road Transport and Highways
+Minister of Textiles
+dept: D:2 Ministry of Textiles [0:20]
+role: 
+*SETTING pa0.ta0.ro15.ce2 table:Cabinet Minister|Minister of Textiles
+--------
+16 Shri Shankersinh Vaghela Minister of Textiles.
+O: Shri|Shankersinh Vaghela
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Textiles
+Minister of Overseas Indian Affairs and Minister of Parliamentary Affairs
+dept: D:2 Ministry of Parliamentary Affairs [40:73]|D:2 Ministry of Overseas Indian Affairs [0:35]
+role: 
+*SETTING pa0.ta0.ro16.ce2 table:Cabinet Minister|Minister of Overseas Indian Affairs and Minister of Parliamentary Affairs
+--------
+17 Shri Vayalar Ravi Minister of Overseas Indian Affairs and Minister of Parliamentary Affairs.
+O: Shri|Vayalar Ravi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Overseas Indian Affairs
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Parliamentary Affairs
+Minister of Commerce & Industry
+dept: D:2 Ministry of Commerce and Industry [0:31]
+role: 
+*SETTING pa0.ta0.ro17.ce2 table:Cabinet Minister|Minister of Commerce & Industry
+--------
+18 Shri Kamal Nath Minister of Commerce & Industry.
+O: Shri|Kamal Nath
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Commerce and Industry
+Minister of Law & Justice
+dept: D:2 Ministry of Law and Justice [0:25]
+role: 
+*SETTING pa0.ta0.ro18.ce2 table:Cabinet Minister|Minister of Law & Justice
+--------
+19 Shri H.R. Bhardwaj Minister of Law & Justice.
+O: Shri|H.R. Bhardwaj
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Law and Justice
+Minister of Heavy Industries & Public Enterprises
+dept: D:2 Ministry of Heavy Industries and Public Enterprises [0:49]
+role: 
+*SETTING pa0.ta0.ro19.ce2 table:Cabinet Minister|Minister of Heavy Industries & Public Enterprises
+--------
+20 Shri Sontosh Mohan Dev Minister of Heavy Industries & Public Enterprises.
+O: Shri|Sontosh Mohan Dev
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Heavy Industries and Public Enterprises
+Minister of Water Resources
+dept: D:2 Ministry of Water Resources [0:27]
+role: 
+*SETTING pa0.ta0.ro20.ce2 table:Cabinet Minister|Minister of Water Resources
+--------
+21 Prof. Saif-ud-din Soz Minister of Water Resources.
+O: Prof.|Saif-ud-din Soz
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Water Resources
+Minister of Rural Development
+dept: D:2 Ministry of Rural Development [0:29]
+role: 
+*SETTING pa0.ta0.ro21.ce2 table:Cabinet Minister|Minister of Rural Development
+--------
+22 Shri Raghuvansh Prasad Singh Minister of Rural Development.
+O: Shri|Raghuvansh Prasad Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Rural Development
+Minister without Portfolio
+dept: D:2 Ministry without portfolio [0:26]
+role: 
+*SETTING pa0.ta0.ro22.ce2 table:Cabinet Minister|Minister without Portfolio
+--------
+23 Shri Priyaranjan Dasmunsi Minister without Portfolio.
+O: Shri|Priyaranjan Dasmunsi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry without portfolio
+Minister of Panchayati Raj and Minister of Development of North Eastern Region
+dept: D:2 Ministry of Development of North Eastern Region [31:78]|D:2 Ministry of Panchayati Raj [0:26]
+role: 
+*SETTING pa1.ta0.ro0.ce2 table:Cabinet Minister|Minister of Panchayati Raj and Minister of Development of North Eastern Region
+--------
+24 Shri Mani Shankar Aiyar Minister of Panchayati Raj and Minister of Development of North Eastern Region.
+O: Shri|Mani Shankar Aiyar
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Panchayati Raj
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Development of North Eastern Region
+Minister of Social Justice & Empowerment
+dept: D:2 Ministry of Social Justice and Empowerment [0:40]
+role: 
+*SETTING pa1.ta0.ro1.ce2 table:Cabinet Minister|Minister of Social Justice & Empowerment
+--------
+25 Smt. Meira Kumar Minister of Social Justice & Empowerment.
+O: Smt.|Meira Kumar
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Social Justice and Empowerment
+Minister of Petroleum & Natural Gas
+dept: D:2 Ministry of Petroleum and Natural Gas [0:35]
+role: 
+*SETTING pa1.ta0.ro2.ce2 table:Cabinet Minister|Minister of Petroleum & Natural Gas
+--------
+26 Shri Murli Deora Minister of Petroleum & Natural Gas.
+O: Shri|Murli Deora
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Petroleum and Natural Gas
+Minister of Tourism and Minister of Culture
+dept: D:2 Ministry of Tourism [0:19]|D:2 Ministry of Culture [24:43]
+role: 
+*SETTING pa1.ta0.ro3.ce2 table:Cabinet Minister|Minister of Tourism and Minister of Culture
+--------
+27 Smt. Ambika Soni Minister of Tourism and Minister of Culture.
+O: Smt.|Ambika Soni
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Tourism
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Culture
+Minister of Communications and Information Technology
+dept: D:2 Ministry of Communications and Information Technology [0:53]
+role: 
+*SETTING pa1.ta0.ro4.ce2 table:Cabinet Minister|Minister of Communications and Information Technology
+--------
+28 Shri A. Raja Minister of Communications and Information Technology.
+O: Shri|A. Raja
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Communications and Information Technology
+Minister of Science & Technology and Minister of Earth Sciences
+dept: D:2 Ministry of Earth Sciences [37:63]|D:2 Ministry of Science and Technology [0:32]
+role: 
+*SETTING pa1.ta0.ro5.ce2 table:Cabinet Minister|Minister of Science & Technology and Minister of Earth Sciences
+--------
+29 Shri Kapil Sibal Minister of Science & Technology and Minister of Earth Sciences.
+O: Shri|Kapil Sibal
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Science and Technology
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Earth Sciences
+Minister of Corporate Affairs
+dept: D:2 Ministry of Corporate Affairs [0:29]
+role: 
+*SETTING pa1.ta0.ro6.ce2 table:Cabinet Minister|Minister of Corporate Affairs
+--------
+30 Shri Prem Chand Gupta Minister of Corporate Affairs.
+O: Shri|Prem Chand Gupta
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Corporate Affairs
+Minister of State (Independent Charge) of the Ministry of Women & Child Development
+dept: D:2 Ministry of Women and Child Development [46:83]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+1 Smt. Renuka Chowdhury Minister of State (Independent Charge) of the Ministry of Women & Child Development.
+O: Smt.|Renuka Chowdhury
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Women and Child Development
+Minister of State (Independent Charge) of the Ministry of Food Processing Industries
+dept: D:2 Ministry of Food Processing Industries [46:84]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+2 Shri Subodh Kant Sahay Minister of State (Independent Charge) of the Ministry of Food Processing Industries.
+O: Shri|Subodh Kant Sahay
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Food Processing Industries
+Minister of State (Independent Charge) of the Ministry of New and Renewable Energy
+dept: D:2 Ministry of New and Renewable Energy [46:82]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+3 Shri Vilas Muttemwar Minister of State (Independent Charge) of the Ministry of New and Renewable Energy.
+O: Shri|Vilas Muttemwar
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of New and Renewable Energy
+Minister of State (Independent Charge) of the Ministry of Housing and Urban Poverty Alleviation
+dept: D:2 Ministry of Housing and Urban Poverty Alleviation [46:95]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+4 Kumari Selja Minister of State (Independent Charge) of the Ministry of Housing and Urban Poverty Alleviation.
+O: Kumari|Selja
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Housing and Urban Poverty Alleviation
+Minister of State (Independent Charge) of the Ministry of Civil Aviation
+dept: D:2 Ministry of Civil Aviation [46:72]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+5 Shri Praful Patel Minister of State (Independent Charge) of the Ministry of Civil Aviation.
+O: Shri|Praful Patel
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Civil Aviation
+Minister of State (Independent Charge) of the Ministry of Statistics & Programme Implementation and Minister of State (Independent Charge) of the Ministry of Labour & Employment
+dept: D:2 Ministry of Labour [146:177]|D:2 Ministry of Statistics and Programme Implementation [46:95]
+role: D:3 Minister of State (Independent Charge) [0:38]|D:3 Minister of State (Independent Charge) [100:138]
+--------
+6 Shri G.K. Vasan Minister of State (Independent Charge) of the Ministry of Statistics & Programme Implementation and Minister of State (Independent Charge) of the Ministry of Labour & Employment.
+O: Shri|G.K. Vasan
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Statistics and Programme Implementation
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Labour
+Minister of State (Independent Charge) of the Ministry of Youth Affairs & Sports
+dept: D:2 Ministry of Youth Affairs and Sports [46:80]
+role: D:3 Minister of State (Independent Charge) [0:38]
+--------
+7 Dr. M.S. Gill Minister of State (Independent Charge) of the Ministry of Youth Affairs & Sports.
+O: Dr.|M.S. Gill
+continues:
+  role: __role__->Prime Minister->Minister of State (Independent Charge)
+  dept: __department__->Ministry of Youth Affairs and Sports
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of External Affairs
+dept: D:2 Ministry of External Affairs [18:46]
+role: D:4 Minister of State [0:17]
+--------
+1 Shri E. Ahammed Minister of State in the Ministry of External Affairs.
+O: Shri|E. Ahammed
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of External Affairs
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of Chemicals & Fertilizers and Minister of State Ministry of Mines
+dept: D:2 Ministry of Mines [76:93]|D:2 Ministry of Chemicals and Fertilisers [18:53]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [58:75]
+--------
+2 Shri B.K. Handique Minister of State in the Ministry of Chemicals & Fertilizers and Minister of State in the Ministry of Mines.
+O: Shri|B.K. Handique
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Chemicals and Fertilisers
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Mines
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of Health & Family Welfare
+dept: D:2 Ministry of Health and Family Welfare [18:53]
+role: D:4 Minister of State [0:17]
+--------
+3 Smt. Panabaka Lakshmi Minister of State in the Ministry of Health & Family Welfare.
+O: Smt.|Panabaka Lakshmi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Health and Family Welfare
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of Home Affairs
+dept: D:2 Ministry of Home Affairs [18:42]
+role: D:4 Minister of State [0:17]
+--------
+4 Dr. Shakeel Ahmad Minister of State in the Ministry of Home Affairs.
+O: Dr.|Shakeel Ahmad
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Home Affairs
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of Defence
+dept: D:2 Ministry of Defence [18:37]
+role: D:4 Minister of State [0:17]
+--------
+5 Shri Rao Inderjit Singh Minister of State in the Ministry of Defence.
+O: Shri|Rao Inderjit Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Defence
+MINISTER OF STATE** ministersofstate
+Minister of State Ministry of Railways
+dept: D:2 Ministry of Railways [18:38]
+role: D:4 Minister of State [0:17]
+--------
+6 Shri Naranbhai Rathwa Minister of State in the Ministry of Railways.
+O: Shri|Naranbhai Rathwa
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Railways
+Minister of State Ministry of Shipping Road Transport & Highways
+dept: D:2 Ministry of Road Transport and Highways [39:64]|D:2 Ministry of Shipping [18:38]
+role: D:4 Minister of State [0:17]
+--------
+7 Shri K.H. Muniappa Minister of State in the Ministry of Shipping, Road Transport & Highways.
+O: Shri|K.H. Muniappa
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Shipping
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Road Transport and Highways
+Minister of State Ministry of Agriculture and Minister of State Ministry of Consumer Affairs Food & Public Distribution
+dept: D:2 Ministry of Agriculture [18:41]|D:2 Ministry of Consumer Affairs, Food and Public Distribution [64:119]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [46:63]
+--------
+8 Shri Kantilal Bhuria Minister of State in the Ministry of Agriculture and Minister of State in the Ministry of Consumer Affairs, Food & Public Distribution.
+O: Shri|Kantilal Bhuria
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Consumer Affairs, Food and Public Distribution
+Minister of State Ministry of Home Affairs
+dept: D:2 Ministry of Home Affairs [18:42]
+role: D:4 Minister of State [0:17]
+--------
+9. Shri Shriprakash Jaiswal Minister of State in the Ministry of Home Affairs.
+O: Shri|Shriprakash Jaiswal
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Home Affairs
+Minister of State Prime ministers Office and Minister of State Ministry of Personnel Public Grievances and Pensions
+dept: D:2 Ministry of Personnel Public Grievances and Pensions [63:115]|D:2 Prime Ministers Office [18:40]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [45:62]
+--------
+10 Shri Prithviraj Chavan Minister of State in the Prime ministers Office and Minister of State in the Ministry of Personnel, Public Grievances and Pensions.
+O: Shri|Prithviraj Chavan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Prime Ministers Office
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Personnel Public Grievances and Pensions
+Minister of State Ministry of Agriculture and Minister of State Ministry of Consumer Affairs Food & Public Distribution
+dept: D:2 Ministry of Agriculture [18:41]|D:2 Ministry of Consumer Affairs, Food and Public Distribution [64:119]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [46:63]
+--------
+11 Shri Taslimuddin Minister of State in the Ministry of Agriculture and Minister of State in the Ministry of Consumer Affairs, Food & Public Distribution.
+O: Shri|Taslimuddin
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Consumer Affairs, Food and Public Distribution
+Minister of State Ministry of Rural Development and Minister of State Ministry of Parliamentary Affairs
+dept: D:2 Ministry of Parliamentary Affairs [70:103]|D:2 Ministry of Rural Development [18:47]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [52:69]
+--------
+12 Smt. Suryakanta Patil Minister of State in the Ministry of Rural Development and Minister of State in the Ministry of Parliamentary Affairs.
+O: Smt.|Suryakanta Patil
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Rural Development
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Parliamentary Affairs
+Minister of State Ministry of Human Resource Development
+dept: D:2 Ministry of Human Resource Development [18:56]
+role: D:4 Minister of State [0:17]
+--------
+13 Shri Md. Ali Ashraf Fatmi Minister of State in the Ministry of Human Resource Development.
+O: Shri|Md. Ali Ashraf Fatmi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Human Resource Development
+Minister of State Ministry of Finance
+dept: D:2 Ministry of Finance [18:37]
+role: D:4 Minister of State [0:17]
+--------
+14 Shri S.S. Palanimanickam Minister of State in the Ministry of Finance
+O: Shri|S.S. Palanimanickam
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Finance
+Minister of State Ministry of Environment and Forests
+dept: D:2 Ministry of Environment and Forests [18:53]
+role: D:4 Minister of State [0:17]
+--------
+15 Shri S. Regupathy Minister of State in the Ministry of Environment and Forests.
+O: Shri|S. Regupathy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Environment and Forests
+Minister of State Ministry of Law & Justice
+dept: D:2 Ministry of Law and Justice [18:43]
+role: D:4 Minister of State [0:17]
+--------
+16 Shri K. Venkatapathy Minister of State in the Ministry of Law & Justice.
+O: Shri|K. Venkatapathy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Law and Justice
+Minister of State Ministry of Social Justice & Empowerment
+dept: D:2 Ministry of Social Justice and Empowerment [18:58]
+role: D:4 Minister of State [0:17]
+--------
+17 Smt. Subbulakshmi Jagadeesan Minister of State in the Ministry of Social Justice & Empowerment.
+O: Smt.|Subbulakshmi Jagadeesan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Social Justice and Empowerment
+Minister of State Ministry of Textiles
+dept: D:2 Ministry of Textiles [18:38]
+role: D:4 Minister of State [0:17]
+--------
+18 Shri E.V.K.S. Elangovan Minister of State in the Ministry of Textiles.
+O: Shri|E.V.K.S. Elangovan
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Textiles
+Minister of State Ministry of Tourism and Minister of State Ministry of Culture
+dept: D:2 Ministry of Tourism [18:37]|D:2 Ministry of Culture [60:79]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [42:59]
+--------
+19 Smt Kanti Singh Minister of State in the Ministry of Tourism and Minister of State in the Ministry of Culture.
+O: Smt|Kanti Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Tourism
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Culture
+Minister of State Ministry of Environment & Forests
+dept: D:2 Ministry of Environment and Forests [18:51]
+role: D:4 Minister of State [0:17]
+--------
+20 Shri Namo Narain Meena Minister of State in the Ministry of Environment & Forests.
+O: Shri|Namo Narain Meena
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Environment and Forests
+Minister of State Ministry of Water Resources
+dept: D:2 Ministry of Water Resources [18:45]
+role: D:4 Minister of State [0:17]
+--------
+21 Shri Jay Prakash Narayan Yadav Minister of State in the Ministry of Water Resources.
+O: Shri|Jay Prakash Narayan Yadav
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Water Resources
+Minister of State Ministry of Agriculture and Minister of State Ministry of Consumer Affairs Food & Public Distribution
+dept: D:2 Ministry of Agriculture [18:41]|D:2 Ministry of Consumer Affairs, Food and Public Distribution [64:119]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [46:63]
+--------
+22 Dr. Akhilesh Prasad Singh Minister of State in the Ministry of Agriculture and Minister of State in the Ministry of Consumer Affairs, Food & Public Distribution.
+O: Dr.|Akhilesh Prasad Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Agriculture
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Consumer Affairs, Food and Public Distribution
+Minister of State Ministry of Finance and Minister of State Ministry of Parliamentary Affairs
+dept: D:2 Ministry of Finance [18:37]|D:2 Ministry of Parliamentary Affairs [60:93]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [42:59]
+--------
+23 Shri Pawan Kumar Bansal Minister of State in the Ministry of Finance and Minister of State in the Ministry of Parliamentary Affairs.
+O: Shri|Pawan Kumar Bansal
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Finance
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Parliamentary Affairs
+Minister of State Ministry of External Affairs and Minister of State Ministry of Information & Broadcasting
+dept: D:2 Ministry of External Affairs [18:46]|D:2 Ministry of Information and Broadcasting [69:107]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [51:68]
+--------
+24 Shri Anand Sharma Minister of State in the Ministry of External Affairs and Minister of State in the Ministry of Information & Broadcasting.
+O: Shri|Anand Sharma
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of External Affairs
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Information and Broadcasting
+Minister of State Ministry of Urban Development
+dept: D:2 Ministry of Urban Development [18:47]
+role: D:4 Minister of State [0:17]
+--------
+25 Shri Ajay Maken Minister of State in the Ministry of Urban Development.
+O: Shri|Ajay Maken
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Urban Development
+Minister of State Ministry of Petroleum & Natural Gas
+dept: D:2 Ministry of Petroleum and Natural Gas [18:53]
+role: D:4 Minister of State [0:17]
+--------
+26 Shri Dinsha J. Patel Minister of State in the Ministry of Petroleum & Natural Gas.
+O: Shri|Dinsha J. Patel
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Petroleum and Natural Gas
+Minister of State Ministry of Defence
+dept: D:2 Ministry of Defence [18:37]
+role: D:4 Minister of State [0:17]
+--------
+27 Shri M.M. Pallam Raju Minister of State in the Ministry of Defence.
+O: Shri|M.M. Pallam Raju
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Defence
+Minister of State Department of Industrial Policy & Promotion Ministry of Commerce & Industry
+dept: D:2 Ministry of Commerce and Industry->Department of Industrial Policy and Promotion [18:93]
+role: D:4 Minister of State [0:17]
+--------
+28 Shri Ashwani Kumar Minister of State in the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry.
+O: Shri|Ashwani Kumar
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Commerce and Industry->Department of Industrial Policy and Promotion
+Minister of State Ministry of Rural Development
+dept: D:2 Ministry of Rural Development [18:47]
+role: D:4 Minister of State [0:17]
+--------
+29 Shri Chandra Sekhar Sahu Minister of State in the Ministry of Rural Development.
+O: Shri|Chandra Sekhar Sahu
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Rural Development
+Minister of State Ministry of Human Resource Development
+dept: D:2 Ministry of Human Resource Development [18:56]
+role: D:4 Minister of State [0:17]
+--------
+30 Smt. D. Purandeswari Minister of State in the Ministry of Human Resource Development.
+O: Smt.|D. Purandeswari
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Human Resource Development
+Minister of State Ministry of Information & Broadcasting
+dept: D:2 Ministry of Information and Broadcasting [18:56]
+role: D:4 Minister of State [0:17]
+--------
+31 Shri M.H. Ambareesh Minister of State in the Ministry of Information & Broadcasting.
+O: Shri|M.H. Ambareesh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Information and Broadcasting
+Minister of State Ministry of Home Affairs
+dept: D:2 Ministry of Home Affairs [18:42]
+role: D:4 Minister of State [0:17]
+--------
+32 Smt. V. Radhika Selvi Minister of State in the Ministry of Home Affairs.
+O: Smt.|V. Radhika Selvi
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Home Affairs
+Minister of State Ministry of Parliamentary Affairs and Minister of State Ministry of Planning
+dept: D:2 Ministry of Parliamentary Affairs [18:51]|D:2 Ministry of Planning [74:94]
+role: D:4 Minister of State [0:17]|D:4 Minister of State [56:73]
+--------
+33 Shri V. Narayanasamy Minister of State in the Ministry of Parliamentary Affairs and Minister of State in the Ministry of Planning.
+O: Shri|V. Narayanasamy
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Parliamentary Affairs
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Planning
+Minister of State Ministry of Coal
+dept: D:2 Ministry of Coal [18:34]
+role: D:4 Minister of State [0:17]
+--------
+34 Shri Santosh Bagrodia Minister of State in the Ministry of Coal.
+O: Shri|Santosh Bagrodia
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Coal
+Minister of State Ministry of Heavy Industries & Public Enterprises
+dept: D:2 Ministry of Heavy Industries and Public Enterprises [18:67]
+role: D:4 Minister of State [0:17]
+--------
+35 Shri Raghunath Jha Minister of State in the Ministry of Heavy Industries & Public Enterprises.
+O: Shri|Raghunath Jha
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Heavy Industries and Public Enterprises
+Minister of State Ministry of Tribal Affairs
+dept: D:2 Ministry of Tribal Affairs [18:44]
+role: D:4 Minister of State [0:17]
+--------
+36 Dr. Rameshwar Oraon Minister of State in the Ministry of Tribal Affairs.
+O: Dr.|Rameshwar Oraon
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Tribal Affairs
+Minister of State Ministry of Communications and Information Technology
+dept: D:2 Ministry of Communications and Information Technology [18:71]
+role: D:4 Minister of State [0:17]
+--------
+37 Shri Jyotiraditya Madhavrao Scindia Minister of State in the Ministry of Communications and Information Technology.
+O: Shri|Jyotiraditya Madhavrao Scindia
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Communications and Information Technology
+Minister of State Ministry of Steel
+dept: D:2 Ministry of Steel [18:35]
+role: D:4 Minister of State [0:17]
+--------
+38 Shri Jitin Prasada Minister of State in the Ministry of Steel.
+O: Shri|Jitin Prasada
+continues:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Steel
+==1_Upload_2100.pdf.table_order_builder 75 Errors=2 UnmatchedTextsError=2
+UnmatchedTexts: pa0.ta0.ro0.ce2 in charge,ministries departments,specifically,allocated,minister,viz,i,ii,iii,iv,v,vi,vii||12:Prime 13:Minister 14:and 15:also 16:in-charge 17:of 18:the 19:Ministries/Departments 20:not 21:specifically 22:allocated 23:to 24:the 25:charge 26:of 27:any 28:Minister 29:viz.: 34:(i)Ministry 35: 36:of 37:Personnel, 38:Public 39:Grievances 40:& 41:Pensions; 42:(ii) 43:Ministry 44:of 45:Planning; 46:(iii) 47:Department 48:of 49:Atomic 50:Energy; 51:(iv) 52:Department 53:of 54:Space,(v) 55: 56:Ministry 57:of 58:Coal, 59:(vi) 60:Ministry 61:of 62:Environment 63:and 64:Forests, 65:and 66:(vii) 67:Ministry 68:of 69:Information 70:& 71:Broadcasting.
+UnmatchedTexts: pa0.ta0.ro1.ce2 minister||75:Minister 76:ofExternal 77:Affairs 78:and 79:Minister 80:of 81:Finance.

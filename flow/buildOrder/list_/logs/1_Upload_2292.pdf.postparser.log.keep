@@ -1,0 +1,28 @@
+post_parser: 1_Upload_2292.pdf
+Minister of Defence and Planning relinquished the office of the Minister of Planning
+Spans:
+----------
+Minister of Defence and Planning relinquished the office of the Minister of Planning
+SpanGroups:
+----------
+dept: D:2 Ministry of Defence [0:19]|D:2 Ministry of Planning [24:32]|D:2 Ministry of Planning [64:84]
+role: 
+verb: D:2 relinquishes [33:45]
+Minister of Finance also assumed temporarily the office of the Minister of Commerce and Supply and
+Spans:
+----------
+Minister of Finance also assumed temporarily the office of the Minister of Commerce and Supply and
+SpanGroups:
+----------
+dept: D:2 Ministry of Finance [0:19]|D:2 Ministry of Commerce [63:83]|D:2 Ministry of Supply [88:94]
+role: 
+verb: D:2 assumes [25:32]
+Minister of Chemicals and Fertilizers also assumed temporarily the Office of the Minister of Industry and Company Affairs
+Spans:
+----------
+Minister of Chemicals and Fertilizers also assumed temporarily the Office of the Minister of Industry and Company Affairs
+SpanGroups:
+----------
+dept: D:2 Ministry of Industry [81:101]|D:2 Ministry of Chemicals and Fertilisers [0:37]|D:2 Ministry of Corporate Affairs [106:121]
+role: 
+verb: D:2 assumes [43:50]

@@ -1,0 +1,15 @@
+order_builder: 1_Upload_2313.pdf
+*** order_date:1987-01-18
+The undersigned is directed to pay that with immediate effect from to pay Shri Arun Singh has relinquished the office of the Minister of State in the Department of Defence Research and Development in the Ministry of Defence.
+O: |Arun Singh
+relinquishes:
+  role: __role__->Prime Minister->Cabinet Minister->Minister of State
+  dept: __department__->Ministry of Defence->Department of Defence Research and Development
+The undersigned is directed to say that with immediate effect from to day Shri Arun Singh has relinquished the office of the Minister of State in the Depar tment of Defence Research and Development in the Ministry of Defence.
+edits        : |
+person       : Arun Singh
+continues    : 
+relinquishes : D:Department of Defence Research and Development,Ministry of Defence< R:Minister of State<
+assumes      : 
+------------------------
+==1_Upload_2313.pdf.order_builder 1 Errors=0 

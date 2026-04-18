@@ -1,0 +1,20 @@
+id_assigner: 1_Upload_2292.pdf
+[0] O: Shri|P.V. Narasimha Rao > Q275146
+continues:
+D:__department__>Ministry of Defence
+D:__department__>Ministry of Planning
+relinquishes:
+D:__department__>Ministry of Planning
+[1] O: Shri|Vishwanath Pratap Singh > Q315338
+continues:
+D:__department__>Ministry of Finance
+assumes:
+D:__department__>Ministry of Commerce
+D:__department__>Ministry of Supply
+[2] O: shri|veerendra Patil > Q7918212
+continues:
+D:__department__>Ministry of Chemicals and Fertilisers
+assumes:
+D:__department__>Ministry of Industry
+D:__department__>Ministry of Corporate Affairs
+==1_Upload_2292.pdf.id_assigner 3 Errors=0 

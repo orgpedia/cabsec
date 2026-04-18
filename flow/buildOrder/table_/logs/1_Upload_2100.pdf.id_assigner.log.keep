@@ -1,0 +1,253 @@
+id_assigner: 1_Upload_2100.pdf
+[0] O: Dr.|Manmohan Singh > Q41914
+continues:
+D:__department__>Ministry of Personnel Public Grievances and Pensions
+D:__department__>Ministry of Planning
+D:__department__>Department of Atomic Energy
+D:__department__>Department of Space
+D:__department__>Ministry of Coal
+D:__department__>Ministry of Environment and Forests
+D:__department__>Ministry of Information and Broadcasting
+[1] O: Shri|Pranab Mukherjee > Q57446
+continues:
+D:__department__>Ministry of External Affairs
+D:__department__>Ministry of Finance
+[2] O: Shri|Arjun Singh > Q3309208
+continues:
+D:__department__>Ministry of Human Resource Development
+[3] O: Shri|Sharad Pawar > Q982813
+continues:
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+[4] O: Shri|Lalu Prasad > Q561812
+continues:
+D:__department__>Ministry of Railways
+[5] O: Shri|A.K. Antony > Q278849
+continues:
+D:__department__>Ministry of Defence
+[6] O: Shri|A.R. Antulay > Q3595206
+continues:
+D:__department__>Ministry of Minority Affairs
+[7] O: Shri|Sushilkumar Shinde > Q3504490
+continues:
+D:__department__>Ministry of Power
+[8] O: Shri|Ram Vilas Paswan > Q6036905
+continues:
+D:__department__>Ministry of Chemicals and Fertilisers
+D:__department__>Ministry of Steel
+[9] O: Shri|S. Jaipal Reddy > Q3595150
+continues:
+D:__department__>Ministry of Urban Development
+[10] O: Shri|Sis Ram Ola > Q6024265
+continues:
+D:__department__>Ministry of Mines
+[11] O: Shri|P. Chidambaram > Q377358
+continues:
+D:__department__>Ministry of Home Affairs
+[12] O: Shri|Mahavir Prasad > Q337001
+continues:
+D:__department__>Ministry of Micro Small and Medium Enterprises
+[13] O: Shri|P.R. Kyndiah > Q7148799
+continues:
+D:__department__>Ministry of Tribal Affairs
+[14] O: Shri|T.R. Baalu > Q3534034
+continues:
+D:__department__>Ministry of Shipping
+D:__department__>Ministry of Road Transport and Highways
+[15] O: Shri|Shankersinh Vaghela > Q6221027
+continues:
+D:__department__>Ministry of Textiles
+[16] O: Shri|Vayalar Ravi > Q755828
+continues:
+D:__department__>Ministry of Overseas Indian Affairs
+D:__department__>Ministry of Parliamentary Affairs
+[17] O: Shri|Kamal Nath > Q1287413
+continues:
+D:__department__>Ministry of Commerce and Industry
+[18] O: Shri|H.R. Bhardwaj > Q1897974
+continues:
+D:__department__>Ministry of Law and Justice
+[19] O: Shri|Sontosh Mohan Dev > Q7420662
+continues:
+D:__department__>Ministry of Heavy Industries and Public Enterprises
+[20] O: Prof.|Saif-ud-din Soz > Q7400033
+continues:
+D:__department__>Ministry of Water Resources
+[21] O: Shri|Raghuvansh Prasad Singh > Q3634905
+continues:
+D:__department__>Ministry of Rural Development
+[22] O: Shri|Priyaranjan Dasmunsi > Q3347275
+continues:
+D:__department__>Ministry without portfolio
+[23] O: Shri|Mani Shankar Aiyar > Q3519803
+continues:
+D:__department__>Ministry of Panchayati Raj
+D:__department__>Ministry of Development of North Eastern Region
+[24] O: Smt.|Meira Kumar > Q467201
+continues:
+D:__department__>Ministry of Social Justice and Empowerment
+[25] O: Shri|Murli Deora > Q6938775
+continues:
+D:__department__>Ministry of Petroleum and Natural Gas
+[26] O: Smt.|Ambika Soni > Q3347864
+continues:
+D:__department__>Ministry of Tourism
+D:__department__>Ministry of Culture
+[27] O: Shri|A. Raja > Q201408
+continues:
+D:__department__>Ministry of Communications and Information Technology
+[28] O: Shri|Kapil Sibal > Q1206954
+continues:
+D:__department__>Ministry of Science and Technology
+D:__department__>Ministry of Earth Sciences
+[29] O: Shri|Prem Chand Gupta > Q7240123
+continues:
+D:__department__>Ministry of Corporate Affairs
+[30] O: Smt.|Renuka Chowdhury > Q541539
+continues:
+D:__department__>Ministry of Women and Child Development
+[31] O: Shri|Subodh Kant Sahay > Q7631751
+continues:
+D:__department__>Ministry of Food Processing Industries
+[32] O: Shri|Vilas Muttemwar > Q7930097
+continues:
+D:__department__>Ministry of New and Renewable Energy
+[33] O: Kumari|Selja > Q3595500
+continues:
+D:__department__>Ministry of Housing and Urban Poverty Alleviation
+[34] O: Shri|Praful Patel > Q3595186
+continues:
+D:__department__>Ministry of Civil Aviation
+[35] O: Shri|G.K. Vasan > Q3532853
+continues:
+D:__department__>Ministry of Statistics and Programme Implementation
+D:__department__>Ministry of Labour
+[36] O: Dr.|M.S. Gill > Q6713086
+continues:
+D:__department__>Ministry of Youth Affairs and Sports
+[37] O: Shri|E. Ahammed > Q3595525
+continues:
+D:__department__>Ministry of External Affairs
+[38] O: Shri|B.K. Handique > Q3595930
+continues:
+D:__department__>Ministry of Chemicals and Fertilisers
+D:__department__>Ministry of Mines
+[39] O: Smt.|Panabaka Lakshmi > Q11050320
+continues:
+D:__department__>Ministry of Health and Family Welfare
+[40] O: Dr.|Shakeel Ahmad > Q7462693
+continues:
+D:__department__>Ministry of Home Affairs
+[41] O: Shri|Rao Inderjit Singh > Q7293676
+continues:
+D:__department__>Ministry of Defence
+[42] O: Shri|Naranbhai Rathwa > Q6965336
+continues:
+D:__department__>Ministry of Railways
+[43] O: Shri|K.H. Muniappa > Q6323379
+continues:
+D:__department__>Ministry of Shipping
+D:__department__>Ministry of Road Transport and Highways
+[44] O: Shri|Kantilal Bhuria > Q3595490
+continues:
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+[45] O: Shri|Shriprakash Jaiswal > Q7504174
+continues:
+D:__department__>Ministry of Home Affairs
+[46] O: Shri|Prithviraj Chavan > Q3520217
+continues:
+D:__department__>Prime Ministers Office
+D:__department__>Ministry of Personnel Public Grievances and Pensions
+[47] O: Shri|Taslimuddin > Q6893377
+continues:
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+[48] O: Smt.|Suryakanta Patil > Q7647403
+continues:
+D:__department__>Ministry of Rural Development
+D:__department__>Ministry of Parliamentary Affairs
+[49] O: Shri|Md. Ali Ashraf Fatmi > Q63995940
+continues:
+D:__department__>Ministry of Human Resource Development
+[50] O: Shri|S.S. Palanimanickam > Q3532452
+continues:
+D:__department__>Ministry of Finance
+[51] O: Shri|S. Regupathy > Q7387828
+continues:
+D:__department__>Ministry of Environment and Forests
+[52] O: Shri|K. Venkatapathy > Q16107539
+continues:
+D:__department__>Ministry of Law and Justice
+[53] O: Smt.|Subbulakshmi Jagadeesan > Q575991
+continues:
+D:__department__>Ministry of Social Justice and Empowerment
+[54] O: Shri|E.V.K.S. Elangovan > Q3532463
+continues:
+D:__department__>Ministry of Textiles
+[55] O: Smt|Kanti Singh > Q6365478
+continues:
+D:__department__>Ministry of Tourism
+D:__department__>Ministry of Culture
+[56] O: Shri|Namo Narain Meena > Q6961974
+continues:
+D:__department__>Ministry of Environment and Forests
+[57] O: Shri|Jay Prakash Narayan Yadav > Q6167051
+continues:
+D:__department__>Ministry of Water Resources
+[58] O: Dr.|Akhilesh Prasad Singh > Q4700748
+continues:
+D:__department__>Ministry of Agriculture
+D:__department__>Ministry of Consumer Affairs, Food and Public Distribution
+[59] O: Shri|Pawan Kumar Bansal > Q13099372
+continues:
+D:__department__>Ministry of Finance
+D:__department__>Ministry of Parliamentary Affairs
+[60] O: Shri|Anand Sharma > Q755831
+continues:
+D:__department__>Ministry of External Affairs
+D:__department__>Ministry of Information and Broadcasting
+[61] O: Shri|Ajay Maken > Q3595205
+continues:
+D:__department__>Ministry of Urban Development
+[62] O: Shri|Dinsha J. Patel > Q5278713
+continues:
+D:__department__>Ministry of Petroleum and Natural Gas
+[63] O: Shri|M.M. Pallam Raju > Q755834
+continues:
+D:__department__>Ministry of Defence
+[64] O: Shri|Ashwani Kumar > Q4806165
+continues:
+D:__department__>Ministry of Commerce and Industry>Department of Industrial Policy and Promotion
+[65] O: Shri|Chandra Sekhar Sahu > Q5071308
+continues:
+D:__department__>Ministry of Rural Development
+[66] O: Smt.|D. Purandeswari > Q5208549
+continues:
+D:__department__>Ministry of Human Resource Development
+[67] O: Shri|M.H. Ambareesh > Q2721714
+continues:
+D:__department__>Ministry of Information and Broadcasting
+[68] O: Smt.|V. Radhika Selvi > Q7906197
+continues:
+D:__department__>Ministry of Home Affairs
+[69] O: Shri|V. Narayanasamy > Q7906147
+continues:
+D:__department__>Ministry of Parliamentary Affairs
+D:__department__>Ministry of Planning
+[70] O: Shri|Santosh Bagrodia > Q7420649
+continues:
+D:__department__>Ministry of Coal
+[71] O: Shri|Raghunath Jha > Q7283011
+continues:
+D:__department__>Ministry of Heavy Industries and Public Enterprises
+[72] O: Dr.|Rameshwar Oraon > Q2130112
+continues:
+D:__department__>Ministry of Tribal Affairs
+[73] O: Shri|Jyotiraditya Madhavrao Scindia > Q16213761
+continues:
+D:__department__>Ministry of Communications and Information Technology
+[74] O: Shri|Jitin Prasada > Q290717
+continues:
+D:__department__>Ministry of Steel
+==1_Upload_2100.pdf.id_assigner 75 Errors=0 

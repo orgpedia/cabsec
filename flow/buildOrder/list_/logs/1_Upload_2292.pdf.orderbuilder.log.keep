@@ -1,0 +1,54 @@
+order_builder: 1_Upload_2292.pdf
+*** order_date:1985-01-14
+Shri P.V. Narasimha Rao, Minister of Defence and Planning relinquished the office of the Minister of Planning;
+O: Shri|P.V. Narasimha Rao
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Defence
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Planning
+relinquishes:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Planning
+Shri P.V. Narasimha Rao, Minister of Defence and Planning relinquished the office of the Minister of Planning;
+edits        : |
+person       : Shri P.V. Narasimha Rao
+continues    : D:Minister of Defence< R:Minister of Defe<-D:Planning< R:Minister of Defe<
+relinquishes : D:Minister of Planning< R:Minister of Defe<
+assumes      : 
+------------------------
+Shri Vishwanath Pratap Singh, Minister of Finance also assumed temporarily the office of the Minister of Commerce and Supply; and
+O: Shri|Vishwanath Pratap Singh
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Finance
+assumes:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Commerce
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Supply
+Shri Vishwanath Pratap Singh, Minister of Finance also assumed temporarily the office of the Minister of Commerce and Supply; and
+edits        : |
+person       : Shri Vishwanath Pratap Singh
+continues    : D:Minister of Finance< R:Minister of Fina<
+relinquishes : 
+assumes      : D:Minister of Commerce< R:Minister of Fina<-D:Supply< R:Minister of Fina<
+------------------------
+shri veerendra Patil, Minister of Chemicals and Fertilizers also assumed temporarily the Office of the Minister of Industry and Company Affairs.
+O: shri|veerendra Patil
+continues:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Chemicals and Fertilisers
+assumes:
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Industry
+  role: __role__->Prime Minister->Cabinet Minister
+  dept: __department__->Ministry of Corporate Affairs
+Veerendra Patil, Minister of Chemicals and Fertilizers al so assumed temperarily the Of fice of 7 the Minister of Industry and Company Affairs.
+edits        : |
+person       : shri veerendra Patil
+continues    : D:Minister of Chemicals and Fertilizers< R:Minister of Chem<
+relinquishes : 
+assumes      : D:Minister of Industry< R:Minister of Chem<-D:Company Affairs< R:Minister of Chem<
+------------------------
+==1_Upload_2292.pdf.order_builder 3 Errors=0 
