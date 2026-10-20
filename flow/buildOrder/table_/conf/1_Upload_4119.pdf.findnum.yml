@@ -1,0 +1,8 @@
+include_zero: True
+edits:
+  - newAdjWord 0 pa0.wo0 left
+  - replaceStr pa4.wo100 <all> " "
+  - replaceStr pa4.wo124 <all> " "
+
+  - replaceStr pa0.wo77 <all> " "
+  - replaceStr pa1.wo184 <all> ""

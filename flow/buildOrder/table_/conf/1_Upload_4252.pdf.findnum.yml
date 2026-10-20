@@ -1,0 +1,6 @@
+include_zero: True
+edits:
+  - newWord 0 pa0.wo58 pa1.wo4
+  - replaceStr pa2.wo8 <all> " " 
+  - replaceStr pa4.wo124 <all> " "
+  - replaceStr pa4.wo148 <all> " "

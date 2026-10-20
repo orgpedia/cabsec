@@ -1,0 +1,6 @@
+1. Download the fiels in LFS directory
+2. soft link them in import/documents
+3. update import/documents/documents.yml
+4. make sure all packages install
+5. cd flow/subFlows/linkArchive_
+6. python src/linkArchive.py input

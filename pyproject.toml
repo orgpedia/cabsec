@@ -1,10 +1,11 @@
-[tool.poetry]
+[project]
 name = "orgpedia-cabsec"
 version = "0.0.12"
 description = "Datapackage containing orders of Cabinet Secretariat from https://cabsec.gov.in/."
-authors = ["Orgpedia Foundation <orgpedia.foundation@gmail.com>"]
+authors = [{ name = "Orgpedia Foundation", email = "orgpedia.foundation@gmail.com" }]
 license = "MIT"
 readme = "README.md"
+requires-python = ">3.8.1,<4.0"
 keywords = ["information extraction", "data package", "government data"]
 classifiers=[
     'Development Status :: 2 - Pre-Alpha',
@@ -23,40 +24,48 @@ classifiers=[
     'Topic :: Scientific/Engineering :: Image Recognition',
 ]
 
-packages = [ { include = "orgpedia_cabsec", from = "export" } ]
-include = [ "export/orgpedia_cabsec/*" ]
+# this is a datapackage should not have any dependency as we are publishing data
+# dependencies for running the flow are in dependency-groups.dev
+dependencies = [
+    "google-cloud-vision",
+    "waybackpy",
+    "google-cloud-storage",
+    "numpy",
+]
 
-[tool.poetry.urls]
+[project.urls]
 "homepage" = "https://www.orgpedia.in/"
 "repository" = "https://github.com/orgpedia/cabsec"
 "data issues" = "https://github.com/orgpedia/cabsec/discussions"
 
-[tool.poetry.dependencies]
-python = ">3.8.1 <4.0"
+[dependency-groups]
+dev = [
+    "docint",
+    "orgpedia",
+    "google-cloud-vision",
+    "google-cloud-storage",
+    "waybackpy",
+    "numpy",
+    "transformers[torch]",
+    "setuptools<81",
+    "more-itertools"
+]
 
-# this is a datapackage should not have any dependency as we are publishing data
-# dependencies for running the flow are in group.dev.dependencies
-google-cloud-vision = "^3.7.2"
-waybackpy = "^3.0.6"
-google-cloud-storage = "^2.15.0"
-numpy = "*"
-transformers = {extras = ["torch"], version = "^4.38.2"}
+[tool.uv]
+# the flow tooling (docint) needs python >= 3.10; the published datapackage does not
+environments = ["python_version >= '3.10'"]
 
-[tool.poetry.group.dev]
-optional = true
-
-[tool.poetry.group.dev.dependencies]
+[tool.uv.sources]
 docint = { git = "https://github.com/mukundesh/docInt.git" }
-orgpedia = {git = "https://github.com/orgpedia/orgpedia.git"}
-#transformers = {extras = ["torch"], version = "^4.23.1"}
+orgpedia = { git = "https://github.com/orgpedia/orgpedia.git" }
 
-black = "^22.6.0"
-ruff = "^0.0.243"
-more-itertools = "^10.5.0"
-
+# packaging layout is still handled by poetry-core (>=2.0 reads the [project] table)
+[tool.poetry]
+packages = [ { include = "orgpedia_cabsec", from = "export" } ]
+include = [ "export/orgpedia_cabsec/*" ]
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=2.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.black]

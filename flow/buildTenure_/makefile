@@ -1,2 +1,2 @@
 run:
-	poetry run python src/buildTenure.py input output > logs/info.log
+	uv run --no-sync python src/buildTenure.py input output > logs/info.log

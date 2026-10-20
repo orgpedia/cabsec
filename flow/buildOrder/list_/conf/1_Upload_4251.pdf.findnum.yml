@@ -1,0 +1,3 @@
+edits:
+  - newAdjWord 1 pa0.wo34 left
+  - replaceStr pa0.wo176 <all> " "

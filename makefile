@@ -2,6 +2,9 @@
 
 org_code := cabsec
 
+# --no-sync: keep the dev-only environment created by `make install`
+run := uv run --no-sync
+
 tasks := doOcr_ annotateFirst_ buildOrder/manual_ buildOrder/para_ buildOrder/list_ buildOrder/table_ buildTenure_
 tasks := $(foreach t,$(tasks),flow/$t)
 
@@ -28,33 +31,33 @@ help:
 	@echo # dummy command
 
 install: pyproject.toml
-	poetry install --only=dev
+	uv sync --only-dev
 
 import:
-	poetry run op importall import/
+	$(run) op importall import/
 
 flow: $(tasks)
 $(tasks):
-	poetry run make -C $@
+	$(run) make -C $@
 
 check:
-	poetry run op check > export/logs/info.check.log
+	$(run) op check > export/logs/info.check.log
 
 readme:
-	poetry run op readme > export/logs/info.readme.log
+	$(run) op readme > export/logs/info.readme.log
 
 lint:
-	poetry run black -q .
-	poetry run ruff .
+	$(run) black -q .
+	$(run) ruff .
 
 format:
-	poetry run black -q .
-	poetry run ruff --fix .
+	$(run) black -q .
+	$(run) ruff --fix .
 
-export: format lint check readme
-	poetry run op exportpackage export/data export/orgpedia_$(org_code)
-	poetry build
-#	poetry publish
+export: 
+	$(run) op exportpackage export/data export/orgpedia_$(org_code)
+	#uv build
+#	uv publish
 
 # Use pre-commit if there are lots of edits,
 # https://pre-commit.com/ for instructions
